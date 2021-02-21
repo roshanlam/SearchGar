@@ -8,7 +8,7 @@
   <h3 align="center">Search Engine</h3>
 
   <p align="center">
-    A Search Engine
+    A Search Engine (This is the development branch, please check the main branch for the stable verison)
     <br />
     <br />
     <br />
