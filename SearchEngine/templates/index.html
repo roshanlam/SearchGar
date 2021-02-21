@@ -1,35 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>SearchIt</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-</head>
-<body>
-<h1 align="center">Welcome To SearchIt</h1>
-<h3 align="center">SearchIt is a privacy based Search Engine Made For The Public</h3>
-    <div class="row">
-        <div class="col-sm-3">
-            <div class="card card-block">
-                  <div class="card-block">
-    <h4 class="card-title">SignUp</h4>
-    <p class="card-text">
-        Did you ever want to search stuff without having the service track you or store your information
-        somewhere you don't know?
-        Well we don't track you and don't store your information, any of any it.
-        Instead the information is stored on your google drive.
-    </p>
-    <a href="signup" class="btn btn-primary">SignUp</a>
-  </div>
-                             <div class="card-block">
-    <h4 class="card-title">Login</h4>
-    <p class="card-text">
-        Already Have an Account? Well then login into your account
-    </p>
-    <a href="login" class="btn btn-primary">Login</a>
-  </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+{% extends 'base.html' %}
+{% block title %}Index{% endblock %}
+
+{% block content %}
+  {% if user.is_authenticated %}
+  <h1>Hello {{ user.username }}!</h1>
+  <a href="{% url 'logout' %}">Logout</a>
+  {% else %}
+  <h1>Welcome To Search It</h1>
+  {% endif %}
+{% endblock %}
