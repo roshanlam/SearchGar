@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Index{% endblock %}
+
+{% block content %}
+  {% if user.is_authenticated %}
+  <h1>Hello {{ user.username }}!</h1>
+  <a href="{% url 'logout' %}">Logout</a>
+  {% else %}
+  <h1>Welcome To Search It</h1>
+  {% endif %}
+{% endblock %}
