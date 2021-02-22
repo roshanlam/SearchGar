@@ -1,7 +1,6 @@
 import os
 from pathlib import Path
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    # Path(__file__).resolve().parent.parent
 SECRET_KEY = '9x&rwz26w5x6r3#_w@2j&ahc0v4tujt561@1%o@pt0$i#2!cho'
 DEBUG = True
 ALLOWED_HOSTS = []
@@ -66,3 +65,4 @@ USE_I18N = True
 USE_L10N = True
 USE_TZ = True
 STATIC_URL = '/static/'
+LOGIN_URL = '/login/'

@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="{% static "css/login.css" %}">
 {% block content %}
     <div class="login">
-  <h2 class="login-header">Login</h2>
+  <h2 class="login-header">Admin Login</h2>
   <form method="POST" class="login-container">
       {% csrf_token %}
     <p><input type="email" name="email" placeholder="Email"></p>

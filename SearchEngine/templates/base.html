@@ -15,11 +15,11 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12" align="center" >
                 {% if user.is_authenticated %}
 
                 {% else %}
-                <a href="{% url 'user_login' %}" class="btn btn-primary">Login</a>
+                <a href="{% url 'user_login' %}"  class="btn btn-primary">Login</a>
                 <a href="{% url 'user_signup' %}" class="btn btn-alert">Signup</a>
                 {% endif %}
                 {% block content %}{% endblock content %}

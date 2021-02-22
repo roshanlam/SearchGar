@@ -1,22 +1,13 @@
-"""
-from django.conf.urls import url
-from . import views
-
-urlpatterns = [
-    url(r'^$', views.index), # Index Page - User Will Login
-    url(r'^signup$', views.register),
-    url(r'^home$', views.home),
-    url(r'^user_login$', views.user_login)
-]
-"""
-
 from django.urls import path
-from django.contrib.auth import views as auth_views
-from .views import user_signup, IndexView
-
+from . import views
 urlpatterns = [
-    path('', IndexView.as_view(), name='home'),
-    path('signup/', user_signup, name='user_signup'),
-    path('login/', auth_views.LoginView.as_view(template_name='login.html'),name='user_login'),
-    path('logout/', auth_views.LogoutView.as_view(template_name='logout.html'), name='logout'),
+    path('', views.index, name='index'),
+    path('signup/', views.user_signup, name='user_signup'),
+    path('login/', views.user_login,name='user_login'),
+    path('logout/', views.logout, name='logout'),
+    path('home/', views.home, name='home' ),
+    path('admin/login/', views.adminLogin, name='adminLogin'),
+    path('admin/home/', views.adminHome, name='adminHome'),
+    path('search', views.search, name='search'),
+    path('settings/', views.settings, name='settings')
 ]

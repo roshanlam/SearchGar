@@ -1,0 +1,27 @@
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button class="navbar-toggle collapsed" aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" type="button">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">SearchIt</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="{% if nbar == 'home' %}active{% endif %}"><a href="/">Home</a></li>
+                {% if user.is_authenticated %}
+                    <li class="{% if nbar == 'Shistory' %}active{% endif %}"><a href="{% url 'dashboard' %}">Saved history</a></li>
+                    <li class="{% if nbar == 'Sresults' %}active{% endif %}"><a href="{% url 'settings' %}">Saved Results</a></li>
+                    <li class="{% if nbar == 'Slinks' %}active{% endif %}"><a href="{% url 'profile' user.userprofile.url %}">Saved Links</a></li>
+                    <li class="{% if nbar == 'settings' %}active{% endif %}"><a href="{% url 'albums' user.userprofile.url %}">Settings</a></li>
+                    <li><a href="{% url 'logout' %}">Logout</a></li>
+                {% else %}
+                    <li class="{% if nbar == 'login' %}active{% endif %}"><a href="{% url 'login' %}">Login</a></li>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+</nav>

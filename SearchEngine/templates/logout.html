@@ -1,7 +1,6 @@
-{% extends 'base.html' %}
-
+<title>See You!</title>
 {% block content %}
-    <h1>User Logged Out</h1>
-    <p class="lead">Thank you for using SearchIt!</p>
-    <a href="{% url 'logout' %}">HomePage</a>
-{% endblock content %}
+  <h2>Logged out</h2>
+  <p>You have been successfully logged out.</p>
+  <p><a href="{% url 'user_login' %}">Log in</a> again.</p>
+{% endblock %}
