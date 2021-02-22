@@ -36,6 +36,20 @@ def search(request):
 def settings(request):
     return render(request, 'settings.html')
 
+def savedLinks(request):
+    pass
+
+def savedHistory(request):
+    pass
+
+def savedResult(request):
+    pass
+
+def addWebsite(request):
+    pass
+
+def removeWebsite(request):
+    pass
 
 def isEmailAddressValid(email):
     try:

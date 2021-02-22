@@ -10,22 +10,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="{% static 'css/main.css' %}">
     <title>{% block title %}SearchIt{% endblock title %}</title>
+
 </head>
 
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12" align="center" >
-                {% if user.is_authenticated %}
 
-                {% else %}
-                <a href="{% url 'user_login' %}"  class="btn btn-primary">Login</a>
-                <a href="{% url 'user_signup' %}" class="btn btn-alert">Signup</a>
-                {% endif %}
-                {% block content %}{% endblock content %}
-            </div>
-        </div>
-    </div>
+
 </body>
 
 </html>

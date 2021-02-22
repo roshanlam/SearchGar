@@ -9,5 +9,8 @@ urlpatterns = [
     path('admin/login/', views.adminLogin, name='adminLogin'),
     path('admin/home/', views.adminHome, name='adminHome'),
     path('search', views.search, name='search'),
-    path('settings/', views.settings, name='settings')
+    path('settings/', views.settings, name='settings'),
+    path('savedLinks', views.savedLinks, name='savedLinks'),
+    path('savedResults', views.savedResult, name='savedResults'),
+    path('savedHistory', views.savedHistory, name='savedHistory')
 ]
