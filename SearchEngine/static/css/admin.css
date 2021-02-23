@@ -83,11 +83,7 @@ nav[role="navigation"] li a:hover {
 }
 
 /* current nav item */
-.current, .dashboard .dashboard a,
-.write .write a,
-.edit .edit a,
-.comments .comments a,
-.users .users a {
+.current, .users .users a {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
