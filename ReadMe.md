@@ -62,4 +62,5 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 
 ## ToDo
-- [ ] ToDo
+- [ ] Work on the main Search Engine functionalities
+- [ ] Logo Design
