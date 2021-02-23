@@ -51,6 +51,9 @@ def addWebsite(request):
 def removeWebsite(request):
     pass
 
+def updateWebsite(request):
+    pass
+
 def isEmailAddressValid(email):
     try:
         EmailField().clean(email)

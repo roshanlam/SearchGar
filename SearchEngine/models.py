@@ -26,3 +26,10 @@ class UserManager(BaseUserManager):
         user.save()
         return user
 
+
+class Website(models.Model):
+    website_name = models.CharField(max_length=200)
+    added_at = models.DateTimeField('Create', auto_now_add=True)
+
+    def __str__(self):
+        return self.website_name
