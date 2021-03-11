@@ -63,8 +63,9 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 ## ToDo
 - [ ] Work on the Google Login and SignUp
-- [ ] Access the user's google drive for read And write
+- [ ] Access the user's google drive for read and write
 - [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
+- [ ] Crawl, Index and Retrive Data stored from google drive, google drive will be the database for the searh engine
 - [ ] Let the user submit new website(s) request(s) to admin  
 - [ ] Logo Design
 - [ ] Share the finished version with the world
