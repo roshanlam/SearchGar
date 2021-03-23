@@ -1,11 +1,11 @@
 {% load static %}
 
-<link rel="stylesheet" href="{% static "css/login.css" %}">
+<link rel="stylesheet" href="{% static "css/settings.css" %}">
 <title>Settings | SearchIt</title>
 <h1 align="center" style="color: white">Settings</h1>
 {{error}}
 {% block content %}
-<div class="login">
+<div class="settings-password">
     <form action="" method="POST" />
     {% csrf_token %}
     <p><input type="password" name="current_password" placeholder="Current Password"/></p>
@@ -13,6 +13,7 @@
     <p><input type="password" name="confirm_password" placeholder="Confirm Password"/></p>
     <p><input type="submit" name="submit" value="Submit"/></p>
     </form>
+
 </div>
 
 {% endblock %}

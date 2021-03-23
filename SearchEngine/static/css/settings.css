@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  background: #456;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.settings-password {
+  width: 400px;
+  margin: 16px auto;
+  font-size: 16px;
+}
+
+/* Reset top and bottom margins from certain elements */
+.settings-password-header,
+.settings-password p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* The triangle form is achieved by a CSS hack */
+.settings-password-triangle {
+  width: 0;
+  margin-right: auto;
+  margin-left: auto;
+  border: 12px solid transparent;
+  border-bottom-color: #2A363B;
+}
+
+.settings-password-header {
+  background: #2A363B;
+  padding: 20px;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.settings-password-container {
+  background: #ebebeb;
+  padding: 12px;
+}
+
+/* Every row inside .settings-container is defined with p tags */
+.settings-password p {
+  padding: 12px;
+}
+
+.settings-password input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+.settings-password input[type="email"],
+.settings-password input[type="password"] {
+  background: #fff;
+  border-color: #bbb;
+  color: #555;
+}
+
+/* Text fields' focus effect */
+.settings-password input[type="email"]:focus,
+.settings-password input[type="password"]:focus {
+  border-color: #888;
+}
+
+.settings-password input[type="submit"] {
+  background: #2A363B;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.settings-password input[type="submit"]:hover {
+  background: #2A363B;
+}
+
+/* Buttons' focus effect */
+.settings-password input[type="submit"]:focus {
+  border-color: #2A363B;
+}

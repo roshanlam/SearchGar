@@ -1,0 +1,24 @@
+{% block content %}
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'css/removeWebsite.css' %}">
+<div id="wrapper">
+  <div class="container">
+    <div class="row">
+      <article class="col-md-12">
+        <h1 class="text-center">Websites Crawled</h1>
+        <h2 class="text-center"></h2>
+        <div id="app" class="app-container">
+
+        </div>
+      </article>
+    </div>
+  </div>
+</div>
+
+<style>
+.form-inline {
+  margin-bottom: 2em;
+}
+</style>
+{% endblock %}

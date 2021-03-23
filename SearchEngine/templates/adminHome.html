@@ -14,29 +14,14 @@
 <nav role='navigation'>
   <ul class="main">
     <li><a href="/admin/home/">Dashboard</a></li>
-    <li><a href="#">Submit Website</a></li>
     <li><a href="#">Remove Website</a> </li>
-    <li><a href="#">Users Analysis</a></li>
     <li><a href="#">Tech. Info</a></li>
   </ul>
 </nav>
-
+{% block content %}
 <main role="main">
-  <section class="panel important" align="center">
-    <h2>Submit a website</h2>
-      <form action="" method="post">
-        <div class="twothirds">
-          Website title:<br/>
-          <input type="text" name="title" size="40"/><br/><br/>
-          Link To Crawl:<br/>
-          <textarea name="newstext" size="40"></textarea><br/>
-        </div>
-        <div>
-        </div>
-        </div>
-          <!-- TODO: fix the button position-->
-         <!-- <input type="submit" name="submit" value="Sumbit" /> -->
-          <button style="margin-top: 30px; margin-right: 966px;" type="submit" name="submit" value="Submit">Submit</button>
-      </form>
+  <h1>Websites reported by users</h1>
+  <p>Website Lists</p>
   </section>
 </main>
+{% endblock %}

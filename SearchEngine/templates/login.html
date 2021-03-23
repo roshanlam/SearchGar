@@ -10,7 +10,7 @@
     <p><input type="email" name="email" placeholder="Email"></p>
     <p><input type="password" name="password" placeholder="Password"></p>
     <p><input type="submit" name="submit" value="Log in"></p>
-
+    <a href="{% provider_login_url 'google' %}">Login With Google</a>
   </form>
 </div>
 {% endblock %}

@@ -1,6 +1,8 @@
-from django.db import models, DatabaseError
-from django.contrib.auth.models import (BaseUserManager, AbstractBaseUser)
-
+from __future__ import unicode_literals
+from django.db import models
+from django.contrib.auth.models import (BaseUserManager, AbstractBaseUser, User)
+from django.conf import settings
+from django.utils import timezone
 
 class User(AbstractBaseUser):
     email = models.EmailField(max_length=100, unique=True)
@@ -26,10 +28,25 @@ class UserManager(BaseUserManager):
         user.save()
         return user
 
-
-class Website(models.Model):
-    website_name = models.CharField(max_length=200)
-    added_at = models.DateTimeField('Create', auto_now_add=True)
+#class Category(models.Model):
+#    name = models.CharField(max_length=150)
+# TODO: implement Category later
+class WebsiteList(models.Model):
+    website_name = models.CharField(max_length=250)
+    description = models.TextField(blank=True)
+    url = models.URLField(blank=True)
+    added = models.DateField(default=timezone.now().strftime("%Y-%m-%d"))
+  #  added_at = models.DateField(default=timezone.now().strftime("%Y-%m-%d"))
+ #   category = models.ForeignKey(Category, default='general')
+    class Meta:
+        ordering = ['-added'] # order by the added field
 
     def __str__(self):
         return self.website_name
+
+class Website(models.Model):
+    name = models.CharField(max_length=130)
+    description = models.CharField(max_length=130)
+    
+    def __unicode__(self):
+        return self.description
