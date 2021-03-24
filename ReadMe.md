@@ -68,4 +68,4 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 - [ ] Crawl, Index and Retrive Data stored from google drive, google drive will be the database for the searh engine
 - [ ] Let the user submit new website(s) request(s) to admin  
 - [ ] Logo Design
-- [ ] Share the finished version with the world
+- [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
