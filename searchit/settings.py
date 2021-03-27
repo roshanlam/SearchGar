@@ -1,13 +1,12 @@
-import os
 from pathlib import Path
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SECRET_KEY = '9x&rwz26w5x6r3#_w@2j&ahc0v4tujt561@1%o@pt0$i#2!cho'
+BASE_DIR = Path(__file__).resolve().parent.parent
+key = "H"
+SECRET_KEY = key
 DEBUG = True
-G_CLIENT_ID = '1007681849130-rehlnl89sdmaco8b7t9n02vi7qfgsdm9.apps.googleusercontent.com'
-G_CLIENT_SECRET = '9fpTyOLhEChZqc9-plAZFmwV'
 ALLOWED_HOSTS = []
+
 INSTALLED_APPS = [
-    'SearchEngine',
+    'SearchEngine', 
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -19,8 +18,31 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'allauth.socialaccount.providers.google',
-    'rest_framework'
+    # 'allauth.socialaccount.providers.github', do this later
 ]
+
+TEMPLATE_CONTEXT_PROCESSORS = (
+    'django.contrib.auth.context_processors.auth',
+    'django.core.context_processors.debug',
+    'django.core.context_processors.i18n',
+    'django.core.context_processors.media',
+    'django.core.context_processors.static',
+    'django.core.context_processors.tz',
+    'django.contrib.messages.context_processors.messages',
+
+
+)
+
+# Authentication backends Setting
+AUTHENTICATION_BACKENDS = (
+    # Needed to login by username in Django admin, regardless of `allauth`
+    'django.contrib.auth.backends.ModelBackend',
+
+    # `allauth` specific authentication methods, such as login by e-mail
+    'allauth.account.auth_backends.AuthenticationBackend',
+)
+
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -30,7 +52,9 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
 ROOT_URLCONF = 'searchit.urls'
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -46,13 +70,15 @@ TEMPLATES = [
         },
     },
 ]
+
 WSGI_APPLICATION = 'searchit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
@@ -67,27 +93,22 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+
 LANGUAGE_CODE = 'en-us'
 TIME_ZONE = 'UTC'
 USE_I18N = True
 USE_L10N = True
 USE_TZ = True
 STATIC_URL = '/static/'
-LOGIN_URL = '/login/'
 SITE_ID = 1
-LOGIN_REDIRECT_URL = '/'
-AUTHENTICATION_BACKENDS = (
-    'django.contrib.auth.backends.ModelBackend',
-    'allauth.account.auth_backends.AuthenticationBackend')
 
-SOCIALACCCOUNT_PROVIDERS = {
-    'google':{
-        'SCOPE': [
-            'profile',
-            'email',
-        ],
-        'AUTH_PARAMS':{
-            'access_type': 'online',
+
+SOCIALACCOUNT_PROVIDERS = {
+    'google' :{
+        'APP':{
+            'client_id':'123',
+            'secret': '456',
+            'key': ''
         }
     }
 }
