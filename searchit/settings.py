@@ -1,10 +1,10 @@
 import os
 from pathlib import Path
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SECRET_KEY = '9x&rwz26w5x6r3#_w@2j&ahc0v4tujt561@1%o@pt0$i#2!cho'
+SECRET_KEY = ''
 DEBUG = True
-G_CLIENT_ID = '1007681849130-rehlnl89sdmaco8b7t9n02vi7qfgsdm9.apps.googleusercontent.com'
-G_CLIENT_SECRET = '9fpTyOLhEChZqc9-plAZFmwV'
+G_CLIENT_ID = ''
+G_CLIENT_SECRET = ''
 ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'SearchEngine',
