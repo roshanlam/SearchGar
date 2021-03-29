@@ -8,7 +8,7 @@
   <h3 align="center">Search Engine</h3>
 
   <p align="center">
-    A Search Engine (This is the development branch, please check the main branch for the stable verison)
+    A Search Engine (This is the development branch, please check the main branch for the stable verison) for one of my honors project, this is the first honors project.
     <br />
     <br />
     <br />
