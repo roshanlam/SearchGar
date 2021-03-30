@@ -4,6 +4,7 @@ class checkWebsite(status = None):
     def __init__(self):
         #self.status = status
         #self.process = process
+        pass
     
     def check(url):
         if(len(url) > 1):
