@@ -1,4 +1,4 @@
-class Spider(url):
+class Spider:
     allowed_domains = ['.com', '.org', '.gov', '.edu']
     start_crawl = []
     def __init__(self, start_crawl):
