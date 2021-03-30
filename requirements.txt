@@ -1,2 +1,6 @@
 django-crispy-forms
 Django
+djangorestframework
+django-allauth
+scrapy
+pydrive

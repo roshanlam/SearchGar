@@ -8,7 +8,7 @@
   <h3 align="center">Search Engine</h3>
 
   <p align="center">
-    A Search Engine (This is the development branch, please check the main branch for the stable verison)
+    A Search Engine (This is the development branch, please check the main branch for the stable verison) for one of my honors project, this is the first honors project.
     <br />
     <br />
     <br />
@@ -23,14 +23,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-It is a search engine
+It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 
 ### Built With
-- [ ] Update This
+- [ ] Python
+- [ ] Django
+- [ ] HTML
+- [ ] CSS
+- [ ] Bootstrap
+- [ ] JS
 
 ### Prerequisites
 
 * Python
+* Django
 
 ### Installation
 - [ ] Update This
@@ -40,8 +46,6 @@ It is a search engine
 
 See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing
 1. Fork the Project
@@ -50,8 +54,6 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## 📝 License
 - [ ] Need To Choose A License
@@ -59,3 +61,13 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Will Add If Any
+
+
+## ToDo
+- [ ] Work on the actual search functionality 
+- [ ] Work on the Login and SignUp Page
+- [ ] Access the user's google drive for reading and writing
+- [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
+- [ ] Store User's Data in their google drive
+- [ ] Logo Design
+- [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))

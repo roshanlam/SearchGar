@@ -17,14 +17,6 @@ body {
   color: darkslategray;
 }
 
-body.login {
-  background-color: white;
-  max-width: 500px;
-  margin: 10vh auto;
-  padding: 1em;
-  height: auto;
-}
-
 .warn {
   color: red;
 }
@@ -89,42 +81,10 @@ nav[role="navigation"] li a {
 nav[role="navigation"] li a:hover {
   background-color: rgba(255, 255, 255, 0.05);
 }
-nav[role="navigation"] li a:before {
-  content: "\f248";
-  font-family: FontAwesome;
-  padding-right: 0.6em;
-}
-nav[role="navigation"] .dashboard a:before {
-  content: "";
-}
-nav[role="navigation"] .write a:before {
-  content: "";
-}
-nav[role="navigation"] .edit a:before {
-  content: "";
-}
-nav[role="navigation"] .comments a:before {
-  content: "";
-}
-nav[role="navigation"] .users a:before {
-  content: "";
-}
 
 /* current nav item */
-.current, .dashboard .dashboard a,
-.write .write a,
-.edit .edit a,
-.comments .comments a,
-.users .users a {
+.current, .users .users a {
   background-color: rgba(255, 255, 255, 0.1);
-}
-
-footer[role="contentinfo"] {
-  background: slategray;
-  color: #ddd;
-  font-size: 0.8em;
-  text-align: center;
-  padding: 0.2em;
 }
 
 /* panels */
@@ -207,11 +167,7 @@ form select:after {
   display: table;
   clear: both;
 }
-form input[type="checkbox"],
-form input[type="radio"] {
-  display: inline;
-  width: auto;
-}
+
 form label,
 form legend {
   display: block;
@@ -220,11 +176,11 @@ form legend {
 form input[type="submit"] {
   background: #ff1a1a;
   border: none;
-  border-bottom: solid 4px #e60000;
+  border-bottom: solid 4px #8B0000;
   padding: 0.7em 3em;
   margin: 1em 0;
   color: white;
-  text-shadow: 0 -1px 0 #e60000;
+  text-shadow: 0 -1px 0 #8B0000;
   font-size: 1.1em;
   font-weight: bold;
   display: inline-block;
@@ -235,13 +191,13 @@ form input[type="submit"] {
   border-radius: 0.5em;
 }
 form input[type="submit"]:hover {
-  background: turquoise;
+  background: #8b0000;
   border: none;
-  border-bottom: solid 4px #21ccbb;
+  border-bottom: solid 4px #8B0000;
   padding: 0.7em 3em;
   margin: 1em 0;
   color: white;
-  text-shadow: 0 -1px 0 #21ccbb;
+  text-shadow: 0 -1px 0 #8B0000;
   font-size: 1.1em;
   font-weight: bold;
   display: inline-block;
@@ -260,58 +216,6 @@ form input[type="submit"]:hover {
 
 label.error {
   padding: 0.2em 0.5em;
-}
-
-.feedback {
-  background: #fcfae6;
-  color: #857a11;
-  margin: 1em;
-  padding: 0.5em 0.5em 0.5em 2em;
-  border: solid 1px khaki;
-}
-.feedback:before {
-  content: "";
-  font-family: fontawesome;
-  color: #e4d232;
-  margin-left: -1.5em;
-  margin-right: 0.5em;
-}
-.feedback li:before {
-  border-left-color: #f6f0b9;
-}
-.feedback.error {
-  background: #ffe9e0;
-  color: #942a00;
-  margin: 1em;
-  padding: 0.5em 0.5em 0.5em 2em;
-  border: solid 1px lightsalmon;
-}
-.feedback.error:before {
-  content: "";
-  font-family: fontawesome;
-  color: #ff5714;
-  margin-left: -1.5em;
-  margin-right: 0.5em;
-}
-.feedback.error li:before {
-  border-left-color: #ffc4ad;
-}
-.feedback.success {
-  background: #98eee6;
-  color: #08322e;
-  margin: 1em;
-  padding: 0.5em 0.5em 0.5em 2em;
-  border: solid 1px turquoise;
-}
-.feedback.success:before {
-  content: "";
-  font-family: fontawesome;
-  color: #1aa093;
-  margin-left: -1.5em;
-  margin-right: 0.5em;
-}
-.feedback.success li:before {
-  border-left-color: #6ce7db;
 }
 
 /* tables */
@@ -411,21 +315,8 @@ td {
     width: 66%;
     float: left;
   }
-
-  footer[role="contentinfo"] {
-    clear: both;
-    margin-left: 200px;
-  }
 }
 @media screen and (min-width: 900px) {
-  footer[role="contentinfo"] {
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    left: 0px;
-    margin: 0;
-  }
-
   .panel {
     width: 47%;
     clear: none;

@@ -1,30 +1,26 @@
-{%  load static %}
-<html lang="en" style="background-color: #445566">
-    <head>
-        <meta charset="UTF-8">
-        <title>SearchIt</title>
-        <link rel="stylesheet" href="{%  static "css/main.css" %}">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    </head>
-    <nav style="background-color: #445566">
-        <div class="container nav-wrapper">
-            <a href="/home/" class="brand-logo" >SearchIt</a>
-            <ul id="nav-mobile" class="right">
-                <li><a href="/home/">Home</a></li>
-                <li><a href="/savedLinks/">Saved Links</a></li>
-                <li><a href="/savedResults/">Saved Results</a></li>
-                <li><a href="/savedHistory/">Saved History</a></li>
-                <li><a href="/logout/">Logout</a></li>
-                <li><a href="/settings/">Settings</a></li>
-            </ul>
-        </div>
-    </nav>
-<div class="container">
-    <h1 style="text-align: center">What Would You Like To Search?</h1>
-</div>
-    <form action="{%  url 'search' %}" method="POST" align="center" >
+{% include 'navbar.html' %}
+{% load static %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Search Engine</title>
+</head>
+<body>
+
+<div class="container" align="center">
+
+   <!-- <img src="{% static 'logo.png' %}" width="400" height="300"></img> -->
+    <form class="container my-2 my-lg-2" action="{% url 'search' %}" method="post">
         {% csrf_token %}
-        <input type="text" name="search" spellcheck="true" autocomplete="on" placeholder="search">
-        <button style="background-color: #445566" class="btn waves-effect waves-light" type="submit" name="action">Search</button>
-    </form>
+            <input class="form-control mr-lg-2" type="search" placeholder="Search" aria-label="Search" name='search'><br>
+            <input type="checkbox" name="URL" > Search by URL <br>
+            <button style="margin:16px ;" class="btn btn-outline-success btn-lg" type="submit">Search</button>
+
+        </form>
+</div>
+
+
+
+</body>
 </html>

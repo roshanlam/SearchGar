@@ -1,6 +1,19 @@
-{% extends 'base.html' %}
-{% block title %}Index{% endblock %}
+<title>Welcome To SearchIt</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">SearchIt</a>
+    </div>
 
-{% block content %}
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="{% url 'user_google_auth' %}"><span class="glyphicon glyphicon-log-in">
+        </span> Login/SignUp with google</a></li>
+                        {% block content %}{% endblock content %}
+
+    </ul>
+  </div>
+</nav>
+    <body>
   <h1 align="center">Welcome To Search It</h1>
-{% endblock %}
+    </body>
