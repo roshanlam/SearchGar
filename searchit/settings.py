@@ -1,16 +1,9 @@
 from pathlib import Path
-<<<<<<< HEAD
-BASE_DIR = Path(__file__).resolve().parent.parent
-key = "H"
-SECRET_KEY = key
-DEBUG = True
-=======
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = ''
 DEBUG = True
 G_CLIENT_ID = ''
 G_CLIENT_SECRET = ''
->>>>>>> da1cca3359982d3498b461595f6c7d59091546d1
 ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
