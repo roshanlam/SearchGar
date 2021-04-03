@@ -25,6 +25,7 @@
 ## About The Project
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 
+
 ### Built With
 - [ ] Python
 - [ ] Django
@@ -50,7 +51,7 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 ## 🤝 Contributing
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your Changes, Please Keep MVC in mind (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
