@@ -1,8 +1,8 @@
+import os
 from pathlib import Path
-import os 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SECRET_KEY = ''
+SECRET_KEY = 'SomethingSecretNeedsToGoHere'
 DEBUG = True
 G_CLIENT_ID = ''
 G_CLIENT_SECRET = ''

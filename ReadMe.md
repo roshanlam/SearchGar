@@ -8,7 +8,7 @@
   <h3 align="center">Search Engine</h3>
 
   <p align="center">
-    A Search Engine (This is the development branch, please check the main branch for the stable verison)
+    A Search Engine (This is the development branch, please check the main branch for the stable verison) for one of my honors project, this is the first honors project.
     <br />
     <br />
     <br />
@@ -23,14 +23,21 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-It is a search engine
+It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
+
 
 ### Built With
-- [ ] Update This
+- [ ] Python
+- [ ] Django
+- [ ] HTML
+- [ ] CSS
+- [ ] Bootstrap
+- [ ] JS
 
 ### Prerequisites
 
 * Python
+* Django
 
 ### Installation
 - [ ] Update This
@@ -40,17 +47,13 @@ It is a search engine
 
 See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your Changes, Please Keep MVC in mind (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
 
 <!-- LICENSE -->
 ## 📝 License
@@ -62,10 +65,11 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 
 ## ToDo
-- [ ] Work on the Google Login and SignUp
-- [ ] Access the user's google drive for read and write
+- [ ] Work on the actual search functionality 
+- [ ] Work on the Login and SignUp Page
+- [ ] Access the user's google drive for reading and writing
 - [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
-- [ ] Crawl, Index and Retrive Data stored from google drive, google drive will be the database for the searh engine
-- [ ] Let the user submit new website(s) request(s) to admin  
+- [ ] Store User's Data in their google drive
 - [ ] Logo Design
+- [ ] Sucessfully Finish Working on Github Actions
 - [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
