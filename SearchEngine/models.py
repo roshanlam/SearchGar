@@ -50,3 +50,7 @@ class Website(models.Model):
     
     def __unicode__(self):
         return self.description
+
+
+class Search(models.Model):
+    query = models.TextField()
