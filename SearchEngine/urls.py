@@ -11,4 +11,8 @@ urlpatterns = [
     path('savedLinks', views.savedLinks, name='savedLinks'),
     path('savedResults', views.savedResult, name='savedResults'),
     path('savedHistory', views.savedHistory, name='savedHistory'),
+    path('submitWebsite', views.crawlWebsite, name='crawlWebsite'),
+    path('/login', views.user_login, name='user_login'),
+    path('/signup', views.user_signup, name='user_signup'),
+    #path('submitedWebsite', views.crawlWebsite, name='crawledWebsite')
 ]
