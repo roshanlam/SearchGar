@@ -69,10 +69,9 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 ## ToDo
 - [ ] Work on the actual search functionality 
-- [ ] Work on the Login and SignUp Page
 - [ ] Access the user's google drive for reading and writing
 - [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
 - [ ] Store User's Data in their google drive
 - [ ] Logo Design
-- [ ] Sucessfully Finish Working on Github Actions
+- [ x ] Sucessfully Finish Working on Github Actions
 - [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
