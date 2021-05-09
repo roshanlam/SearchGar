@@ -38,9 +38,13 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 
 * Python
 * Django
+* Docker
+* Docker Compose
 
 ### Installation
-- [ ] Update This
+1. docker-compose build
+2. docker-compose up
+3. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
