@@ -6,7 +6,7 @@ SECRET_KEY = 'SomethingSecretNeedsToGoHere'
 DEBUG = True
 G_CLIENT_ID = ''
 G_CLIENT_SECRET = ''
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1']
 
 INSTALLED_APPS = [
     'SearchEngine', 

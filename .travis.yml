@@ -1,0 +1,13 @@
+language: python
+
+python:
+    - "3.8"
+
+env:
+    - SECRET_KEY='TEST'
+
+install:
+    - pipenv install
+
+script:
+    - python3 manage.py test

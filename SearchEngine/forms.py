@@ -1,4 +1,10 @@
-from django import forms
+from django.forms import ModelForm, Textarea
+from .models import SumbitWebsiteModel
 
-class crawlForm(forms.Form):
-    url = forms.URLField()
+class SubmitWebsiteForm(ModelForm):
+    class Meta:
+        model = SumbitWebsiteModel
+        fields = "__all__"
+        widgets = {
+            'body': Textarea()
+        }
