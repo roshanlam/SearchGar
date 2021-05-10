@@ -9,8 +9,15 @@
     <ul class="nav navbar-nav navbar-right">
         <li><a href="{% url 'user_google_auth' %}"><span class="glyphicon glyphicon-log-in">
         </span> Login/SignUp with google</a></li>
-                        {% block content %}{% endblock content %}
+        <li><a href="{% url 'user_login' %}"><span class="glyphicon glyphicon-log-in">
+        </span> Login</a></li>
+        <li><a href="{% url 'user_signup' %}"><span class="glyphicon glyphicon-log-in">
+        </span> SignUp</a></li>
+        <li><a href="{% url 'crawlWebsite' %}"><span class="glyphicon glyphicon-edit">
+        </span> Submit Website</a></li>
+                        {% block content %}
 
+                        {% endblock content %}
     </ul>
   </div>
 </nav>

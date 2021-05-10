@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Submit Websites</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<form id="CrawlingData" action="{% url 'crawlWebsite' %}"  method="POST">
+    {% csrf_token %}
+        <br/>
+        <div class="form-group">
+            <input id="WebsiteUrl" name="WebsiteUrl" type="url" class="form-control"  placeholder="Enter Website Url" required>
+        </div>
+
+        <div class="form-group">
+            <input id="WebsiteName" name="WebsiteName" type="text" class="form-control" placeholder="Website Name" required>
+        </div>
+
+    <button type="submit" onclick="changeVisibility()" class="btn btn-outline-dark">Crawl Website</button>
+    <div>
+        <table align="center" id="table" >
+          <tr>
+              <th>{{ websiteUrl }}</th>
+              <th>{{ websiteName }}</th>
+              <th>{{ info }}</th>
+          </tr>
+        </table>
+    </div>
+    <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  text-align: center;
+  padding: 8px;
+}
+</style>
+</form>
+</body>
+</html>

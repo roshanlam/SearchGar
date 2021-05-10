@@ -1,10 +1,12 @@
+import os
 from pathlib import Path
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SECRET_KEY = ''
+SECRET_KEY = 'SomethingSecretNeedsToGoHere'
 DEBUG = True
 G_CLIENT_ID = ''
 G_CLIENT_SECRET = ''
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1']
 
 INSTALLED_APPS = [
     'SearchEngine', 
@@ -76,7 +78,7 @@ WSGI_APPLICATION = 'searchit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
