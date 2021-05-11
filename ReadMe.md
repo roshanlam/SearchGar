@@ -8,7 +8,6 @@
   <h3 align="center">Search Engine</h3>
   <p align="center">
     A Search Engine (This is the development branch, please check the main branch for the stable verison) for one of my honors project, this is the first honors project.
-  <img src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
     <br />
     <br />
     <br />
@@ -20,6 +19,7 @@
     ·
     <a href="https://github.com/roshanlam/HonorsPy/pulls">Send a Pull Request</a>
   </p>
+  <img align="center" src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
