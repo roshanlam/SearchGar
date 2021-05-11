@@ -19,8 +19,9 @@
     ·
     <a href="https://github.com/roshanlam/HonorsPy/pulls">Send a Pull Request</a>
   </p>
-  <img align="center" src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
-
+  <div align="center">
+    <img src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
+  </div>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
