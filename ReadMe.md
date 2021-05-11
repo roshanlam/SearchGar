@@ -28,7 +28,7 @@
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 
 
-<h3> Built With </h3>
+### Built With
 - [ ] Python
 - [ ] Django
 - [ ] HTML
