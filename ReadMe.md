@@ -22,12 +22,13 @@
   <div align="center">
     <img src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
   </div>
+  
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2> About The Project </h2>
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 
 
-### Built With
+<h3> Built With </h3>
 - [ ] Python
 - [ ] Django
 - [ ] HTML
@@ -35,7 +36,7 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 - [ ] Bootstrap
 - [ ] JS
 
-### Prerequisites
+<h3> Prerequisites </h3>
 
 * Python
 * Django
