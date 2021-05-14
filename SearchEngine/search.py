@@ -26,9 +26,6 @@ listdata=[]
 listdata = process_files("Data/",files)
 print("storing keywords in dictionary done")
 
-
-#input = [word1, word2, ...]
-#output = {word1: [pos1, pos2], word2: [pos2, pos434], ...}
 def index_one_file(termlist):
 	fileIndex = {}
 	for index, word in enumerate(termlist):
@@ -38,8 +35,7 @@ def index_one_file(termlist):
 			fileIndex[word] = [index]
 	return fileIndex
 
-#input = {filename: [word1, word2, ...], ...}
-#res = {filename: {word: [pos1, pos2, ...]}, ...}
+
 def make_indices(termlists):
 	total = {}
 	for filename in termlists.keys():
@@ -47,13 +43,8 @@ def make_indices(termlists):
 	return total
 
 indexwordallfiles=make_indices(listdata)
-#print(indexwordallfiles[files[1]])
-
-
 
 print("constructing inverted index.")
-#input = {filename: {word: [pos1, pos2, ...], ... }}
-#res = {word: {filename: [pos1, pos2]}, ...}, ...}
 def fullIndex(regdex):
 	total_index = {}
 	for filename in regdex.keys():
@@ -70,10 +61,6 @@ def fullIndex(regdex):
 wordindex = fullIndex(indexwordallfiles)
 
 print("now proceeding with the query part")
-# intxt = input("enter the text ")
-# txt = word_tokenize(intxt.lower())
-
-#this would be called by free text query
 def one_word_query(word, invertedIndex):
 	pattern = re.compile('[\W_]+')
 	word = pattern.sub(' ',word)
@@ -107,29 +94,34 @@ for item in wordindex:
 
 print(len(dic))
 
-txt = input("enter text ")
-pattern = re.compile('[\W_]+')
-txt = pattern.sub(' ',txt.lower())
-txtlist = word_tokenize(txt)
-print(txtlist)
-toreturn={}
-for f in files:
-	toreturn[f]=0
-for item in txtlist:
-	listfilename = one_word_query(item,wordindex)
-	for t in listfilename:
-		toreturn[t] +=1
-
 def keywithmaxval(d):
-	# creates a list of the dict's keys and values
-	# and return the key with the max value
-	v = list(d.values())
-	k = list(d.keys())
-	return k[v.index(max(v))]
+     """ a) create a list of the dict's keys and values; 
+         b) return the key with the max value"""  
+     try:
+      v=list(d.values())
+      k=list(d.keys())
+      value = k[v.index(max(v))]
+      return value
+     except:
+      return
 
-num_of_files = len([iq for iq in os.scandir('Data')])
-for i in range(0,num_of_files):
-	tx = keywithmaxval(toreturn)
-	print("filename ", tx ," score ", toreturn[tx])
-	if toreturn[tx] != 0:
-		del toreturn[tx]
+def startQuery(query):
+	txt = query
+	pattern = re.compile('[\W_]+')
+	txt = pattern.sub(' ',txt.lower())
+	txtlist = word_tokenize(str(txt))
+	print(txtlist)
+	toreturn={}
+	for f in files:
+		toreturn[f]=0
+	for item in txtlist:
+		listfilename = one_word_query(item,wordindex)
+		for t in listfilename:
+			toreturn[t] +=1
+	num_of_files = len([iq for iq in os.scandir('Data/')])
+	for i in range(0,num_of_files):
+		tx = keywithmaxval(toreturn)
+		print("filename ", tx ," score ", toreturn[tx])
+		return tx
+		if toreturn[tx] != 0:
+			del toreturn[tx]

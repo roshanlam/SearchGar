@@ -7,7 +7,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#"><b>SearchIt</b></a>
+    <a class="navbar-brand" href="/home"><b>SearchIt</b></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -19,22 +19,20 @@
                 <a class="nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Settings</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                   aria-haspopup="true" aria-expanded="false">
-                   Saved
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">History</a>
-                    <a class="dropdown-item" href="#">Links</a>
-                    <a class="dropdown-item" href="#">Bookmarks</a>
-                </div>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Logout</a>
-            </li>
+                {% if username == "" %}
+                      <input class="form-control input-sm" type="text" id="login-username" placeholder="Name / Email">  
+                      <input type="password" class="form-control input-sm" id="login-password" placeholder="Password">
+                        <button class="btn btn-sm btn-primary">Login </button>
+                        <button  class="btn btn-sm btn-info">Register </button>
+                {% else %}
+                    <div class="input-group">
+                     <span class="label label-primary h1">{{ username }}</span>
+                     &nbsp;
+                     <a class="nav-link" href="/submitWebsite/">Submit Website</a>
+                     <a class="nav-link" href="/saveHistory/">Save History</a>
+                      </div>
+                {% endif%}
+                </li>
         </ul>
 
     </div>

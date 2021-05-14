@@ -1,3 +1,5 @@
+{% include 'navbar.html' %}
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +7,7 @@
     <title>Submit Websites</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
-<body>
+<body style="background: #2a3542">
 <form id="CrawlingData" action="{% url 'crawlWebsite' %}"  method="POST">
     {% csrf_token %}
         <br/>
@@ -17,7 +19,7 @@
             <input id="WebsiteName" name="WebsiteName" type="text" class="form-control" placeholder="Website Name" required>
         </div>
 
-    <button type="submit" onclick="changeVisibility()" class="btn btn-outline-dark">Crawl Website</button>
+    <button type="submit" onclick="changeVisibility()" class="btn btn-outline-success btn-lg">Crawl Website</button>
     <div>
         <table align="center" id="table" >
           <tr>

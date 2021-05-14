@@ -1,0 +1,42 @@
+<div class="navbar navbar-default navbar-inverse" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+           
+            <a class="navbar-brand" href="/">Reservation Menu</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li {% if page_active == 1%}{{ 'class=active' }}{% endif %} ><a href="{% url 'index' %}">Create</a></li>
+                <li {% if page_active == 2%}{{ 'class=active' }}{% endif %}><a href="{% url 'reservation_read' %}">Reservations</a></li>
+                <li {% if page_active == 3%}{{ 'class=active' }}{% endif %}><a href="{% url 'table_read' %}">Tables</a></li>
+                 <li {% if page_active == 4%}{{ 'class=active' }}{% endif %}><a href="{% url 'food_read' %}">Food Menu</a></li>
+                <li class="dropdown dropdown-inverse">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">... <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="{% url 'contact' %}">Contact</a></li>
+                        <li><a href="{% url 'about' %}">About</a></li>
+                    </ul>
+                </li>
+                <li class="login-form">
+
+                {% if username == "" %}
+            
+                        <input class="form-control input-sm" type="text" id="login-username" placeholder="Name / Email">
+                                     
+                      <input type="password" class="form-control input-sm" id="login-password" placeholder="Password">
+                   
+                        <button id="login-loginbutton" class="btn btn-sm btn-primary">Login </button>
+                        <button id="login-registerbutton" class="btn btn-sm btn-info">Register </button>
+                {% else %}
+                    <div class="input-group">
+                     <span class="label label-primary h1    ">{{ username }}</span>
+                     &nbsp;
+                     <button id="login-logoutbutton" class="btn btn-sm btn-primary">Logout </button>
+                      </div>
+                {% endif%}
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</div>

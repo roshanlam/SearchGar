@@ -19,9 +19,12 @@
     ·
     <a href="https://github.com/roshanlam/HonorsPy/pulls">Send a Pull Request</a>
   </p>
-
+  <div align="center">
+    <img src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
+  </div>
+  
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2> About The Project </h2>
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 
 
@@ -33,7 +36,7 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 - [ ] Bootstrap
 - [ ] JS
 
-### Prerequisites
+<h3> Prerequisites </h3>
 
 * Python
 * Django
@@ -68,10 +71,10 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 
 ## ToDo
-- [ ] Work on the actual search functionality 
+- [x] Work on the actual search functionality 
 - [ ] Access the user's google drive for reading and writing
 - [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
 - [ ] Store User's Data in their google drive
 - [ ] Logo Design
-- [ x ] Sucessfully Finish Working on Github Actions
+- [x] Sucessfully Finish Working on Github Actions
 - [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))

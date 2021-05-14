@@ -1,6 +1,5 @@
 {% include 'navbar.html' %}
 {% load static %}
-
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
@@ -8,31 +7,22 @@
     <link rel="stylesheet" href="{% static 'css/main.css' %}">
 </head>
 <body background="#2a3542">
-
 <div class="container" align="center">
-
    <!-- <img src="{% static 'logo.png' %}" width="400" height="300"></img> -->
     <form class="container my-2 my-lg-2" name="Search" action="{% url 'search' %}" method="post">
         {% csrf_token %}
-            <input class="form-control mr-lg-2" type="search" autocomplete="on" placeholder="Search" aria-label="Search" name='search'><br>
-
+            <input class="form-control mr-lg-2" id="searchQuery" name="searchQuery" type="search" autocomplete="on" placeholder="Search" aria-label="Search" name='search'><br>
         <form>
-            <label class="checkbox-inline">
+           <!-- <label class="checkbox-inline">
                <input type="checkbox" name="tech"><a style="color: white;"> Tech</a>
             </label>
             <label class="checkbox-inline">
                <input type="checkbox" name="health"><a style="color: white;"> Health</a>
-            </label>
+            </label> -->
          </form>
             <button style="margin:16px ;" class="btn btn-outline-success btn-lg" type="submit">Search</button>
 
         </form>
-    <script>
-        var a = document.forms["Search"]["search"].value;
-        if (a == null) {
-          alert("Please Fill All Required Field");
-        }
-    </script>
 </div>
 
 
