@@ -47,6 +47,8 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 1. docker-compose build
 2. docker-compose up
 3. Go to terminal and type python3 and the following code:
+
+
     `import nltk'
     
     `nltk.download('punkt')`
