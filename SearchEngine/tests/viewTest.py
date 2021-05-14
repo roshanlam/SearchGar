@@ -1,3 +1,4 @@
 class ViewTest:
     def view(self):
-        pass
+        if response.status_code == 200:
+            print("")
