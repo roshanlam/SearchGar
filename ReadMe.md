@@ -71,7 +71,7 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 
 ## ToDo
-- [ ] Work on the actual search functionality 
+- [x] Work on the actual search functionality 
 - [ ] Access the user's google drive for reading and writing
 - [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
 - [ ] Store User's Data in their google drive
