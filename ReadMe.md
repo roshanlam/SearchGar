@@ -49,7 +49,7 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 3. Go to terminal and type python3 and the following code:
 
 
-    `import nltk'
+    `import nltk`
     
     `nltk.download('punkt')`
 5. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
