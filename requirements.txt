@@ -5,3 +5,4 @@ beautifulsoup4~=4.9.3
 rich~=6.2.0
 allauth-django
 lxml
+nltk

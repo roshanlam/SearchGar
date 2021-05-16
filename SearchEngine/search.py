@@ -4,9 +4,9 @@ import re
 
 files = os.listdir("Data/")
 
-f=open("words.txt","r")
-contents= f.readlines()
-vocab=[]
+f = open("words.txt","r")
+contents = f.readlines()
+vocab = []
 for word in contents:
 	vocab.append(word[0:-1].lower())
 word_set = set(vocab)
@@ -22,7 +22,7 @@ def process_files(location,filenames):
 		file_to_terms[file] = file_to_terms[file].split()
 	return file_to_terms
 
-listdata=[]
+listdata = []
 listdata = process_files("Data/",files)
 print("storing keywords in dictionary done")
 
@@ -42,7 +42,7 @@ def make_indices(termlists):
 		total[filename] = index_one_file(termlists[filename])
 	return total
 
-indexwordallfiles=make_indices(listdata)
+indexwordallfiles = make_indices(listdata)
 
 print("constructing inverted index.")
 def fullIndex(regdex):
