@@ -46,7 +46,13 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 ### Installation
 1. docker-compose build
 2. docker-compose up
-3. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
+3. Go to terminal and type python3 and the following code:
+
+
+    `import nltk`
+    
+    `nltk.download('punkt')`
+5. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
@@ -71,7 +77,7 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 
 ## ToDo
-- [ ] Work on the actual search functionality 
+- [x] Work on the actual search functionality 
 - [ ] Access the user's google drive for reading and writing
 - [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
 - [ ] Store User's Data in their google drive
