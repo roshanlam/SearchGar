@@ -44,15 +44,17 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 * Docker Compose
 
 ### Installation
-1. docker-compose build
-2. docker-compose up
-3. Go to terminal and type python3 and the following code:
+1. `git clone https://github.com/roshanlam/HonorsPy`
+2. `cd HonorsPy`
+3. `docker-compose build`
+4. `docker-compose up`
+5. Go to terminal and type python3 and the following code:
 
 
     `import nltk`
     
     `nltk.download('punkt')`
-5. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
+6. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
