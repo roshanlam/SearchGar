@@ -3,6 +3,7 @@ requests~=2.25.0
 bs4~=0.0.1
 beautifulsoup4~=4.9.3
 rich~=6.2.0
-allauth-django
 lxml
 nltk
+pydrive
+django-allauth

@@ -46,13 +46,7 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 ### Installation
 1. docker-compose build
 2. docker-compose up
-3. Go to terminal and type python3 and the following code:
-
-
-    `import nltk`
-    
-    `nltk.download('punkt')`
-5. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
+3. Go to `http://0.0.0.0:8000/`, that's where search engine will be.
 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
@@ -73,8 +67,9 @@ See the [open issues](https://github.com/roshanlam/HonorsPy/issues) for a list o
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* Will Add If Any
-
+* Aakash Japi - used his code from his blog called "Implementing a Search Engine with Rankings in Python" for search.py 
+  
+http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 
 ## ToDo
 - [x] Work on the actual search functionality 
