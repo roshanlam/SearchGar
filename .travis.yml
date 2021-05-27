@@ -1,7 +1,7 @@
 language: python
 
 python:
-    - "3.8"
+    - "3.9"
 
 env:
     - SECRET_KEY='TEST'
