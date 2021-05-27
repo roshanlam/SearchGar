@@ -10,4 +10,4 @@ install:
     - pipenv install
 
 script:
-    - python3 manage.py test
+    - python3 manage.py runserver
