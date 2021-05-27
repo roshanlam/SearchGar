@@ -6,8 +6,12 @@ python:
 env:
     - SECRET_KEY='TEST'
 
+before_install:
+  - "pip install -U pip"
+  - "export PYTHONPATH=$PYTHONPATH:$(pwd)"
+
 install:
     - pipenv install
 
 script:
-    - python3 manage.py runserver
+    - python3 manage.py test
