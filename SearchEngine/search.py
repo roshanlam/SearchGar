@@ -1,4 +1,4 @@
-import os, nltk, re
+import os, nltk, re, pathlib
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 nltk.download('stopwords') # helps remove stop words such as "the", "and" etc
