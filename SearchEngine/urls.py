@@ -1,4 +1,4 @@
-from django.urls import path, include
+from django.urls import path
 from . import views
 
 urlpatterns = [
@@ -6,5 +6,5 @@ urlpatterns = [
     path('home/', views.home, name='home' ),
     path('search/', views.search, name='search'),
     path('submitWebsite/', views.crawlWebsite, name='crawlWebsite'),
-    path('seeHistory/', views.seeHistory, name='SeeHistory')
+    path('seeHistory/', views.seeHistory, name='SeeHistory'),
 ]

@@ -4,8 +4,9 @@ from bs4 import BeautifulSoup
 import requests
 import re, os, glob, json
 from .search import startQuery
-from .lib import get_client_ip, saveQueryData, saveCrawlData, csvToJson
+from .lib import get_client_ip, saveQueryData, saveCrawlData
 from django.http import JsonResponse
+from django.http import HttpResponse
 
 def index(request):
     return render(request, 'index.html')
@@ -15,13 +16,12 @@ def home(request):
 
 def seeHistory(request):
     path = os.getcwd()
-    csv_files = glob.glob(os.path.join(path, "*.csv"))
     json_files = glob.glob(os.path.join(path, "*.json"))
-    for cFiles in csv_files:
-        i = 0
-        i += 1
-        data = csvToJson(csv_files, 'file_{}.json'.format(i))
-    return JsonResponse(data, safe=False)
+    for j in json_files:
+        data = j
+        with open(data, 'r') as jf:
+            json.loads(jf)
+    return JsonResponse({'History': jf})
 
 def crawlWebsite(request):
     if request.POST:
@@ -44,9 +44,6 @@ def search(request):
         Result = startQuery(Query)
         Result = os.path.splitext(Result)[0]
         Result = "https://" + Result
-        #for R in Result:
-        #    result = os.path.splitext(R)[0]
-        #    result = "https://" + result
         return render(request, 'searchresults.html', {'Query': Query, 'Result': Result})
     else:
         return render(request, "home.html")
