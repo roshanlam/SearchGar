@@ -75,9 +75,8 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 
 ## ToDo
 - [x] Work on the actual search functionality 
-- [ ] Access the user's google drive for reading and writing
-- [ ] Create a Folder with name SearchIt and create files to store information that the user chooses
-- [ ] Store User's Data in their google drive
+- [x] Store User's basic Information in a json file 
+- [ ] Show User's basic Information on $url$/seeHistory/
 - [ ] Logo Design
 - [x] Sucessfully Finish Working on Github Actions
 - [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
