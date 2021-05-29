@@ -76,7 +76,7 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 ## ToDo
 - [x] Work on the actual search functionality 
 - [x] Store User's basic Information in a json file 
-- [ ] Show User's basic Information on $url$/seeHistory/
+- [x] Show User's basic Information on url/seeHistory/Crawl and url/seeHistory/Query
 - [ ] Logo Design
 - [x] Sucessfully Finish Working on Github Actions
 - [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
