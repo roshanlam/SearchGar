@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import re, os, glob, json
 from .search import startQuery
-from .lib import get_client_ip, saveQueryData, saveCrawlData
+from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile
 from django.http import JsonResponse
 from django.http import HttpResponse
 
@@ -14,15 +14,29 @@ def index(request):
 def home(request):
     return render(request, 'home.html')
 
-def seeHistory(request):
+def seeHistoryQuery(request):
     path = os.getcwd()
-    json_files = glob.glob(os.path.join(path, "*.json"))
+    json_files = glob.glob(os.path.join(path, "*_search.json"))
     for j in json_files:
         data = j
-        with open(data, 'r') as jf:
-            json.loads(jf)
-    return JsonResponse({'History': jf})
+    try:
+       rf = readFile(data)
+    except:
+        pass
+    #return JsonResponse({'History': rf}, safe=False)
+    return HttpResponse(rf, content_type='application/json')
 
+def seeHistoryCrawl(request):
+    path = os.getcwd()
+    json_files = glob.glob(os.path.join(path, "*_crawl.json"))
+    for j in json_files:
+        data = j
+    try:
+       rf = readFile(data)
+    except:
+        pass
+    #return JsonResponse({'History': rf}, safe=False)
+    return HttpResponse(rf, content_type='application/json')
 def crawlWebsite(request):
     if request.POST:
         websiteUrl = request.POST.get('WebsiteUrl')

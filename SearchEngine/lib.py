@@ -1,5 +1,6 @@
 from datetime import datetime
-import json
+from django.core.serializers.json import DjangoJSONEncoder
+import json, codecs
 
 def get_client_ip(request):
     x_forwarded_for = request.META.get('HTTP_X_FORWARDED_FOR')
@@ -20,7 +21,7 @@ def saveQueryData(query, ip_address):
                 'Time': time
             }]
         }
-        json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4, sort_keys=True)
 
 def saveCrawlData(url, website_name, ip_address):
     now = datetime.now()
@@ -34,4 +35,18 @@ def saveCrawlData(url, website_name, ip_address):
                 'Time': time
             }]
         }
-        json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4, sort_keys=True)
+
+def readFile(path, encoding='utf-8'):
+    with codecs.open(path, 'r', encoding=encoding) as f:
+        try:
+            content = f.read()
+        except UnicodeDecodeError as e:
+            raise Exception("%s: %s" % (e, path))
+    return content
+
+class JsonEncoder(DjangoJSONEncoder):
+    def __init__(self, o):
+        if isinstance(o):
+            return o
+        return super().default(o)
