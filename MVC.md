@@ -6,7 +6,7 @@ Model View Controller is the pattern that this project uses.
 
 `views.py` is the View
 
-`urls` is the Controller
+`urls.py` is the Controller
 
 files like `utils.py` can exist but they should be created like the following:
 
