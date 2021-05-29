@@ -1,11 +1,12 @@
-from django.shortcuts import render, redirect
-from django.contrib import messages
-import requests, pathlib
+from django.shortcuts import render
+import pathlib
 from bs4 import BeautifulSoup
-import json
 import requests
-import re, os
+import re, os, glob, json
 from .search import startQuery
+from .lib import get_client_ip, saveQueryData, saveCrawlData
+from django.http import JsonResponse
+from django.http import HttpResponse
 
 def index(request):
     return render(request, 'index.html')
@@ -13,15 +14,23 @@ def index(request):
 def home(request):
     return render(request, 'home.html')
 
-def saveHistory(request):
-    return render(request, 'savedHistory.html')
+def seeHistory(request):
+    path = os.getcwd()
+    json_files = glob.glob(os.path.join(path, "*.json"))
+    for j in json_files:
+        data = j
+        with open(data, 'r') as jf:
+            json.loads(jf)
+    return JsonResponse({'History': jf})
 
 def crawlWebsite(request):
     if request.POST:
         websiteUrl = request.POST.get('WebsiteUrl')
         websiteName = request.POST.get('WebsiteName')
-        website_info = crawl(websiteUrl, 5, websiteName)
+        website_info = crawl(websiteUrl, 3, websiteName)
         url = re.compile(r"https?://(www\.)?")
+        ip_add = get_client_ip(request)
+        saveCrawlData(websiteUrl, websiteName, ip_add)
         saveInfo('Data', url.sub('', websiteUrl).strip().strip('/'), website_info)
         return render(request, 'submitWebsite.html', {'websiteName': websiteName, 'websiteUrl': websiteUrl})
     else:
@@ -30,14 +39,18 @@ def crawlWebsite(request):
 def search(request):
     if request.POST:
         Query = request.POST.get('searchQuery')
+        ip_add = get_client_ip(request)
+        saveQueryData(Query, ip_add)
         Result = startQuery(Query)
+        Result = os.path.splitext(Result)[0]
+        Result = "https://" + Result
         return render(request, 'searchresults.html', {'Query': Query, 'Result': Result})
     else:
         return render(request, "home.html")
 
 def crawl(url, depth, filename):
     try:
-        response = requests.get(url, headers={'user-agent': 'code-monkey-search'})
+        response = requests.get(url)
     except:
         print('Failed to perform HTTP GET request on "%s"\n' % url)
         return

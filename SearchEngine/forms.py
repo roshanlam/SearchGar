@@ -1,10 +1,10 @@
-from django.forms import ModelForm, Textarea
-from .models import SumbitWebsiteModel
+from django import forms
+from django.contrib.auth.models import User
+from django.contrib.auth.forms import UserCreationForm
 
-class SubmitWebsiteForm(ModelForm):
+class UserRegisterForm(UserCreationForm):
+    email = forms.EmailField()
+
     class Meta:
-        model = SumbitWebsiteModel
-        fields = "__all__"
-        widgets = {
-            'body': Textarea()
-        }
+        model = User
+        fields = ['email', 'password1', 'password2']

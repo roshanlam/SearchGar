@@ -1,6 +1,8 @@
-import os
+import os, nltk, re, pathlib
 from nltk import word_tokenize
-import re
+from nltk.corpus import stopwords
+nltk.download('stopwords') # helps remove stop words such as "the", "and" etc
+nltk.download('punkt') # Punkt sentence tokenizer, helps break down text
 
 files = os.listdir("Data/")
 
@@ -11,18 +13,18 @@ for word in contents:
 	vocab.append(word[0:-1].lower())
 word_set = set(vocab)
 
-def process_files(location,filenames):
+def process_files(dir, filenames):
 	file_to_terms = {}
 	for file in filenames:
 		pattern = re.compile('[\W_]+')
-		name = location+file
+		name = dir + file
 		file_to_terms[file] = open(name, 'r').read().lower();
 		file_to_terms[file] = pattern.sub(' ',file_to_terms[file])
 		re.sub(r'[\W_]+','', file_to_terms[file])
 		file_to_terms[file] = file_to_terms[file].split()
 	return file_to_terms
 
-listdata = []
+# listdata = []
 listdata = process_files("Data/",files)
 print("storing keywords in dictionary done")
 
@@ -34,7 +36,6 @@ def index_one_file(termlist):
 		else:
 			fileIndex[word] = [index]
 	return fileIndex
-
 
 def make_indices(termlists):
 	total = {}
@@ -57,7 +58,6 @@ def fullIndex(regdex):
 			else:
 				total_index[word] = {filename: regdex[filename][word]}
 	return total_index
-
 wordindex = fullIndex(indexwordallfiles)
 
 print("now proceeding with the query part")
@@ -65,7 +65,8 @@ def one_word_query(word, invertedIndex):
 	pattern = re.compile('[\W_]+')
 	word = pattern.sub(' ',word)
 	if word in invertedIndex.keys():
-		return [filename for filename in invertedIndex[word].keys()]
+		# return [filename for filename in invertedIndex[word].keys()]
+		return list(invertedIndex[word])
 	else:
 		return []
 
@@ -77,20 +78,19 @@ def free_text_query(string):
 	print(" returning intersection of files")
 	for word in string.split():
 		result.append(set(one_word_query(word,wordindex)))
-	A={}
+	# A={}
 	A = result[0].intersection(result[1])
 	for i in range(1,len(result)-1):
 		A = A.intersection(result[i+1])
 	return list(A)
 
-#calculating lt which is k/Dt
-k=len(files)
-dic={}
+k = len(files)
+dic = {}
 for item in wordindex:
-	k=0
+	k = 0
 	for fil in wordindex[item]:
 		k += (len(wordindex[item][fil]))
-	dic[item]=k
+	dic[item] = k
 
 print(len(dic))
 
@@ -98,20 +98,19 @@ def keywithmaxval(d):
      """ a) create a list of the dict's keys and values; 
          b) return the key with the max value"""  
      try:
-      v=list(d.values())
-      k=list(d.keys())
+      v = list(d.values())
+      k = list(d.keys())
       value = k[v.index(max(v))]
       return value
      except:
       return
 
 def startQuery(query):
-	txt = query
 	pattern = re.compile('[\W_]+')
-	txt = pattern.sub(' ',txt.lower())
-	txtlist = word_tokenize(str(txt))
-	print(txtlist)
-	toreturn={}
+	query = pattern.sub(' ',query.lower())
+	txtlist = word_tokenize(str(query))
+	txtlist = [word for word in txtlist if not word in stopwords.words('english')]
+	toreturn = {}
 	for f in files:
 		toreturn[f]=0
 	for item in txtlist:
@@ -119,9 +118,9 @@ def startQuery(query):
 		for t in listfilename:
 			toreturn[t] +=1
 	num_of_files = len([iq for iq in os.scandir('Data/')])
-	for i in range(0,num_of_files):
+	for i in range(num_of_files):
 		tx = keywithmaxval(toreturn)
-		print("filename ", tx ," score ", toreturn[tx])
-		return tx
-		if toreturn[tx] != 0:
-			del toreturn[tx]
+		# print("filename ", tx ," score ", toreturn[tx])
+	return tx
+	if toreturn[tx] != 0:
+		del toreturn[tx]

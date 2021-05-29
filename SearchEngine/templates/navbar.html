@@ -19,19 +19,9 @@
                 <a class="nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                {% if username == "" %}
-                      <input class="form-control input-sm" type="text" id="login-username" placeholder="Name / Email">  
-                      <input type="password" class="form-control input-sm" id="login-password" placeholder="Password">
-                        <button class="btn btn-sm btn-primary">Login </button>
-                        <button  class="btn btn-sm btn-info">Register </button>
-                {% else %}
-                    <div class="input-group">
-                     <span class="label label-primary h1">{{ username }}</span>
-                     &nbsp;
+                    <div class="input-group">&nbsp;
                      <a class="nav-link" href="/submitWebsite/">Submit Website</a>
-                     <a class="nav-link" href="/saveHistory/">Save History</a>
                       </div>
-                {% endif%}
                 </li>
         </ul>
 

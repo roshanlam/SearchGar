@@ -1,10 +1,14 @@
 language: python
 
 python:
-    - "3.8"
+    - "3.9"
 
 env:
     - SECRET_KEY='TEST'
+
+before_install:
+  - "pip install -U pip"
+  - "export PYTHONPATH=$PYTHONPATH:$(pwd)"
 
 install:
     - pipenv install

@@ -1,8 +1,10 @@
-Django~=3.1.4
-requests~=2.25.0
-bs4~=0.0.1
-beautifulsoup4~=4.9.3
-rich~=6.2.0
-allauth-django
+Django
+requests
+bs4
+beautifulsoup4
+rich
 lxml
 nltk
+pydrive
+django-allauth
+pandas
