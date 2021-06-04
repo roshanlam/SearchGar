@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import re, os, glob, json
 from .search import startQuery
-from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile
+from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile, crawl, saveInfo
 from django.http import JsonResponse
 from django.http import HttpResponse
 
@@ -16,32 +16,35 @@ def home(request):
 
 def seeHistoryQuery(request):
     path = os.getcwd()
-    json_files = glob.glob(os.path.join(path, "*_search.json"))
+    ip_address = get_client_ip(request)
+    # json_files = glob.glob(os.path.join(path, "*_search.json"))
+    json_files = glob.glob(os.path.join(path, ip_address + "_search.json"))
     for j in json_files:
         data = j
     try:
        rf = readFile(data)
     except:
         pass
-    #return JsonResponse({'History': rf}, safe=False)
     return HttpResponse(rf, content_type='application/json')
 
 def seeHistoryCrawl(request):
     path = os.getcwd()
-    json_files = glob.glob(os.path.join(path, "*_crawl.json"))
+    ip_address = get_client_ip(request)
+    # json_files = glob.glob(os.path.join(path, "*_crawl.json"))
+    json_files = glob.glob(os.path.join(path, ip_address + "_crawl.json"))
     for j in json_files:
         data = j
     try:
        rf = readFile(data)
     except:
         pass
-    #return JsonResponse({'History': rf}, safe=False)
     return HttpResponse(rf, content_type='application/json')
+
 def crawlWebsite(request):
     if request.POST:
         websiteUrl = request.POST.get('WebsiteUrl')
         websiteName = request.POST.get('WebsiteName')
-        website_info = crawl(websiteUrl, 3, websiteName)
+        website_info = crawl(websiteUrl, websiteName)
         url = re.compile(r"https?://(www\.)?")
         ip_add = get_client_ip(request)
         saveCrawlData(websiteUrl, websiteName, ip_add)
@@ -61,56 +64,3 @@ def search(request):
         return render(request, 'searchresults.html', {'Query': Query, 'Result': Result})
     else:
         return render(request, "home.html")
-
-def crawl(url, depth, filename):
-    try:
-        response = requests.get(url)
-    except:
-        print('Failed to perform HTTP GET request on "%s"\n' % url)
-        return
-    website = BeautifulSoup(response.text, 'lxml')
-    try:
-        title = website.find('title').text
-        paragraph = ''
-        h1 = ''
-        a = ''
-        div = ''
-        for tag in website.findAll():
-            if tag.name == 'p':
-                paragraph += tag.text.strip().replace('\n', '')
-            if tag.name == 'h1':
-                h1 += tag.text.strip().replace('\n', '')
-            if tag.name == 'a':
-                a += tag.text.strip().replace('\n', '')
-            if tag.name == 'div':
-                div += tag.text.strip().replace('\n', '')
-    except:
-        return
-    result = {
-        'url': url,
-        'title': title,
-        'paragraph': paragraph,
-        'header1' : h1,
-        'a': a,
-        'div' : div
-    }
-    return result.values()
-
-
-def saveInfo(folder, filename, info):
-    try:
-        folder = pathlib.Path("{}".format(folder))
-        folder.mkdir(parents=True)
-        filename = "{}.txt".format(filename)
-        filepath = folder / filename
-        folder = pathlib.Path("{}".format(folder))
-        filename = "{}.txt".format(filename)
-        filepath = folder / filename
-        with filepath.open("w+") as f:
-            f.write(str(info))
-    except FileExistsError:
-        folder = pathlib.Path("{}".format(folder))
-        filename = "{}.txt".format(filename)
-        filepath = folder / filename
-        with filepath.open("w+") as f:
-            f.write(str(info))

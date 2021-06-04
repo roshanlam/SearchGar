@@ -1,126 +1,184 @@
-import os, nltk, re, pathlib
+import os, nltk, re
 from nltk import word_tokenize
 from nltk.corpus import stopwords
-nltk.download('stopwords') # helps remove stop words such as "the", "and" etc
-nltk.download('punkt') # Punkt sentence tokenizer, helps break down text
+from nltk.stem import PorterStemmer
 
+# from .Index import iIndex
+
+#nltk.download('stopwords')
+#nltk.download('punkt')
+ps = PorterStemmer()
+cachedStopWords = stopwords.words("english")
 files = os.listdir("Data/")
 
-f = open("words.txt","r")
-contents = f.readlines()
 vocab = []
-for word in contents:
-	vocab.append(word[0:-1].lower())
+with open('words.txt', 'r') as f:
+    contents = f.readlines()
+    for word in contents:
+        vocab.append(word[0:-1].lower())
 word_set = set(vocab)
 
 def process_files(dir, filenames):
-	file_to_terms = {}
-	for file in filenames:
-		pattern = re.compile('[\W_]+')
-		name = dir + file
-		file_to_terms[file] = open(name, 'r').read().lower();
-		file_to_terms[file] = pattern.sub(' ',file_to_terms[file])
-		re.sub(r'[\W_]+','', file_to_terms[file])
-		file_to_terms[file] = file_to_terms[file].split()
-	return file_to_terms
+    file_to_terms = {}
+    for file in filenames:
+        # Match a string consisting of a single character like letters and numbers
+        pattern = re.compile('[\W_]+')
+        name = dir + file
+        file_to_terms[file] = open(name, 'r').read().lower();
+        file_to_terms[file] = pattern.sub(' ', file_to_terms[file])
+        re.sub(r'[\W_]+', '', file_to_terms[file])
+        file_to_terms[file] = file_to_terms[file].split()
+    return file_to_terms
 
-# listdata = []
-listdata = process_files("Data/",files)
-print("storing keywords in dictionary done")
+# Storing Keywords in a dict
+listdata = process_files("Data/", files)
 
-def index_one_file(termlist):
-	fileIndex = {}
-	for index, word in enumerate(termlist):
-		if word in fileIndex.keys():
-			fileIndex[word].append(index)
-		else:
-			fileIndex[word] = [index]
-	return fileIndex
+#
+# Input - [word1, word2, word3, word4....]
+#
+# Output - {word1: [position1, position2],....}
+#
+def indexFile(wordList):
+    fileIndex = {}
+    for index, word in enumerate(wordList):
+        if word in fileIndex.keys():
+            fileIndex[word].append(index)
+        else:
+            fileIndex[word] = [index]
+    return fileIndex
 
-def make_indices(termlists):
-	total = {}
-	for filename in termlists.keys():
-		total[filename] = index_one_file(termlists[filename])
-	return total
+
+#
+# Takes the result of fileToTerms and creates
+# a new hashtable (in python it's basically a dict)
+# with key of filename and with values which are result of
+# the previous function which makes it a nested
+# hashtable/dict
+#
+def make_indices(wordLists):
+    total = {}
+    for filename in wordLists.keys():
+        total[filename] = indexFile(wordLists[filename])
+    return total
 
 indexwordallfiles = make_indices(listdata)
 
-print("constructing inverted index.")
-def fullIndex(regdex):
-	total_index = {}
-	for filename in regdex.keys():
-		for word in regdex[filename].keys():
-			if word in total_index.keys():
-				if filename in total_index[word].keys():
-					total_index[word][filename].extend(regdex[filename][word][:])
-				else:
-					total_index[word][filename] = regdex[filename][word]
-			else:
-				total_index[word] = {filename: regdex[filename][word]}
-	return total_index
-wordindex = fullIndex(indexwordallfiles)
 
-print("now proceeding with the query part")
+# input (indexinfo) = {filename: {word: [position1, position2, position3 ...], ... }}
+# result = {word: {filename: [position1, position2, position3]}, ...}, ...}
+
+def InvertedIndex(indexInfo):
+    total_index = {}
+    for filename in indexInfo.keys():
+        for _word in indexInfo[filename].keys():
+            if _word in total_index.keys():
+                if filename in total_index[_word].keys():
+                    total_index[_word][filename].extend(indexInfo[filename][_word][:])
+                else:
+                    total_index[_word][filename] = indexInfo[filename][_word]
+            else:
+                total_index[_word] = {filename: indexInfo[filename][_word]}
+    return total_index
+
+word_index = InvertedIndex(indexwordallfiles)
+
 def one_word_query(word, invertedIndex):
-	pattern = re.compile('[\W_]+')
-	word = pattern.sub(' ',word)
-	if word in invertedIndex.keys():
-		# return [filename for filename in invertedIndex[word].keys()]
-		return list(invertedIndex[word])
-	else:
-		return []
+    pattern = re.compile('[\W_]+')
+    word = pattern.sub(' ', word)
+    word = ''.join([w for w in word.split() if w not in cachedStopWords])
+    if word in invertedIndex.keys():
+        #a = [filename for filename in invertedIndex[word].keys()]
+        #print(type(a))
+        #return a
+        return list(invertedIndex[word])
+    else:
+        return []
+
+# makes sure one of the words in the query appears in the document
+def standard_query(query):
+    pattern = re.compile('[\W_]+')
+    query = pattern.sub(' ', query.lower())
+    result = []
+    for word in query.split():
+        result.append(set(one_word_query(word, word_index)))
+    i = len(result)
+    # Ensures every word in query shows up in the final list
+    A = result[0].intersection(result[i - 1])
+    for i in range(1, len(result) - 1):
+        A = A.intersection(result[i + 1])
+    return list(A)
+    #return rankResults(list(set(result)), query)
+
+def rankResults(result, query):
+    vector = create_vector(result)
+    #query_vector = query_vector(query)
+    #results = [[dotProduct(vectors[_result], query_vector), _result] for _result in result]
+    results = []
+    # sort and return index 0 of the lists element
+    results.sort(key = lambda y: y[0])
+    results = [y[1] for y in results]
+    return results
 
 
-def free_text_query(string):
-	pattern = re.compile('[\W_]+')
-	string = pattern.sub(' ',string.lower())
-	result = []
-	print(" returning intersection of files")
-	for word in string.split():
-		result.append(set(one_word_query(word,wordindex)))
-	# A={}
-	A = result[0].intersection(result[1])
-	for i in range(1,len(result)-1):
-		A = A.intersection(result[i+1])
-	return list(A)
+def execute(self):
+    return self.InvertedIndex()
 
+def get_uniques(self):
+    return self.execute().keys()
+
+def genScore(term, doc):
+    pass
+
+def create_vector(self, docs):
+    vector = {}
+    for doc in docs:
+        docVector = [0] * len(self.get_uniques())
+        for i, term in enumerate(self.get_uniques()):
+            docVector[i] = self.genScore(term, doc)
+        vector[doc] = docVector
+    return vector
+# Calculating inverse document frequency - the total num of documents divided by the num
+# of docs term x shows up in
+#             Num. of doc x shows up
+# idf = NOD / NODxSU
 k = len(files)
 dic = {}
-for item in wordindex:
-	k = 0
-	for fil in wordindex[item]:
-		k += (len(wordindex[item][fil]))
-	dic[item] = k
+for item in word_index:
+    k = 0
+    for fil in word_index[item]:
+        k += (len(word_index[item][fil]))
+    dic[item] = k
 
-print(len(dic))
-
+"""
+1. Creates a list of dict's keys and values
+2. Returns key with the maxium value
+"""
 def keywithmaxval(d):
-     """ a) create a list of the dict's keys and values; 
-         b) return the key with the max value"""  
-     try:
-      v = list(d.values())
-      k = list(d.keys())
-      value = k[v.index(max(v))]
-      return value
-     except:
-      return
+    try:
+        v = list(d.values())
+        k = list(d.keys())
+        value = k[v.index(max(v))]
+        return value
+    except:
+        return
 
 def startQuery(query):
-	pattern = re.compile('[\W_]+')
-	query = pattern.sub(' ',query.lower())
-	txtlist = word_tokenize(str(query))
-	txtlist = [word for word in txtlist if not word in stopwords.words('english')]
-	toreturn = {}
-	for f in files:
-		toreturn[f]=0
-	for item in txtlist:
-		listfilename = one_word_query(item,wordindex)
-		for t in listfilename:
-			toreturn[t] +=1
-	num_of_files = len([iq for iq in os.scandir('Data/')])
-	for i in range(num_of_files):
-		tx = keywithmaxval(toreturn)
-		# print("filename ", tx ," score ", toreturn[tx])
-	return tx
-	if toreturn[tx] != 0:
-		del toreturn[tx]
+    pattern = re.compile('[\W_]+')
+    query = pattern.sub(' ', query.lower())
+    txtlist = word_tokenize(str(query))
+    txtlist = [word for word in txtlist if not word in stopwords.words('english')]
+    toreturn = {}
+    for file in files:
+        toreturn[file] = 0
+    for _item in txtlist:
+        #listfilename = one_word_query(_item, word_index)
+        listfilename = standard_query(query)
+        for t in listfilename:
+            toreturn[t] += 1
+    # num_of_files = len([iq for iq in os.scandir('Data/')])
+    tx = keywithmaxval(toreturn)
+    for i in range(1):
+        # tx = dict((k, v) for k, v in toreturn.items() if v >= 1)
+        # print("filename ", tx, " score ", toreturn[tx])
+        print(tx, toreturn[tx])
+    return tx

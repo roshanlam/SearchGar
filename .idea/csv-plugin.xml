@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/ReadMe.md">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/SearchEngine/Crawler/Crawler2.py">
           <value>
             <Attribute>
