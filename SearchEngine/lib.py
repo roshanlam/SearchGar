@@ -66,7 +66,6 @@ def saveInfo(folder, filename, info):
         with filepath.open("w+") as f:
             f.write(str(info))
 
-
 def get_client_ip(request):
     x_forwarded_for = request.META.get('HTTP_X_FORWARDED_FOR')
     if x_forwarded_for:

@@ -1,13 +1,13 @@
-import os, nltk, re
+import os,re
+import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
+# from nltk.stem import PorterStemmer
 
-# from .Index import iIndex
+nltk.download('stopwords')
+nltk.download('punkt')
 
-#nltk.download('stopwords')
-#nltk.download('punkt')
-ps = PorterStemmer()
+# ps = PorterStemmer()
 cachedStopWords = stopwords.words("english")
 files = os.listdir("Data/")
 
@@ -39,18 +39,18 @@ listdata = process_files("Data/", files)
 # Output - {word1: [position1, position2],....}
 #
 def indexFile(wordList):
-    fileIndex = {}
+    file_index = {}
     for index, word in enumerate(wordList):
-        if word in fileIndex.keys():
-            fileIndex[word].append(index)
+        if word in file_index.keys():
+            file_index[word].append(index)
         else:
-            fileIndex[word] = [index]
-    return fileIndex
+            file_index[word] = [index]
+    return file_index
 
 
 #
 # Takes the result of fileToTerms and creates
-# a new hashtable (in python it's basically a dict)
+# a new hashtable (basically a dict)
 # with key of filename and with values which are result of
 # the previous function which makes it a nested
 # hashtable/dict
@@ -66,7 +66,6 @@ indexwordallfiles = make_indices(listdata)
 
 # input (indexinfo) = {filename: {word: [position1, position2, position3 ...], ... }}
 # result = {word: {filename: [position1, position2, position3]}, ...}, ...}
-
 def InvertedIndex(indexInfo):
     total_index = {}
     for filename in indexInfo.keys():
@@ -82,14 +81,13 @@ def InvertedIndex(indexInfo):
 
 word_index = InvertedIndex(indexwordallfiles)
 
+
+# Returns a list of all the keys in a hashtable/dict for each word in the index
 def one_word_query(word, invertedIndex):
     pattern = re.compile('[\W_]+')
     word = pattern.sub(' ', word)
     word = ''.join([w for w in word.split() if w not in cachedStopWords])
     if word in invertedIndex.keys():
-        #a = [filename for filename in invertedIndex[word].keys()]
-        #print(type(a))
-        #return a
         return list(invertedIndex[word])
     else:
         return []
@@ -107,9 +105,9 @@ def standard_query(query):
     for i in range(1, len(result) - 1):
         A = A.intersection(result[i + 1])
     return list(A)
-    #return rankResults(list(set(result)), query)
+    # return rankResults(list(set(result)), query)
 
-def rankResults(result, query):
+"""def rankResults(result, query):
     vector = create_vector(result)
     #query_vector = query_vector(query)
     #results = [[dotProduct(vectors[_result], query_vector), _result] for _result in result]
@@ -136,7 +134,7 @@ def create_vector(self, docs):
         for i, term in enumerate(self.get_uniques()):
             docVector[i] = self.genScore(term, doc)
         vector[doc] = docVector
-    return vector
+    return vector"""
 # Calculating inverse document frequency - the total num of documents divided by the num
 # of docs term x shows up in
 #             Num. of doc x shows up
@@ -170,15 +168,14 @@ def startQuery(query):
     toreturn = {}
     for file in files:
         toreturn[file] = 0
-    for _item in txtlist:
-        #listfilename = one_word_query(_item, word_index)
-        listfilename = standard_query(query)
-        for t in listfilename:
-            toreturn[t] += 1
+    # for _item in txtlist:
+        # listfilename = one_word_query(_item, word_index)
+    listfilename = standard_query(query)
+    for t in listfilename:
+        toreturn[t] += 1
     # num_of_files = len([iq for iq in os.scandir('Data/')])
     tx = keywithmaxval(toreturn)
     for i in range(1):
         # tx = dict((k, v) for k, v in toreturn.items() if v >= 1)
-        # print("filename ", tx, " score ", toreturn[tx])
-        print(tx, toreturn[tx])
+        print("filename ", tx, " score ", toreturn[tx])
     return tx
