@@ -6,7 +6,7 @@
 
   <h3 align="center">Search Engine</h3>
   <p align="center">
-    A Search Engine (This is the development branch, please check the main branch for the stable verison) for one of my honors project, this is the first honors project.
+    A Search Engine (This is the development branch, please check the main branch for the stable version) for one of my honors project, this is the first honors project.
     <br />
     <br />
     <br />
@@ -79,5 +79,5 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 - [x] Store User's basic Information in a json file 
 - [x] Show User's basic Information on url/seeHistory/Crawl and url/seeHistory/Query
 - [ ] Logo Design
-- [x] Sucessfully Finish Working on Github Actions
+- [x] Successfully Finish Working on Github Actions
 - [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
