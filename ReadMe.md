@@ -81,4 +81,4 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 - [x] Successfully Finish Working on Github Actions
 - [ ] Logo Design
 - [ ] Let User's Login and SignUp and View Their Search/Crawl History from anywhere.
-- [ ] Improve the main search and crawler code for better information retrieval from websites and better ranking as well as returning mutiple returns instead of one
+- [ ] Improve the main search and crawler code for better information retrieval from websites and better ranking as well as returning multiple returns instead of one
