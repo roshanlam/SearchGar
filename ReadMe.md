@@ -78,6 +78,7 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 - [x] Work on the actual search functionality 
 - [x] Store User's basic Information in a json file 
 - [x] Show User's basic Information on url/seeHistory/Crawl and url/seeHistory/Query
-- [ ] Logo Design
 - [x] Successfully Finish Working on Github Actions
-- [ ] Share the finished version with the world (after merging it with [hammer](https://github.com/roshanlam/hammer))
+- [ ] Logo Design
+- [ ] Let User's Login and SignUp and View Their Search/Crawl History from anywhere.
+- [ ] Improve the main search and crawler code for better information retrival from websites and better ranking and returning mutiple returns instead of one
