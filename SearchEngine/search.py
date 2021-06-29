@@ -150,7 +150,7 @@ for item in word_index:
 
 """
 1. Creates a list of dict's keys and values
-2. Returns key with the maxium value
+2. Returns key with the maximum value
 """
 def keywithmaxval(d):
     try:
