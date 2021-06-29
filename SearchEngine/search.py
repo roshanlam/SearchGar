@@ -1,9 +1,10 @@
-import os,re
+import os
+import re
 import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
-# from nltk.stem import PorterStemmer
 
+# from nltk.stem import PorterStemmer
 nltk.download('stopwords')
 nltk.download('punkt')
 
