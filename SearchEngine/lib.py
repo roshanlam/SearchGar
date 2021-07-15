@@ -1,5 +1,7 @@
 from datetime import datetime
-import json, codecs, requests
+import json
+import codecs
+import requests
 from bs4 import BeautifulSoup
 import pathlib
 
