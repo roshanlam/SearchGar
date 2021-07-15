@@ -9,9 +9,6 @@ from urllib.parse import urljoin, urlparse
 
 log = logging.getLogger('Main.crawler')
 
-# DO NOT MODIFY/EDIT THIS FILE AS OF RIGHT NOW
-# IT IS BEING WORKED ON
-
 class Crawler(object):
     def __init__(self, args):
         self.depth = args.depth
@@ -45,4 +42,3 @@ class Crawler(object):
         self.isCrawling = False
         self.threadPool.stopThreads()
         self.database.close()
-
