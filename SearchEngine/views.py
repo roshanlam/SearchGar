@@ -7,6 +7,7 @@ from .search import startQuery
 from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile, crawl, saveInfo
 from django.http import JsonResponse
 from django.http import HttpResponse
+from rest_framework.decorators import api_view
 
 def index(request):
     return render(request, 'index.html')
@@ -53,6 +54,7 @@ def crawlWebsite(request):
     else:
         return render(request, 'submitWebsite.html')
 
+@api_view(['GET', 'POST'])
 def search(request):
     if request.POST:
         Query = request.POST.get('searchQuery')

@@ -94,6 +94,7 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 - [x] Show User's basic Information on url/seeHistory/Crawl and url/seeHistory/Query
 - [x] Successfully Finish Working on Github Actions
 - [x] Logo Design
+- [ ] Add NextJS For The FrontEnd
+- [ ] Make Searching and Crawling Website Possible With NextJS and Django.  
 - [ ] Let User's Login and SignUp and View Their Search/Crawl History from anywhere.
 - [ ] Improve the main search and crawler code for better information retrieval from websites and better ranking as well as returning multiple returns instead of one
-- [ ] Add NextJS For The FrontEnd

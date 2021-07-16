@@ -11,7 +11,7 @@ export default function WebsiteCrawlRequest() {
           <FormCard>
             <dd className="text-xl">Request Website To Be Crawled</dd>
             <form
-              action=""
+              action="http://127.0.0.1:8000/submitWebsite/"
               method="post"
               className="flex flex-col items-center w-full space-y-4 > *"
             >
