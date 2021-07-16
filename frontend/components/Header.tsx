@@ -23,10 +23,21 @@ export const Header = () => (
             <Link href="/login">
               <a className="ml-8">Sign in</a>
             </Link>
-
+            <Link href="/search">
+              <a className="ml-8">
+                Search
+              </a>
+            </Link>
+            <Link href="/history">
+              <a className="ml-8">
+                History
+              </a>
+            </Link>
+            <Link href="/websitecrawlrequest">
             <a className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-gray-900 hover:bg-gray-800">
               Websites To Crawl Request
             </a>
+            </Link>
           </div>
         </div>
       </div>
