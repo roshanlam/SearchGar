@@ -6,6 +6,7 @@ import re
 import traceback
 from collections import deque
 from urllib.parse import urljoin, urlparse
+"""
 
 log = logging.getLogger('Main.crawler')
 
@@ -42,3 +43,5 @@ class Crawler(object):
         self.isCrawling = False
         self.threadPool.stopThreads()
         self.database.close()
+
+"""

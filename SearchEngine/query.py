@@ -32,8 +32,8 @@ class Query:
         listOfLists, result = [], []
         for word in string.split():
             listOfLists.append(self.one_word_query(word))
-        setted = set(listOfLists[0]).intersection(*listOfLists)
-        for filename in setted:
+        sets = set(listOfLists[0]).intersection(*listOfLists)
+        for filename in sets:
             temp = []
             for word in string.split():
                 temp.append(self.invertedIndex[word][filename][:])
