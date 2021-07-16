@@ -108,7 +108,7 @@ def standard_query(query):
     return list(A)
     # return rankResults(list(set(result)), query)
 
-"""def rankResults(result, query):
+def rankResults(result, query):
     vector = create_vector(result)
     #query_vector = query_vector(query)
     #results = [[dotProduct(vectors[_result], query_vector), _result] for _result in result]
@@ -135,7 +135,7 @@ def create_vector(self, docs):
         for i, term in enumerate(self.get_uniques()):
             docVector[i] = self.genScore(term, doc)
         vector[doc] = docVector
-    return vector"""
+    return vector
 # Calculating inverse document frequency - the total num of documents divided by the num
 # of docs term x shows up in
 #             Num. of doc x shows up
