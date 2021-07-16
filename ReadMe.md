@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/roshanlam/HonorsPy/">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+    <img src="./SearchItLogo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Search Engine</h3>
@@ -28,22 +28,36 @@ It's a search engine that gives you control for your privacy, no ads, no bias re
 
 
 ### Built With
-- [ ] Python
-- [ ] Django
-- [ ] HTML
-- [ ] CSS
-- [ ] Bootstrap
-- [ ] JS
-
+- [x] Python
+- [x] Django
+- [x] HTML
+- [x] CSS
+- [x] Bootstrap
+- [x] JS
+- [ ] NextJS (In Progress)
 <h3> Prerequisites </h3>
 
 * Python
 * Django
+* Node
+* ReactJS
+* NextJS  
 * Docker
 * Docker Compose
 
 ### Installation
 
+#### Frontend
+
+1. `git clone https://github.com/roshanlam/HonorsPy`
+2. `cd frontend`
+If doing dev work run #3 and skip 4 & 5. Do not run #3 if not doing dev work.
+3. `npm run dev`
+4. `npm run build`
+5. `npm start`
+
+
+#### Backend
 1. `git clone https://github.com/roshanlam/HonorsPy`
 2. `cd HonorsPy`
 3. `docker-compose build`
@@ -79,7 +93,7 @@ http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
 - [x] Store User's basic Information in a json file 
 - [x] Show User's basic Information on url/seeHistory/Crawl and url/seeHistory/Query
 - [x] Successfully Finish Working on Github Actions
-- [ ] Logo Design
+- [x] Logo Design
 - [ ] Let User's Login and SignUp and View Their Search/Crawl History from anywhere.
 - [ ] Improve the main search and crawler code for better information retrieval from websites and better ranking as well as returning multiple returns instead of one
-- [ ] Add ReactJS For The FrontEnd
+- [ ] Add NextJS For The FrontEnd
