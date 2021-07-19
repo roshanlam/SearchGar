@@ -1,38 +1,47 @@
 import Link from "next/link";
-
 import { FormButton, FormCard, FormInput } from "@components/Form";
 import { Layout } from "@components/Layout";
+import {SyntheticEvent, useState} from "react";
+import {useRouter} from "next/router";
 
-export default function Signup() {
+const SignUp = () => {
+      const [email, setEmail] = useState('');
+      const [password, setPassword] = useState('');
+      const router = useRouter();
+      const handleSignUp = async (e: SyntheticEvent) => {
+            e.preventDefault();
+            await fetch('http://localhost:8000/register/', {
+                method: "POST",
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    email,
+                    password
+                })
+            });
+            await router.push('/login');
+        }
+
   return (
-    <>
+      <>
       <Layout>
         <div className="py-20 bg-gray-100 flex justify-center items-center ">
           <FormCard>
             <dd className="text-xl">Sign Up</dd>
             <form
-              action=""
-              method="post"
+              onSubmit={handleSignUp}
               className="flex flex-col items-center w-full space-y-4 > *"
             >
               <FormInput
-                label="Username"
-                name="username"
-                type="text"
-                required
+                  label="Email" name="email"
+                  type="text" required
+                  onChange={e => setEmail(e.target.value)}
               />
-              <FormInput label="Email" name="email" type="text" required />
               <FormInput
                 label="Password"
                 name="password"
                 type="password"
                 required
-              />
-              <FormInput
-                label="Re-Enter Password"
-                name="verifyPassword"
-                type="password"
-                required
+                onChange={e => setPassword(e.target.value)}
               />
               <FormButton type="submit">Login</FormButton>
             </form>
@@ -52,6 +61,7 @@ export default function Signup() {
           </FormCard>
         </div>
       </Layout>
-    </>
+      </>
   );
-}
+};
+export default SignUp;

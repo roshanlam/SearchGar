@@ -4,9 +4,7 @@ from pathlib import Path
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'SomethingSecretNeedsToGoHere'
 DEBUG = True
-G_CLIENT_ID = ''
-G_CLIENT_SECRET = ''
-ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', 'localhost']
 
 INSTALLED_APPS = [
     'SearchEngine', 
@@ -17,6 +15,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
+    'rest_framework',
+    'corsheaders',
 ]
 
 TEMPLATE_CONTEXT_PROCESSORS = (
@@ -27,8 +27,6 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.core.context_processors.static',
     'django.core.context_processors.tz',
     'django.contrib.messages.context_processors.messages',
-
-
 )
 
 # Authentication backends Setting
@@ -89,6 +87,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+AUTH_USER_MODEL = 'SearchEngine.User'
+CORS_ORIGIN_ALLOW_ALL = True
+CORS_ALLOW_CREDENTIALS = True
 LANGUAGE_CODE = 'en-us'
 TIME_ZONE = 'UTC'
 USE_I18N = True

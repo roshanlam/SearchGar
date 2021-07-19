@@ -7,7 +7,14 @@ from .search import startQuery
 from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile, crawl, saveInfo
 from django.http import JsonResponse
 from django.http import HttpResponse
-from rest_framework.decorators import api_view
+import datetime
+import jwt
+from rest_framework.views import APIView
+from rest_framework.exceptions import AuthenticationFailed
+from rest_framework.response import Response
+
+from .models import User
+from .serializers import UserSerializer
 
 def index(request):
     return render(request, 'index.html')
@@ -54,8 +61,19 @@ def crawlWebsite(request):
     else:
         return render(request, 'submitWebsite.html')
 
-@api_view(['GET', 'POST'])
 def search(request):
+    query = ''
+    if request.method == 'POST':
+        query = request.POST.get("searchquery", "")
+        ip_address = get_client_ip(request)
+        saveQueryData(query, ip_address)
+        Result = startQuery(query)
+        Result = os.path.splitext(Result)[0]
+        Result = "https://" + Result
+        return JsonResponse({'Result': Result})
+    else:
+        return JsonResponse({'Result': 'None'})
+    """
     if request.POST:
         Query = request.POST.get('searchQuery')
         ip_add = get_client_ip(request)
@@ -66,3 +84,60 @@ def search(request):
         return render(request, 'searchresults.html', {'Query': Query, 'Result': Result})
     else:
         return render(request, "home.html")
+    """
+
+class RegisterView(APIView):
+    def post(self, request):
+        serializer = UserSerializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(serializer.data)
+
+class LoginView(APIView):
+    def post(self, request):
+        email = request.data['email']
+        password = request.data['password']
+
+        user = User.objects.filter(email=email).first()
+
+        if user is None:
+            raise AuthenticationFailed('User not found!')
+
+        if not user.check_password(password):
+            raise AuthenticationFailed('Incorrect password')
+
+        payload = {
+            'id': user.id,
+            'exp': datatime.datetime.utcnow() + datetime.timedelta(minutes=60),
+            'iat': datetime.datetime.utcnow(),
+        }
+
+        key = "secret"
+        token = jwt.encode(payload, key, algorithm="HS256")
+        response = Response()
+        response.set_cookie(key="JWT", value=token, httponly=True)
+        response.data = {"JWT": token}
+        return response
+
+class UserView(APIView):
+    def get(self, request):
+        token = request.COOKIES.get('JWT')
+
+        if not token:
+            raise AuthenticationFailed('Unauthenticated')
+
+        try:
+            payload = jwt.decode(token, 'secret', algorithums=['HS256'])
+        except jwt.ExpiredSignatureError:
+            raise AuthenticationFailed('Unauthenticated')
+
+        user = User.objects.filter(id=payload['id']).first()
+        serializer = UserSeriallizer(user)
+        return Response(serializer.data)
+
+class LogoutView(APIView):
+    def post(self, request):
+        response = Response()
+        response.delete_cookie('JWT')
+        response.data = {"message":"success"}
+        return response

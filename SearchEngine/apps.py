@@ -2,3 +2,7 @@ from django.apps import AppConfig
 
 class SearchengineConfig(AppConfig):
     name = 'SearchEngine'
+
+class UsersConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'users'

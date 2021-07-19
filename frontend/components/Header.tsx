@@ -23,6 +23,7 @@ export const Header = () => (
             <Link href="/login">
               <a className="ml-8">Sign in</a>
             </Link>
+
             <Link href="/search">
               <a className="ml-8">
                 Search

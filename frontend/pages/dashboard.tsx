@@ -1,8 +1,41 @@
 import { Button } from '@components/Button'
 import { Layout } from '@components/Layout'
 import Image from 'next/image'
+import {SyntheticEvent, useEffect, useState} from "react";
+import {route} from "next/dist/next-server/server/router";
+import {router} from "next/client";
+import {useRouter} from "next/router";
 
-export default function dashboard({ trades }) {
+export default function dashboard() {
+  const SearchHistory = async (e: SyntheticEvent) =>{
+    const [query, setQuery] = useState('');
+    const [time, setTime] = useState('');
+    e.preventDefault()
+    await fetch('https://localhost:8000/seeHistory/Query/',{
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+            credentials: 'include',
+            body: JSON.stringify({
+                time,
+                query
+            })
+    });
+  }
+
+  const CrawlHistory = async (e: SyntheticEvent) =>{
+    const [time, setTime] = useState('');
+    const [websiteName, setWebsiteName] = useState('');
+    const [websiteURl, setWebsiteURl] = useState('');
+    const router = useRouter();
+    e.preventDefault()
+    await fetch('https://localhost:8000/seeHistory/Crawl/', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      credentials: 'include',
+      body: JSON.stringify(time, websiteName, websiteURl)
+    })
+    await router.push('/dashboard');
+  }
   return (
     <>
       <Layout>
@@ -15,12 +48,21 @@ export default function dashboard({ trades }) {
                 </span>
               </div>
               <span className="text-center">
-                Trustworthy, fast, reliable. no scam.
+                Developer
               </span>
               <Button
                 fill
-                type={'secondary'}>
-                Edit Profile
+                type={'secondary'}
+                onSubmit={SearchHistory}
+              >
+                See Search History
+              </Button>
+              <Button
+                fill
+                type={'secondary'}
+                onSubmit={CrawlHistory}
+              >
+                See Crawl History
               </Button>
             </div>
           </div>
