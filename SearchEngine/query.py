@@ -1,9 +1,9 @@
 from Index import BuildIndex
-import re
+import re, glob
 
 class Query:
-    def __init__(self, filenames):
-        self.filenames = filenames
+    def __init__(self):
+        self.filenames = glob.glob("../Data/*.txt")
         self.index = BuildIndex(self.filenames)
         self.invertedIndex = self.index.totalIndex
         self.regularIndex = self.index.regdex
@@ -24,8 +24,6 @@ class Query:
             result += self.one_word_query(word)
         return self.rankResults(list(set(result)), string)
 
-    # inputs = 'query string', {word: {filename: [pos1, pos2, ...], ...}, ...}
-    # inter = {filename: [pos1, pos2]}
     def phrase_query(self, string):
         pattern = re.compile('[\W_]+')
         string = pattern.sub(' ', string)
@@ -96,5 +94,5 @@ class Query:
         results = [x[1] for x in results]
         return results
 
-q = Query(['../Data/amazon.com.txt'])
-print(q)
+q = Query()
+print(q.phrase_query('roshan'))

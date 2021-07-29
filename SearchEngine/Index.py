@@ -28,8 +28,6 @@ class BuildIndex:
 			#file_to_terms[file] = [stemmer.stem_word(w) for w in file_to_terms[file]]
 		return file_to_terms
 
-	#input = [word1, word2, ...]
-	#output = {word1: [pos1, pos2], word2: [pos2, pos434], ...}
 	def index_one_file(self, termlist):
 		fileIndex = {}
 		for index, word in enumerate(termlist):
@@ -39,16 +37,12 @@ class BuildIndex:
 				fileIndex[word] = [index]
 		return fileIndex
 
-	#input = {filename: [word1, word2, ...], ...}
-	#res = {filename: {word: [pos1, pos2, ...]}, ...}
 	def make_indices(self, termlists):
 		total = {}
 		for filename in termlists.keys():
 			total[filename] = self.index_one_file(termlists[filename])
 		return total
 
-	#input = {filename: {word: [pos1, pos2, ...], ... }}
-	#res = {word: {filename: [pos1, pos2]}, ...}, ...}
 	def fullIndex(self):
 		total_index = {}
 		indie_indices = self.regdex
@@ -94,7 +88,7 @@ class BuildIndex:
 	def term_frequency(self, term, document):
 		return self.tf[document][term]/self.mags[document] if term in self.tf[document].keys() else 0
 
-	def populateScores(self): #pretty sure that this is wrong and makes little sense.
+	def populateScores(self): 
 		for filename in self.filenames:
 			for term in self.getUniques():
 				self.tf[filename][term] = self.term_frequency(term, filename)

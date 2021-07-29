@@ -3,8 +3,6 @@ import pathlib
 from bs4 import BeautifulSoup
 import requests
 import re, os, glob, json
-from .search import startQuery
-from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile, crawl, saveInfo
 from django.http import JsonResponse
 from django.http import HttpResponse
 import datetime
@@ -13,6 +11,8 @@ from rest_framework.views import APIView
 from rest_framework.exceptions import AuthenticationFailed
 from rest_framework.response import Response
 
+from .search import startQuery
+from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile, crawl, saveInfo
 from .models import User
 from .serializers import UserSerializer
 
@@ -97,9 +97,7 @@ class LoginView(APIView):
     def post(self, request):
         email = request.data['email']
         password = request.data['password']
-
         user = User.objects.filter(email=email).first()
-
         if user is None:
             raise AuthenticationFailed('User not found!')
 
@@ -122,15 +120,12 @@ class LoginView(APIView):
 class UserView(APIView):
     def get(self, request):
         token = request.COOKIES.get('JWT')
-
         if not token:
             raise AuthenticationFailed('Unauthenticated')
-
         try:
             payload = jwt.decode(token, 'secret', algorithums=['HS256'])
         except jwt.ExpiredSignatureError:
             raise AuthenticationFailed('Unauthenticated')
-
         user = User.objects.filter(id=payload['id']).first()
         serializer = UserSeriallizer(user)
         return Response(serializer.data)

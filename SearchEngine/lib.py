@@ -1,9 +1,48 @@
 from datetime import datetime
 import json
 import codecs
+from os import remove
 import requests
 from bs4 import BeautifulSoup
 import pathlib
+from sklearn.feature_extraction.text import TfidfVectorizer
+from gensim.parsing.preprocessing import remove_stopwords
+
+class Preprocessing:
+    def __init__(self, txt):
+        nltk.download('punkt')
+        tokens = nltk.sent_tokenize(txt)
+        self.tokens = tokens
+        self.tfidfvectoriser = TfidfVectorizer()
+        
+    def clean_sentence(self, sentence, stopwords=False):
+        sentence = sentence.lower().strip()
+        sentence = re.sub(r'[^a-z0-9\s]', '', sentence)
+        if stopwords:
+            sentence = remove_stopwords(sentence)
+        return sentence
+    
+    def get_cleaned_sentences(self, tokens, stopwords=False):
+        cleaned_sentences = []
+        for line in tokens:
+            cleaned = self.clean_sentence(line, stopwords)
+            cleaned_sentences.append(cleaned)
+        return cleaned_sentences
+    
+    def cleanall(self):
+        cleaned_sentences = self.get_cleaned_sentences(self.tokens, stopwords=True)
+        cleaned_sentences_with_stopwords = self.get_cleaned_sentences(self.tokens, stopwords=False)
+        return [cleaned_sentences, cleaned_sentences_with_stopwords]
+    
+    def TFIDF(self, clean_sentences):
+        self.tfidfvectoriser.fit(clean_sentences)
+        tfidf_vectors = self.tfidfvectoriser.transform(clean_sentences)
+        return tfidf_vectors
+    
+    def doall(self):
+        cleaned_sentences, cleaned_sentences_with_stopwords = self.cleanall()
+        tfidf = self.TFIDF(cleaned_sentences)
+        return [cleaned_sentences, cleaned_sentences_with_stopwords, tfidf]
 
 def crawl(url, filename):
     try:
