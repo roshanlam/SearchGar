@@ -1,9 +1,9 @@
-from Index import BuildIndex
+from .Index import BuildIndex
 import re, glob
 
 class Query:
     def __init__(self):
-        self.filenames = glob.glob("../Data/*.txt")
+        self.filenames = glob.glob("Data/*.txt")
         self.index = BuildIndex(self.filenames)
         self.invertedIndex = self.index.totalIndex
         self.regularIndex = self.index.regdex
@@ -94,5 +94,5 @@ class Query:
         results = [x[1] for x in results]
         return results
 
-q = Query()
-print(q.phrase_query('roshan'))
+
+

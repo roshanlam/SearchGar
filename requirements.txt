@@ -5,6 +5,6 @@ beautifulsoup4
 rich
 lxml
 nltk
-pydrive
-django-allauth
-pandas
+drf_yasg
+djangorestframework
+six

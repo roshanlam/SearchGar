@@ -16,6 +16,8 @@ from .lib import get_client_ip, saveQueryData, saveCrawlData, readFile, crawl, s
 from .models import User
 from .serializers import UserSerializer
 
+import jwt, datetime
+
 def index(request):
     return render(request, 'index.html')
 
@@ -68,8 +70,8 @@ def search(request):
         ip_address = get_client_ip(request)
         saveQueryData(query, ip_address)
         Result = startQuery(query)
-        Result = os.path.splitext(Result)[0]
-        Result = "https://" + Result
+        #Result = os.path.splitext(Result)[0]
+        #Result = "https://" + Result
         return JsonResponse({'Result': Result})
     else:
         return JsonResponse({'Result': 'None'})
@@ -123,7 +125,7 @@ class UserView(APIView):
         if not token:
             raise AuthenticationFailed('Unauthenticated')
         try:
-            payload = jwt.decode(token, 'secret', algorithums=['HS256'])
+            payload = jwt.decode(token, 'secret', algorithm=['HS256'])
         except jwt.ExpiredSignatureError:
             raise AuthenticationFailed('Unauthenticated')
         user = User.objects.filter(id=payload['id']).first()

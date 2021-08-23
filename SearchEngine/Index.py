@@ -115,3 +115,5 @@ class BuildIndex:
 
 	def getUniques(self):
 		return self.totalIndex.keys()
+
+

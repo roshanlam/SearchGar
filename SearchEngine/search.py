@@ -171,12 +171,19 @@ def startQuery(query):
         toreturn[file] = 0
     # for _item in txtlist:
         # listfilename = one_word_query(_item, word_index)
-    listfilename = standard_query(query)
-    for t in listfilename:
-        toreturn[t] += 1
+    from .query import Query
+    q = Query()
+    #listfilename = standard_query(query)
+    listfilename = q.phrase_query(query)
+    print(listfilename)
+    #for t in listfilename:
+    #    toreturn[t] += 1
     # num_of_files = len([iq for iq in os.scandir('Data/')])
-    tx = keywithmaxval(toreturn)
-    for i in range(1):
+    #tx = keywithmaxval(toreturn)
+    #for i in range(1):
         # tx = dict((k, v) for k, v in toreturn.items() if v >= 1)
-        print("filename ", tx, " score ", toreturn[tx])
-    return tx
+    #    print("filename ", tx, " score ", toreturn[tx])
+    #return tx
+    return listfilename
+
+startQuery('Roshan')

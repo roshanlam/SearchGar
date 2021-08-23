@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 import pathlib
 from sklearn.feature_extraction.text import TfidfVectorizer
-from gensim.parsing.preprocessing import remove_stopwords
+#from gensim.parsing.preprocessing import remove_stopwords
 
 class Preprocessing:
     def __init__(self, txt):
@@ -150,3 +150,14 @@ def readFile(path, encoding='utf-8'):
             raise Exception("%s: %s" % (e, path))
     return content
 
+class Colors:
+    def __init__(self):
+        self.HEADER = '\033[95m'
+        self.OKBLUE = '\033[94m'
+        self.OKCYAN = '\033[96m'
+        self.OKGREEN = '\033[92m'
+        self.WARNING = '\033[93m'
+        self.FAIL = '\033[91m'
+        self.ENDC = '\033[0m'
+        self.BOLD = '\033[1m'
+        self.UNDERLINE = '\033[4m'

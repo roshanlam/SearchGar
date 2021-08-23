@@ -22,7 +22,6 @@
     <img src="https://travis-ci.org/roshanlam/HonorsPy.svg?branch=dev"/>
   </div>
   
-<!-- ABOUT THE PROJECT -->
 <h2> About The Project </h2>
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 

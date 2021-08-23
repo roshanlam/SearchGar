@@ -1,47 +1,38 @@
-from locale import getdefaultlocale
-import logging
-import time
-from bs4 import BeautifulSoup
-import re
-import traceback
-from collections import deque
-from urllib.parse import urljoin, urlparse
-"""
+import threading
 
-log = logging.getLogger('Main.crawler')
+from domain import *
+from general import *
+from spider import Spider
+from queue import Queue
 
-class Crawler(object):
-    def __init__(self, args):
-        self.depth = args.depth
-        self.currentDepth = 1
-        self.keyword = args.keyword.decode(getdefaultlocale())
-        self.database = Database(args.dbFile)
-        self.threadPool = ThreadPool(args.dbFile)
-        self.visitedHrefs = set()
-        self.unvisitedHerfs = deque()
-        self.unvisitedHerfs.append(args.url)
-        self.isCrawling = False
+class Crawler:
+    def __init__(self):
+        self.project_name = ""
+        self.homepage = ""
+        self.domain_name = get_domain_name(homepage)
+        self.queue_file = project_name + 'queue.txt'
+        self.crawled_file = project_name + 'crawled.txt'
+        self.num_of_threads = 8
+        self.queue = Queue()
+        Spider(project_name, home_page, domain_name)
 
-    def start(self):
-        print("Started Crawling")
-        if not self._isDatabaseAvaliable():
-            print('Error: Unable to Open Database File')
-        else:
-            self.isCrawling = True
-            self.threadPool.startThreads()
-            while self.currentDepth < self.depth + 1:
-                self._assignCurrentDepthTasks()
-                while self.threadPool.getTaskLeft():
-                    time.sleep(8)
-                print("Depth %d Finished. Totally visited %d links. \n" % (self.currentDepth, len(self.visitedHrefs)))
-                log.info('Depth %d Finish. Total visited Links: %d\n' % (
-                    self.currentDepth, len(self.visitedHrefs)))
-                self.currentDepth += 1
-            self.stop()
+    def create_workers(self):
+        for _ in range(self.num_of_threads):
+            t = threading.Thread(target = work)
+            t.daemon = True
+            t.start()
 
-    def stop(self):
-        self.isCrawling = False
-        self.threadPool.stopThreads()
-        self.database.close()
+    def work(self):
+        while True:
+            url = self.queue.get()
+            Spider.crawl_page(threading.current_thread().name, url)
+            self.queue.task_done()
 
-"""
+    def create_job(self):
+        for link in file_to_set(self.queue_file):
+            self.queue.put(link)
+        self.queue.join()
+        crawl()
+
+    def crawl(self):
+        pass
