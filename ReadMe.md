@@ -25,6 +25,8 @@
 <h2> About The Project </h2>
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
 
+### ToDo
+- [ ] Start adding and commiting more frequently (yes I know I am a horrible person for not adding and commiting everytime I change something lol)
 
 ### Built With
 - [x] Python
