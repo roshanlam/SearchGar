@@ -1,0 +1,21 @@
+$colors: (
+        'alert': #ed5f74,
+        'black': black,
+        'gray-050': #f7fafc,
+        'gray-100': #e3e8ee,
+        'gray-300': #a3acb9,
+        'primary': #042235,
+        'secondary': #556cd6,
+        'tertiary': #1ea672,
+        'white': white,
+);
+
+@each $name, $color in $colors {
+  .#{$name} {
+    color: $color;
+  }
+
+  .#{$name}-bg {
+    background: $color;
+  }
+}

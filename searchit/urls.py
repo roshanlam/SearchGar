@@ -1,6 +1,7 @@
-from django.conf.urls import include, url
+from django.urls import include, path
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^', include('SearchEngine.urls')),
+    path('', include('SearchEngine.urls')),
+    path('', include('accounts.urls')),
 ]

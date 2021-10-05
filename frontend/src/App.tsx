@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {FC, lazy} from 'react';
+import {BrowserRouter as Router, Redirect, Route, Switch} from 'react-router-dom';
+import {Layout} from './components';
+import {ROUTES} from './constants/routes';
+import CreateAccount from './pages/CreateAccount';
+import Home from './pages/Home';
+import Progress from './pages/Progress';
+import SignIn from './pages/SignIn';
+import SignOut from './pages/SignOut';
 
-function App() {
+const App: FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Router>
+        <Layout>
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route exact path={ROUTES.createAccount} render={() => <CreateAccount disabled />} />
+            <Route path={ROUTES.homepage} component={Home}/>
+            <Route path={ROUTES.progress} component={Progress} />
+            <Route exact path={ROUTES.signin} component={SignIn} />
+            <Route exact path={ROUTES.signout} component={SignOut} />
+            <Redirect to="/" />
+          </Switch>
+        </Layout>
+      </Router>
   );
-}
+};
 
 export default App;

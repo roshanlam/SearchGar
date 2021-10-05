@@ -1,0 +1,11 @@
+@mixin core($use-fonts: false) {
+  box-sizing: border-box;
+  line-height: 1.2;
+}
+
+@mixin core-with-fonts {
+  @include core;
+  color: var(--color-primary);
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-regular);
+}

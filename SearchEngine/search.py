@@ -4,11 +4,8 @@ import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 
-# from nltk.stem import PorterStemmer
 nltk.download('stopwords')
 nltk.download('punkt')
-
-# ps = PorterStemmer()
 cachedStopWords = stopwords.words("english")
 files = os.listdir("Data/")
 
@@ -22,7 +19,6 @@ word_set = set(vocab)
 def process_files(dir, filenames):
     file_to_terms = {}
     for file in filenames:
-        # Match a string consisting of a single character like letters and numbers
         pattern = re.compile('[\W_]+')
         name = dir + file
         file_to_terms[file] = open(name, 'r').read().lower();
@@ -31,14 +27,8 @@ def process_files(dir, filenames):
         file_to_terms[file] = file_to_terms[file].split()
     return file_to_terms
 
-# Storing Keywords in a dict
 listdata = process_files("Data/", files)
 
-#
-# Input - [word1, word2, word3, word4....]
-#
-# Output - {word1: [position1, position2],....}
-#
 def indexFile(wordList):
     file_index = {}
     for index, word in enumerate(wordList):
@@ -49,13 +39,6 @@ def indexFile(wordList):
     return file_index
 
 
-#
-# Takes the result of fileToTerms and creates
-# a new hashtable (basically a dict)
-# with key of filename and with values which are result of
-# the previous function which makes it a nested
-# hashtable/dict
-#
 def make_indices(wordLists):
     total = {}
     for filename in wordLists.keys():
@@ -65,8 +48,6 @@ def make_indices(wordLists):
 indexwordallfiles = make_indices(listdata)
 
 
-# input (indexinfo) = {filename: {word: [position1, position2, position3 ...], ... }}
-# result = {word: {filename: [position1, position2, position3]}, ...}, ...}
 def InvertedIndex(indexInfo):
     total_index = {}
     for filename in indexInfo.keys():
@@ -82,8 +63,6 @@ def InvertedIndex(indexInfo):
 
 word_index = InvertedIndex(indexwordallfiles)
 
-
-# Returns a list of all the keys in a hashtable/dict for each word in the index
 def one_word_query(word, invertedIndex):
     pattern = re.compile('[\W_]+')
     word = pattern.sub(' ', word)
@@ -93,7 +72,6 @@ def one_word_query(word, invertedIndex):
     else:
         return []
 
-# makes sure one of the words in the query appears in the document
 def standard_query(query):
     pattern = re.compile('[\W_]+')
     query = pattern.sub(' ', query.lower())
@@ -101,19 +79,14 @@ def standard_query(query):
     for word in query.split():
         result.append(set(one_word_query(word, word_index)))
     i = len(result)
-    # Ensures every word in query shows up in the final list
     A = result[0].intersection(result[i - 1])
     for i in range(1, len(result) - 1):
         A = A.intersection(result[i + 1])
     return list(A)
-    # return rankResults(list(set(result)), query)
 
 def rankResults(result, query):
     vector = create_vector(result)
-    #query_vector = query_vector(query)
-    #results = [[dotProduct(vectors[_result], query_vector), _result] for _result in result]
     results = []
-    # sort and return index 0 of the lists element
     results.sort(key = lambda y: y[0])
     results = [y[1] for y in results]
     return results
@@ -136,10 +109,7 @@ def create_vector(self, docs):
             docVector[i] = self.genScore(term, doc)
         vector[doc] = docVector
     return vector
-# Calculating inverse document frequency - the total num of documents divided by the num
-# of docs term x shows up in
-#             Num. of doc x shows up
-# idf = NOD / NODxSU
+
 k = len(files)
 dic = {}
 for item in word_index:
@@ -148,10 +118,6 @@ for item in word_index:
         k += (len(word_index[item][fil]))
     dic[item] = k
 
-"""
-1. Creates a list of dict's keys and values
-2. Returns key with the maximum value
-"""
 def keywithmaxval(d):
     try:
         v = list(d.values())
@@ -169,21 +135,8 @@ def startQuery(query):
     toreturn = {}
     for file in files:
         toreturn[file] = 0
-    # for _item in txtlist:
-        # listfilename = one_word_query(_item, word_index)
     from .query import Query
     q = Query()
-    #listfilename = standard_query(query)
     listfilename = q.phrase_query(query)
     print(listfilename)
-    #for t in listfilename:
-    #    toreturn[t] += 1
-    # num_of_files = len([iq for iq in os.scandir('Data/')])
-    #tx = keywithmaxval(toreturn)
-    #for i in range(1):
-        # tx = dict((k, v) for k, v in toreturn.items() if v >= 1)
-    #    print("filename ", tx, " score ", toreturn[tx])
-    #return tx
     return listfilename
-
-startQuery('Roshan')

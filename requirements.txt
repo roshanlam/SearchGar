@@ -5,6 +5,7 @@ beautifulsoup4
 rich
 lxml
 nltk
-drf_yasg
 djangorestframework
 six
+knox
+psycopg2

@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 import pathlib
 from sklearn.feature_extraction.text import TfidfVectorizer
-#from gensim.parsing.preprocessing import remove_stopwords
+# from gensim.parsing.preprocessing import remove_stopwords
 
 class Preprocessing:
     def __init__(self, txt):

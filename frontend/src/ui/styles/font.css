@@ -1,0 +1,20 @@
+@font-face {
+    font-family: JetBrainsMono;
+    src: url('./fonts/JetBrainsMono/JetBrainsMono-Regular.woff2')
+    format('woff2'),
+    url('./fonts/JetBrainsMono/JetBrainsMono-Regular.woff')
+    format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600;700&display=swap');
+
+:root {
+    --font-family-default: Inter, sans-serif;
+    --font-family-mono-roboto: 'Roboto Mono', monospace;
+    --font-family-mono: JetBrainsMono, monospace;
+    --font-size-large: 24px;
+    --font-size-medium: 20px;
+    --font-size-regular: 16px;
+    --font-size-small-regular: 14px;
+    --font-size-small: 12px;
+}

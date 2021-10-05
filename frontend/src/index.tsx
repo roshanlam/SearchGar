@@ -2,16 +2,32 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import {Flip, ToastContainer} from 'react-toastify';
+import {HelmetProvider} from 'react-helmet-async';
+import 'normalize.css';
+import 'react-toastify/dist/ReactToastify.css';
+import 'styles/main.scss';
+import 'core-js/es/map';
+import 'core-js/es/set';
+import 'raf/polyfill';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <HelmetProvider>
+          <App/>
+      </HelmetProvider>
+      <ToastContainer
+      autoClose={3000}
+      closeOnClick
+      draggable
+      hideProgressBar
+      newestOnTop
+      pauseOnFocusLoss
+      pauseOnHover
+      position="top-right"
+      rtl={false}
+      transition={Flip}
+      />
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
