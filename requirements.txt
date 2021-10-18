@@ -6,6 +6,7 @@ rich
 lxml
 nltk
 djangorestframework
+djangorestframework-simplejwt
 six
-knox
 psycopg2
+django-cors-headers
