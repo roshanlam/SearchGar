@@ -16,9 +16,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'corsheaders',
+    'crispy_forms',
     'rest_framework',
-    'accounts',
+    'rest_framework.authtoken',
     'SearchEngine',
+    'main'
 ]
 
 
@@ -122,7 +124,11 @@ REST_FRAMEWORK = {
     ),
     'DEFAULT_RENDERER_CLASSES': (
         'rest_framework.renderers.JSONRenderer',
-    )
+    ),
+
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
 }
 
 CORS_ALLOWED_ORIGINS = [
@@ -130,8 +136,13 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000"
 ]
 
-#AUTH_USER_MODEL = 'accounts.User'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+#AUTH_USER_MODEL = 'accounts.models'
+
+REACT_APP_DIR = os.path.join(os.path.dirname(BASE_DIR), 'frontend')
+REACT_APP_URL = os.getenv('REACT_APP_URL')
+
 
 SPECTACULAR_SETTINGS = {
     'TITLE': 'SearchIt API',

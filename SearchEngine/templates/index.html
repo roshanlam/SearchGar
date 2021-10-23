@@ -1,39 +1,11 @@
-<title>Welcome To SearchIt</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+{% extends 'base.html' %}
+{% load static %}
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="/home"><b>SearchIt</b></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                    <div class="input-group">&nbsp;
-                     <a class="nav-link" href="/submitWebsite/">Submit Website</a>
-                      </div>
-                </li>
-            <li class="nav-item">
-                            <div class="input-group">
-                <a class="nav-link" href="/seeHistory/Query/">See History Of Queries</a>
-            </div>
-            </li>
-
-            <li class="nav-item">
-                <div class="input-group">
-                <a class="nav-link" href="/seeHistory/Crawl/">See History Of Crawl</a>
-            </div>
-            </li>
-        </ul>
-
+{% block content %}
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Welcome, This website is being developed</h1>
     </div>
-</nav>
+{% endblock %}
 
-    <body>
-  <h1 align="center">Welcome To Search It</h1>
-    </body>
+{% block hidden_content %}
+{% endblock %}

@@ -6,7 +6,12 @@ rich
 lxml
 nltk
 djangorestframework
+djangorestframework-jwt
 djangorestframework-simplejwt
+psycopg2
+PyJWT
+pytz
 six
 psycopg2
 django-cors-headers
+django-crispy-forms
