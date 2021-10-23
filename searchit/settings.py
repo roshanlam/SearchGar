@@ -143,7 +143,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 REACT_APP_DIR = os.path.join(os.path.dirname(BASE_DIR), 'frontend')
 REACT_APP_URL = os.getenv('REACT_APP_URL')
 
-
+PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
+STATIC_ROOT = os.path.join(PROJECT_DIR, 'static')
 SPECTACULAR_SETTINGS = {
     'TITLE': 'SearchIt API',
     'DESCRIPTION': 'API for SearchIt',
