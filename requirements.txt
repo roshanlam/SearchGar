@@ -1,7 +1,3 @@
-annoy
-transformers
-sentence_transformers
-sklearn
-numpy
+beautifulsoup4
 flask
-nltk
+redis
