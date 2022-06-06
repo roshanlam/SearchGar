@@ -1,0 +1,1276 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Developers Product Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Products
+
+
+
+
+
+
+Develop
+
+
+
+                      Android
+                    
+
+
+
+
+
+                      Chrome OS
+                    
+
+
+
+
+
+                      Cloud
+                    
+
+
+
+
+
+                      Firebase
+                    
+
+
+
+
+
+                      Flutter
+                    
+
+
+
+
+
+                      Google Assistant
+                    
+
+
+
+
+
+                      Google Workspace
+                    
+
+
+
+
+
+                      Maps Platform
+                    
+
+
+
+
+
+                      TensorFlow
+                    
+
+
+
+
+
+                      Web
+                    
+
+
+
+
+
+                      YouTube
+                    
+
+
+
+
+
+
+Grow
+
+
+
+                      Firebase
+                    
+
+
+
+
+
+                      Google Ads
+                    
+
+
+
+
+
+                      Google Analytics
+                    
+
+
+
+
+
+                      Google Play
+                    
+
+
+
+
+
+                      Search
+                    
+
+
+
+
+
+                      Web Push and Notification APIs
+                    
+
+
+
+
+
+
+Earn
+
+
+
+                      AdMob
+                    
+
+
+
+
+
+                      Google Ads API
+                    
+
+
+
+
+
+                      Google Pay
+                    
+
+
+
+
+
+                      Google Play Billing
+                    
+
+
+
+
+
+                      Interactive Media Ads
+                    
+
+
+
+
+
+
+
+
+
+  Events
+
+
+
+
+  Learn
+
+
+
+
+  Developer Communities
+
+
+
+
+
+
+
+
+
+                      Google Developer Groups
+                    
+
+
+
+
+
+                      Google Developers Experts
+                    
+
+
+
+
+
+                      Women Techmakers
+                    
+
+
+
+
+
+                      Accelerators
+                    
+
+
+
+
+
+
+
+
+
+                      Google Developer Student Clubs
+                    
+
+
+
+
+
+                      2022 Solution Challenge
+                    
+
+
+
+
+
+
+
+
+
+  Developer Profile
+
+
+
+
+  Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+  All Products
+
+
+
+
+  Develop
+
+
+
+
+  Grow
+
+
+
+
+  Earn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Products
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      All Products
+   
+
+
+
+
+
+      Develop
+   
+
+
+
+
+
+      Grow
+   
+
+
+
+
+
+      Earn
+   
+
+
+
+
+
+
+
+      Events
+   
+
+
+
+
+
+      Learn
+   
+
+
+
+
+
+      Developer Communities
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Developer Profile
+   
+
+
+
+
+
+      Blog
+   
+
+
+
+
+
+
+
+
+
+      Develop
+   
+
+
+
+
+
+      Android
+   
+
+
+
+
+
+      Chrome OS
+   
+
+
+
+
+
+      Cloud
+   
+
+
+
+
+
+      Firebase
+   
+
+
+
+
+
+      Flutter
+   
+
+
+
+
+
+      Google Assistant
+   
+
+
+
+
+
+      Google Workspace
+   
+
+
+
+
+
+      Maps Platform
+   
+
+
+
+
+
+      TensorFlow
+   
+
+
+
+
+
+      Web
+   
+
+
+
+
+
+      YouTube
+   
+
+
+
+
+
+      Grow
+   
+
+
+
+
+
+      Firebase
+   
+
+
+
+
+
+      Google Ads
+   
+
+
+
+
+
+      Google Analytics
+   
+
+
+
+
+
+      Google Play
+   
+
+
+
+
+
+      Search
+   
+
+
+
+
+
+      Web Push and Notification APIs
+   
+
+
+
+
+
+      Earn
+   
+
+
+
+
+
+      AdMob
+   
+
+
+
+
+
+      Google Ads API
+   
+
+
+
+
+
+      Google Pay
+   
+
+
+
+
+
+      Google Play Billing
+   
+
+
+
+
+
+      Interactive Media Ads
+   
+
+
+
+
+
+
+
+      Google Developer Groups
+   
+
+
+
+
+
+      Google Developers Experts
+   
+
+
+
+
+
+      Women Techmakers
+   
+
+
+
+
+
+      Accelerators
+   
+
+
+
+
+
+      Google Developer Student Clubs
+   
+
+
+
+
+
+      2022 Solution Challenge
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Developers
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Popular products
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Android
+      
+  
+
+
+            Get your apps ready for the latest version of Android.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Firebase
+      
+  
+
+
+            The tools and infrastructure you need to build better mobile and web apps, improve app quality, and grow your business.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Web
+      
+  
+
+
+            Develop the next generation of applications for the Web.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Cloud
+      
+  
+
+
+            Everything you need to build and scale your enterprise, securely.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Maps Platform
+      
+  
+
+
+            Power location experiences for websites and apps.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        TensorFlow
+      
+  
+
+
+            An open source software library for machine intelligence.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        All products
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+Ads
+AI & Machine Learning
+Analytics
+AR/VR
+Big Data & Analytics
+Cloud
+Connectivity
+Data
+Design
+DevOps
+Ecommerce
+Education
+Enterprise
+Gaming
+Health Care & Life Sciences
+Identity
+Internet of Things (IoT)
+Logging & Monitoring
+Maps & Location
+Media
+Mobile
+Networking
+Open Source
+Operating System
+Payments
+Performance
+Search
+Security & Compliance
+Serverless
+Storage
+User Interface
+Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Facebook
+          
+          
+
+
+
+            
+          
+            Medium
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Programs
+
+
+
+            
+          
+            Women Techmakers
+          
+          
+
+
+
+            
+          
+            Google Developer Groups
+          
+          
+
+
+
+            
+          
+            Google Developers Experts
+          
+          
+
+
+
+            
+          
+            Accelerators
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Google Workspace for Education Overview | Google for Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+
+for Education
+
+
+
+Why GoogleOur commitmentPrivacy & SecurityAccessibilityCustomer storiesFor your institution
+
+For K12For Higher EdDistance LearningGoogle Workspace for EducationOverviewEditions
+
+Education FundamentalsEducation StandardTeaching and Learning UpgradeEducation PlusCompare editionsClassroomGoogle MeetAssignmentsChromebooksOverviewFind a deviceRepairabilityChrome OS FlexGet startedFind a partnerSet up productsProduct supportFor educatorsOverviewProduct guidesTraining coursesCertification programs
+
+Product expertiseProfessional expertiseCommunitiesResource library
+
+
+
+
+
+Sign in
+
+Google ClassroomGoogle Workspace AdminGoogle Cloud
+Get products
+
+Contact sales
+
+
+
+
+
+
+
+
+
+
+
+
+for Education
+
+
+
+
+
+Why Google
+
+
+
+
+Why Google
+
+
+Our commitment
+Privacy & Security
+Accessibility
+Customer stories
+For your institution
+
+
+
+
+For your institution
+
+
+For K12
+For Higher Ed
+Distance Learning
+Google Workspace for Education
+
+
+
+
+Google Workspace for Education
+
+
+Overview
+Editions
+
+
+
+
+Editions
+
+
+Education Fundamentals
+Education Standard
+Teaching and Learning Upgrade
+Education Plus
+Compare editions
+Classroom
+Google Meet
+Assignments
+Chromebooks
+
+
+
+
+Chromebooks
+
+
+Overview
+Find a device
+Repairability
+Chrome OS Flex
+Get started
+
+
+
+
+Get started
+
+
+Find a partner
+Set up products
+Product support
+For educators
+
+
+
+
+For educators
+
+
+Overview
+Product guides
+Training courses
+Certification programs
+
+
+
+
+Certification programs
+
+
+Product expertise
+Professional expertise
+Communities
+Resource library
+
+
+Sign in
+
+
+
+
+Sign in
+
+
+Google Classroom
+Google Workspace Admin
+Google Cloud
+
+
+
+Get products
+
+Contact sales
+
+
+
+
+
+New Classroom feature: Power student potential with practice sets. Express your interest here.
+New: Practice sets Learn more
+
+
+
+
+
+
+Close
+
+
+
+
+
+Home
+
+
+
+Google Workspace for Education Overview
+
+Elevate education with simple, flexible, and secure tools with Google Workspace for EducationMake collaboration easier, streamline instruction, and keep your learning environment secure with Google Workspace for Education. Use our tools available without cost, or add enhanced capabilities to suit the needs of your institution.
+Get started
+
+Explore advanced editions
+
+ 
+
+ 
+
+
+
+
+         
+Enhance class instructionUtilize easy-to-use learning tools for better collaboration and connection.
+
+         
+Boost productivitySave time by creating, organizing, sharing, and grading all in one place.
+
+     
+Elevate student workHelp students turn in their best work with simple tools to support learning.
+
+           
+Protect your school dataKeep everyoneâs work, identity, and privacy safe with proactive security features and controls.
+Choose the Google Workspace for Education edition thatâs right for your institution
+Compare editions
+
+
+hidden
+Google Workspace for Education Fundamentals1(Formerly known as G Suite for Education)Bring your school community together with a suite of tools that enables better communication and collaboration.No costfor qualifying institutions1
+Includes essential education tools and features like:
+
+Collaboration tools including Classroom, Docs, Sheets, Slides, Forms, and more
+
+Communication tools including Google Meet, Gmail, and Chat
+
+Data loss prevention for Gmail and Drive
+
+Can be used in compliance with FERPA, COPPA and GDPR
+See all features
+
+
+Google Workspace for Education StandardLevel up with advanced security, analytics, and controls to safeguard against evolving digital threats.$3/ student / yearGet one staff license for every four student licenses
+Includes everything in Education Fundamentals, as well as:
+
+Security center to proactively prevent, detect, and remediate threats
+
+Advanced device and app management to perform audits and enforce security and app access rules
+
+Gmail log and Classroom log export for insights and analysis in BigQuery
+See all features
+
+
+Teaching and Learning UpgradeEnhance instructional impact with advanced video communication, enriched class experiences, and tools to drive academic integrity.$4/ license / monthChoose how many of your staff need licenses. These licenses can also be paid for annually at $48 / license / year
+Includes everything in Education Fundamentals, as well as:
+
+Meetings with up to 250 participants and live streams with up to 10,000 in-domain viewers using Meet
+
+Premium engagement features in Meet including interactive Q&As, polls, breakout rooms, and more
+
+Coming soon Classroom add-ons to directly integrate your favorite tools and content
+
+Unlimited originality reports and the ability to check for peer matches across a private repository of past student work
+
+Coming soon Transform new and existing content into engaging and interactive assignments with practice sets
+See all features
+
+
+Google Workspace for Education Plus(Formerly known as G Suite Enterprise for Education)Transform your school with a comprehensive solution incorporating advanced security and analytics, enhanced teaching and learning tools, and more.$5/ student / yearGet one staff license for every four student licenses
+Includes everything in Education Standard and the Teaching and Learning Upgrade, as well as:
+
+Meetings with up to 500 participants and live streams with up to 100,000 in-domain viewers using Google Meet
+
+Sync rosters directly to Classroom from any Student Information System
+
+Personalized Cloud Search for your domain to make information accessible and easy to find
+
+Build custom apps with AppSheet â no coding required
+
+Faster response times from a support team of product specialists
+
+Coming soon Transform new and existing content into engaging and interactive assignments with practice sets
+See all features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             1
+            
+             2
+            
+             3
+            
+             4
+            
+
+
+
+
+ 
+
+
+
+
+More than 170 million students and educators are using Google Workspace for Education.
+
+ResourcesGet up to speed with Google Workspace for Education
+Visit Help Center
+
+
+
+
+
+ 
+
+
+Overview
+Empower school communities with simple and flexible tools to better collaborate, manage classes, and support safer learning environments.
+
+
+
+Download overview
+
+
+
+
+ 
+
+
+Privacy and Security
+Get the details on privacy and security features built into Google Workspace for Education to keep students, educators, and administrators more secure.
+
+
+
+
+
+None
+
+
+
+
+ 
+
+
+Accessibility
+Learn about Google Workspace for Education accessibility features to support students with diverse needs and learning styles.
+
+
+
+
+
+None
+
+
+
+
+ 
+
+
+Guardians Guide to Google Workspace for Education
+Help families gain a thorough understanding of Google Workspace for Education and how students are using them in school.
+
+
+
+Download guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             1
+            
+             2
+            
+             3
+            
+             4
+            
+
+
+Find answers to commonly asked questions
+Expand all
+Collapse all
+
+
+
+What editions does Google Workspace for Education offer?
+
+
+
+
+
+Google Workspace for Education offers Education Fundamentals to all qualifying institutions at no cost. For those that want more premium features, Google also offers paid editions including Education Standard, the Teaching and Learning Upgrade, and Education Plus.
+
+
+How much does each edition within Google Workspace for Education cost?
+
+
+
+
+
+Google Workspace for Education Fundamentals is available at no cost for all qualifying institutions. Education Standard, the Teaching and Learning Upgrade, and Education Plus are paid editions.
+For pricing information and specific features included in each of the Google Workspace for Education editions, please visit our comparison chart.
+
+
+Are there differences in storage across editions?
+
+
+
+
+
+All editions provide schools with 100TB of storage shared across the institution.  Additional storage is provided with the Teaching and Learning Upgrade and Education Plus editions based on the number of licenses purchased. Please review our comparison chart for more details or visit our Help Center.
+
+
+Can I have more than one edition at the same time?
+
+
+
+
+
+It depends and varies based on the intended combination of editions. 
+You must have an Education Fundamentals edition to upgrade to any of the other editions (Education Standard, the Teaching and Learning Upgrade, or Education Plus).
+You cannot have Education Plus in combination with Education Standard or the Teaching and Learning Upgrade â only Education Fundamentals.
+You can have a combination of Education Standard and the Teaching and Learning Upgrade at the same time. Although we believe the maximum value of those combined editions can be realized in Education Plus, we wanted to be as flexible as possible to school community needs.
+
+
+Are discounts available and/or are there incentives for longer term commitments?
+
+
+
+
+
+Yes, Google offers automatic discounts for customers that contractually commit to a multi-year purchase (two years or more) of Google Workspace for Education Plus. To learn more, please connect with your Google Workspace for Education partner reseller and/or Google for Education representative.
+
+
+When upgrading to a paid edition of Google Workspace for Education (Plus, Teaching & Learning Upgrade, and/or Standard), will I need to sign a New Workspace for EducationTerms of Service agreement?
+
+
+
+
+
+No, there is no need for a new Workspace for Education contract nor an addendum.
+
+
+Can I upgrade/downgrade between the editions?
+
+
+
+
+
+All paid Google Workspace for Education editions are annual subscriptions, and pricing is locked for the duration of the subscription term. 
+Customers who purchase the Teaching and Learning Upgrade can add Education Standard at any time (and vice versa) as well as upgrade to Education Plus.
+Customers can reevaluate continuing with their subscription or downgrade at the end of their subscription term.
+
+
+What is the duration of a paid Google Workspace for Education subscription?
+
+
+
+
+
+All paid Google Workspace for Education editions are available as annual subscriptions, and pricing is locked for the duration of the subscription term. However, institutions can also purchase the Teaching and Learning Upgrade on a monthly subscription, as an alternative to purchasing it as an annual subscription.
+
+
+Will schools that previously purchased G Suite Enterprise for Education automatically get access to all new features that come with Google Workspace for Education Plus?
+
+
+
+
+
+Yes, all customers who have purchased G Suite Enterprise for Education will receive new features and functionality that are released to the new Google Workspace for Education editions.
+
+
+Is it possible to trial the paid Google Workspace for Education editions?
+
+
+
+
+
+Yes, our authorized Google Workspace for Education partners can provision 60 day trials for Education Plus, Education Standard, and the Teaching and Learning Upgrade. 50 licenses are provided for the trial.
+
+
+Where can I learn more?
+
+
+
+
+
+Visit our Help Center for more details on Google Workspace for Education.
+
+Get Started
+
+
+
+Start today with Google Workspace for EducationConnect and collaborate across your whole school community. Choose the edition that best suits you and your institution.
+Get started
+
+Explore advanced editions
+
+
+
+
+ 
+
+Google Workspace for Education and Chromebooks work better together
+Learn more
+
+
+1 Google Workspace for Education Fundamentals is available at no cost for qualifying institutions. Learn more
+
+
+
+
+
+Sign up for updates, insights, resources, and more
+
+
+
+
+Follow us
+
+
+Facebook
+
+
+
+Blog
+
+
+
+Twitter
+
+
+
+YouTube
+
+
+
+
+Products
+Google Workspace for Education
+
+Classroom
+
+Google Meet
+
+Assignments
+
+Chromebooks
+
+Google Cloud
+
+Jamboard
+
+Google Workspace for Education
+Education Fundamentals
+
+Education Standard
+
+Teaching and Learning Upgrade
+
+Education Plus
+
+Compare editions
+
+Chromebooks
+Overview
+
+Find a Chromebook
+
+Repairability
+
+Chrome OS Flex
+
+Get products
+Contact sales
+
+Apply for Google Cloud credits
+
+Sign up for Education Fundamentals free trial
+
+Find a partner
+Overview
+
+Sales partners
+
+Professional development partners
+
+Build partners
+
+Get support
+Set up products
+
+Product support
+
+Apps for Classroom
+
+For educators
+Overview
+
+Product guides
+
+Training courses
+
+Product certification
+
+Professional certification
+
+Communities
+
+Resource library
+
+FAQ
+
+About Google for Education
+Our commitment
+
+For K12
+
+For higher ed
+
+Privacy & security
+
+Accessibility
+
+Customer stories
+
+Distance learning
+
+Future of the classroom
+
+Research
+
+The latest
+News & events
+
+Get updates
+
+More from Google
+Learning.Google
+
+Code with Google
+
+Grow with Google
+
+Google for Education blog
+
+Google Cloud
+
+
+
+
+Products
+
+
+
+
+
+Google Workspace for Education
+
+Classroom
+
+Google Meet
+
+Assignments
+
+Chromebooks
+
+Google Cloud
+
+Jamboard
+
+
+
+
+Google Workspace for Education
+
+
+
+
+
+Education Fundamentals
+
+Education Standard
+
+Teaching and Learning Upgrade
+
+Education Plus
+
+Compare editions
+
+
+
+
+Chromebooks
+
+
+
+
+
+Overview
+
+Find a Chromebook
+
+Repairability
+
+Chrome OS Flex
+
+
+
+
+Get products
+
+
+
+
+
+Contact sales
+
+Apply for Google Cloud credits
+
+Sign up for Education Fundamentals free trial
+
+
+
+
+Find a partner
+
+
+
+
+
+Overview
+
+Sales partners
+
+Professional development partners
+
+Build partners
+
+
+
+
+Get support
+
+
+
+
+
+Set up products
+
+Product support
+
+Apps for Classroom
+
+
+
+
+For educators
+
+
+
+
+
+Overview
+
+Product guides
+
+Training courses
+
+Product certification
+
+Professional certification
+
+Communities
+
+Resource library
+
+FAQ
+
+
+
+
+About Google for Education
+
+
+
+
+
+Our commitment
+
+For K12
+
+For higher ed
+
+Privacy & security
+
+Accessibility
+
+Customer stories
+
+Distance learning
+
+Future of the classroom
+
+Research
+
+
+
+
+The latest
+
+
+
+
+
+News & events
+
+Get updates
+
+
+
+
+More from Google
+
+
+
+
+
+Learning.Google
+
+Code with Google
+
+Grow with Google
+
+Google for Education blog
+
+Google Cloud
+
+
+
+
+
+
+
+
+
+Privacy
+
+Terms
+
+About Google
+
+Google Products
+
+
+
+
+Help
+
+
+    Change language or region
+  
+ Global (English)
+ Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© (Ø§ÙØ¹Ø±Ø¨ÙØ©)
+ Australia (English)
+ Brasil (PortuguÃªs)
+ Canada (English)
+ Danmark (Dansk)
+ Deutschland (Deutsch)
+ EspaÃ±a (EspaÃ±ol)
+ France (FranÃ§ais)
+ India (English)
+ à¤­à¤¾à¤°à¤¤ (à¤¹à¤¿à¤¨à¥à¤¦à¥)
+ Indonesia (Indonesia)
+ Italia (Italiano)
+ æ¥æ¬ (æ¥æ¬èª)
+ ëíë¯¼êµ­ (íêµ­ì´)
+ LatinoamÃ©rica (EspaÃ±ol)
+ Malaysia (Melayu)
+ Nederland (Nederlands)
+ New Zealand (English)
+ Norge (Norsk bokmÃ¥l)
+ Philippines (English)
+ Polska (Polski)
+ Singapore (English)
+ Suomi (Suomi)
+ Sverige (Svenska)
+ à¸à¸£à¸°à¹à¸à¸¨à¹à¸à¸¢ (à¹à¸à¸¢)
+ TÃ¼rkiye (TÃ¼rkÃ§e)
+ å°ç£ (ä¸­æ)
+ United Kingdom (English)
+ United States (English)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+You're now viewing content for a different region.For content more relevant to your region, we suggest:
+Global (English)Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© (Ø§ÙØ¹Ø±Ø¨ÙØ©)Australia (English)Brasil (PortuguÃªs)Canada (English)Danmark (Dansk)Deutschland (Deutsch)EspaÃ±a (EspaÃ±ol)France (FranÃ§ais)India (English)à¤­à¤¾à¤°à¤¤ (à¤¹à¤¿à¤¨à¥à¤¦à¥)Indonesia (Indonesia)Italia (Italiano)æ¥æ¬ (æ¥æ¬èª)ëíë¯¼êµ­ (íêµ­ì´)LatinoamÃ©rica (EspaÃ±ol)Malaysia (Melayu)Nederland (Nederlands)New Zealand (English)Norge (Norsk bokmÃ¥l)Philippines (English)Polska (Polski)Singapore (English)Suomi (Suomi)Sverige (Svenska)à¸à¸£à¸°à¹à¸à¸¨à¹à¸à¸¢ (à¹à¸à¸¢)TÃ¼rkiye (TÃ¼rkÃ§e)å°ç£ (ä¸­æ)United Kingdom (English)United States (English)
+
+Stay here
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+
+

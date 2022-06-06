@@ -1,0 +1,203 @@
+Manage your Location History - Google Account Help   Skip to main content   Google Account HelpSign inGoogle HelpHelp CenterCommunityGoogle AccountPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Account        Manage your Location HistoryLocation History is a Google Account–level setting that saves where you go with every mobile device where:
+
+You're signed in to your Google Account,
+You have turned on Location History, and
+The device has Location Reporting turned on.
+
+When you turn on Location History, you may see a number of benefits across Google products and services, including personalized maps, recommendations based on places you’ve visited, help finding your phone, real-time traffic updates about your commute, and more useful ads.
+
+Location History is turned off by default for your Google Account and can only be turned on if you opt in. 
+You can pause Location History at any time in your Google Account's Activity controls.
+You control what’s saved in your Location History. You can view the places where you’ve been in Google Maps Timeline, which you can edit or use to delete your Location History.
+
+
+Important: Some of these steps work only on Android 8.0 and up. Learn how to check your Android version.
+
+Turn Location History on or off
+You can turn off Location History for your account at any time. If you use a work or school account, your administrator needs to make this setting available for you. If they do, you'll be able to use Location History as any other user.
+
+Go to the "Location History" section of your Google Account.
+Choose whether your account or your devices can report Location History to Google.
+    
+Your account and all devices: At the top, turn Location History on or off.
+Only a certain device: Under "This device" or "Devices on this account," turn the device on or off.
+
+
+
+
+When Location History is on
+
+Google only receives Location History for each device where you are signed in and you have Location Reporting turned on.
+    
+
+You can change the Location Reporting setting for each device where you're signed in, and limit which devices provide location data to be included in Location History. If you want to change your Location History settings, you can choose to:
+    
+Report your location from only some of your devices, but not others.
+Report your location from all your devices.
+Turn off Location History for your Google Account. Your location won't be reported from any of your devices and you will not have new Location History recorded to your account.
+
+
+Your settings for other location services on your device, like Google Location Services, Location Sharing, and Find My Device, aren't changed.
+
+When Location History is off
+
+Your device's locations will not be automatically saved to your Location History.
+Previous activity is not deleted from your Location History. You can manually delete your Location History.
+Your settings for other location services on your device, like Google Location Services, Location Sharing, and Find My Device, aren't changed.
+Some location data may continue to be saved in other settings, like Web & App Activity, as part of your use of other services, like Search and Maps, even after you turn off Location History.
+
+
+Delete Location History
+You can manage and delete your Location History information with Google Maps Timeline. You can choose to delete all of your history, or only parts of it.
+Important: When you delete Location History information from Timeline, you won't be able to see it again.
+
+Use the Google Maps app
+
+Delete all Location History
+
+On your Android device, open the Google Maps app .
+Tap your profile picture or initial   Your Timeline .
+In the top right, tap More   Settings and privacy.
+Under "Location settings," tap Delete all Location History.
+Follow the on-screen instructions.
+
+
+Delete a range of Location History
+
+On your Android device, open the Google Maps app .
+Tap your profile picture or initial   Your Timeline .
+Tap More  Settings and privacy.
+Under "Location settings," tap Delete Location History range.
+Follow the on-screen instructions.
+
+
+Delete a day from Location History
+
+On your Android device, open the Google Maps app .
+Tap your profile picture or initial   Your Timeline .
+Tap Show calendar .
+Select which day you want to delete.
+Tap More  Delete day.
+Follow the on-screen instructions.
+
+
+Delete a stop from Location History
+
+On your Android device, open the Google Maps app .
+Tap your profile picture or initial   Your Timeline .
+Tap Show calendar .
+Select the day with a stop you want to delete.
+Tap the stop you want to delete  Delete .
+Follow the on-screen instructions.
+
+
+
+
+
+Use a web browser
+
+Delete all Location History
+
+In your web browser, open your Google Maps Timeline.
+Tap Delete .
+Follow the on-screen instructions.
+
+
+Delete a day from Location History
+
+In your web browser, open your Google Maps Timeline.
+Choose a year, month, and day you want to delete.
+Tap Delete .
+Follow the on-screen instructions.
+
+
+Delete a stop from Location History
+
+In your web browser, open your Google Maps Timeline.
+Choose a year, month, and day you want to delete.
+Next to the stop you want to delete, tap More  Remove stop from day.
+Follow the on-screen instructions.
+
+
+
+
+Automatically delete your Location History
+You can choose to automatically delete Location History that’s older than 3 months, 18 months, or 36 months.
+
+Use the Google Maps app
+
+
+
+On your Android device, open the Google Maps app .
+Tap your profile picture or initial   Your Timeline .
+At the top right, tap More  Settings and privacy.
+Scroll to "Location settings."
+Tap Automatically delete Location History.
+Follow the on-screen instructions.
+
+
+
+
+
+
+Use a web browser
+
+
+
+In your web browser, open your Google Maps Timeline. 
+At the bottom right, click Settings   Automatically delete Location History. 
+Follow the on-screen instructions. 
+
+
+
+
+
+What happens after you delete some or all Location History
+If you delete some or all of your Location History, some personalized experiences across Google may be degraded or lost. For example:
+
+Albums in Google Photos automatically created from places you’ve visited
+Recommendations based on places you’ve visited
+Real-time information about the best time to leave for home or work in order to beat the traffic
+
+
+Important: If you have other settings like Web & App Activity turned on and you pause Location History or delete location data from Location History, you may still have location data saved in your Google Account as part of your use of other Google sites, apps, and services. For example, location data may be saved as part of activity on Search and Maps when your Web & App Activity setting is on, and included in your photos depending on your camera app settings.
+Usage & diagnostics for Location History
+When you turn on Location History, your device may send diagnostic information to Google about what’s working and not working for Location History. If you turn Location History off, you can decide whether to share usage and diagnostics information.
+All usage and diagnostics information is used in accordance with Google’s privacy policy.
+What information your device could share
+
+
+Your device may send information to Google to help improve Location History. For example, sent information could include:
+
+Quality and length of your connections to mobile networks, GPS, Wi-Fi networks, or Bluetooth
+State of your location settings
+Restarts and crash reports
+Apps used to turn Location History on or off
+Battery levels
+
+
+
+
+
+How shared information helps Google improve
+
+
+Usage and diagnostics information can help improve Google apps, products, and Android devices. For example, Google can use information to improve:
+
+Battery life: Google can use information about what's using the most battery on your device to help reduce battery consumption for commonly used features.
+Location accuracy: Google can use information from location sensors and settings to help improve location estimates for apps and services.
+
+
+
+
+
+Learn about your data in Google Maps
+Your location data in Google Maps
+Learn more about other location settings
+
+Choose which apps can use your location: Learn how to manage app location settings.
+Learn how to turn your device's location on or off.
+Find your location on a map: Learn how to find & improve your location’s accuracy in Google Maps.
+Manage your history of the places you've been and the routes you've traveled: Learn how to edit your timeline on Google Maps.
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    HelpCreate a Google AccountCreate a strong password & a more secure accountVerify your accountControl what others see about you across Google servicesSomeone changed your passwordBe ready to find a lost Android deviceManage your Location HistorySet up a recovery phone number or email addressTurn cookies on or offHow to recover your Google Account or GmailFind & control your Web & App ActivityControl the ads you see           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 70975                                           false 

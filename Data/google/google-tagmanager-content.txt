@@ -1,0 +1,1219 @@
+
+
+
+
+
+
+Website Tag Management Tools & Solutions  - Google Tag Manager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marketing Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              For Small Businesses
+            
+
+
+
+              For Enterprises
+            
+
+
+
+              Resources
+            
+
+
+
+              Blog
+            
+
+
+
+
+
+
+Partners
+
+
+Support
+
+
+
+
+
+Tag Manager
+
+
+
+
+
+
+            Overview
+          
+
+
+
+            Benefits
+          
+
+
+
+            Features
+          
+
+
+
+            Compare
+          
+
+
+
+
+
+
+
+          Sign in to Tag Manager
+        
+
+
+
+          Start for free
+        
+
+
+
+
+
+
+
+
+For Small Businesses
+Free and easy-to-use solutions for businesses of every size.
+
+          Learn more
+        
+
+
+For Enterprises
+A single platform that integrates your advertising and analytics, so you can act on customer insights faster.
+
+          Learn more
+        
+
+
+
+
+
+
+
+Analytics
+Understand your customers so you can deliver better experiences.
+
+
+
+
+Data Studio
+Bring your data to life with engaging, customizable reports.
+
+
+
+
+Optimize
+Test variations of your sites and apps.
+
+
+
+
+Surveys
+Get fast, reliable opinions from real people.
+
+
+
+
+Tag Manager
+Manage all your tags without editing code.
+
+
+
+
+
+advertising 
+
+
+Campaign Manager 360
+Get a complete view of all your digital media campaigns.
+
+
+
+
+Display & Video 360
+Reach todayâs always-connected audiences wherever they are.
+
+
+
+
+Search Ads 360
+Get real-time data and unified insights for your search campaigns.
+
+
+
+
+
+analytics 
+
+
+Analytics 360
+Use advanced tools to get a deeper understanding of your customers so you can deliver better experiences.
+
+
+
+
+Data Studio
+Unlock insights from your data with engaging, customizable reports.
+
+
+
+
+Optimize 360
+Test variations of your sites and apps with advanced tools for enterprise marketers.
+
+
+
+
+Surveys 360
+Get fast, reliable market research from real people.
+
+
+
+
+Tag Manager 360
+Manage all your tags in one place for a smarter, simpler way to oversee your marketing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marketing Platform
+
+
+
+
+
+
+
+Tag Manager
+
+
+
+
+
+
+
+        Overview
+      
+
+
+
+        Benefits
+      
+
+
+
+        Features
+      
+
+
+
+        Compare
+      
+
+
+
+
+
+
+
+
+                  Sign in to Tag Manager
+              
+
+
+
+                  Start for free
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Tag management made easy.
+              
+Manage all your website tags without editing code. Google Tag Manager delivers simple, reliable, easily integrated tag management solutionsâ for free.
+Start for free
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+How tag management solutions can help.
+
+
+
+
+
+
+
+
+
+
+
+running-man icon
+
+
+
+
+
+                    Increase your agility.
+                  
+Efficiently add and update your own website tags to better understand conversions, site analytics, and more.
+
+
+
+
+infinity icon
+
+
+
+
+
+                    Integrate easily.
+                  
+Tag Manager supports and integrates with all Google and third-party tags.
+
+
+
+
+checklist icon
+
+
+
+
+
+                    Put your mind at ease.
+                  
+Error checking, security features, and speedy tag loading ensure that all your tags work.
+
+
+
+
+people icon
+
+
+
+
+
+                    Collaborate across your team.
+                  
+Improve collaboration across your business. Features like workspaces, granular access controls, and support for multi-environment testing mean that marketing and IT can work together efficiently.
+
+
+See all benefits
+
+ 
+
+
+
+
+
+
+
+running-man icon
+
+
+
+
+Increase your agility.
+Efficiently add and update your own website tags to better understand conversions, site analytics, and more.
+
+
+
+
+infinity icon
+
+
+
+
+Integrate easily.
+Tag Manager supports and integrates with all Google and third-party tags.
+
+
+
+
+checklist icon
+
+
+
+
+Put your mind at ease.
+Error checking, security features, and speedy tag loading ensure that all your tags work.
+
+
+
+
+people icon
+
+
+
+
+Collaborate across your team.
+Improve collaboration across your business. Features like workspaces, granular access controls, and support for multi-environment testing mean that marketing and IT can work together efficiently.
+
+
+
+
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+
+
+
+See all benefits
+
+
+ 
+
+
+
+
+
+
+
+With Google Tag Manager, itâs a matter of an hour or so from receiving a tag to testing to QA to deployment. 
+Itâs exponentially better. 
+
+Mona Gandhi,
+          Software Engineer,
+              Airbnb
+        
+
+
+
+
+
+
+
+
+
+
+
+            Dive into the details.
+          
+
+Get access to features like easy preview and debug tools, auto-event triggers, and a user-friendly interface to help you manage your tags.
+
+See all features
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Designed to work together.
+Tag Manager works seamlessly with Google and third-party tags, so you can change tags on the fly â saving time and increasing efficiency.
+
+
+
+
+
+
+
+
+
+
+googleads icon
+
+
+
+
+
+                    Google Ads
+                  
+Conversion tracking, basic remarketing, and dynamic remarketing are fully supported with Google Ads.
+
+
+
+
+bookmarks icon
+
+
+
+
+
+                    Third-Party Tag Support
+                  
+Templates for third-party vendor tags simplify code publishing and help eliminate errors. Find vendor templates already available in Tag Manager or explore additional templates from the Community Template Gallery.
+
+
+See all integrations
+
+ 
+
+
+
+
+
+
+
+googleads icon
+
+
+
+
+Google Ads
+Conversion tracking, basic remarketing, and dynamic remarketing are fully supported with Google Ads.
+
+
+
+
+bookmarks icon
+
+
+
+
+Third-Party Tag Support
+Templates for third-party vendor tags simplify code publishing and help eliminate errors. Find vendor templates already available in Tag Manager or explore additional templates from the Community Template Gallery.
+
+
+
+
+
+
+2
+
+
+3
+
+
+
+
+
+See all integrations
+
+
+ 
+
+
+
+
+
+Find a tag management solution that fits.
+Tag Manager offers simple, yet powerful solutions to help small businesses and large enterprises get up and running with measurement faster.
+ Compare versions
+
+
+
+
+
+
+
+
+
+
+
+
+GMP_Logo_tag-manager
+
+
+
+
+
+Tag Manager
+Manage all your tags without editing code - for free.
+
+
+
+
+
+
+
+
+GMP_Logo_tag-manager
+
+
+
+
+
+Tag Manager 360
+Manage all your tags in one place for a smarter, simpler way to oversee your marketing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+3
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+            Airbnb improves vendor data collection to 90% with Tag Manager.
+          
+
+Airbnb turned to Tag Manager to streamline its system for website tags. The result was better vendor data collection and a faster site.
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Related solution
+Learn about our other tagging solution and how it works with Googleâs advertising and analytics products
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global site tag
+Implement Google ads and analytics products with a single tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Infographic
+How leading marketers get time on their side
+
+
+            Read more
+          
+
+
+
+
+
+
+
+
+
+
+Product Overview
+Tag Manager
+
+
+            Read more
+          
+
+
+
+
+
+
+
+
+
+
+Case Study
+Jobs2Careers doubles conversions and increases workflow efficiency using Google Tag Manager
+
+
+            Read more
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+See all resources
+
+
+ 
+
+
+
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+                  About Google Marketing Platform
+                
+
+
+
+
+
+
+Overview
+
+
+For Small Businesses
+
+
+For Enterprise
+
+
+
+
+
+
+                  Learning & support
+                
+
+
+
+
+
+
+Support
+
+
+Blog
+
+
+Analytics Academy
+
+
+Skillshop
+
+
+Google Primer
+
+
+
+
+
+
+                  Developers & partners
+                
+
+
+
+
+
+
+Google Marketing Platform Partners
+
+
+Google Measurement Partners
+
+
+Analytics for developers
+
+
+Tag Manager for developers
+
+
+Surveys for developers
+
+
+Campaign Manager 360 for developers
+
+
+
+
+
+
+                  Related products
+                
+
+
+
+
+
+
+Google Ads
+
+
+Google AdSense
+
+
+Google Ad Manager
+
+
+Google Cloud
+
+
+Firebase
+
+
+
+
+
+
+                  More from Google
+                
+
+
+
+
+
+
+Think with Google
+
+
+Business Solutions
+
+
+Google Workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+Terms
+
+
+About Google
+
+
+Google Products
+
+
+
+
+
+
+
+
+          Help
+        
+
+
+Change language or region
+
+ä¸­æï¼ç®ä½ä¸­æ)DeutschEnglish (UK)English (US)EspaÃ±olFranÃ§aisItalianoæ¥æ¬èªíêµ­ì´NederlandsPortuguÃªs (Brasil) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

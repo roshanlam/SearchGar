@@ -1,0 +1,1209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Search Central (formerly Webmasters) | Web SEO Resources  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Search Central
+
+
+
+
+
+
+
+
+
+
+
+  Documentation
+
+
+
+
+
+
+Not much time?
+
+
+
+                      Quickstart
+                    
+
+
+
+
+
+                      Get your website on Google
+                    
+
+
+
+
+
+                      Optimize your site for search engines
+                    
+
+
+
+
+
+                      Measuring your performance on Google
+                    
+
+
+
+
+
+                      Do you need an SEO?
+                    
+
+
+
+
+
+
+Beginner SEO
+
+
+
+                      Get started
+                    
+
+
+
+
+
+                      SEO starter guide
+                    
+
+
+
+
+
+                      Establish your business details with Google
+                    
+
+
+
+
+
+                      Beginner's guide to Search Console
+                    
+
+
+
+
+
+
+Advanced SEO
+
+
+
+                      Get started
+                    
+
+
+
+
+
+                      Guidelines
+                    
+
+
+
+
+
+                      How Search Works
+                    
+
+
+
+
+
+                      Control crawling and indexing
+                    
+
+
+
+
+
+                      Change your Search appearance
+                    
+
+
+
+
+
+                      Optimize page experience
+                    
+
+
+
+
+
+
+
+
+
+  Support
+
+
+
+
+  Blog
+
+
+
+
+  What's new
+
+
+
+
+
+
+
+
+
+                      All updates
+                    
+
+
+
+
+
+                      Documentation updates
+                    
+
+
+
+
+
+                      New YouTube videos
+                    
+
+
+
+
+
+                      Recent podcast episodes
+                    
+
+
+
+
+
+
+
+
+
+  Events
+
+
+
+
+  Case studies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Polski
+      
+
+        Português – Brasil
+      
+
+        Tiếng Việt
+      
+
+        Türkçe
+      
+
+        Русский
+      
+
+        العربيّة
+      
+
+        हिंदी
+      
+
+        ภาษาไทย
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Search Central
+
+
+
+
+
+
+
+
+
+
+
+
+      Documentation
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Support
+   
+
+
+
+
+
+
+
+      Blog
+   
+
+
+
+
+
+
+
+      What's new
+   
+
+
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Events
+   
+
+
+
+
+
+
+
+      Case studies
+   
+
+
+
+
+
+
+
+
+
+
+
+      Not much time?
+   
+
+
+
+
+
+      Quickstart
+   
+
+
+
+
+
+      Get your website on Google
+   
+
+
+
+
+
+      Optimize your site for search engines
+   
+
+
+
+
+
+      Measuring your performance on Google
+   
+
+
+
+
+
+      Do you need an SEO?
+   
+
+
+
+
+
+      Beginner SEO
+   
+
+
+
+
+
+      Get started
+   
+
+
+
+
+
+      SEO starter guide
+   
+
+
+
+
+
+      Establish your business details with Google
+   
+
+
+
+
+
+      Beginner's guide to Search Console
+   
+
+
+
+
+
+      Advanced SEO
+   
+
+
+
+
+
+      Get started
+   
+
+
+
+
+
+      Guidelines
+   
+
+
+
+
+
+      How Search Works
+   
+
+
+
+
+
+      Control crawling and indexing
+   
+
+
+
+
+
+      Change your Search appearance
+   
+
+
+
+
+
+      Optimize page experience
+   
+
+
+
+
+
+
+
+      All updates
+   
+
+
+
+
+
+      Documentation updates
+   
+
+
+
+
+
+      New YouTube videos
+   
+
+
+
+
+
+      Recent podcast episodes
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Search Central
+      
+  
+
+
+
+
+
+  
+    
+    Send feedback
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        How to get your website on Google Search
+      
+  
+
+
+            Google Search Central, formerly Google Webmasters, is here to help the right people view your content with resources to make your website discoverable to Google Search. New to SEO? Start by reading this quickstart to Google Search.
+
+          
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Why Google Search?
+      
+  
+    
+
+              Browse SEO case studies and learn how other sites have reached more people by improving their site's presence on Google Search.
+
+            
+
+
+
+
+
+
+
+Case study
+
+
+
+    
+        Saramin increased organic Search traffic 2x
+      
+  
+
+
+            In addition to seeing a traffic increase, Saramin saw the quality of their traffic improve. They saw a 93% increase in the number of new sign ups and a 9% increase on the conversion.
+
+          
+
+Read the case study
+
+
+
+
+
+
+
+
+Case study
+
+
+
+    
+        MX Player boosts organic traffic 300x
+      
+  
+
+
+            After adding Video structured data and following best practices, MX Player saw over 300X growth in traffic from Google and a 100% increase of video page views per user session on their platform from organic Search traffic.
+
+          
+
+Read the case study
+
+
+
+
+
+
+
+
+Case study
+
+
+
+    
+        ZipRecruiter grows conversion rate 4.5x
+      
+  
+
+
+            After the launch of JobPosting structured data, Google organic traffic to ZipRecruiter job pages converted at a rate three times higher than organic traffic from other search engines.
+
+          
+
+Read the case study
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Check out what's new on Google Search Central
+      
+  
+
+
+            Find out the latest Google Search news, including recent announcements, upcoming events, changes to documentation, new videos, and podcast episodes.
+
+          
+
+Learn what's new
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Monitor, debug, and optimize your site with Search Console
+      
+  
+
+
+            Search Console is a tool from Google that helps developers, website owners, and SEO professionals understand how their site is performing on Google Search.
+
+          
+
+Get started with Search Console
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Looking for help?
+      
+  
+
+
+            Get help with your site SEO, Google Search, search rankings, security issues, Search Console, and more.
+
+          
+
+Get support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        
+        Podcast
+      
+Listen to our Search Off the Record podcast
+
+
+
+
+          
+        
+        Twitter
+      
+Follow on Twitter
+
+
+
+
+
+
+
+
+Ask questions
+
+
+
+            
+          
+            Post in our help community
+          
+          
+
+
+
+            
+          
+            Join SEO office hours
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Help documentation
+          
+          
+
+
+
+
+Get updates
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Resources
+
+
+
+            
+          
+            Do you need an SEO?
+          
+          
+
+
+
+            
+          
+            SEO Starter Guide
+          
+          
+
+
+
+            
+          
+            Search Console documentation
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Case Studies
+          
+          
+
+
+
+
+Tools
+
+
+
+            
+          
+            Search Console
+          
+          
+
+
+
+            
+          
+            Mobile-Friendly Test
+          
+          
+
+
+
+            
+          
+            Rich Results Test
+          
+          
+
+
+
+            
+          
+            PageSpeed Insights
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            AMP Test
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Polski
+      
+
+        Português – Brasil
+      
+
+        Tiếng Việt
+      
+
+        Türkçe
+      
+
+        Русский
+      
+
+        العربيّة
+      
+
+        हिंदी
+      
+
+        ภาษาไทย
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

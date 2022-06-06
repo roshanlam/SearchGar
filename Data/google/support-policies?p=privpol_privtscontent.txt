@@ -1,0 +1,249 @@
+Privacy Help Center - Policies Help   Skip to main content   Policies HelpSign inGoogle HelpHelp CenterPoliciesPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextPolicies        Privacy Help CenterYou have a range of controls to manage your privacy across Google’s services. To find answers to many common questions about privacy and your data in Google’s products and services, select an option below or visit our Privacy Policy.
+There are also specialized resources and tools if you are looking for help with account recovery, suspected hacked accounts, removal of information from a Google product or service, or technical problems.
+
+Get help with a Google product
+Visit our help center and support forums.
+Google Account recovery & suspected compromised accounts
+Recover or get back in to your Google Account
+
+If you're having problems with a personal account:
+
+Learn how to recover your Google Account or Gmail.
+Follow these steps to recover your account.
+If you still can't recover your account, find the Product Forum for the product you're using and create a post with your question.
+
+If you're using a Google product with a work or school account, find help for Google Workspace.
+
+Suspect that your account has been compromised
+
+Suspicious activity in your account
+
+If you find suspicious activity on your account, follow the steps to secure your account. Use Security Checkup to check your account security settings.
+
+
+
+If you think a crime has been committed
+
+
+If you think a crime has been committed, you may wish to contact law enforcement.
+
+
+
+
+If you're getting someone else's email
+
+Find out why you're getting someone else's email. 
+
+
+
+Report content or information you would like removed from a Google product or service
+Report content or information
+Requesting content removals from Google products for legal reasonsLearn how to remove potentially illegal or unauthorized content on Google. 
+Google provides specific streamlined processes to remove content that can contain users' personal information from Google services. 
+This page will help you get to the right place to report content that you would like removed from Google's services under applicable laws.
+        If your request relates to Youtube, learn more about YouTube’s Privacy Guidelines.
+
+
+
+Your account controls
+Download your data from Google products & services
+
+Learn about downloading your data, or visit the Takeout Tool to download your data from Google products and services.
+You can also use our tools to access and review your data or delete your data.
+
+
+
+Submit a data access request
+
+If the info you are looking for is not available via the tools mentioned above, submit a data access request and specify:
+
+The categories of personal info you're seeking;
+The products or services to which the data relates;
+Any approximate dates when you think the data may have been collected by Google.
+
+You’ll need to sign in to your Google Account to complete the form.
+Important: You can also call our toll-free number, 855-548-2777. Our representatives can answer many of your questions and help you fill out the form to ensure we are providing information to the account owner.
+
+
+
+
+
+
+
+Review your basic account info & data
+
+When you’re signed in to a Google Account, you can always review and update info by visiting the Google services you use. For example, Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google.
+We also built a place for you to review and control info saved in your Google Account. These tools include:
+
+My Activity allows you to review and control data that’s created when you use Google services, like searches you’ve done or your visits to Google Play.
+Google Dashboard allows you to manage info associated with specific products.
+Personal Info allows you to manage your contact info, such as your name, email, and phone number.
+Data & Personalization settings page allows you to personalize your data, such as Activity & Timeline, things you create and to or select general preferences for the web.
+You can also learn about changing your Google Account picture, name & other info.
+
+When you’re signed out, you can manage info associated with your browser or device, including:
+
+Signed-out search personalization: Choose whether your search activity is used to offer you more relevant results and recommendations.
+YouTube settings: Pause and delete your YouTube Search History and your YouTube Watch History.
+Ad Settings: Manage your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+
+
+
+Delete your data
+
+
+Delete your activity
+
+
+You can delete activity, including your Location History. You can also choose to have this info deleted automatically after a set period of time.
+Learn more about how to see, control and delete the info in your Google Account.
+
+
+
+
+Delete a product or service
+
+
+
+Delete your Gmail.
+Remove other products & services.
+
+
+
+
+
+Delete your Google Account
+
+
+You can delete your Google Account at any time. If you change your mind or accidentally delete your account, you might be able to get it back. Learn how to recover your account.
+Once your account is deleted, all your data and account content is removed from our systems after a certain amount of time. Our policy describes why we hold on to different types of data for different periods of time. Once you delete your Google Account, you’ll no longer be able to use the following:
+
+Services that require you to sign in, like Gmail, Drive, and Calendar; 
+Data associated with your account, including emails, photos, and records of transactions;
+Subscriptions on YouTube;
+Content you purchased on Google Play, like movies, games, or music;
+Info you've saved in Chrome;
+Your Gmail username. Once it’s deleted, you can't use it again later, and you can't create a new Google Account with the same username.
+
+In addition to these tools, we also offer specific deletion controls in our products, like Photos.
+
+
+
+
+
+Your privacy & security controls
+
+Review your privacy settings
+
+
+You have controls to manage your privacy across our services. You can use Privacy Checkup to review and adjust important privacy settings like those below. In addition to these tools, we also offer specific privacy settings in our products.
+
+Activity Controls
+
+Decide what types of activity you’d like saved in your account. For example, you can turn on Location History if you want traffic predictions for your daily commute, or you can save your YouTube Watch History to get better video suggestions.
+
+
+
+
+Ad Settings
+
+Manage your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads. You can modify your interests, choose whether your personal info is used to make ads more relevant to you, and turn on or off certain advertising services.
+
+
+
+
+About You
+
+Control what others see about you across Google services.
+
+
+
+
+
+
+Review how you share data with third-party apps and sites
+
+
+To help you safely share your data, Google lets you give third-party sites and apps access to different parts of your account.
+Review how you share data with third-party apps and sites.
+
+
+
+Review your security settings
+
+
+
+Use Security Checkup to help make sure your account is safe and to strengthen your online security.
+Learn more about how to make your account more secure.
+
+
+
+Data & info Google collects
+
+
+What info we collect & how we use it
+We're committed to being clear about what info we collect and how we use it. You can find details of our commitments in our Privacy Policy. You'll also get explanations of the types of info we collect, how it's collected, why we collect it, how it's used, and when it's shared. You can also visit our Safety Center to learn about Google’s privacy and security principles.
+Where your data is stored
+To make sure our services are reliable, we maintain servers around the world. This means your info may be processed on servers outside of the country where you live. Regardless of where your info is processed, Google applies the same level of protection to your data.
+
+
+
+Get help with privacy-related questions
+
+
+
+Data privacy questions
+
+
+Google has a designated team to address user privacy inquiries for its products. If you have not found an answer to your privacy questions in the Privacy Help center, you may fill out this web-form or call our toll-free number, 855-548-2777.   
+For additional information on Google’s privacy practices, please see our Privacy Policy.
+There are also specialized resources and tools if you are looking for help with account recovery, suspected hacked accounts, removal of information from a Google product or service, or technical problems.
+
+
+
+
+
+
+
+
+
+Enterprise customer requests & resources 
+Data processing through Google Cloud
+
+If you use a consumer version of Gmail, Drive, or other Google product, the Google Terms of Service and Privacy Policy apply to you.
+Google doesn’t offer a Data Processing Agreement for the consumer versions of Gmail or Drive. Google does not act as a data processor for the consumer version of these services. If you have specific privacy concerns, data protection obligations, or compliance needs, consult with your legal counsel.
+If your organization uses Google Workspace, Google Workspace for Education, or Google Cloud Platform services, the Data Processing Amendment / Data Processing and Security Terms and the model contract clauses (here for Google Workspace, and Google Workspace for Education, and here for Google Cloud Platform) may apply to you. If your organization purchases any of the aforementioned services from a reseller, these terms may equally apply to you. You can accept these terms in the Admin Console by following the instructions here for Google Workspace and Google Workspace for Education, and here for Google Cloud Platform. In addition, the Google Cloud Privacy Notice describes how we collect and process personal information (excluding our customer’s data) in relation to those services.
+Google doesn't provide hard copies of these terms. For more info about Google's compliance for business services, read Google Cloud's compliance FAQ, privacy.google.com, and google.privacy/businesses.
+
+Find data processing terms
+
+
+Google makes appropriate data processing terms available for certain products where it acts as a data processor, including those listed below. 
+
+Analytics 
+
+            
+Learn how to accept the data processing terms.
+
+
+Google Ads, for Customer Match and Store Sales Direct
+Google Cloud Platform
+Google Workspace and Google Workspace for Education
+Google Tag Manager
+Firebase
+
+You can also find info on how Google helps Google Ads advertisers comply with GDPR. For other features related to Ads, view the Google controller terms.
+You can find more info about the products and data processing terms at privacy.google.com/businesses/compliance.
+
+
+
+
+
+
+Avoid & report scams
+People sometimes use the Google brand to scam and defraud people. Learn more how to avoid scams and where to report them.
+If you find suspicious activity on your account, learn how to help secure your account. Use Google's Security Checkup to check your account security settings.
+
+
+
+    false        ©2022 Google   Privacy Policy   Terms of Service     dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةไทย‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       Google appsMain menu                      Search Help Center                                    false 

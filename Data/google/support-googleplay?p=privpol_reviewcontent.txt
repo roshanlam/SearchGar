@@ -1,0 +1,37 @@
+How to rate & review apps in the Google Play Store - Android - Google Play Help   Skip to main content   Google Play HelpSign inGoogle HelpHelp CenterCommunityGoogle PlayPrivacy PolicyGoogle Play Terms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle PlayGoogle Play StoreHow to rate & review apps in the Google Play Store   As a precautionary health measure for our support specialists in light of COVID-19, we're operating with a limited team. Thanks for your patience, as it may take longer than usual to connect with us. For additional support, consult the Help Center.          How to rate & review apps in the Google Play StoreYou can rate and review for Android apps, games, and other content on the Play Store. When you review something on Google Play, the review is linked to your Google Account and is public. If you don't want a review to be public, you can delete it.
+How to rate an app & leave a review
+Important: You can only rate apps you've previously downloaded and installed. When you download an app, it's linked to your Google Account. If you downloaded the app but don't see the option to write a review, make sure you're signed in to the right account.
+
+On your Android phone or tablet, open the Google Play Store app .
+Browse or search for the app you want to review. 
+Find and select the app to open the detail page.
+    
+To rate the app: Under “Rate this app," select the number of stars.
+To leave a review: Under the star rating, tap Write a review.
+
+
+Follow the onscreen instructions to write a review and add details.
+Tap Post. 
+
+
+How to delete or edit a review
+
+On your Android phone or tablet, open the Google Play Store app .
+Go to the detail page of the item you reviewed.
+Scroll to the reviews section.
+    
+To edit: Tap Edit your review. Make the changes then tap Post. 
+To delete: Tap More   Delete.
+
+
+
+
+When you can write reviews in the Play Store
+
+You can only review apps and games you’ve downloaded.
+You can’t leave a review from an enterprise account, like an account for work or school.
+If any account on your device is part of a beta program for an app, you can’t leave a review for that app.
+You can leave a beta program if you want to write a review.
+
+
+   Was this helpful?How can we improve it?YesNoSubmit      Android Computer   More                Need more help? Sign in for additional support options to quickly solve your issue      Sign in      true    Get started with Google Play apps & gamesHow to update the Play Store & apps on AndroidReinstall & re-enable appsDelete or disable apps on AndroidManage your wishlistHow to remove a device from Google Play & add device nicknamesDelete your Google Play search historyTurn on background dataHow to rate & review apps in the Google Play Store           ©2022 Google   Privacy Policy   Google Play Terms of Service     Afrikaans‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                        Search Help Center         true 84680                                         false 

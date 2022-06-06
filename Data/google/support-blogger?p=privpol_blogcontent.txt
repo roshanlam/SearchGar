@@ -1,0 +1,39 @@
+Back up or import your blog - Blogger Help   Skip to main content   Blogger HelpSign inGoogle HelpHelp CenterCommunityBloggerPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityAnnouncementsBlogger        Back up or import your blogYou can back up your blog content and import it to another blog. You can also back up your blog before you delete it.
+It looks like you’re signed out. Sign in to Blogger.
+
+Back up your blog content
+To get an .xml file of your blog’s posts, pages, and comments:
+
+Sign in to Blogger.
+At the top left, click the blog you want to back up.
+In the left menu, click Settings.
+Under "Manage blog," click Back up content  Download.
+
+
+Save a copy of your blog's theme
+
+Sign in to Blogger.
+At the top left, click the blog you want to save.
+In the left menu, click Theme.
+At the top right, click More   Backup  Download.
+
+
+Import posts and comments to your blog
+Important: There's a daily limit on the number of files you can import but no file size restrictions.
+To import .xml files of your posts and comments:
+
+Sign in to Blogger.
+At the top left, click the blog you want to import content into.
+In the left menu, click Settings.
+Under "Manage blog," click Import Content  Import.
+    
+If you don't want to automatically publish the imported content, turn off Automatically, publish all imported posts and pages.
+
+
+Select the .xml file you want to import from your computer.
+Click Open.
+
+
+Related articles
+Delete or restore your blog
+ Have more questions?Discuss with other Bloggers in the Blogger Help Forum   Was this helpful?How can we improve it?YesNoSubmit       true    HelpAdvertise on your blogHelp people find your blog on search enginesBack up or import your blogControl access to your blogShare content on other sitesManage blogs you followManage domains registered through BloggerSet up a custom domainUse Analytics with BloggerGet better search results on BloggerManage your blog's settingsDelete or restore your blog           ©2022 Google   Privacy Policy   Terms of Service     Deutsch‎español‎español (Latinoamérica)‎français‎Indonesia‎italiano‎Melayu‎Nederlands‎polski‎português (Brasil)‎română‎suomi‎Tiếng Việt‎Türkçe‎Ελληνικά‎русский‎‏العربيةमराठी‎हिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 74                                      false 

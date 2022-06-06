@@ -1,0 +1,928 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Classroom | Google for Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+
+for Education
+
+
+
+Why GoogleOur commitmentPrivacy & SecurityAccessibilityCustomer storiesFor your institution
+
+For K12For Higher EdDistance LearningGoogle Workspace for EducationOverviewEditions
+
+Education FundamentalsEducation StandardTeaching and Learning UpgradeEducation PlusCompare editionsClassroomGoogle MeetAssignmentsChromebooksOverviewFind a deviceRepairabilityChrome OS FlexGet startedFind a partnerSet up productsProduct supportFor educatorsOverviewProduct guidesTraining coursesCertification programs
+
+Product expertiseProfessional expertiseCommunitiesResource library
+
+
+
+
+
+Sign in
+
+Google ClassroomGoogle Workspace AdminGoogle Cloud
+Get products
+
+Contact sales
+
+
+
+
+
+
+
+
+
+
+
+
+for Education
+
+
+
+
+
+Why Google
+
+
+
+
+Why Google
+
+
+Our commitment
+Privacy & Security
+Accessibility
+Customer stories
+For your institution
+
+
+
+
+For your institution
+
+
+For K12
+For Higher Ed
+Distance Learning
+Google Workspace for Education
+
+
+
+
+Google Workspace for Education
+
+
+Overview
+Editions
+
+
+
+
+Editions
+
+
+Education Fundamentals
+Education Standard
+Teaching and Learning Upgrade
+Education Plus
+Compare editions
+Classroom
+Google Meet
+Assignments
+Chromebooks
+
+
+
+
+Chromebooks
+
+
+Overview
+Find a device
+Repairability
+Chrome OS Flex
+Get started
+
+
+
+
+Get started
+
+
+Find a partner
+Set up products
+Product support
+For educators
+
+
+
+
+For educators
+
+
+Overview
+Product guides
+Training courses
+Certification programs
+
+
+
+
+Certification programs
+
+
+Product expertise
+Professional expertise
+Communities
+Resource library
+
+
+Sign in
+
+
+
+
+Sign in
+
+
+Google Classroom
+Google Workspace Admin
+Google Cloud
+
+
+
+Get products
+
+Contact sales
+
+
+
+
+
+Grab a front row seat for our online product launch event, The Anywhere School 2022. Join us on June 7
+Join us on our June 7 event.
+
+
+
+
+
+
+Close
+
+
+
+
+
+Home
+
+
+
+Classroom
+
+ 
+Where teaching and learning come togetherGoogle Classroom is your all-in-one place for teaching and learning. Our easy-to-use and secure tool helps educators manage, measure, and enrich learning experiences.
+Get started
+
+Sign in to Classroom
+
+
+ 
+All-in-one placeBring all your learning tools together and manage multiple classes in one central destination.
+ 
+Easy to useAnyone in your school community can get up and running with Classroom in minutes.
+ 
+Built for collaborationWork simultaneously in the same document with the whole class or connect face-to-face with Google Meet.
+ 
+Access from anywhereEmpower teaching and learning from anywhere, on any device, and give your class more flexibility and mobility. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+    About Classroom
+  
+    Resources
+  
+    Get Classroom
+  
+
+
+
+
+
+ 
+
+
+Easy to useSave time and simplify everyday tasks
+All editionsSwitch from class to assignment to student in just a few clicks Track student progress in your gradebook and export scores to your schoolâs student information system (SIS)Keep grading consistent and transparent with rubrics displayed alongside student workStore frequently used phrases in a customizable comment bankPrepare and schedule tasks, assignments, and quizzes across multiple classes
+Paid editionsComing soon Integrate your favorite edtech tools with Classroom add-ons (available with the Teaching and Learning Upgrade and Education Plus)
+
+Explore all features
+
+ 
+
+
+ 
+
+ 
+
+EnrichEnhance student learning experiences
+All editionsGive students the ability to adjust accessibility settings so they can learn in the way that works best for them â even in multiple languagesKeep everyone on track with student to-do and teacher to-review pages, and due dates that automatically appear on student calendars when classwork is createdUpload coursework documents automatically as templates to give each student their own copy of an assignment when it is createdEnable students to check their own work for recommended citations by  scanning it against hundreds of billions of web pages and over 40 million books with originality reportsAllow students to snap and submit a picture of their paper homework quickly and easily with improved image capturing
+Paid editionsScan student submissions for potential plagiarism against your domainâs repository of past student work (available with the Teaching and Learning Upgrade and Education Plus)Coming soon Transform new and existing content into engaging and interactive assignments with practice sets
+
+Explore all features
+
+
+
+ 
+
+
+ManageOperate with ease using tools for visibility, insights, and control
+All editionsAccess Classroom audit logs right from the Admin console to investigate events in depth and pinpoint performance or security issues Use reports to investigate issues â like who deleted a student or class â and bring learning back online quickly and easilyServe educational communities of any size
+Paid editionsCreate and manage classes at scale by syncing Classroom rosters from your student information system (SIS) (available with Education Plus)Coming soon Install  third-party edtech tools to multiple teachers at once with Classroom add-ons (available with the Teaching and Learning Upgrade and Education Plus)Export Classroom logs to BigQuery to analyze adoption, engagement, and more (available with Google Workspace for Education Standard and Education Plus)Choose from a range of Classroom upgrades to layer on additional capabilities for your unique institution
+
+Explore all features
+
+ 
+
+
+ 
+
+ 
+
+SecureStay secure and compliant
+Rely on our global network built with multilayered, full-stack security that can handle extreme shifts in demand, and a guaranteed 99.9% uptimeUpholds the most rigorous global education standards for security and privacy â and is regularly audited by third-party organizations Use Classroom 100% ad-free, plus studentsâ personal information will not be used to create ad profiles for targetingEnsure only account holders with a unique sign-in can access a Google for Education domain, plus restrict all class activity to class members only
+
+Explore all features
+
+
+
+ 
+
+
+Coming soonPower student potentialPractice sets empower teachers to create interactive assignments that give students real-time feedback.
+For educatorsUse existing content or create sets from scratchEnable autograding for any assignmentReceive snapshots of student progressView automated insights of assignment performance trendsBuild student confidence with immediate feedbackEnsure student access to resources anytime
+For studentsProvide individual guidance with prompts, encouragement, and automated hintsEnable students to show work so teachers better understand their thinkingAccess a built-in resource section with skill cards and video tutorialsEmpower students to check their answers to know if they are on the right trackEnsure support for multiple input devices that allow for handwriting, drawing, and symbolic expressions
+
+Express interest in the beta
+
+
+ 
+
+
+
+
+
+
+
+
+âOf all the technology solutions I have used within education, Google Classroom has had the most dramatic impact on teaching and learning from the very moment I used it in my schools.â Ross Morrison McGill, 
+ 
+
+
+Use Classroom as part of Google Workspace for Education and explore different editionsClassroom is included in Google Workspace for Education and works seamlessly across each edition. 
+Explore Google Workspace for Education
+
+
+
+ 
+
+Use your favorite apps with ClassroomThousands of educator-approved apps integrate with Classroom to spark creativity and enable unlimited opportunities for learning.
+Explore apps
+
+ 
+
+Use originality reports with ClassroomWith originality reports, accessible through Classroom, teachers can quickly assess authenticity, help students turn in their best work, and compare student work without compromising privacy.
+Explore originality reports
+
+
+ResourcesExplore resources to empower your education needs
+Visit Classroom Help Center
+
+
+
+
+
+ 
+
+
+Teacher Center Classroom resources
+Explore Classroom resources from fellow educators and learn how to solve key education challenges with this video series
+
+
+
+
+
+None
+
+
+
+
+ 
+
+
+Guardians Guide to Classroom
+Explore how teachers use Google Classroom for school as well as how to keep a childâs data safe with this educational resource for guardians.
+
+
+
+Download guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             1
+            
+             2
+            
+
+Get Started
+
+
+
+Get Classroom as part of Google Workspace for EducationIf youâre using Classroom in school, we recommend signing up for Google Workspace for Education. Classroom is already included in Google Workspace for Education and works seamlessly with Google Workspace collaboration tools.
+Get Google Workspace for Education
+
+
+
+Start using ClassroomAlready have Google Workspace for Education? Sign in to Classroom to get started managing your classes today.
+Sign in to Classroom
+
+
+
+
+
+
+ 
+
+
+
+
+Manage Classroom on the go with the mobile app
+
+
+
+
+
+
+
+
+
+Sign up for updates, insights, resources, and more
+
+
+
+
+Follow us
+
+
+Facebook
+
+
+
+Blog
+
+
+
+Twitter
+
+
+
+YouTube
+
+
+
+
+Products
+Google Workspace for Education
+
+Classroom
+
+Google Meet
+
+Assignments
+
+Chromebooks
+
+Google Cloud
+
+Jamboard
+
+Google Workspace for Education
+Education Fundamentals
+
+Education Standard
+
+Teaching and Learning Upgrade
+
+Education Plus
+
+Compare editions
+
+Chromebooks
+Overview
+
+Find a Chromebook
+
+Repairability
+
+Chrome OS Flex
+
+Get products
+Contact sales
+
+Apply for Google Cloud credits
+
+Sign up for Education Fundamentals free trial
+
+Find a partner
+Overview
+
+Sales partners
+
+Professional development partners
+
+Build partners
+
+Get support
+Set up products
+
+Product support
+
+Apps for Classroom
+
+For educators
+Overview
+
+Product guides
+
+Training courses
+
+Product certification
+
+Professional certification
+
+Communities
+
+Resource library
+
+FAQ
+
+About Google for Education
+Our commitment
+
+For K12
+
+For higher ed
+
+Privacy & security
+
+Accessibility
+
+Customer stories
+
+Distance learning
+
+Future of the classroom
+
+Research
+
+The latest
+News & events
+
+Get updates
+
+More from Google
+Learning.Google
+
+Code with Google
+
+Grow with Google
+
+Google for Education blog
+
+Google Cloud
+
+
+
+
+Products
+
+
+
+
+
+Google Workspace for Education
+
+Classroom
+
+Google Meet
+
+Assignments
+
+Chromebooks
+
+Google Cloud
+
+Jamboard
+
+
+
+
+Google Workspace for Education
+
+
+
+
+
+Education Fundamentals
+
+Education Standard
+
+Teaching and Learning Upgrade
+
+Education Plus
+
+Compare editions
+
+
+
+
+Chromebooks
+
+
+
+
+
+Overview
+
+Find a Chromebook
+
+Repairability
+
+Chrome OS Flex
+
+
+
+
+Get products
+
+
+
+
+
+Contact sales
+
+Apply for Google Cloud credits
+
+Sign up for Education Fundamentals free trial
+
+
+
+
+Find a partner
+
+
+
+
+
+Overview
+
+Sales partners
+
+Professional development partners
+
+Build partners
+
+
+
+
+Get support
+
+
+
+
+
+Set up products
+
+Product support
+
+Apps for Classroom
+
+
+
+
+For educators
+
+
+
+
+
+Overview
+
+Product guides
+
+Training courses
+
+Product certification
+
+Professional certification
+
+Communities
+
+Resource library
+
+FAQ
+
+
+
+
+About Google for Education
+
+
+
+
+
+Our commitment
+
+For K12
+
+For higher ed
+
+Privacy & security
+
+Accessibility
+
+Customer stories
+
+Distance learning
+
+Future of the classroom
+
+Research
+
+
+
+
+The latest
+
+
+
+
+
+News & events
+
+Get updates
+
+
+
+
+More from Google
+
+
+
+
+
+Learning.Google
+
+Code with Google
+
+Grow with Google
+
+Google for Education blog
+
+Google Cloud
+
+
+
+
+
+
+
+
+
+Privacy
+
+Terms
+
+About Google
+
+Google Products
+
+
+
+
+Help
+
+
+    Change language or region
+  
+ Global (English)
+ Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© (Ø§ÙØ¹Ø±Ø¨ÙØ©)
+ Australia (English)
+ Brasil (PortuguÃªs)
+ Canada (English)
+ Danmark (Dansk)
+ Deutschland (Deutsch)
+ EspaÃ±a (EspaÃ±ol)
+ France (FranÃ§ais)
+ India (English)
+ à¤­à¤¾à¤°à¤¤ (à¤¹à¤¿à¤¨à¥à¤¦à¥)
+ Indonesia (Indonesia)
+ Italia (Italiano)
+ æ¥æ¬ (æ¥æ¬èª)
+ ëíë¯¼êµ­ (íêµ­ì´)
+ LatinoamÃ©rica (EspaÃ±ol)
+ Malaysia (Melayu)
+ Nederland (Nederlands)
+ New Zealand (English)
+ Norge (Norsk bokmÃ¥l)
+ Philippines (English)
+ Polska (Polski)
+ Singapore (English)
+ Suomi (Suomi)
+ Sverige (Svenska)
+ à¸à¸£à¸°à¹à¸à¸¨à¹à¸à¸¢ (à¹à¸à¸¢)
+ TÃ¼rkiye (TÃ¼rkÃ§e)
+ å°ç£ (ä¸­æ)
+ United Kingdom (English)
+ United States (English)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+You're now viewing content for a different region.For content more relevant to your region, we suggest:
+Global (English)Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© (Ø§ÙØ¹Ø±Ø¨ÙØ©)Australia (English)Brasil (PortuguÃªs)Canada (English)Danmark (Dansk)Deutschland (Deutsch)EspaÃ±a (EspaÃ±ol)France (FranÃ§ais)India (English)à¤­à¤¾à¤°à¤¤ (à¤¹à¤¿à¤¨à¥à¤¦à¥)Indonesia (Indonesia)Italia (Italiano)æ¥æ¬ (æ¥æ¬èª)ëíë¯¼êµ­ (íêµ­ì´)LatinoamÃ©rica (EspaÃ±ol)Malaysia (Melayu)Nederland (Nederlands)New Zealand (English)Norge (Norsk bokmÃ¥l)Philippines (English)Polska (Polski)Singapore (English)Suomi (Suomi)Sverige (Svenska)à¸à¸£à¸°à¹à¸à¸¨à¹à¸à¸¢ (à¹à¸à¸¢)TÃ¼rkiye (TÃ¼rkÃ§e)å°ç£ (ä¸­æ)United Kingdom (English)United States (English)
+
+Stay here
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2876 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Maps Platform - Location and Mapping Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Support
+      
+
+
+
+
+
+      
+        
+        
+          English
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    
+
+
+
+
+
+
+              English
+            
+
+              Deutsch
+            
+
+              espaÃ±ol
+            
+
+              espaÃ±ol latinoamericano
+            
+
+              franÃ§ais
+            
+
+              italiano
+            
+
+              æ¥æ¬èª
+            
+
+              portuguÃªs (Brasil)
+            
+
+              ÑÑÑÑÐºÐ¸Ð¹
+            
+
+
+
+
+
+
+
+  Contact sales
+      
+
+
+
+  Get started
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Maps Platform
+
+
+
+
+Why Google
+
+
+
+
+          Products
+        
+
+
+
+
+
+
+
+                Products
+              
+
+                Discover the APIs and SDKs available to create tailored maps for your business.
+              
+
+
+  See all products
+      
+
+
+
+  All products
+      
+
+
+
+
+
+
+
+
+
+                        Maps
+                      
+
+
+Dynamic Maps
+
+
+JS
+
+Android
+
+iOS
+
+
+
+
+Dynamic Street View
+
+
+JS
+
+Android
+
+iOS
+
+
+
+
+Elevation
+
+
+API
+
+
+
+
+Maps Embed
+
+
+API
+
+
+
+
+Static Maps
+
+
+API
+
+
+
+
+Static Street View
+
+
+API
+
+
+
+
+
+
+
+
+
+
+                        Routes
+                      
+
+
+Directions
+
+
+JS
+
+API
+
+
+
+
+Distance Matrix
+
+
+JS
+
+API
+
+
+
+
+Roads
+
+
+API
+
+
+
+
+
+
+
+
+
+
+                        Places
+                      
+
+
+Autocomplete
+
+
+API
+
+
+
+
+Geocoding
+
+
+JS
+
+API
+
+
+
+
+Geolocation
+
+
+API
+
+
+
+
+Place Details
+
+
+Android
+
+iOS
+
+API
+
+
+
+
+Place Photos
+
+
+Android
+
+iOS
+
+API
+
+
+
+
+Place Search
+
+
+JS
+
+API
+
+
+
+
+Time Zone
+
+
+API
+
+
+
+
+Current Place
+
+
+Android
+
+iOS
+
+API
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+          Solutions
+        
+
+
+
+
+
+
+
+                Solutions
+              
+
+                Find the right combination of products for what youâre looking to achieve.
+              
+
+
+
+
+
+                        By industry
+                      
+
+
+
+
+Retail
+
+
+
+
+
+Transportation & Logistics
+
+
+
+
+
+Financial Services
+
+
+
+
+
+Real Estate
+
+
+
+
+
+
+                        By use case
+                      
+
+
+
+
+Display the ideal location
+
+
+
+
+
+Visualize data
+
+
+
+
+
+Provide local information
+
+
+
+
+
+Enable asset tracking
+
+
+
+
+
+Offer efficient routes
+
+
+
+
+
+Build interactive experiences
+
+
+
+
+
+Simplify address entry
+
+
+
+
+
+Enrich transactions
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+          By industry
+        
+
+
+
+
+
+
+
+                Solutions By Industry
+              
+
+
+
+
+
+
+
+
+
+Retail
+
+
+
+
+
+Transportation & Logistics
+
+
+
+
+
+Financial Services
+
+
+
+
+
+Real Estate
+
+
+
+
+
+
+close
+
+
+
+
+
+
+          By use case
+        
+
+
+
+
+
+
+
+                By use case
+              
+
+
+
+
+
+
+
+
+
+Display the ideal location
+
+
+
+
+
+Visualize data
+
+
+
+
+
+Provide local information
+
+
+
+
+
+Enable asset tracking
+
+
+
+
+
+Offer efficient routes
+
+
+
+
+
+Build interactive experiences
+
+
+
+
+
+Simplify address entry
+
+
+
+
+
+Enrich transactions
+
+
+
+
+
+
+close
+
+
+
+
+
+Pricing
+
+
+
+
+          Resources
+        
+
+
+
+
+
+
+
+                Resources
+              
+
+                Check out more info to help you get to know Google Maps Platform better.
+              
+
+
+
+
+
+
+
+Documentation
+
+
+
+
+
+Customer stories
+
+
+
+
+
+Blog
+
+
+
+
+
+Demo Gallery
+
+
+
+
+
+Webinars
+
+
+
+
+
+Quick Builder
+
+
+
+
+
+Partner Directory
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+  Contact sales
+      
+
+  Get started
+      
+
+
+
+
+
+
+
+
+
+
+
+Google Maps Platform
+
+
+
+
+
+
+Why Google
+
+
+
+
+          Products
+        
+
+
+
+
+
+
+
+                Products
+              
+
+                Discover the APIs and SDKs available to create tailored maps for your business.
+              
+
+
+  See all products
+      
+
+
+
+  All products
+      
+
+
+
+
+
+
+
+
+
+                        Maps
+                      
+
+
+Dynamic Maps
+
+
+JS
+
+Android
+
+iOS
+
+
+
+
+Dynamic Street View
+
+
+JS
+
+Android
+
+iOS
+
+
+
+
+Elevation
+
+
+API
+
+
+
+
+Maps Embed
+
+
+API
+
+
+
+
+Static Maps
+
+
+API
+
+
+
+
+Static Street View
+
+
+API
+
+
+
+
+
+
+
+
+
+
+                        Routes
+                      
+
+
+Directions
+
+
+JS
+
+API
+
+
+
+
+Distance Matrix
+
+
+JS
+
+API
+
+
+
+
+Roads
+
+
+API
+
+
+
+
+
+
+
+
+
+
+                        Places
+                      
+
+
+Autocomplete
+
+
+API
+
+
+
+
+Geocoding
+
+
+JS
+
+API
+
+
+
+
+Geolocation
+
+
+API
+
+
+
+
+Place Details
+
+
+Android
+
+iOS
+
+API
+
+
+
+
+Place Photos
+
+
+Android
+
+iOS
+
+API
+
+
+
+
+Place Search
+
+
+JS
+
+API
+
+
+
+
+Time Zone
+
+
+API
+
+
+
+
+Current Place
+
+
+Android
+
+iOS
+
+API
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+          Solutions
+        
+
+
+
+
+
+
+
+                Solutions
+              
+
+                Find the right combination of products for what youâre looking to achieve.
+              
+
+
+
+
+
+                        By industry
+                      
+
+
+
+
+Retail
+
+
+
+
+
+Transportation & Logistics
+
+
+
+
+
+Financial Services
+
+
+
+
+
+Real Estate
+
+
+
+
+
+
+                        By use case
+                      
+
+
+
+
+Display the ideal location
+
+
+
+
+
+Visualize data
+
+
+
+
+
+Provide local information
+
+
+
+
+
+Enable asset tracking
+
+
+
+
+
+Offer efficient routes
+
+
+
+
+
+Build interactive experiences
+
+
+
+
+
+Simplify address entry
+
+
+
+
+
+Enrich transactions
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+          By industry
+        
+
+
+
+
+
+
+
+                Solutions By Industry
+              
+
+
+
+
+
+
+
+
+
+Retail
+
+
+
+
+
+Transportation & Logistics
+
+
+
+
+
+Financial Services
+
+
+
+
+
+Real Estate
+
+
+
+
+
+
+close
+
+
+
+
+
+
+          By use case
+        
+
+
+
+
+
+
+
+                By use case
+              
+
+
+
+
+
+
+
+
+
+Display the ideal location
+
+
+
+
+
+Visualize data
+
+
+
+
+
+Provide local information
+
+
+
+
+
+Enable asset tracking
+
+
+
+
+
+Offer efficient routes
+
+
+
+
+
+Build interactive experiences
+
+
+
+
+
+Simplify address entry
+
+
+
+
+
+Enrich transactions
+
+
+
+
+
+
+close
+
+
+
+
+
+Pricing
+
+
+
+
+          Resources
+        
+
+
+
+
+
+
+
+                Resources
+              
+
+                Check out more info to help you get to know Google Maps Platform better.
+              
+
+
+
+
+
+
+
+Documentation
+
+
+
+
+
+Customer stories
+
+
+
+
+
+Blog
+
+
+
+
+
+Demo Gallery
+
+
+
+
+
+Webinars
+
+
+
+
+
+Quick Builder
+
+
+
+
+
+Partner Directory
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+      Get $200 usage monthly for no charge. See pricing details.
+
+
+          Willkommen auf der neuen Website von Google Maps Platform. Sie ist bald auch in Ihrer Sprache verfÃ¼gbar.
+        
+
+          Te damos la bienvenida al nuevo sitio web de Google Maps Platform. Muy pronto estarÃ¡ disponible en tu idioma.
+        
+
+          Welcome to the new Google Maps Platform website,Â your local language site will be available soon.
+        
+
+          Bienvenue sur le nouveau site Google MapsÂ Platform (bientÃ´t disponible dans votre langue).
+        
+
+          Ti diamo il benvenuto nel nuovo sito web di Google Maps Platform. Il sito sarÃ  a breve disponibile nella tua lingua.
+        
+
+          æ°ãã Google Maps Platform ã¸ãããããããããããªãã®æ¯å½èªã§ããå©ç¨ããã ãã¾ãã
+        
+
+          Ã bom ver vocÃª aqui no novo site da Plataforma Google Maps. A pÃ¡gina no seu idioma local estarÃ¡ disponÃ­vel em breve.
+        
+
+          ÐÐ¾Ð±ÑÐ¾ Ð¿Ð¾Ð¶Ð°Ð»Ð¾Ð²Ð°ÑÑ Ð½Ð° Ð½Ð¾Ð²ÑÐ¹ ÑÐ°Ð¹Ñ Ð¿Ð»Ð°ÑÑÐ¾ÑÐ¼Ñ Google ÐÐ°ÑÑ! ÐÐµÑÑÐ¸Ñ ÑÐ°Ð¹ÑÐ° Ð½Ð° Ð²Ð°ÑÐµÐ¼ ÑÐ·ÑÐºÐµ Ð¿Ð¾ÑÐ²Ð¸ÑÑÑ Ð² Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑÐµÐµ Ð²ÑÐµÐ¼Ñ.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome toGoogle Maps Platform
+See where real-world insights and location solutions can take your business.
+
+
+  Get started
+      
+
+
+
+
+
+
+
+
+
+
+Why Google
+200M+
+businesses and places
+
+
+
+
+
+
+
+
+
+
+
+      Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+      Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+
+
+Industries
+Explore solutions for Retail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use cases
+Provide local information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+Find the right combination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+Explore the demo gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View the latest updates
+
+
+
+Webinar
+Advanced maps customization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+Get to know Last Mile Fleet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New solution
+Last Mile Fleet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Go way beyond maps
+      
+    
+
+      
+        Transform your business from end to end with products and solutions from Google.
+      
+    
+
+
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Transportation & Logistics solutions
+      
+    
+
+      
+        Power rides and deliveries with real-time insights.
+      
+    
+
+
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+      Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Retail solutions
+      
+    
+
+      
+        Delight customers with a frictionless shopping experience.
+      
+    
+
+
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+      Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Financial Services solutions
+      
+    
+
+      
+        Improve your customer experience, increase security, and streamline operations.
+      
+    
+
+
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+      Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Real Estate solutions
+      
+    
+
+      
+        Bring neighborhoods to life with innovative imagery and map-based search tools.
+      
+    
+
+
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore use cases
+See what your business can do with Google on its side.
+
+
+
+
+
+
+
+
+
+
+
+Find the best location
+Help customers find and visit the nearest store, ATM, restaurant, auto shop, medical office, and more.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+Visualize data
+Display or analyze geospatial data on a map to help customers make decisions.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+Provide local information
+Understand what's nearby to simplify decisions like where to shop, visit, or live.
+
+  Learn more
+      
+
+
+
+
+
+              See all use cases
+              
+
+
+              See less
+              
+
+
+
+
+
+
+
+
+
+
+
+Enable asset tracking
+Dynamically track and visualize moving assets.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+Offer efficient routes
+Quickly and efficiently route people or goods from A to B.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+Build interactive experiences
+Increase engagement, communicate dynamic information, and delight users.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+Simplify address entry
+Help users quickly enter the right address when searching, signing up, or checking out.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+Enrich transactions
+Help customers easily recognize and understand their transactions.
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Stay on budget with flexible plans
+      
+    
+
+      
+        Find the best plan for your usage and set daily quotas to avoid unexpected costs.
+      
+    
+
+
+
+  Learn more
+      
+
+
+
+
+
+
+
+
+
+            usage every month for no charge
+          
+
+          That's up to 28,500 maploads per month for no charge. See pricing details.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        We need to create reliable and efficient tools that help streamline the buying and selling process. Google Maps has helped us do that. Our map-based search is much more efficient and less costly than the way the traditional real estate industry works.
+      
+    
+
+      
+        Curtis Howell
+      
+    
+
+      
+        Senior Product Manager for Customer Engagement, Redfin
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Location services are very important for us...after we adopted Google Maps Platform, our bounce rate was cut by 12%, which translates to 4 million visitors a year who continue their journey on our website.
+      
+    
+
+      
+        Rob Sargent
+      
+    
+
+      
+        Senior Digital Product Lead, Argos
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        We have to match the right driver with the right request â whether that is transporting a person or food or other item from location A to location B â as quickly as possibleâ¦Google Maps Platform now resides at the core of our engine to help us figure out optimized routes and estimated times of arrival for our drivers.
+      
+    
+
+      
+        Ajey Gore
+      
+    
+
+      
+        Group Chief Technology Officer, Gojek
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        A great store experience starts long before you actually enter a store. So a big part of our mission is to inspire customers and offer them the best customer experience anytime, anywhere. The whole experience has become much more exciting for customers since deploying Google Maps Platform.
+      
+    
+
+      
+        Rolf Jeker
+      
+    
+
+      
+        Senior Solutions Designer, Swisscom
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        As a new fintech, trust is a huge factor in how we gain and keep customers. Every millimeter of our app where we can build trust and show them something familiar is really valuable. I don't think there's another map platform thatâs more familiar to consumers than Google Maps Platform.
+      
+    
+
+      
+        Eleanor Hasler
+      
+    
+
+      
+        Vice President, Product Strategy and External Relations, Dozens
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        Get going with Google Maps Platform
+      
+    
+
+
+
+  Get started
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Follow us
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Helpful links
+        
+
+
+Documentation
+
+
+
+FAQs
+
+
+
+Quick builder
+
+
+
+
+
+
+
+
+
+
+      
+        Keep up with the latest
+      
+    
+
+      
+        Subscribe to the Google Maps Platform newsletter today to receive product updates, insights, news, and more.
+      
+    
+
+
+
+
+
+First name
+
+This is required
+
+
+Last name
+
+This is required
+
+
+Business email
+
+This is required
+
+
+Company name
+
+This is required
+
+
+Job title
+
+This is required
+
+
+Phone
+
+This is required
+
+
+Select industry
+
+Select industry
+Automotive
+Business Services
+Education
+Energy, Chemicals & Utilities
+Farming, Forestry, Fishing
+Financial Services
+Fleet Management
+Gaming
+Government
+Health & Social Care
+Holding Companies
+IoT
+Insurance
+Manufacturing
+Media & Entertainment
+Mining & Construction
+Non-profit
+Ridesharing and Local Deliveries
+Retail & e-Commerce
+Software & Services
+Telecommunications
+Technology
+Travel
+Transportation
+
+This is required
+
+
+Select Country
+
+Select Country
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos [Keeling] Islands
+Colombia
+Comoros
+Congo [DRC]
+Congo [Republic]
+Cook Islands
+Costa Rica
+CÃ´te dâIvoire
+Croatia
+CuraÃ§ao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands [Islas Malvinas]
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia [FYROM]
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+RÃ©union
+Romania
+Russia
+Rwanda
+Saint BarthÃ©lemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+SÃ£o TomÃ© and PrÃ­ncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Outlying Islands
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+This is required
+
+
+Yes, sign me up to receive communications from Google Maps Platform and Google Cloud.
+
+This is required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Your information will be used in accordance with Google's privacy policy. You may opt out at any time.
+        
+Subscribe
+
+
+
+
+        Thanks for signing up
+      
+
+        A welcome email should be in your inbox soon.
+      
+
+
+
+
+
+
+
+
+
+
+About Google
+
+
+
+Google products
+
+
+
+Privacy
+
+
+
+Terms
+
+
+
+Google Maps Platform Terms
+
+
+
+
+
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+      
+        
+        
+          English
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    
+
+
+
+
+
+
+              English
+            
+
+              Deutsch
+            
+
+              espaÃ±ol
+            
+
+              espaÃ±ol latinoamericano
+            
+
+              franÃ§ais
+            
+
+              italiano
+            
+
+              æ¥æ¬èª
+            
+
+              portuguÃªs (Brasil)
+            
+
+              ÑÑÑÑÐºÐ¸Ð¹
+            
+
+
+
+
+
+
+
+
+
+

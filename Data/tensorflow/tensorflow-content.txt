@@ -1,0 +1,2072 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TensorFlow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Install
+
+
+
+
+  Learn
+
+
+
+
+
+
+
+
+
+                      Introduction
+                    
+
+                      New to TensorFlow?
+                    
+
+
+
+
+
+                      TensorFlow
+                    
+
+                      The core open source ML library
+                    
+
+
+
+
+
+                      For JavaScript
+                    
+
+                      TensorFlow.js for ML using JavaScript
+                    
+
+
+
+
+
+                      For Mobile & Edge
+                    
+
+                      TensorFlow Lite for mobile and edge devices
+                    
+
+
+
+
+
+                      For Production
+                    
+
+                      TensorFlow Extended for end-to-end ML components
+                    
+
+
+
+
+
+
+
+
+
+  API
+
+
+
+
+
+
+
+
+
+                      TensorFlow (v2.9.1)
+                    
+
+
+
+
+
+                      r1.15
+                    
+
+
+
+
+
+                      Versions…
+                    
+
+
+
+
+
+
+
+
+
+                      TensorFlow.js
+                    
+
+
+
+
+
+                      TensorFlow Lite
+                    
+
+
+
+
+
+                      TFX
+                    
+
+
+
+
+
+
+
+
+
+  Resources
+
+
+
+
+
+
+
+
+
+                      Models & datasets
+                    
+
+                      Pre-trained models and datasets built by Google and the community
+                    
+
+
+
+
+
+                      Tools
+                    
+
+                      Ecosystem of tools to help you use TensorFlow
+                    
+
+
+
+
+
+                      Libraries & extensions
+                    
+
+                      Libraries and extensions built on TensorFlow
+                    
+
+
+
+
+
+                      TensorFlow Certificate program
+                    
+
+                      Differentiate yourself by demonstrating your ML proficiency
+                    
+
+
+
+
+
+                      Learn ML
+                    
+
+                      Educational resources to learn the fundamentals of ML with TensorFlow
+                    
+
+
+
+
+
+                      Responsible AI
+                    
+
+                      Resources and tools to integrate Responsible AI practices into your ML workflow
+                    
+
+
+
+
+
+
+
+
+
+  Community
+
+
+
+
+
+
+
+
+
+                      Join
+                    
+
+                      Explore ways to get involved
+                    
+
+
+
+
+
+                      Blog
+                    
+
+                      Stay up to date with all things TensorFlow
+                    
+
+
+
+
+
+                      Forum ↗
+                    
+
+                      Discussion platform for the TensorFlow community
+                    
+
+
+
+
+
+                      Groups
+                    
+
+                      User groups, interest groups and mailing lists
+                    
+
+
+
+
+
+                      Contribute
+                    
+
+                      Guide for contributing to code and documentation
+                    
+
+
+
+
+
+
+
+
+
+  Why TensorFlow
+
+
+
+
+
+
+
+
+
+                      About
+                    
+
+
+
+
+
+                      Case studies
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Polski
+      
+
+        Português – Brasil
+      
+
+        Tiếng Việt
+      
+
+        Türkçe
+      
+
+        Русский
+      
+
+        עברית
+      
+
+        العربيّة
+      
+
+        فارسی
+      
+
+        हिंदी
+      
+
+        বাংলা
+      
+
+        ภาษาไทย
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+    GitHub
+  
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Install
+   
+
+
+
+
+
+
+
+      Learn
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      API
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Resources
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Community
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Why TensorFlow
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      GitHub
+   
+
+
+
+
+
+
+
+
+
+      Introduction
+   
+
+
+
+
+
+      TensorFlow
+   
+
+
+
+
+
+      For JavaScript
+   
+
+
+
+
+
+      For Mobile & Edge
+   
+
+
+
+
+
+      For Production
+   
+
+
+
+
+
+
+
+      TensorFlow (v2.9.1)
+   
+
+
+
+
+
+      r1.15
+   
+
+
+
+
+
+      Versions…
+   
+
+
+
+
+
+      TensorFlow.js
+   
+
+
+
+
+
+      TensorFlow Lite
+   
+
+
+
+
+
+      TFX
+   
+
+
+
+
+
+
+
+      Models & datasets
+   
+
+
+
+
+
+      Tools
+   
+
+
+
+
+
+      Libraries & extensions
+   
+
+
+
+
+
+      TensorFlow Certificate program
+   
+
+
+
+
+
+      Learn ML
+   
+
+
+
+
+
+      Responsible AI
+   
+
+
+
+
+
+
+
+      Join
+   
+
+
+
+
+
+      Blog
+   
+
+
+
+
+
+      Forum ↗
+   
+
+
+
+
+
+      Groups
+   
+
+
+
+
+
+      Contribute
+   
+
+
+
+
+
+
+
+      About
+   
+
+
+
+
+
+      Case studies
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Google I/O is a wrap! Catch up on TensorFlow sessions  View sessions
+
+
+
+
+
+
+
+    
+        TensorFlow
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Why TensorFlow
+       
+
+
+         TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+        
+
+
+
+         About
+         
+
+
+
+
+
+
+
+
+
+
+
+
+         Easy model building
+        
+
+
+          Build and train ML models easily using intuitive high-level APIs like Keras with eager execution, which makes for immediate model iteration and easy debugging.
+         
+
+
+
+
+
+
+
+
+
+         Robust ML production anywhere
+        
+
+
+          Easily train and deploy models in the cloud, on-prem, in the browser, or on-device no matter what language you use.
+         
+
+
+
+
+
+
+
+
+
+         Powerful experimentation for research
+        
+
+
+          A simple and flexible architecture to take new ideas from concept to code, to state-of-the-art models, and to publication faster.
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Solutions to common ML problems
+       
+
+
+         Simple step-by-step walkthroughs to solve common ML problems with TensorFlow.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Beginner
+        
+
+         Your first neural network
+        
+
+
+          Train a neural network to classify images of clothing, like sneakers and shirts, in this fast-paced overview of a complete TensorFlow program.
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Intermediate
+        
+
+         Recommender systems
+        
+
+
+          Start with building and training a retrieval model to predict a set of movies that a user is likely to watch, and then use a ranking model to create recommendations.
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Expert
+        
+
+         Generative adversarial networks
+        
+
+
+          Train a generative adversarial network to generate images of handwritten digits, using the Keras Subclassing API.
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Powered by TensorFlow
+       
+
+
+         A diverse community of developers, enterprises and researchers are using ML to solve challenging, real-world problems. Learn how their research and applications are being
+         
+          #PoweredbyTF
+         
+         and how you can
+         
+          share your story
+         
+         .
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Developers
+        
+
+         Helping doctors detect respiratory diseases using machine learning
+        
+
+
+          Watch the video
+          
+
+
+
+
+
+
+
+
+
+          close
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Enterprise
+        
+
+         Advancing access to human rights information
+        
+
+
+          Watch the video
+          
+
+
+
+
+
+
+
+
+
+          close
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Research
+        
+
+         Enabling medical staff to prescribe the right antibiotics with TensorFlow
+        
+
+
+          Watch the video
+          
+
+
+
+
+
+
+
+
+
+          close
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Companies using TensorFlow
+       
+
+
+         See case studies
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Airbnb
+        
+
+
+
+
+
+         Coca Cola
+        
+
+
+
+
+
+         Deepmind
+        
+
+
+
+
+
+         GE Healthcare
+        
+
+
+
+
+
+         Google
+        
+
+
+
+
+
+         Intel
+        
+
+
+
+
+
+         NERSC
+        
+
+
+
+
+
+         Twitter
+        
+
+
+
+
+
+         Airbus
+        
+
+
+
+
+
+         AMD
+        
+
+
+
+
+
+         ARM
+        
+
+
+
+
+
+         Baker Hughes
+        
+
+
+
+
+
+         Bitmain
+        
+
+
+
+
+
+         Bloomberg
+        
+
+
+
+
+
+         Cai Cloud
+        
+
+
+
+
+
+         Cambia
+        
+
+
+
+
+
+         Carousell
+        
+
+
+
+
+
+         Castbox
+        
+
+
+
+
+
+         Ceva
+        
+
+
+
+
+
+         CI&T
+        
+
+
+
+
+
+         Dropbox
+        
+
+
+
+
+
+         eBay
+        
+
+
+
+
+
+         Fluent
+        
+
+
+
+
+
+         Himax
+        
+
+
+
+
+
+         IBM Power Systems
+        
+
+
+
+
+
+         JD.com
+        
+
+
+
+
+
+         Kakao
+        
+
+
+
+
+
+         Kika
+        
+
+
+
+
+
+         Lenovo
+        
+
+
+
+
+
+         LinkedIn
+        
+
+
+
+
+
+         Matroid
+        
+
+
+
+
+
+         Mediatek
+        
+
+
+
+
+
+         Meituan
+        
+
+
+
+
+
+         Mi
+        
+
+
+
+
+
+         Mobvoi
+        
+
+
+
+
+
+         Movidius
+        
+
+
+
+
+
+         Musically
+        
+
+
+
+
+
+         Netease
+        
+
+
+
+
+
+         Nvidia
+        
+
+
+
+
+
+         PayPal
+        
+
+
+
+
+
+         Qualcomm
+        
+
+
+
+
+
+         Quantiphi
+        
+
+
+
+
+
+         SAP
+        
+
+
+
+
+
+         Sinovation
+        
+
+
+
+
+
+         Snapchat
+        
+
+
+
+
+
+         Sogou
+        
+
+
+
+
+
+         Tencent
+        
+
+
+
+
+
+         Texas Instruments
+        
+
+
+
+
+
+         Uber
+        
+
+
+
+
+
+         Unisound
+        
+
+
+
+
+
+         VSCO
+        
+
+
+
+
+
+         WPS
+        
+
+
+
+
+
+         360
+        
+
+
+
+
+
+         3dr
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        News & announcements
+       
+
+
+         Check out the
+         
+          TensorFlow blog
+         
+         for additional updates, and subscribe to our TensorFlow newsletter to get the latest announcements sent directly to your inbox.
+        
+
+
+
+         Sign up
+         
+
+
+
+
+
+
+
+
+
+
+
+
+         What's new in TensorFlow 2.9
+        
+
+
+          Learn about performance improvements with oneDNN, a new API for model distribution called DTensor, and more.
+         
+
+
+
+          Read the blog
+          
+
+
+
+
+
+
+
+
+
+
+
+         TensorFlow at Google I/O
+        
+
+
+          Check out the Google I/O recap to learn what’s new in TensorFlow and watch sessions on model training, Responsible AI, web ML, edge devices and more.
+         
+
+
+
+          Read the blog
+          
+
+
+
+
+
+
+
+
+
+
+
+         ML Community Day
+        
+
+
+          Explore the latest developments in Google’s machine learning ecosystem that can be applied to your ML-powered apps and cutting edge research.
+         
+
+
+
+          See ML Community Day
+          
+
+
+
+
+
+
+
+
+
+
+
+         Explore Google Dev Library
+        
+
+
+          Dev Library is a showcase of what developers have created with Google technologies. See what’s being built with ML, and submit your own!
+         
+
+
+
+          Explore Dev Library
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Resources and community support
+       
+
+
+         We are committed to fostering an open and welcoming ML community. Join the TensorFlow community and help grow the ecosystem.
+        
+
+
+
+         Community
+         
+
+
+
+
+
+
+
+
+
+         TensorFlow Forum
+         
+
+
+
+
+          Join the TensorFlow Forum to share ideas, discuss technical questions and connect with the TensorFlow community.
+         
+
+
+
+
+
+
+         TensorFlow Blog
+         
+
+
+
+
+          We post regularly to the TensorFlow Blog, with content from the TensorFlow team and the best articles from the community.
+         
+
+
+
+
+
+
+         YouTube
+         
+
+
+
+
+          Our YouTube Channel focuses on machine learning and AI with TensorFlow. Explore a number of new shows, including TensorFlow Meets, Ask TensorFlow, and Coding TensorFlow.
+         
+
+
+
+
+
+
+         Twitter
+         
+
+
+
+
+          For up-to-date news and updates from the community and the TensorFlow team, follow on Twitter.
+         
+
+
+
+
+
+
+         TensorFlow announcements
+         
+
+
+
+
+          Join the TensorFlow announcement mailing list to learn about the latest release updates, security advisories, and other important information from the TensorFlow team.
+         
+
+
+
+
+
+
+
+        Sign up for the TensorFlow newsletter
+       
+
+
+         Sign up
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Build, deploy, and experiment easily with TensorFlow
+       
+
+
+         Get started
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay connected
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Forum
+          
+          
+
+
+
+            
+          
+            GitHub
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Support
+
+
+
+            
+          
+            Issue tracker
+          
+          
+
+
+
+            
+          
+            Release notes
+          
+          
+
+
+
+            
+          
+            Stack Overflow
+          
+          
+
+
+
+            
+          
+            Brand guidelines
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Cite TensorFlow
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the TensorFlow newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Polski
+      
+
+        Português – Brasil
+      
+
+        Tiếng Việt
+      
+
+        Türkçe
+      
+
+        Русский
+      
+
+        עברית
+      
+
+        العربيّة
+      
+
+        فارسی
+      
+
+        हिंदी
+      
+
+        বাংলা
+      
+
+        ภาษาไทย
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

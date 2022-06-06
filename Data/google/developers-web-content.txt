@@ -1,0 +1,911 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web
+
+
+
+
+
+
+
+
+
+
+
+  Fundamentals
+
+
+
+
+  Tools
+
+
+
+
+
+
+
+
+
+                      Chrome DevTools
+                    
+
+
+
+
+
+                      Lighthouse
+                    
+
+
+
+
+
+                      Puppeteer
+                    
+
+
+
+
+
+                      Workbox
+                    
+
+
+
+
+
+                      Chrome User Experience Report
+                    
+
+
+
+
+
+
+
+
+
+  Updates
+
+
+
+
+  Case Studies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+Web Fundamentals
+
+            Tutorials, guides, and best practices for building the next
+            generation of web experiences.
+          
+Get started
+
+
+
+
+Tools
+
+Chrome DevTools,
+            Lighthouse,
+            Workbox,
+            and more tools to make your life easier and improve your
+            development artistry.
+          
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web
+
+
+
+
+
+
+
+
+
+
+
+
+      Fundamentals
+   
+
+
+
+
+
+      Tools
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Updates
+   
+
+
+
+
+
+      Case Studies
+   
+
+
+
+
+
+
+
+
+
+      Chrome DevTools
+   
+
+
+
+
+
+      Lighthouse
+   
+
+
+
+
+
+      Puppeteer
+   
+
+
+
+
+
+      Workbox
+   
+
+
+
+
+
+      Chrome User Experience Report
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Take a stroll down memory lane and celebrate #100CoolWebMoments since Chrome's first release.
+
+        
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        Web
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        #100CoolWebMoments
+      
+  
+
+
+            Take a stroll down memory lane and celebrate #100CoolWebMoments since Chrome's first release. Tell us which moments you loved the most. If we've missed anything (and we're sure we have!), tweet us with #100CoolWebMoments. Enjoy!
+
+          
+
+Check it out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Move to HTTPS
+      
+  
+
+
+            HTTPS allows users to securely connect to your website or app. Set up HTTPS to protect the integrity and security of your users.
+
+          
+
+Get HTTPS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Progressive Web Apps
+      
+  
+
+
+            A new class of web app that is fast, integrated, reliable, and engaging.
+
+          
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Load instantly
+      
+  
+
+
+            Users don't have the patience to wait for sites that can't deliver content quickly.
+
+          
+
+Get fast
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Updates
+      
+  
+    
+
+              Stay up to date on new web platform features, changes to Chrome and more.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweaks to cache.addAll() and importScripts() coming in Chrome 71
+Some small changes are coming to cache.addAll() and importScripts(), starting in Chrome 71.
+
+
+Site Isolation for web developers
+Chrome 67 on desktop has a new feature called Site Isolation enabled by default. This article explains what Site Isolation is all about, why it’s necessary, and why web developers should be aware of it.
+
+
+Lighthouse 2.8 Updates
+New perf and SEO audits, perf as the first section in reports, and more.
+
+
+CSS Paint API
+Houdini’s CSS Paint API allows you to programmatically draw CSS images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      how_to_reg
+    
+
+
+
+
+
+
+
+
+
+    
+        Get involved
+      
+  
+
+
+            Check the state of existing bugs and provide feedback for web platform features.
+
+          
+
+Get involved
+
+
+
+
+
+
+
+
+
+
+
+      school
+    
+
+
+
+
+
+
+
+
+
+    
+        Training
+      
+  
+
+
+            Level-up your skills with in-person and online training courses for web developers.
+
+          
+
+Start learning
+
+
+
+
+
+
+
+
+
+
+
+      trending_up
+    
+
+
+
+
+
+
+
+
+
+    
+        Case studies
+      
+  
+
+
+            Learn why and how other developers have used the web to create amazing web experiences for their users.
+
+          
+
+See more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        
+        Chromium Blog
+      
+The latest news on the Chromium blog.
+
+
+
+
+          
+        
+        web.dev
+      
+Useful guidance and analysis from web.dev for web developers.
+
+
+
+
+          
+        
+        Twitter
+      
+Connect with on Twitter.
+
+
+
+
+          
+        
+        Videos
+      
+Check out our videos.
+
+
+
+
+
+
+
+
+Key Topics
+
+
+
+            
+          
+            Web on Android
+          
+          
+
+
+
+            
+          
+            Chrome Extension Docs
+          
+          
+
+
+
+            
+          
+            Site Kit plugin for WordPress
+          
+          
+
+
+
+            
+          
+            How to file a good browser bug
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Progressive Web Apps
+          
+          
+
+
+
+
+More Topics
+
+
+
+            
+          
+            Search Console Help Center
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Search Console Community
+          
+          
+
+
+
+
+Contribute
+
+
+
+            
+          
+            File an Issue
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            View Page Source
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

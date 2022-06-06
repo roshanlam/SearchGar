@@ -1,0 +1,646 @@
+
+
+
+
+Google Assistant, your own personal Google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+            Google serves cookies to analyze traffic to this site. Information about your use of our site is shared with Google for that purpose.
+            
+See details
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+ 
+                  Overview
+                
+
+ 
+                  Get Google Assistant
+                
+
+
+                        Phones
+                      
+
+
+                        Speakers
+                      
+
+
+                        Smart Displays
+                      
+
+
+                        Cars
+                      
+
+
+                        TVs
+                      
+
+
+                        Laptops & Tablets
+                      
+
+
+                        Wearables
+                      
+
+
+                        More Devices
+                      
+ 
+
+ 
+                  What it can do
+                
+
+
+                        Get Started
+                      
+
+
+                        Explore All Actions
+                      
+ 
+
+ 
+                  News and resources
+                
+
+
+                        News
+                      
+
+
+                        Partners
+                      
+
+
+                        For Developers
+                      
+
+
+                        For Businesses
+                      
+
+
+                        Discover
+                      
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Overview
+                
+
+
+ 
+
+
+
+                  Get Google Assistant
+                
+
+
+                          Phones
+                        
+
+
+                          Speakers
+                        
+
+
+                          Smart Displays
+                        
+
+
+                          Cars
+                        
+
+
+                          TVs
+                        
+
+
+                          Laptops & Tablets
+                        
+
+
+                          Wearables
+                        
+
+
+                          More Devices
+                        
+ 
+
+
+ 
+
+
+
+                  What it can do
+                
+
+
+                          Get Started
+                        
+
+
+                          Explore All Actions
+                        
+ 
+
+
+ 
+
+
+
+                  News and resources
+                
+
+
+                          News
+                        
+
+
+                          Partners
+                        
+
+
+                          For Developers
+                        
+
+
+                          For Businesses
+                        
+
+
+                          Discover
+                        
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Notice for Audio Collection from Childrenâs Features on Google Assistant
+We want to help parents understand how we collect voice and audio information 
+when people engage with childrenâs features, like Assistant for Families 
+Actions or YouTube Kids videos, through Google Assistant. In addition to the 
+information provided in the 
+Google Privacy Policy this Privacy Notice also 
+applies to the use of these features on Google Assistant. 
+Children under the 
+applicable age in their country 
+whose parents have created their 
+Google Account with Family Link can link their 
+accounts to most Google Assistant-enabled devices. 
+The "Include voice and audio activity" option under the Web & App Activity 
+setting controls whether voice and audio recordings are stored to your Google 
+Account when you use your voice to interact with Assistant. This option is off 
+by default when creating a Google account, and is not required to use the 
+Assistant. 
+If your childâs "Include voice and audio activity" option under the Web & App 
+Activity setting is checked, when they interact with the Assistant on a signed-in
+device, a recording of their interaction, plus a few seconds before, may be 
+stored with their account. Google uses this saved voice and audio activity to 
+develop and improve its audio recognition technologies and the Google services 
+that use them, like Google Assistant. If your child uses Google Assistant with 
+Voice Match and youâve turned on this voice and audio activity setting, Google 
+may also temporarily process a model of your childâs voice from their saved 
+audio to develop and improve Googleâs voice technologies and Google services 
+that use them. 
+If you created a new account for your child with Family Link, you can 
+
+access, update, remove and export your childâs audio recordings by signing into their Google Account. 
+If you do not remember your childâs password, you can reset it through the 
+Family Link app or via 
+Family Link settings on the web. Once signed in, 
+you can use the various controls described in the Google Privacy Policy (such 
+as 
+Google activity controls) to manage your childâs voice and 
+audio activity settings and the audio recordings stored with their account, 
+including to delete any activity stored in their account. 
+If your child created their own account prior to the change of the minimum 
+required age in your country, and you later granted permission for your child 
+to keep their account, you may need your childâs permission to reset their 
+password or sign in to their account. 
+If you have consented to enable Voice Match for your child so that Google 
+Assistant can recognize them and tell them apart from others, audio from a 
+small number of your childâs Assistant interactions may be saved on their 
+Assistant-enabled devices and sent temporarily to Googleâs servers to fine tune 
+your childâs Voice Match model. 
+If you interact with childrenâs featuresâlike Assistant for Families Actions or 
+YouTube Kids videosâon Google Assistant without a Google Account Managed with 
+Family Link that has opted in to include audio recordings or consented to Voice 
+Match, we will only briefly collect voice and audio recordings of those 
+interactions. This information is processed to allow for use of the audio 
+feature, so we can fulfill the interaction, and then immediately deleted from 
+our servers. 
+Last modified: May 31, 2022
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Privacy
+        
+
+
+
+          Terms
+        
+
+
+
+          About Google
+        
+
+
+
+          Google Products
+        
+
+
+
+          Developers
+        
+
+
+
+          Businesses
+        
+
+
+
+          Join user studies
+        
+
+
+
+
+
+
+
+
+          Help
+        
+
+
+
+
+    Afrikaans (Suid-Afrika)
+    
+
+    catalÃ  (Espanya)
+    
+
+    dansk (Danmark)
+    
+
+    Deutsch (Deutschland)
+    
+
+    eesti (Eesti)
+    
+
+    English 
+    
+
+    English (United States)
+    
+
+    espaÃ±ol (EspaÃ±a)
+    
+
+    espaÃ±ol (LatinoamÃ©rica)
+    
+
+    euskara (Espainia)
+    
+
+    Filipino (Pilipinas)
+    
+
+    franÃ§ais (Canada)
+    
+
+    franÃ§ais (France)
+    
+
+    galego (EspaÃ±a)
+    
+
+    hrvatski (Hrvatska)
+    
+
+    Indonesia (Indonesia)
+    
+
+    isiZulu (iNingizimu Afrika)
+    
+
+    italiano (Italia)
+    
+
+    Kiswahili (Kenya)
+    
+
+    latvieÅ¡u (Latvija)
+    
+
+    lietuviÅ³ (Lietuva)
+    
+
+    magyar (MagyarorszÃ¡g)
+    
+
+    Melayu (Malaysia)
+    
+
+    Nederlands (Nederland)
+    
+
+    norsk bokmÃ¥l (Norge)
+    
+
+    polski (Polska)
+    
+
+    portuguÃªs (Brasil)
+    
+
+    portuguÃªs (Portugal)
+    
+
+    romÃ¢nÄ (RomÃ¢nia)
+    
+
+    slovenÄina (Slovensko)
+    
+
+    slovenÅ¡Äina (Slovenija)
+    
+
+    suomi (Suomi)
+    
+
+    svenska (Sverige)
+    
+
+    Tiáº¿ng Viá»t (Viá»t Nam)
+    
+
+    TÃ¼rkÃ§e (TÃ¼rkiye)
+    
+
+    Ã­slenska (Ãsland)
+    
+
+    ÄeÅ¡tina (Äesko)
+    
+
+    ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ (ÎÎ»Î»Î¬Î´Î±)
+    
+
+    Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸ (ÐÑÐ»Ð³Ð°ÑÐ¸Ñ)
+    
+
+    ÑÑÑÑÐºÐ¸Ð¹ (Ð Ð¾ÑÑÐ¸Ñ)
+    
+
+    ÑÑÐ¿ÑÐºÐ¸ (Ð¡ÑÐ±Ð¸ÑÐ°)
+    
+
+    ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ° (Ð£ÐºÑÐ°ÑÐ½Ð°)
+    
+
+    ×¢××¨××ª (××©×¨××)
+    
+
+    Ø§Ø±Ø¯Ù (Ù¾Ø§Ú©Ø³ØªØ§Ù)
+    
+
+    Ø§ÙØ¹Ø±Ø¨ÙØ© (ÙØµØ±)
+    
+
+    ÙØ§Ø±Ø³Û (Ø§ÛØ±Ø§Ù)
+    
+
+    à¤®à¤°à¤¾à¤ à¥ (à¤­à¤¾à¤°à¤¤)
+    
+
+    à¤¹à¤¿à¤¨à¥à¤¦à¥ (à¤­à¤¾à¤°à¤¤)
+    
+
+    à¦¬à¦¾à¦à¦²à¦¾ (à¦­à¦¾à¦°à¦¤)
+    
+
+    àªà«àªàª°àª¾àª¤à« (àª­àª¾àª°àª¤)
+    
+
+    à®¤à®®à®¿à®´à¯ (à®à®¨à¯à®¤à®¿à®¯à®¾)
+    
+
+    à°¤à±à°²à±à°à± (à°­à°¾à°°à°¤à°¦à±à°¶à°)
+    
+
+    à²à²¨à³à²¨à²¡ (à²­à²¾à²°à²¤)
+    
+
+    à´®à´²à´¯à´¾à´³à´ (à´à´¨àµà´¤àµà´¯)
+    
+
+    à¹à¸à¸¢ (à¹à¸à¸¢)
+    
+
+    á áá­á (á¢áµá®áµá«)
+    
+
+    ä¸­æ (ç¹é«, ä¸­å)
+    
+
+    ä¸­æ (ç¹é«, å°ç£)
+    
+
+    ä¸­æ (ç¹é«å­, ä¸­åé¦æ¸¯ç¹å¥è¡æ¿å)
+    
+
+    æ¥æ¬èª (æ¥æ¬)
+    
+
+    íêµ­ì´ (ëíë¯¼êµ­)
+    
+
+ 
+
+
+
+                                         
+
+
+
+
+
+
+
+

@@ -1,0 +1,182 @@
+Use Google Play Family Library - Google Play Help   Skip to main content   Google Play HelpSign inGoogle HelpHelp CenterCommunityGoogle PlayPrivacy PolicyGoogle Play Terms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle PlayInformation for familiesUse Google Play Family Library   As a precautionary health measure for our support specialists in light of COVID-19, we're operating with a limited team. Thanks for your patience, as it may take longer than usual to connect with us. For additional support, consult the Help Center.          Use Google Play Family LibraryYou can share purchased apps, games, movies, TV shows, and e-books and audiobooks from Google Play with up to 5 family members using Google Play Family Library.
+Sign up for Family Library
+Important:  If you aren't part of a family group, you must create one first.
+
+Open the Google Play app .
+At the top right, tap the profile icon.
+Tap Settings  Family  Sign up for Family Library.
+Follow the instructions on screen to set up Family Library. 
+
+
+Note: Everyone in your family needs to follow the instructions above to set up Family Library.
+Requirements
+
+Family manager requirements
+If you are not part of a family already, you'll become the family manager when you sign up for Family Library. Family managers must meet all these requirements:
+
+Be 18 or older (or the appropriate age in your country)
+Have a valid credit card or debit card to use as the family payment method
+Not be part of another family group on Google
+
+Note: You can't create a family with a Google Account from your work, school, or other organization.
+Family member requirements
+To join a family group, you must meet these requirements:
+
+Have a Google Account. If you're under 13 or the applicable age in your country, your family manager needs to create a Google Account for you.
+Live in the same country as the family manager.
+Not be part of another family group on Google.
+
+
+Countries
+
+Family Library is available in most countries that you can use Google Play.
+
+Add or remove Family Library purchases
+Eligible purchases can be automatically added to the Family Library, or you can add them yourself after you buy them. Apps & games, Movies & TV shows, and Books sharing with Family Library may be limited in some countries.
+When you remove purchases from Family Library or leave your family group, your family members lose access to the purchases you added to Family Library.
+Important: To avoid potential issues with adding content to Family Library, make sure to use the family payment method instead of your personal credit or debit card to purchase movies or TV shows.
+Add or remove individual purchases 
+
+Apps & games
+
+Open the Google Play app .
+At the top right, tap the profile icon.
+Tap Manage apps & devices  Installed.
+Tap a purchased app or game you want to add.
+On the content's details page, turn on Family Library.
+
+
+To remove the content, turn off Family Library.
+Movies & TV shows
+
+Open the Play Movies & TV app .
+At the bottom, tap Library.
+Under the "Movies" or "TV shows" tab, look for purchased content you want to add.
+On the content's details page, turn on Family Library.
+
+To remove the content, turn off Family Library.
+Note: When you add TV shows from the Play Movies & TV app, you're adding all episodes of the show. If you want to add or remove certain seasons or episodes that were purchased separately, search for the content in the Play Store app and add it to Family Library from the episode or show's details page.
+Books
+
+Open the Play Books app .
+At the bottom, tap Library.
+Look for the e-books or audiobooks you want to add.
+Next to the book title, tap More   Add to Family Library.
+
+To remove the content, tap More   Remove from Family Library.
+
+Change your Family Library settings
+
+By default, eligible purchases are automatically added to your Family Library after you create or join a family group.
+To change the Family Library settings, or remove all purchase of a certain type:
+
+Open the Google Play app .
+At the top right, tap the profile icon.
+Tap Settings  Family  Family Library settings.
+Select Apps & Games, Movies & TV, or Books.
+Tap Don’t add automatically, I’ll do it myself, or Add items automatically when purchased  Yes, I'm in.
+
+.
+
+Restrict content for certain family members
+
+Everyone in your family group can see all the content that's been added to Family Library.
+You can set up parental controls to restrict the content family members can see.
+
+See Family Library content
+
+Apps & games
+
+Open the Google Play app .
+At the top right, tap the profile icon.
+Tap Settings  Family  Family Library settings.
+Select Apps & Games, Movies & TV, or Books.
+    
+Tip: If a tab isn’t listed, your family members haven't added any content in that category.
+
+
+
+
+Movies & TV shows
+
+Open the Google Play Movies & TV app .
+At the bottom, tap Library.
+Tap the Movies or TV Shows tab.
+Scroll down to the "Family Library" list. If you don’t see a "Family Library" list, your family members haven’t added anything to your Family Library yet.
+
+Note: Movies can be played offline on up to 5 devices per family member and 12 devices per family. 6 movies can be played at once, but each movie can only be streamed by one person at a time.
+Books
+
+Open the Google Play Books app .
+At the bottom, tap Library.
+Tap the Family tab. If you don’t see a "Family" tab, it means your family members haven’t added any books to your Family Library yet.
+
+Note: Each book can be downloaded on up to 6 devices at the same time. When someone removes a book from their device, it becomes available for other family members to download.
+
+See if content is eligible to be added to Family Library
+Most purchased apps, games, movies, TV shows, and books can be added to your Family Library. If an item is eligible to be added, you'll see the Family Library icon on the content's details page .
+Movies & TV shows
+
+ 
+Any movies or TV shows you purchased before your Family Library was created can be added to Family Library.
+After you sign up for Family Library or join someone's family group, new movie and TV show purchases can only be added if you purchase them with the family payment method, a Google Play gift card, or a promo code.
+Movies
+
+Movies sharing with Family Library may be limited in some countries.
+If you purchase a bundle of movies, you can only add or remove an entire bundle from your Family Library, but not individual movies.
+You can't add Play movie rentals or movies purchased on YouTube to Family Library.
+
+TV shows
+
+TV shows sharing with Family Library may be limited in some countries.
+You can't add TV show rentals to Family Library.
+You can’t add TV shows purchased in YouTube.
+TV shows aren't available in all countries.
+
+
+Apps & games 
+
+
+Apps & games sharing with Family Library may be limited in some countries.
+You can't share in-app purchases and apps downloaded at no charge with your family members.
+Any apps or games purchased after July 2, 2016 are eligible to be added to Family Library. If you purchased the app or game before July 2, 2016, it’s eligible for Family Library if the developer has made past purchases available. You can find out whether this is the case by tapping Read More on the app’s details page.
+
+
+Books 
+
+
+If the book publisher allows for e-books or audiobooks to be added to Family Library, you can share it with your family members.
+You can't add samples provided at no charge, public domain books, personal documents you uploaded, or books you rented to Family Library.
+Books can only be added to Family Library in certain countries.
+
+
+Music & Newsstand 
+
+Music and Newsstand purchases can't be added to Family Library.
+
+Troubleshoot problems
+I got an error when creating my family
+
+
+Learn how to troubleshoot errors when creating your family group.
+
+
+Content was removed from Family Library
+
+If someone removes content from the Family Library, if they leave the family group entirely, or if your family group is deleted, you have to purchase the content in order to use it.
+Once you purchase it, you'll pick up where you left off. If you bought in-app purchases in a game, you'll get those back after you purchase the game.
+
+I purchased content, but I can't add it to Family Library
+
+If you can't add content you bought to Family Library, it might be because:
+
+The content isn't eligible to be added to Family Library.
+You used your personal credit or debit card instead of the family payment method to purchase the movie or TV show.
+
+
+"Your family payment method is invalid"
+
+If you see this message, your family payment method is invalid. If you're the family manager, update your family payment method to a valid credit card so that you and your family members can add purchases to Family Library.
+While the family payment method is invalid, purchases made using other forms of payment won't be automatically added to Family Library. After your family payment method is updated, you’ll need to manually add those items to Family Library from the details page.
+
+   Was this helpful?How can we improve it?YesNoSubmit      Need more help? Sign in for additional support options to quickly solve your issue      Sign in      true    Information for familiesUse Google Play Family LibraryManage your family on GoogleJoin a family on GooglePurchase approvals on Google PlayUse a family payment method on Google PlayParent Guide to Google PlayGoogle Play Music family planFind family-friendly contentCreate a family on Google           Manage your child’s screen time You’ll be able to manage parent controls like locking your child’s screen for bedtime, blocking apps you don’t want your child to use and approving purchases and new apps that your child wants to download, and more.           ©2022 Google   Privacy Policy   Google Play Terms of Service     Afrikaans‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                        Search Help Center         true 84680                                            false 

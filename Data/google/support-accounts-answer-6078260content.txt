@@ -1,0 +1,32 @@
+Share usage & diagnostics information with Google - Google Account Help   Skip to main content   Google Account HelpSign inGoogle HelpHelp CenterCommunityGoogle AccountPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Account Google activity controlsShare usage & diagnostics information with Google       Share usage & diagnostics information with GoogleTo help us improve Android, you can let your device send us information about how you use it and how it’s working.
+If you have additional Web & App Activity turned on, this info may be stored with your account. If so, you can see and delete it in My Activity. We use this info to personalize your Google services more, and to improve our products and services for everyone.
+
+Important: Some of these steps work only on Android 8.0 and up. Learn how to check your Android version.
+What information is shared with Google
+If you turn on usage and diagnostics, your device sends info to Google about what’s working and not working. For example, your device can send info like:
+
+Battery level
+How often you use your apps
+Quality and length of your network connections (like mobile, Wi-Fi, and Bluetooth)
+
+
+Turn usage & diagnostics on or off
+Important: If you turn off usage and diagnostics, your device can still get essential services, like a new version of Android. Turning off usage and diagnostics won’t affect info that apps might collect.
+To choose whether to send usage and diagnostics info to Google:
+
+Open your device's Settings app.
+Tap Google  More   Usage & diagnostics.
+Turn Usage & diagnostics on or off.
+
+
+Tip: If you use a shared device, other user profiles may change this setting.
+How Google uses this information
+Google uses usage and diagnostics info to improve products and services, like Google apps and Android devices. All info is used in accordance with Google’s Privacy Policy.
+For example, Google can use usage and diagnostics info to improve:
+
+Battery life: Google can use info about what's using the most battery on your device to help make common features use less battery.
+Crashing or freezing on devices: Google can use info about when apps crash and freeze on your device to help make the Android operating system more reliable.
+
+Some aggregated info can help partners, like Android developers, make their apps and products better, too.
+
+   Was this helpful?How can we improve it?YesNoSubmit      Need more help? Try these next steps:          Ask the Help Community Get answers from community experts       true    Google activity controlsFind, control & delete the info in your Google AccountControl what activity gets saved to your accountView & control activity in your accountDelete your activityManage audio recordings in your Web & App ActivityControl what others see about you across Google servicesShare usage & diagnostics information with GoogleFind & control your Web & App ActivityManage your Google SettingsControl the ads you see           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience                SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                                           false 

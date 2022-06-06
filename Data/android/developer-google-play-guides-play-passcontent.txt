@@ -1,0 +1,711 @@
+
+
+
+
+
+
+
+Google Play Pass | Google Play Console
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+                Features  
+
+
+
+
+
+ 
+
+
+
+
+
+Features
+
+
+Test
+
+App bundle explorer
+
+
+
+Closed testing
+
+
+
+Internal app sharing
+
+
+
+Internal testing
+
+
+
+Open testing
+
+
+
+Pre-launch reports
+
+
+
+
+Release
+
+Device catalog
+
+
+
+Play App Signing
+
+
+
+Pre-registration
+
+
+
+Production
+
+
+
+Publishing overview
+
+
+
+Releases overview
+
+
+
+
+
+
+Grow
+
+Acquisition reporting
+
+
+
+Play Games Services
+
+
+
+Statistics
+
+
+
+Store listing experiments
+
+
+
+Store listings
+
+
+
+Translation services
+
+
+
+
+Quality
+
+Android Performance Tuner
+
+
+
+Android vitals
+
+
+
+App size
+
+
+
+Ratings
+
+
+
+Reach and devices
+
+
+
+Reviews
+
+
+
+
+
+
+Monetize
+
+In-app products
+
+
+
+Subscription reporting
+
+
+
+Subscription setup
+
+
+
+
+Manage
+
+Policy status
+
+
+
+Team and user management
+
+
+
+
+
+ 
+
+
+
+
+
+                Resources  
+
+
+
+
+
+
+ 
+
+
+
+
+
+Resources
+
+
+
+How to Guides
+
+Get best practices, case studies, and other resources to help achieve your business goals throughout the app lifecycle.
+                  Explore
+                    
+
+
+
+
+
+
+
+
+
+                    Build a high-quality app or game
+
+
+
+                    Release with confidence
+
+
+
+                    Grow your audience
+
+
+
+                    Monetize with ease
+
+
+
+                    Engage and retain your users
+
+
+
+
+
+
+
+
+Programs
+
+Learn about programs designed to support developers at various stages of growth and across different business models.
+                  Explore
+                    
+
+
+
+
+
+
+
+
+
+                    Change the Game
+
+
+
+                    Families
+
+
+
+                    Go Global
+
+
+
+                    Google Play Partner Program for Games
+
+
+
+                    Google Play Pass
+
+
+
+                    Google Play Points
+
+
+
+
+
+                      High fidelity games
+
+
+
+                      Indie Games
+
+
+
+                      LiveOps beta
+
+
+
+                      Media Experience Program
+
+
+
+                      Teacher approved
+
+
+
+
+ 
+
+
+
+
+
+                More  
+
+
+
+
+
+
+
+                        Policy Center
+
+
+
+                        Latest news
+
+
+
+
+
+
+
+                Policy Center
+
+
+
+                Latest news
+
+
+
+
+Go to Play Console
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Go to Play Console
+
+
+
+
+
+
+
+
+Grow with Google Play Pass
+Google Play Pass is a subscription service offering access to hundreds of apps and games, completely free of ads and in-app purchases. Play Pass provides a high-quality, curated collection of titles â with new content added regularly.
+
+Express interest
+
+
+
+
+
+
+
+
+
+
+Get discovered through Play Pass    
+
+
+
+
+
+
+
+ Reach a new audience for your app no matter your category â from action and indie games, to education and utility apps.
+
+
+
+
+
+
+Attract new users who may not have discovered your app on their own
+
+
+Earn recurring revenue from Play Pass users who engage with your app
+
+
+Highlight your app in a curated section of the Play Store with new featuring opportunities
+
+
+Indicate your app quality to Play Pass users with the Play Pass badge
+
+
+
+ 
+
+
+
+Effortlessly integrate    
+
+
+
+
+
+
+
+ A single app supports distribution in the Google Play Store and through Play Pass, so you can take advantage of both opportunities without spending a lot of extra time on development. All you need to do is integrate a few Google Play APIs to enable a seamless experience for Play Pass subscribers:
+
+
+
+
+
+
+Paid apps are free for Play Pass subscribers to enjoy. Developers integrate with the Google Play licensing service to limit access only to paying users.
+
+
+In-app ads are automatically removed for Play Pass subscribers, and continue to surface for the general Play audience. Developers integrate by defining an in-app product that removes advertising when unlocked.
+
+
+In-app products and subscriptions are unlocked for Play Pass members. No integration is required aside from detecting new or removed purchases when the app resumes, using the Google Play Billing API.
+
+
+
+ 
+
+
+
+Frequently asked questions    
+
+
+
+
+
+
+
+
+
+
+
+
+How do I make money?
+Developers earn a royalty that is based on algorithmic methods that incorporate signals which capture how users value all types of content (from weather apps to narrative driven indie games). Our goal is for all types of content to succeed on Play Pass and we know that means going beyond paying out only on time spent. We plan to continuously refine the model to make sure it fairly rewards titles that bring awesome experiences to users.
+
+
+Where is Play Pass available?
+Play Pass is initially only available in the US. We plan to add more markets over time
+
+
+How much do participating titles earn?
+Play Pass is a great way to monetize premium content on Play. On average, developers have more than doubled their Play revenue across participating titles in markets where Play Pass is live. This is expanding the variety of content that can succeed on Play and helping to deliver better outcomes for premium developers.
+
+
+Will participating impact my existing sales?
+Most participating developers have not seen any decrease in sales from normal Play channels. Additionally, they have seen a new revenue stream from Play Pass.
+
+
+What engineering or operational efforts are required by developers?
+Developers can easily adapt their existing apps to unlock access with Play Pass. Integration depends on app content. Apps with in-app products or subscriptions detect new or removed purchases on resume, using the Google Play Billing API. Paid apps integrate with the Google Play licensing service to limit access to paying users. If applicable, ads are removed by defining an in-app product automatically unlocked for Play Pass subscribers. No recurring operational effort is involved, except to keep your content up-to-date and consistent with program policies. Earnings reports are posted monthly via the Play Console.
+
+
+Can any developer be part of Play Pass?
+All developers are welcome to express interest in the program and new titles are added regularly. Express interest below.
+
+
+What types of content work with Play Pass?
+All types of apps and games are suitable for Play Pass. Play Pass users only pay through their Play Pass subscription and all in-app content is unlocked, which requires that your app design is compatible with the Play Pass business model.
+
+
+
+ 
+
+
+
+Get started If you are building a great app or game experience that is not yet available to Google Play users, fill in the form below to express interest in participating
+
+Express interest
+
+
+
+
+
+
+
+          Connect with us
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign up for the Google Play developer newsletter
+          
+            Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          About Google
+
+
+
+          Google products
+
+
+
+          Privacy
+
+
+
+          Terms
+
+
+
+
+
+ 
+
+
+            Help
+
+
+
+
+          Change language
+        
+
+
+              English
+            
+
+              Ø§ÙØ¹Ø±Ø¨ÙØ©
+            
+
+              Deutsch
+            
+
+              English (United Kingdom)
+            
+
+              espaÃ±ol (LatinoamÃ©rica)
+            
+
+              espaÃ±ol
+            
+
+              franÃ§ais
+            
+
+              Indonesia
+            
+
+              italiano
+            
+
+              æ¥æ¬èª
+            
+
+              íêµ­ì´
+            
+
+              Nederlands
+            
+
+              polski
+            
+
+              portuguÃªs (Brasil)
+            
+
+              ÑÑÑÑÐºÐ¸Ð¹
+            
+
+              TÃ¼rkÃ§e
+            
+
+              Tiáº¿ng Viá»t
+            
+
+              ä¸­æ (ç®ä½)
+            
+
+              ä¸­æ
+            
+
+
+
+
+
+
+
+
+
+
+

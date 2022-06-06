@@ -1,0 +1,824 @@
+
+
+
+
+List of Wikipedia mobile applications - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Wikipedia mobile applications
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+WikipediaScreenshot
+Official Wikipedia app for iOSDeveloper(s)Wikimedia FoundationRepositoryAndroidiOSWebsitedoc.wikimedia.org
+A number of organizations within the Wikimedia movement including the Wikimedia Foundation publish official mobile apps for using Wikipedia on mobile device operating systems. All are available for free via the appropriate app store (e.g. Google Play, App Store, Microsoft Store, F-droid). They can also be downloaded independently of any third party store, from the Wikimedia Foundation's releases website, which also keeps old and beta versions.[1]
+Independent developers have also released many unofficial apps for reading Wikipedia articles. Some apps load content from the Wikipedia site and process it; other apps use the MediaWiki API. Some only display Wikipedia content, usually omitting some features such as categories and talk pages. Some allow editing.
+
+Contents
+
+1 Official apps
+
+1.1 Wikimedia Foundation
+
+1.1.1 Android
+1.1.2 iOS
+1.1.3 Windows
+
+
+1.2 Kiwix
+
+
+2 Unassociated apps
+3 Related apps
+4 References
+5 External links
+
+
+Official apps
+Main page: Help:Mobile access
+Wikimedia Foundation
+Wikipedia apps from the Wikimedia Foundation are called "Wikipedia".
+
+Android
+The Android app allows editing articles directly from the app. It is also available on Aptoide,[2] Cafe Bazaar,[3] F-Droid,[4] and GetJar.[5]
+iOS
+The iOS app also provides a read and write version of Wikipedia,[6] similar to the mobile web version. It allows users to share an article via Facebook and other social websites. It also allows users to find geotagged articles near their current location. It does not allow users to see categories or see the normal desktop version.
+Windows
+The Metro-style app provides a read-only version of Wikipedia, similar to the mobile web version. The app when used in Windows RT is incapable of showing moving pictures.
+Kiwix
+Kiwix has developed a number of offline apps based on Wikipedia content.
+
+
+
+Title
+
+Description
+
+Android
+
+iOS
+
+Windows
+
+Other OS
+
+Languages of content files by Kiwix
+
+Website
+
+Price
+
+Open source
+
+
+Kiwix
+Free program to download a whole Wikimedia project and read offline.
+yes
+yes
+Windows 10 UWP;Older Windows (x86)
+Linux,F-DroidFirefox Add-on, Chrome Extension,S60 3rd edition, feature pack 1 or later can show ZIM files via WikiOnBoard
+286(wikipedia, wikivoyage, wiktionary, wikiversity, wikibooks, wikisource, wikiquote, wikinews, wikispecies)
+Website
+Free
+Yes
+
+
+Medical Wikipedia (Offline)
+Wikipedia's Offline Medical Encyclopedia. Based on Kiwix and developed in collaboration with Wiki Project Med Foundation.
+AR, DE, EN, ES, FA, FR, JA, OR, PT, ZH
+EN
+WikiMed UWP EN;Kiwix JS + in-app download of any WikiMed language
+only as content file (ZIM) in Kiwix or WikiOnBoard
+AR, AS, BN, BPY, DE, EN, ES, FA, FR, GU, HI, IT, JA, KN, LO, ML, MR, OR, PA, PT, TA, TE, UR, ZH
+Website
+Free
+Yes
+
+
+Wikivoyage
+Wikivoyage's Offline. Based on Kiwix and providing a world mobile offline travel guide. A version for Europe also exists.
+EN
+DE
+Wikivoyage UWP EN;Kiwix JS + in-app download of any Wikivoyage language
+only as content file (ZIM) in Kiwix or WikiOnBoard
+DE, EL, EN, ES, FA, FI, FR, HE, IT, NL, PL, PT, RO, RU, SV, UK, VI, ZH
+Website
+Free
+Yes
+
+Unassociated apps
+These apps were mainly developed to display articles and are often used on platforms for which an official Wikipedia app was not formerly available, such as Windows Phone. Typical features include searching for articles, bookmarks, sharing, or enlarging images.
+
+
+
+Title
+
+Description
+
+Android
+
+iOS
+
+Microsoft Store
+
+Website /Other OS
+
+Price (in US$)
+
+Open source
+
+
+Aard 2
+A free offline dictionary and offline Wikipedia reader for Android and Desktop/Web.[7]
+yes
+
+
+Website
+Free
+Yes
+
+
+Articles
+By Sophiestication Software. — Wikipedia reader for iPad, iPad mini, iPhone and iPod touch.[8]
+
+yes
+
+Website
+Free
+
+
+
+Bing Wikipedia Browser
+Bing Wikipedia Browser by Microsoft combines the content from Wikipedia with enhanced search, browse, and content recommendations based on the Bing Knowledge repository.
+
+
+yes
+Website
+Free
+
+
+
+Duovocal
+
+An app that applies Wikipedia and Wiktionary resources to language learning.
+
+yes
+
+yes
+
+
+
+Website
+
+Free
+
+
+
+
+EdgeWiki
+A web app of wikipedia.org with a screen reader. Works on Windows 10, Windows 10 Mobile, and the Surface Hub.
+
+
+yes
+
+$0.99
+
+
+
+GeoSearch for Wikipedia
+By Yunhe Shi — Search and view geotagged Wikipedia articles from a visible map region.
+
+yes
+
+Website
+Free
+
+
+
+Inquire by Tamper
+A context-aware Wikipedia reader that brings you the most interesting and relevant articles based on your location.
+
+yes (& Apple Watch)
+
+Website
+$0.99
+
+
+
+Know Everything
+Search by voice; for Pebble Watch.
+
+
+
+Pebble
+Free
+Yes
+
+
+LearnDiscovery
+By XDiscovery. — Displays and saves mindmaps of Wikipedia. Correlations between topics are organized to make sense of new information by visualizing the context about a topic. Bookmarks mindmaps instead of articles, and shares them as visual references.
+
+yes
+
+Website
+$5.99
+
+
+
+LoboWiki Reader for Wikipedia
+All the links clicked are added to the reading queue, instead of being immediately opened to allow users to read articles in a distraction-free manner.
+yes
+
+
+Website
+Free
+
+
+
+Minipedia Offline Wikipedia
+By Minipedia. — Access Wikipedia articles using iPod, iPhone or iPad without a network connection.
+yes
+yes
+
+Website
+Free
+
+
+
+MiniWiki
+Browse Wikipedia on an Apple Watch, see articles for nearby locations, and download articles for offline reading.
+
+yes
+
+
+Free
+
+
+
+Mnemo's Library
+
+An app that allows users to create, share, and review Wikipedia information and associated mnemonics/memory aids.
+
+yes
+
+yes
+
+yes
+
+Website
+Free
+Yes
+
+
+motî
+
+Offline and multi-lingual dictionary app for language learners, taking data from the English Wiktionary.
+
+
+
+yes
+
+
+
+Website
+Free
+
+
+
+onePedia
+A Wikipedia client which allows the viewing and editing of articles on Windows 10, Windows 10 Mobile, and the Surface Hub.
+
+
+yes
+
+Free
+
+
+
+V for Wikipedia
+By Raureif GmbH. — Wikipedia app for iPhone, iPad, and Apple Watch.
+
+yes
+
+Website
+$4.99
+
+
+
+WikiBOT
+Continuous learning chatbot capable to provide answers to a wide range of questions as world capitals, real time weather info and more.
+
+
+
+Website
+Free
+
+
+
+WikiCompass
+
+WikiCompass gets nearby Wikipedia articles and lets you view them in augmented reality.
+
+
+
+yes
+
+
+
+
+$0.99
+
+
+
+
+WikiFlip
+An app that turns Wikipedia images into a quiz game. Flip a picture and take a trivia quiz question from World of Knowledge, the ecosystem of multiple choice questions.
+yes
+yes
+
+Website
+Free
+
+
+
+Wiki here
+Shows nearby places from Wikipedia coordinate data on Windows 10, Windows 10 Mobile, and the Surface Hub.
+
+
+yes
+
+Free
+
+
+
+WikiMaster
+A game app that has over 330,000 multiple choice questions on top of Wikipedia articles.
+yes
+yes
+
+Website
+Free
+
+
+
+WikiNodes
+By Institute for Dynamic Educational Advancement (IDEA).[9][10][11]
+
+yes
+
+
+$1.99
+
+
+
+Wikipanion
+By Robert Chin — Easy, search, navigation and display of Wikipedia entries. Streamline your browsing with history grouped by visit date, and bookmarking for individual entries and sections within an entry.
+
+yes
+
+Website
+Free
+
+
+
+Wikipedia Nearby
+Articles near current location; for Pebble Watch.
+
+
+
+Pebble
+Free
+Yes
+
+
+Wikipebble
+Search by voice or keyboard; for Pebble Watch.
+
+
+
+Pebble
+Free
+
+
+
+Wikiwand
+Made to allow easier navigation and search than the website or the site's own app.[12][13][14]
+Currently invitation only[15]
+yes
+
+Website
+Free
+
+
+
+Wikiweb
+Wikiweb is a Wikipedia reader for iPhone and iPad that visualizes the connections between articles.[16][17]
+
+yes
+
+Website
+$4.99
+
+
+
+Wikiyarn
+
+Wikiyarn is a Wikipedia explorer and reader with distinguishing features like related article recommendations, article comparison, category based search etc. [18]
+
+yes
+
+
+
+
+
+Website
+
+Free
+
+
+
+
+Zimpedia
+Offline reader for Wikipedia and other Wiki projects stored in a ZIM format.
+
+
+
+Sailfish OS BlackBerry 10 
+Free
+Yes
+
+Related apps
+A number of apps for Wikipedia's sister projects exist. These include the Wiki Loves Monuments app, written for a 2012 photo contest, as an aid for Wikiphotographers. It shows a map of nearby national heritage register items, indicating whether Wikipedia had a photo for the site, and enabling quick and easy photo uploads for camera phones. It is not integrated with the official article display app.
+There is an Android app for Wikimedia Commons which is community maintained, and described on the Commons mobile app page. There is also an Android app for Wiktionary, although it is no longer supported and has not been updated since August 2013.
+
+References
+
+
+^ "Index of /mobile". releases.wikimedia.org. Retrieved 16 June 2017.
+
+^ package in Aptoide
+
+^ package in Cafe Bazaar
+
+^ package in F-Droid
+
+^ package in Getjar
+
+^ "iPhone App of the Week: Wikipedia Mobile". Smartcompany.com.au. 17 June 2011. Retrieved 8 July 2012.
+
+^ "Desktop — Aard Dictionary". Aarddict.org. 26 February 2012. Retrieved 8 July 2012.
+
+^ Mike Schramm (9 June 2010). "Apple Design Awards go to popular iPhone and iPad apps". TUAW. Retrieved 12 August 2012.
+
+^ "WikiNodes Brings A New Perspective To Knowledge » 148Apps » iPhone and iPod Touch Application Reviews and News". 148Apps. 10 May 2011. Retrieved 8 July 2012.
+
+^ "WikiNodes for iPad – Making Wikipedia Fun to Explore — iPad Insight". Ipadinsight.com. 12 May 2011. Archived from the original on 13 October 2012. Retrieved 8 July 2012.
+
+^ "WikiNodes for iPad". iPad App Finders. 23 May 2011. Retrieved 8 July 2012.
+
+^ Bell, Karissa (8 March 2015). "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more". Mashable. Retrieved 20 June 2015.
+
+^ Sawers, Paul (19 August 2014). "WikiWand makes Wikipedia beautiful". The Next Web.
+
+^ Sawers, Paul (5 March 2015). "Wikiwand arrives on iPhone to help make Wikipedia beautiful". VentureBeat. Retrieved 20 June 2015.
+
+^ "The Best Tools to Improve Your Wikipedia Experience". PC Magazine. Retrieved 26 February 2017.
+
+^ Sawers, Paul (14 July 2012). "Wikiweb: A beautiful iOS Wikipedia app that lets you visualize connections between articles". The Next Web. Retrieved 20 June 2015.
+
+^ Rubio, Justin (18 July 2012). "Wikiweb app makes wasting time on Wikipedia even easier". The Verge. Retrieved 20 June 2015.
+
+^ "WikiYarn – Knowledge at your fingertip - DBpedia Organization".{{cite web}}:  CS1 maint: url-status (link)
+
+
+External links
+Wikimedia Apps - Project page for the official Wikipedia mobile apps on the Wikimedia Foundation's MediaWiki development website
+Wikimedia mobile web team works on the mobile web experience, different from the mobile apps
+Unsupported official builds of Wikimedia apps
+vteWikipediaOverview(outline)
+Censorship
+Citation needed
+Conflict-of-interest editing
+Criticism
+Biases
+gender
+geographical
+ideological
+racial
+Deletion of articles
+Deletionism and inclusionism
+Notability
+Edit count
+Fact-checking
+"Ignore all rules"
+MediaWiki
+Predictions of the project's end
+Reliability
+Vandalism
+Community
+Administrators
+AfroCrowd
+Arbitration Committee
+Art+Feminism
+Bots
+Lsjbot
+Edit-a-thon
+List of Wikipedias
+The Signpost
+Wiki Indaba
+Wiki Loves Monuments
+Wiki Loves Pride
+Wiki Loves Earth
+Wiki Loves Folklore
+WikiConference India
+WikiConference North America
+Wikimania
+Wikipedian in residence
+WikiProject
+Women in Red
+People
+Florence Devouard
+Sue Gardner
+James Heilman
+Maryana Iskander
+Katherine Maher
+Magnus Manske
+Ira Brad Matetsky
+Erik Möller
+Steven Pruitt
+Larry Sanger
+María Sefidari
+Lila Tretikov
+Jimmy Wales
+Wikipedians
+Wikimedian of the Year
+History
+Bomis
+First edit
+Logo
+Controversies
+U.S. Congressional staff edits
+Essjay controversy
+Seigenthaler biography incident
+Henryk Batuta hoax
+Jar'Edo Wens hoax
+Croatian Wikipedia administration
+Internet Watch Foundation
+Scientology
+CAMERA campaign
+Italian Wikipedia blackout
+English Wikipedia blackout
+Hillsborough disaster Wikipedia posts
+MyWikiBiz
+VisualEditor
+#1Lib1Ref
+Star Trek Into Darkness discussion
+Coverage of American politics
+Coverage of the COVID-19 pandemic
+2021 WMF actions on the Chinese Wikipedia
+Coverage of the 2022 Russian invasion of Ukraine
+Honors
+2008 Quadriga award
+Wikipedia Monument
+2015 Erasmus Prize
+2015 Princess of Asturias Award
+Referencesand analysis
+Cultural
+Bibliography
+Films
+Academic studies
+Listen to Wikipedia
+Wiki-Watch
+Wikipediocracy
+WikiScanner
+Wikipedia Review
+Mobile access
+Apps
+QRpedia
+Wapedia
+WikiNodes
+Wikipedia Zero
+Wikiwand
+Content use
+Books LLC
+Boundless (company)
+DBpedia
+Deletionpedia
+Kiwix
+WikiReader
+Science information
+Health information
+Similar projects
+Interpedia
+Nupedia
+Citizendium
+Enciclopedia Libre Universal en Español
+Everipedia
+Veropedia
+List of online encyclopedias
+List of wikis
+Related
+The Iraq War: A Historiography of Wikipedia Changelogs
+Print Wikipedia
+Magna Carta (An Embroidery)
+Wiki rabbit hole
+Wikiracing
+274301 Wikipedia
+Wikipedia for World Heritage
+Wikimedia Foundation
+movement
+
+ List
+ Category
+
+Portal:Internet
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_Wikipedia_mobile_applications&oldid=1086532115"
+Categories: Free and open-source Android softwareIOS softwareLists about WikipediaMobile software distribution platformsUniversal Windows Platform appsWindows PhoneLists of mobile appsHidden categories: CS1 maint: url-statusUse dmy dates from October 2021Articles with short descriptionShort description is different from WikidataWikipedia pages semi-protected against vandalismArticles containing Spanish-language text
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+Namespaces
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+Views
+
+
+ReadView sourceView history
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+Contribute
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+Print/export
+
+
+Download as PDFPrintable version
+
+
+
+
+Languages
+
+
+العربيةবাংলাČeštinaفارسی한국어ItalianoBahasa Melayu日本語தமிழ்TürkçeاردوTiếng Việt
+Edit links
+
+
+
+
+
+
+ This page was last edited on 6 May 2022, at 18:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+

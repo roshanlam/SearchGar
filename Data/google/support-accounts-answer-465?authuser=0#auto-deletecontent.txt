@@ -1,0 +1,114 @@
+Delete your activity - Computer - Google Account Help   Skip to main content   Google Account HelpSign inGoogle HelpHelp CenterCommunityGoogle AccountPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Account Google activity controlsDelete your activity       Delete your activityWhen you use Google sites, apps, and services, some of your activity is saved in your Google Account. You can find and delete this activity in My Activity, and you can stop saving most activity at any time.
+
+Delete all activity
+
+On your computer, go to myactivity.google.com.
+Above your activity, click Delete .
+Click All time. 
+Click Next  Delete.
+
+Delete individual activity items
+For example, this could include a search you did on Google or a website you visited on Chrome:
+
+
+On your computer, go to myactivity.google.com.
+Scroll down to your activity.
+Find the item you want to delete. You can find an item a few different ways, including:
+    
+Browse by day.
+Search or use filters.
+
+
+On the item you want to delete, click Delete .
+
+
+Delete activity by date or product
+
+
+
+On your computer, go to myactivity.google.com.
+Scroll down to your activity.
+Filter your activity. You can filter by both date and product at the same time.
+          
+To filter by date: Select Calendar . Then, select a date to find activity before that date.
+To filter by product: Select Search . Then, select products you want to include. Some Google products don't save activity in My Activity.
+
+
+Delete activity.
+          
+To delete all activity you filtered for: Next to the search bar, select Delete  Delete Results.
+To delete certain items: On the item you want to delete, select Delete  . 
+
+
+
+
+
+
+Delete your activity automatically
+You can automatically delete some of the activity in your Google Account.
+
+On your computer, go to your Google Account.
+At the left, click Data & privacy.
+Under "History settings," click an activity or history setting you want to auto-delete. 
+Click Auto-delete.
+Click the button for how long you want to keep your activity  Next  Confirm to save your choice.
+
+Note: Some activity may expire sooner than the timeframe you choose.
+Delete activity in other places
+Your activity might be saved in places other than My Activity. For example, if you've turned on Location History, that activity is saved to your Maps Timeline instead. You can delete most of your activity that's saved in those places.
+
+Delete other activity saved to your account
+
+
+On your computer, go to myactivity.google.com.
+Above your activity, in the search bar, click More   Other Google Activity.
+From here you can:
+        
+Delete certain activity. Below the activity, click Delete  Delete.
+Find where to delete activity: Below the activity, click Visit, View, or Manage.
+
+
+
+
+
+
+Delete browser activity
+Your activity might be stored in your browser, even if you delete it from My Activity.
+    
+Learn how to delete browsing history and other browsing data from Chrome.
+If you use another browser, check its instructions for how to delete this info.
+
+
+
+Stop saving activity
+You can control most of the information that’s displayed in My Activity.
+
+Go to your Google Account.
+On the left, click Data & privacy.
+Under "History settings," click an activity or history you don't want to save.
+Turn "Web & App Activity" off  Pause   Got it.
+
+Note: Some activity isn't included in My Activity.
+Stop saving activity temporarily
+You can search and browse the web privately.
+Note: If you sign in to your Google Account in a private browsing window, your search activity may be stored in that account.
+
+Fix problems
+
+Deleted activity shows in My Activity
+
+
+Make sure the device is connected to the internet. If you delete items from My Activity on one device, they might still appear on any devices that are offline. When the device connects to the internet, the items will be removed.
+Clear your cache and cookies.
+
+
+
+How your activity is deleted
+When you choose to delete activity manually or activity is deleted automatically based on your auto-delete setting, we immediately start the process of removing it from the product and our systems.
+First, we aim to immediately remove it from view and the data may no longer be used to personalize your Google experience.
+We then begin a process designed to safely and completely delete the data from our storage systems. 
+
+Along with helping you delete data manually or automatically, Google may delete some types of activity sooner when it’s no longer useful to improve your experience. 
+For limited purposes, like business or legal requirements, Google may retain certain types of data for an extended period of time.
+
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    Google activity controlsFind, control & delete the info in your Google AccountControl what activity gets saved to your accountView & control activity in your accountDelete your activityManage audio recordings in your Web & App ActivityControl what others see about you across Google servicesShare usage & diagnostics information with GoogleFind & control your Web & App ActivityManage your Google SettingsControl the ads you see           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                                           false 

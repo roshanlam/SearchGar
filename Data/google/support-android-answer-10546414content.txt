@@ -1,0 +1,57 @@
+Learn about Google Play services - Android Help   Skip to main content   Android HelpSign inGoogle HelpHelp CenterCommunityAndroidPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityExposure Notifications InfoAndroid Get around in AndroidAndroid basicsLearn about Google Play services       Learn about Google Play servicesGoogle Play services is core system software that enables key functionality on every certified Android device. There are three types of core device features Google Play services provides:
+Security and reliability
+Google Play services helps to ensure the security and reliability of an Android device, and keep devices updated with the latest security features. This includes:
+
+Google Play Protect, which can warn users if an app contains known malware. 
+Identification and validation of secure connections, such as allowing a device to safely and automatically recognize and connect to other devices.  
+Protection of apps from fraud and security threats through SafetyNet.
+End to end encryptionof Android backups when users have a lock screen passcode. 
+
+Developer APIs
+Google Play services provides developers thousands of continually updated APIs that enable them to deliver high-quality experiences in their apps, such as: 
+
+Streaming media using Google Cast.
+Integrating Google Maps to enhance app functionality. 
+Providing accurate location information through the fused location provider when apps have permission to access location. 
+Enabling services that allow developers to build advertising constructs according to user and app settings.
+Sending timely notifications via a messaging transport layer.
+
+Core device services
+Google Play services enables core services on Android devices. For example:
+
+When users make an emergency call to a supported emergency number, Google helps local emergency services directly receive the device’s location.
+Google’s autofill services help users save time and reduce typing errors. 
+Nearby Share allows users to send and receive files with their contacts or anonymously. 
+Find My Device makes it easy to locate, ring, or wipe a lost device.
+
+Additionally, when a user signs into their Google account on their device, they are able to update their Google settings, manage the security of their account, and sync important data, such as their Google Contacts, across devices.
+Why Google Play services collects data 
+Google Play services collects data on certified Android devices to support core device features. Collection of limited basic information, such as an IP address, is necessary to deliver content to a device, app, or browser. Device manufacturers also provide Google Play services with permission to access certain data on a device, such as location and contacts, to support these features.
+Actual data collection varies depending on device settings configured by a user, the apps and services installed or used on a device, the device manufacturer, and a user's Google account settings. In many instances, Google Play services will access data locally on the device without collecting data off the device. 
+To support each of the functions described above, Google Play services may collect information for the following reasons: 
+Security and fraud prevention
+Google collects data through Google Play services to help protect users, Google services, and third party developers' apps and services from fraud, spam, and abuse. This includes: 
+
+Information to validate that a request is coming from a real user and information about installed apps, including the results of malware scans.
+Google account and login information if a user is signed in on a device. 
+Google may collect a device's phone number to provide account recovery services and to log users into phone number based services (like Google Duo).
+
+
+Hardware identifiers such as IMEI, MAC addresses, and serial numbers, to update devices with the latest security patches and to monitor trends across the Android ecosystem, such as how long different types of devices stay in service. Google’s Device Configuration Service, which collects data to ensure that devices remain up-to-date and are working as well as possible, is part of Google Play services. 
+
+Support and improve the Android ecosystem
+As described above, Google Play services provides a number of APIs and core device services that enable Android to be a feature-rich, connected platform. Google may collect data about these services and APIs to help provide, maintain and improve them. Depending on device settings, Google may collect additional information about a device. Examples include: 
+
+Google collects data to understand how these APIs are used and to help ensure that they function correctly. 
+If Google Location Accuracy is enabled, in addition to providing more accurate location on a device, location information may be used in an anonymous way to improve location-based services. 
+If a device’s usage and diagnostics control is enabled, Google collects information about device usage and how well a device is working to improve products and services, like Google apps and Android devices.   
+
+Provide Google services
+If a user uses Google apps and services on Android, Google collects data through Google Play services to provide and improve those apps and services. For example: 
+
+Depending on a user’s settings, Google collects data like contacts and bookmarks to sync them across devices and the cloud. 
+Google Play services syncs a user’s Google account settings across devices, and collects information to help protect their account. 
+Google Play services may collect data to enable embedded app functionality like Google Maps. 
+For users with the “Saves your activity from apps on this device” setting enabled under Web & App Activity on their device, Google may save activity data from apps on the device to their Google Account so that it can be used to personalize Google apps and services.
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    Android basicsTransfer files between your computer & Android deviceAccessibility on Android devicesLearn about Google Play services           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎বাংলা‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center                                        false 

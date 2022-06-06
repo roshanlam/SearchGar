@@ -1,0 +1,1082 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Messages  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Communications
+
+
+
+
+
+
+
+
+
+
+
+  Business Messages
+
+
+
+
+  RCS Business Messaging
+
+
+
+
+  Verified Calls
+
+
+
+
+  Verified SMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+    
+        Business Messages
+      
+  
+
+
+
+
+Go to console
+
+
+
+
+
+
+
+  Overview
+
+
+
+
+  Guides
+
+
+
+
+  Trainings
+
+
+
+
+  Reference
+
+
+
+
+  Support
+
+
+
+
+  Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Communications
+
+
+
+
+
+
+
+
+
+
+
+
+      Business Messages
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Guides
+   
+
+
+
+
+
+
+
+      Trainings
+   
+
+
+
+
+
+      Reference
+   
+
+
+
+
+
+      Support
+   
+
+
+
+
+
+      Resources
+   
+
+
+
+
+
+
+
+
+
+      RCS Business Messaging
+   
+
+
+
+
+
+      Verified Calls
+   
+
+
+
+
+
+      Verified SMS
+   
+
+
+
+
+
+
+Overview
+How it works
+Feature gallery
+Life of an agent: Creation to launch
+Requirements and guidelines
+
+Quickstarts
+
+All quickstarts
+Prerequisite setup
+Create your first agent
+
+How-to guides
+
+All how-to guides
+Register as a partner
+
+
+Create and configure agents
+Create an agentSet your webhookSet non-local informationSet messaging availabilityBegin the conversationLocalization and locales
+Add locations
+
+
+Design agent functionality
+Conversation design for Business MessagesHow to approach the designDesign prerequisitesSet the stage with a welcome messageGuide the interactionBe conversationalUse both automation and live agentsRe-engagementTest, learn, optimize
+
+Conversation design samples
+Sales journey
+
+
+Develop messaging flows
+Overview: Life of a messageReceive messagesSend messagesSend and receive message receiptsSend and receive eventsSend surveys
+
+Sample conversations
+Hello, WorldHandoff from bot to live agentAuthenticate the user
+
+
+Integrate with other products
+Start conversations from a websiteStart conversations from a URLAutomate with DialogflowOnboard locations with Business ProfileAuthenticate with OAuth
+Verify agents and locations
+
+
+Launch agents and locations
+Launch agentsLaunch locations
+Fix a suspended agent
+Monitor performance with metrics
+
+Concepts
+
+All concepts
+Agent
+Brand
+Business Communications API
+Business Communications Developer Console
+Business Messages API
+Entry point
+Event
+Locale
+Location
+Message
+OpenAPI
+Partner
+Survey
+Verification
+Webhook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        Business Communications
+      
+  
+
+
+
+
+    
+        Business Messages
+      
+  
+
+
+
+
+    
+        Guides
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Business Messages developer docs
+      
+  
+    
+
+              Develop with Business Messages.
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+      speed
+    
+
+
+
+
+
+    
+        Quickstart
+      
+  
+
+
+            Get started and create your first agent.
+
+          
+
+
+
+
+
+
+
+
+      auto_awesome
+    
+
+
+
+
+
+    
+        Features
+      
+  
+
+
+            Learn about the different features available with Business Messages.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      school
+    
+
+
+
+
+
+    
+        Learn
+      
+  
+
+
+            Learn how Business Messages works.
+
+          
+
+
+
+
+
+
+
+
+      build
+    
+
+
+
+
+
+    
+        Set up
+      
+  
+
+
+            Register with Business Messages to create an agent for your brand.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      settings
+    
+
+
+
+
+
+    
+        Configure
+      
+  
+
+
+            Configure your agent's messaging availability and conversation settings.
+
+          
+
+
+
+
+
+
+
+
+      construction
+    
+
+
+
+
+
+    
+        Build
+      
+  
+
+
+            Learn how to send and receive messages, events, and surveys.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      merge_type
+    
+
+
+
+
+
+    
+        Integrate
+      
+  
+
+
+            Add functionality by integrating with other products and platforms.
+
+          
+
+
+
+
+
+
+
+
+      airplanemode_active
+    
+
+
+
+
+
+    
+        Deploy
+      
+  
+
+
+            Launch your brand's agent and locations.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      bar_chart
+    
+
+
+
+
+
+    
+        Measure
+      
+  
+
+
+            Track the performance of your agent using metrics.
+
+          
+
+
+
+
+
+
+
+
+      extension
+    
+
+
+
+
+
+    
+        Samples
+      
+  
+
+
+            Get a jump start on development by using one of our samples.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      code
+    
+
+
+
+
+
+    
+        Trainings
+      
+  
+
+
+            Learn how to develop your project, with a tutorial, or get coding with a codelab.
+
+          
+
+
+
+
+
+
+
+
+      assignment_turned_in
+    
+
+
+
+
+
+    
+        Reference
+      
+  
+
+
+            Consult the API reference pages.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      book
+    
+
+
+
+
+
+    
+        Support
+      
+  
+
+
+            Get help with Business Messages.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2022-03-25 UTC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Facebook
+          
+          
+
+
+
+            
+          
+            Medium
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Programs
+
+
+
+            
+          
+            Women Techmakers
+          
+          
+
+
+
+            
+          
+            Google Developer Groups
+          
+          
+
+
+
+            
+          
+            Google Developers Experts
+          
+          
+
+
+
+            
+          
+            Accelerators
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

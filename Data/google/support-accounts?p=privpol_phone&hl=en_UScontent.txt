@@ -1,0 +1,89 @@
+Change the phone number on your account & how it's used - Computer - Google Account Help   Skip to main content   Google Account HelpSign inGoogle HelpHelp CenterCommunityGoogle AccountPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Account Manage your informationChange the phone number on your account & how it's used       Change the phone number on your account & how it's usedYou can add, update, or remove phone numbers on your Google Account. Phone numbers are used for different reasons, and you have controls to manage how your numbers are used.
+Important: It may take a week before you can use your new phone number to verify it's you for sensitive actions like changing your password.
+Add, update or remove phone number
+
+Open your Google Account.
+Under "Personal info," select Contact info  Phone.
+From here you can:
+    
+Add your phone number: Next to phone, select Add a recovery phone to help keep your account secure. Select the country associated with your phone number from the drop-down menu and enter your phone number.
+Change your phone number: Next to your number, select Edit  Update number.
+Delete your phone number: Next to your number, select Delete  Remove number.
+
+
+In the box that appears, follow the instructions.
+
+Note: Changing the number in your Google Account only affects some Google services. Find out how to change your number for other Google services.
+How phone numbers are used
+As part of some Google services
+
+Your phone number is connected to certain Google services that you've set up or used.
+To see some services that use your phone number, check the Phone section of your Google Account. To learn more or make changes, click or tap the service.
+Other Google services that use phone numbers might not be listed on that page. You can change your number in certain services' settings, like the ones below:
+
+2-Step Verification
+Calendar: Learn how phone numbers are used
+Chrome: Learn how phone numbers are used
+Google Pay
+Google My Business
+
+Change how your number is used
+To see your options for a certain service, go to its settings. If you need help, visit support.google.com.
+
+
+
+Make sign-in & account recovery easier
+
+You can use your phone number to:
+
+Sign in to your account in certain places. Learn how to sign in with your phone number.
+Get back into your account if you have trouble signing in. For example, you can get a text with a code to reset your password. Learn more about recovery phone numbers.
+
+
+
+
+Help people get in touch with you
+
+You can manage who sees your phone number. To change who can view your number, go to About me.
+Learn how your phone number can help people find and connect with you on Google services. To change these settings, go to the Phone section of your Google Account.
+
+
+Turn "Better ads & Google services" on or off
+
+This setting lets your phone number to be used across Google services to show you ads more relevant to you. If you don’t want personalized ads, turn off the setting.
+
+
+Open your Google Account.
+On the left or at the top, click Personal info.
+In the "Contact info" section, click Phone.
+Select the phone number that you want to make changes to.
+Under "Preferences," turn on or off "Better ads and Google services."
+
+
+Tip: If turned on, "Across Google" appears under the Usage section.
+
+Improve your experience across Google
+
+If "Across Google" is listed on your "Phone" page, this number can be used across Google services.
+Check if your number is used this way
+
+Go to the Phone section of your Google Account.
+Next to "Usage," look for "Across Google."
+
+Stop using your number across Google
+
+Go to the Phone section of your Google Account.
+Next to your number, select Delete  Remove number.
+Go to the Recovery phone section of your Google Account and re-add your number.
+To keep using your number in other Google services, go to those services and re-add it.
+
+
+
+
+Verify your phone number
+
+When you set up a Google Account, you can let Google know your phone's number. If you do, we'll verify that the number is yours, and we'll try to re-verify it from time to time to make sure that it's still yours. Learn more about verifying your number.
+
+
+Google doesn’t sell your personal information, including your phone number, to anyone. To learn more, visit privacy.google.com.
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    Manage your informationVerify your Google AccountCheck for an account that existsChange your Google Account picture, name & other infoSet up a recovery phone number or email addressChange the phone number on your account & how it's usedChange the email address for your accountGet a summary of data in your Google AccountHow to download your Google dataCopy your photos to a service outside of GoogleManage contact info from your devicesChange who's saved & suggested as contactsSave, manage & protect your passwordsManage your online reputationUse passwords across your devicesBlock or unblock people's accountsCreate or change your Google Account PINFind your purchases, reservations & subscriptionsControl the ads you seeBlock certain adsWhy you're seeing an adManage your Brand AccountManage business personalization for your Google AccountRemove productsDelete your Gmail serviceChange who manages your Brand AccountManage your Google payment infoManage app info from your devices           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                                              false 

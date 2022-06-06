@@ -1,0 +1,721 @@
+
+
+
+
+
+Authentication - Google Safety Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety Center
+
+
+
+
+
+
+
+
+Overview
+
+
+In our products
+
+
+Security and privacy
+
+
+Built-in security
+
+
+Privacy controls
+
+
+Data practices
+
+
+Security tips
+
+
+Ads and data
+
+
+
+
+Family safety
+
+
+Parental controls
+
+
+Family-friendly experiences
+
+
+
+
+Leadership
+
+
+Innovation
+
+
+Engineering Center
+
+
+
+
+
+
+
+
+
+              Google Account
+            
+
+
+
+
+
+ 
+
+
+
+
+
+Security and privacy
+
+
+
+
+
+Built-in Security
+
+
+
+
+
+          Authentication
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The safer way to sign in to all of your online accounts.
+
+
+
+
+
+Across all of your online accounts, signing in is the front door to your personal information. Itâs also the primary entrypoint for risks, making it important to protect. 
+We make signing into Google and all your apps and services secure by default. With built-in tools and automatic protections, such as alerts when your Google Account is being accessed from a new device, we make it quick and simple to sign in safely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        PASSWORD MANAGER
+      
+
+
+
+
+
+Strong passwords help keep you safe
+
+Choosing strong, unique passwords for your online accounts is an important step in keeping your personal information private, but the majority of people say they use the same, weak password across multiple sites, increasing the vulnerability of those accounts.
+
+
+
+Googleâs Password Manager helps you create strong passwords
+
+Built into Chrome and Android, Googleâs Password Manager creates, securely saves, and fills in passwords for all of your online accounts.
+
+              Manage your saved Passwords
+              
+
+
+
+
+
+
+Automatic Password Alerts help keep your passwords safe
+
+Every day, new data breaches publicly expose millions of usernames and passwords. Google monitors for compromised passwords, so if any of your saved passwords have been found to be involved in a data breach, weâll automatically alert you.
+
+
+
+Update your passwords with Google Assistant
+COMING SOON
+
+When it comes to fixing compromised passwords, speed matters. Chrome is rolling out a quick fix feature: It can flag your compromised passwords and with the help of Google Assistant, change them for you with a single tap.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        2-Step Verification
+      
+
+
+
+
+
+2-Step verification provides a second layer of sign-in security
+
+Compromised passwords are more common than you might think. One of the best ways to protect your account is to have an extra form of verification in place. 2-Step verification helps keep out anyone who shouldnât have access to your account by requiring a second step after you enter your password.
+
+              Turn on 2-Step verification
+              
+
+
+
+
+
+
+Phone-based authentication is simple and secure
+
+Using a tangible form of authentication when signing in to your online accounts, such as your phone, is proven to be far more secure than a password, which can easily be compromised. This is why no one is doing more than we are to advance alternative modes of authentication. With Google Prompt, a simple tap will authenticate your account.
+
+
+
+Making account security more seamless than ever
+
+Weâre also building advanced security technologies into devices â like security keys on Android and the Google Smart Lock app on iOS â to make authentication seamless and even more secure than a password. Soon, weâll start automatically enrolling users in 2-Step Verification if they have a recovery phone or email on their account. Check your account with Security Checkup.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        SIGN IN WITH GOOGLE
+      
+
+
+
+
+
+The safer way to sign in to your favorite apps and services
+
+When signing into your online accounts, you shouldnât have to trade security for convenience. You can use your Google Account to more safely and easily sign in to thousands of sites and services across the web, while maintaining transparent privacy options in one place.
+
+
+
+Safely sign in anywhere, with just a tap
+
+We combine Googleâs industry-leading security with ultimate convenience to help protect your personal information on other accounts. Sign in with Google authenticates you uniquely for each service. So, even if there is a data breach on any of the sites or services you use, your personal information on all other accounts stays safe from hackers.
+
+
+
+More control over your accounts and connections
+
+You can view and manage how you use Sign in with Google, right in your Google Account. It allows you to manage or revoke access to any connected account â all in one place â which keeps you in total control.
+
+              Turn on Sign in with Google
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strengthen the security of your Google Account
+
+
+
+
+
+
+
+
+Protect your Google Account by taking the Security Checkup. This step-by-step tool gives you personalized and actionable recommendations to help strengthen the security of your Google Account.
+
+
+
+
+
+
+    Complete Checkup
+      
+
+
+
+
+
+
+
+
+
+
+
+
+Explore more ways we keep you safe online.
+
+
+Privacy controls
+Choose the privacy settings that are  right for you.
+
+
+
+
+
+Data practices
+Learn more about how we respect your privacy with responsible data practices.
+
+
+
+
+
+Security tips
+Discover quick tips and best practices to stay safe online.
+
+
+
+
+
+Ads and data
+Learn more about the ads you see on our platforms.
+
+
+
+
+
+
+
+
+
+
+
+Privacy controls
+Choose the privacy settings that are  right for you.
+
+
+
+
+
+
+
+Data practices
+Learn more about how we respect your privacy with responsible data practices.
+
+
+
+
+
+
+
+Security tips
+Discover quick tips and best practices to stay safe online.
+
+
+
+
+
+
+
+Ads and data
+Learn more about the ads you see on our platforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+                3
+              
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            About Google
+          
+
+
+
+            Google products
+          
+
+
+
+            Privacy Policy
+          
+
+
+
+            Terms
+          
+
+
+
+            Partners
+          
+
+
+
+            Security news
+          
+
+
+
+            Families
+          
+
+
+
+            Principles
+          
+
+
+
+
+
+
+
+
+          Help
+        
+
+
+
+
+
+
+EspaÃ±ol
+ 
+
+
+ 
+
+
+
+
+
+
+

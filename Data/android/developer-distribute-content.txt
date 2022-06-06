@@ -1,0 +1,1228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Play  |  Android Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Platform
+
+
+
+
+  Android Studio
+
+
+
+
+  Google Play
+
+
+
+
+  Jetpack
+
+
+
+
+  Kotlin
+
+
+
+
+  Docs
+
+
+
+
+  Games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Español – América Latina
+      
+
+        Português – Brasil
+      
+
+        Tiếng Việt
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Play
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+  Overview
+
+
+
+
+  Play Console
+
+
+
+
+  Play Billing
+
+
+
+
+  Play Policies
+
+
+
+
+  Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Platform
+   
+
+
+
+
+
+      Android Studio
+   
+
+
+
+
+
+      Google Play
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Play Console
+   
+
+
+
+
+
+      Play Billing
+   
+
+
+
+
+
+      Play Policies
+   
+
+
+
+
+
+      Resources
+   
+
+
+
+
+
+
+
+
+
+      Jetpack
+   
+
+
+
+
+
+      Kotlin
+   
+
+
+
+
+
+      Docs
+   
+
+
+
+
+
+      Games
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Play
+      
+  
+
+
+
+
+    
+        Overview
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Google Play
+      
+  
+    
+
+            With the ability to publish rapidly to over 2 billion active Android devices, Google Play helps you grow a global audience for your apps and games and earn revenue.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured
+
+
+      
+    
+        Google Play Console
+      
+  
+    
+
+            Publish your apps and games and grow your business on Google Play.
+
+          
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured
+
+
+      
+    
+        Google Play news at I/O
+
+      
+  
+    
+
+            Get the latest updates from Google I/O and learn how our platform can help you grow your business, from optimizing acquisition and engagement, monetizing your app, building safer apps, and protecting your IP.
+
+          
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Find success on Google Play
+      
+  
+    
+
+              Get insights, tips, and best practices to help you build and grow your business.
+
+            
+
+
+
+
+
+
+
+Featured
+
+
+
+    
+        Google Play SDK Index
+      
+  
+
+
+            Evaluate if an SDK is right for your app with this portal of over 100 widely-used commercial SDKs and information like which app permissions the SDK requests and statistics on the apps that use them.
+
+          
+
+
+
+
+
+
+
+Featured
+
+
+
+    
+        How Play Works
+      
+  
+
+
+            Reach audiences in more than 190 countries and territories around the world. Google Play helps you get discovered, earn revenue, and build a global business.
+
+          
+
+
+
+
+
+
+
+Featured
+
+
+
+    
+        Quality guidelines
+      
+  
+
+
+            Test your Android apps against these quality guidelines to ensure you provide an excellent user experience and gain additional exposure available for Wear, TV, and Auto apps.
+
+          
+
+
+
+
+
+
+
+Featured
+
+
+
+    
+        Google Play Academy
+      
+  
+
+
+            Get free trainings and best practices to help you build a successful app or game business.
+
+          
+
+
+
+
+
+
+
+Featured
+
+
+
+    
+        Play Policies
+      
+  
+
+
+            Stay up to date with upcoming Android and Google Play Deadlines.
+
+          
+
+
+
+
+
+
+
+Featured
+
+
+
+    
+        Reach new audiences
+      
+  
+
+
+            Expand to new users and increase engagement on Android devices of all shapes and sizes.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Resources
+      
+  
+    
+
+            Marketing tools and resources
+          
+
+View all resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Brand guidelines
+      
+  
+
+
+            Guidelines and downloads for the Android and Google Play brands.
+          
+
+Review guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Linking to Google Play
+      
+  
+
+
+            Build links that take users to your published apps in Google Play from browse or search.
+          
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Device art generator
+      
+  
+
+
+            Drag and drop screenshots of your app into device artwork, for better looking promotional images and improved visual context.
+          
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Play badges
+      
+  
+
+
+            Build badges for your app in just a few clicks, and download hi-res badge assets localized for a variety of languages.
+          
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Latest news
+      
+  
+    
+
+
+View all news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        
+        Twitter
+      
+Follow for news and support
+
+
+
+
+
+
+
+          
+        
+        Medium
+      
+Read articles and industry thoughts from the Play team
+
+
+
+
+
+
+
+          
+        
+        LinkedIn
+      
+Connect with Google Play business community
+
+
+
+
+          
+        
+        Messenger
+      
+Message for developer support
+
+
+
+
+
+
+
+
+More Android
+
+
+
+            
+          
+            Android
+          
+          
+
+
+
+            
+          
+            Android for Enterprise
+          
+          
+
+
+
+            
+          
+            Security
+          
+          
+
+
+
+            
+          
+            Source
+          
+          
+
+
+
+            
+          
+            News
+          
+          
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Podcasts
+          
+          
+
+
+
+
+Discover
+
+
+
+            
+          
+            Gaming
+          
+          
+
+
+
+            
+          
+            Machine Learning
+          
+          
+
+
+
+            
+          
+            Privacy
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            5G
+          
+          
+
+
+
+
+Android Devices
+
+
+
+            
+          
+            Large screens
+          
+          
+
+
+
+            
+          
+            Wear OS
+          
+          
+
+
+
+            
+          
+            Android TV
+          
+          
+
+
+
+            
+          
+            Android for cars
+          
+          
+
+
+
+            
+          
+            Android Things
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome OS devices
+          
+          
+
+
+
+
+Releases
+
+
+
+            
+          
+            Android 11
+          
+          
+
+
+
+            
+          
+            Android 10
+          
+          
+
+
+
+            
+          
+            Pie
+          
+          
+
+
+
+            
+          
+            Oreo
+          
+          
+
+
+
+            
+          
+            Nougat
+          
+          
+
+
+
+            
+          
+            Marshmallow
+          
+          
+
+
+
+            
+          
+            Lollipop
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            KitKat
+          
+          
+
+
+
+
+Documentation and Downloads
+
+
+
+            
+          
+            Android Studio guide
+          
+          
+
+
+
+            
+          
+            Developers guides
+          
+          
+
+
+
+            
+          
+            API reference
+          
+          
+
+
+
+            
+          
+            Download Studio
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Android NDK
+          
+          
+
+
+
+
+Support
+
+
+
+            
+          
+            Report platform bug
+          
+          
+
+
+
+            
+          
+            Report documentation bug
+          
+          
+
+
+
+            
+          
+            Google Play support
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Join research studies
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Privacy
+        
+
+
+
+          License
+        
+
+
+
+          Brand guidelines
+        
+
+
+Get news and tips by email
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Español – América Latina
+      
+
+        Português – Brasil
+      
+
+        Tiếng Việt
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

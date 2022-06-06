@@ -1,0 +1,1805 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Firebase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Products
+
+
+
+
+
+
+
+
+
+                      Build
+                    
+
+
+
+
+
+                      Release & Monitor
+                    
+
+
+
+
+
+                      Engage
+                    
+
+
+
+
+
+
+
+
+
+  Use Cases
+
+
+
+
+  Pricing
+
+
+
+
+  Docs
+
+
+
+
+
+
+
+
+
+                      Overview
+                    
+
+
+
+
+
+                      Fundamentals
+                    
+
+
+
+
+
+                      Build
+                    
+
+
+
+
+
+                      Release & Monitor
+                    
+
+
+
+
+
+                      Engage
+                    
+
+
+
+
+
+                      Reference
+                    
+
+
+
+
+
+                      Samples
+                    
+
+
+
+
+
+
+
+
+
+  Community
+
+
+
+
+
+
+
+
+
+                      Learn
+                    
+
+
+
+
+
+                      Events
+                    
+
+
+
+
+
+
+
+
+
+  Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Español – América Latina
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+    Go to console
+  
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Products
+   
+
+
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Use Cases
+   
+
+
+
+
+
+
+
+      Pricing
+   
+
+
+
+
+
+      Docs
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Community
+   
+
+
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Support
+   
+
+
+
+
+
+
+
+      Go to console
+   
+
+
+
+
+
+
+
+
+
+      Build
+   
+
+
+
+
+
+      Release & Monitor
+   
+
+
+
+
+
+      Engage
+   
+
+
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Fundamentals
+   
+
+
+
+
+
+      Build
+   
+
+
+
+
+
+      Release & Monitor
+   
+
+
+
+
+
+      Engage
+   
+
+
+
+
+
+      Reference
+   
+
+
+
+
+
+      Samples
+   
+
+
+
+
+
+
+
+      Learn
+   
+
+
+
+
+
+      Events
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Firebase
+      
+  
+
+
+
+
+
+  
+    
+    Send feedback
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Check out what’s new from Firebase at Google I/O 2022.
+        
+         Learn more
+        
+
+
+
+
+
+
+
+
+
+
+       Make your app the
+       
+       best it can be
+      
+
+       Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
+      
+
+
+        Get started
+       
+
+        Try demo
+       
+
+
+
+        Watch video
+       
+
+
+
+
+
+
+
+
+
+
+
+
+        close
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Products and solutions you can rely on through your app's journey
+       
+
+
+
+
+
+
+
+
+
+
+            Build
+           
+
+            Accelerate app development with fully managed backend infrastructure
+           
+
+
+             View all build products
+            
+
+
+
+
+
+
+                  gmp_firestore
+                 
+
+
+
+
+
+                Cloud Firestore
+               
+
+
+
+
+
+
+
+                  gmp_auth
+                 
+
+
+
+
+
+                Authentication
+               
+
+
+
+
+
+
+
+                  gmp_mods
+                 
+
+
+
+
+
+                Extensions
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Release & Monitor
+           
+
+            Release with confidence and monitor performance and stability
+           
+
+
+             View all release & monitor products
+            
+
+
+
+
+
+
+                  gmp_crashlytics
+                 
+
+
+
+
+
+                Crashlytics
+               
+
+
+
+
+
+
+
+                  gmp_performance
+                 
+
+
+
+
+
+                Performance Monitoring
+               
+
+
+
+
+
+
+
+                  gmp_analytics
+                 
+
+
+
+
+
+                Google Analytics
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Engage
+           
+
+            Boost user engagement with rich analytics, A/B testing, and messaging campaigns
+           
+
+
+             View all engage products
+            
+
+
+
+
+
+
+                  gmp_config
+                 
+
+
+
+
+
+                Remote Config
+               
+
+
+
+
+
+
+
+                  gmp_cloud_messaging
+                 
+
+
+
+
+
+                Cloud Messaging
+               
+
+
+
+
+
+
+
+                  gmp_experiments
+                 
+
+
+
+
+
+                A/B testing
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  gmp_firestore
+                 
+
+
+
+
+
+                Cloud Firestore
+               
+
+
+
+
+
+
+
+                  gmp_mods
+                 
+
+
+
+
+
+                Extensions
+               
+
+
+
+
+
+
+
+                  gmp_app_check
+                 
+
+
+
+
+
+                App Check
+               
+
+
+
+
+
+
+
+                  gmp_functions
+                 
+
+
+
+
+
+                Cloud Functions
+               
+
+
+
+
+
+
+
+                  gmp_auth
+                 
+
+
+
+
+
+                Authentication
+               
+
+
+
+
+
+
+
+                  gmp_hosting
+                 
+
+
+
+
+
+                Hosting
+               
+
+
+
+
+
+
+
+                  gmp_storage
+                 
+
+
+
+
+
+                Cloud Storage
+               
+
+
+
+
+
+
+
+                  gmp_database
+                 
+
+
+
+
+
+                Realtime Database
+               
+
+
+
+
+
+
+
+
+
+
+
+                  gmp_crashlytics
+                 
+
+
+
+
+
+                Crashlytics
+               
+
+
+
+
+
+
+
+                  gmp_performance
+                 
+
+
+
+
+
+                Performance Monitoring
+               
+
+
+
+
+
+
+
+                  gmp_test_lab
+                 
+
+
+
+
+
+                Test Lab
+               
+
+
+
+
+
+
+
+                  gmp_app_distro
+                 
+
+
+
+
+
+                App Distribution
+               
+
+
+
+
+
+
+
+                  gmp_analytics
+                 
+
+
+
+
+
+                Google Analytics
+               
+
+
+
+
+
+
+
+                  gmp_ml2
+                 
+
+
+
+
+
+                Machine Learning
+               
+
+
+
+
+
+
+
+
+
+
+
+                  gmp_inapp_messaging
+                 
+
+
+
+
+
+                In-App Messaging
+               
+
+
+
+
+
+
+
+                  gmp_experiments
+                 
+
+
+
+
+
+                A/B Testing
+               
+
+
+
+
+
+
+
+                  gmp_cloud_messaging
+                 
+
+
+
+
+
+                Cloud Messaging
+               
+
+
+
+
+
+
+
+                  gmp_config
+                 
+
+
+
+
+
+                Remote Config
+               
+
+
+
+
+
+
+
+                  gmp_durable_links
+                 
+
+
+
+
+
+                Dynamic Links
+               
+
+
+
+
+
+
+
+          All products
+          
+           expand_more
+          
+
+           expand_less
+          
+
+
+
+
+
+
+
+
+         Firebase Extensions
+        
+
+         Install pre-packaged, open-source bundles of code to automate common development tasks
+        
+
+
+
+
+
+          Stream Collections to BigQuery
+         
+
+
+
+
+          Search with Algolia
+         
+
+
+
+
+          Trigger Email
+         
+
+
+
+
+          Run Payments with Stripe
+         
+
+
+
+
+
+          View all extensions
+         
+
+
+
+
+
+
+       Firebase supports:
+      
+
+
+        plat_ios
+       
+
+        plat_android
+       
+
+        plat_web
+       
+
+        plat_unity
+       
+
+        plat_cpp
+       
+
+
+
+
+
+
+
+
+
+        Integrations
+       
+
+        Easily integrate Firebase with your team's favorite tools
+       
+
+
+
+
+
+
+          Google Ads
+         
+
+
+
+
+          AdMob
+         
+
+
+
+
+          Google Marketing Platform
+         
+
+
+
+
+          Play Store
+         
+
+
+
+
+          Data Studio
+         
+
+
+
+
+          BigQuery
+         
+
+
+
+
+          Slack
+         
+
+
+
+
+          Jira
+         
+
+
+
+
+          PagerDuty
+         
+
+
+
+
+
+          Learn more
+         
+
+
+
+
+
+
+
+
+
+
+        Google Cloud + Firebase
+       
+
+        Firebase projects are backed by Google Cloud,
+        
+        letting you scale your app to billions of users.
+       
+
+        Read more
+        
+
+
+
+
+
+
+
+
+
+
+        Trusted by the largest apps and games
+       
+
+        Development teams around the world—including NPR, Halfbrick, Duolingo,
+        
+        and Venmo—use Firebase to ship their apps.
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        News & events
+       
+
+
+
+
+
+
+
+
+
+
+          See what’s new from Firebase at Google I/O 2022
+         
+
+
+           Learn how we’re helping you accelerate app development, run your app with confidence, and succeed at scale with strengthened integrations across Google’s developer products, so you have a more seamless development experience.
+          
+
+
+          Learn more
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Common use cases
+       
+
+        Use Firebase products together to solve complex challenges and optimize your app experience. Personalize your onboarding flow, grow user engagement, or add new functionality with Firebase.
+       
+
+
+
+
+
+
+
+
+         View use cases
+        
+
+
+
+
+
+
+
+
+
+
+        Easy to integrate on iOS,
+        
+        Android, and the Web
+       
+
+        Firebase provides detailed documentation and cross-platform SDKs to help you build and ship apps on Android, iOS, the web, C++, and Unity.
+       
+
+
+
+
+
+
+
+         View all docs
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Try Firebase today
+      
+
+       Integrating it into your app is easy.
+      
+
+       Get started
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn
+
+
+
+            
+          
+            Guides
+          
+          
+
+
+
+            
+          
+            Reference
+          
+          
+
+
+
+            
+          
+            Samples
+          
+          
+
+
+
+            
+          
+            Libraries
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            GitHub
+          
+          
+
+
+
+
+Stay connected
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Firebase Summit
+          
+          
+
+
+
+            
+          
+            Facebook
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Support
+
+
+
+            
+          
+            Contact support
+          
+          
+
+
+
+            
+          
+            Stack Overflow
+          
+          
+
+
+
+            
+          
+            Slack community
+          
+          
+
+
+
+            
+          
+            Google group
+          
+          
+
+
+
+            
+          
+            Release notes
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            FAQs
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Español – América Latina
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1899 @@
+
+
+
+
+
+
+
+
+Mobile App Monetization - Google AdMob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Get the latest insights and product updates to grow your apps business.
+Subscribe Now.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AdMob
+
+
+
+Skip to Content
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                AdMob Advantage
+              
+
+
+
+                Get Started
+              
+
+
+
+                Resources
+              
+
+
+
+                Blog
+              
+
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AdMob
+
+
+
+
+
+
+
+
+AdMob Advantage
+
+
+Get Started
+
+
+Resources
+
+
+Blog
+
+
+
+
+
+
+
+Sign in
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+          Earn more revenue with your apps.
+        
+
+You work hard on your app. AdMob makes earning revenue easy with in-app ads, actionable insights, and powerful, easy-to-use tools that grow your app business.
+
+Get started
+
+Need a consultation?
+
+Contact us.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+              Experience the AdMob advantage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+light-bulb icon
+
+
+
+
+
+
+                Smarter tech, more revenue
+              
+
+As one of the largest global ad networks, AdMob can fill your ad requests from anywhere in the world. Maximize the value of every impression across all your networks with the most advanced monetization technology.
+
+
+
+
+
+
+rising-rate icon
+
+
+
+
+
+
+                High-performing ad formats
+              
+
+Engage and retain your users with our innovative ad formats. Customize the user experience and earn more revenue by integrating native, rewarded, banner, video, and interstitial ads seamlessly into your app.
+
+
+
+
+
+
+
+
+bar-graph icon
+
+
+
+
+
+
+                Actionable analytics
+              
+
+Make smarter decisions to grow mobile app earnings and improve customer experience. AdMob’s robust reporting and measurement features deliver deeper insights into how your users are interacting with your mobile app and ads. Gain even richer insights by directly integrating Google Analytics for Firebase with AdMob.
+
+
+
+
+
+
+wrench icon
+
+
+
+
+
+
+                Automated tools
+              
+
+Streamline your day-to-day tasks with our automated tools. Easy to set up and integrate, our tools offer everything from state-of-the-art brand safety controls to advanced monetization technology with mediation and bidding.
+
+
+
+   
+Learn more
+
+ 
+
+
+Drive revenue
+See how much you could earn from AdMob
+
+To view your potential earnings, select a region and category for your app’s users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Calculate
+    
+
+
+Your app users location and content category is set as
+
+{[calculatorCtrl.selectedRegion[0]]}
+{[calculatorCtrl.selectedCategory[0]]}
+{[calculatorCtrl.selectedDevice[0]]}
+
+
+      Try a different content category
+    
+
+
+Monthly Active Users
+
+
+
+
+
+
+
+
+The number of times your app opens and is viewed by human visitors per month.
+
+                Ok
+              
+
+
+
+
+{[calculatorCtrl.pageImpressions.toLocaleString()]}
+
+
+
+Your potential annual revenue
+This is an estimate and should be only used as a reference.
+
+$
+
+
+{[character]}
+
+
+            ,
+          
+
+
+
+
+          Get started
+        
+
+
+
+
+        Need a consultation?
+      
+Contact us.
+
+
+*
+      There's no guarantee or commitment that you'll earn this amount. Estimates are based on the content category and region and OS you selected. Actual revenue is dependent on many factors such as advertiser demand, user location, user device, content vertical, seasonality, ad size, currency exchange rates, country and specific operating system regulations. Also, due to COVID-19 the effective expected revenue could be less than the one displayed.
+    
+
+ 
+
+
+
+
+
+              AdMob for every app.
+
+Wherever you are, whatever your app can do, AdMob can help you grow lasting revenue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Are you a game developer?
+            
+Check out AdMob for Games.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+earth icon
+
+
+
+
+
+
+                Everywhere
+              
+
+AdMob helps translate your hard work into earnings from around the world with features like multiple currency support, country-level mediation, and high fill rates.
+
+
+
+
+
+                    Everywhere
+                  
+
+
+
+
+
+AdMob helps translate your hard work into earnings from around the world with features like multiple currency support, country-level mediation, and high fill rates.
+
+
+
+
+
+
+size icon
+
+
+
+
+
+
+
+
+                Every size
+              
+
+Whether you’re just starting out or you’re well on your way, AdMob can help your business grow with features like mediation groups, in-house campaigns, and direct deal support that scale to your needs.
+
+
+
+
+
+                    Every size
+                  
+
+
+
+
+
+Whether you’re just starting out or you’re well on your way, AdMob can help your business grow with features like mediation groups, in-house campaigns, and direct deal support that scale to your needs.
+
+
+
+
+
+
+category icon
+
+
+
+
+
+
+
+
+
+
+                Every category
+              
+
+We know one size doesn’t fit all. That’s why we cater to every app category, from Games to Utilities, with ad formats to fit your unique needs. Talk to an expert for your personal consultation.
+
+
+
+
+
+                    Every category
+                  
+
+
+
+
+
+We know one size doesn’t fit all. That’s why we cater to every app category, from Games to Utilities, with ad formats to fit your unique needs. Talk to an expert for your personal consultation.
+
+
+
+
+   
+
+
+
+
+
+              AdMob by the numbers.
+
+
+
+
+
+
+
+
+
+
+
+          81%
+        
+
+of the Android top 1000 use AdMob.
+
+
+
+
+
+
+          97%
+        
+
+of AdAge 100 world's largest advertisers buy ads on AdMob.
+
+
+
+
+
+
+          1 million +
+        
+
+apps use AdMob.
+
+
+
+
+
+
+          1 million +
+        
+
+Google advertisers are on AdMob.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          AdMob is able to provide advertiser demand in more than 200 countries for us. We have seen really competitive, consistently high CPMs from AdMob across a variety of formats â from text interstitials to rich media and video.
+        
+
+
+              Mike Evans,
+            
+              VP, Digital Marketing,
+            
+              SEGA Networks
+            
+
+
+
+
+ 
+
+
+
+
+
+
+
+              Getting Started is easy.
+            
+
+
+Sign up for AdMob and get more from your app today.
+
+
+Sign up
+
+Need a consultation?
+
+Contact us.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+              Featured resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Guide
+        
+
+          Rewarded ads: a win for users, developers, and advertisers
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Guide
+        
+
+          How developers can maximize app revenue with AdMob mediation
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Guide
+        
+
+          Mobile ads: the key to monetizing gaming apps
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+3
+
+
+4
+
+
+
+
+
+See more
+
+
+ 
+
+
+
+
+
+
+
+              Inside AdMob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Blog post
+    
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+3
+
+
+4
+
+
+
+
+
+Read more on the AdMob blog
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+              Get the latest, delivered.
+            
+
+Subscribe to get product news and insights to grow your apps.
+
+
+
+
+
+
+* Indicates required field
+ 
+
+
+AdMob newsletter
+
+!Please select at least one newsletter
+
+ 
+
+                                  Quarterly updates from AdMob to help you grow app revenue.
+                                
+
+
+
+
+
+Mobile ads gaming newsletter
+ 
+
+                                  Quarterly updates from Google Ads to help grow your mobile games.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                            I primarily work on (select all that apply) *                          
+
+
+
+User acquisition
+
+!                                      Please select at least one primary work
+
+
+
+
+
+Ads monetization
+
+
+
+
+Other
+
+
+
+
+          Please enter a valid email address (i.e         
+      Please enter a valid email address (i.e     
+
+
+
+
+        Country or region of residence*
+          Afghanistan (Ø§ÙØºØ§ÙØ³ØªØ§Ù)
+        
+          Ãland Islands (Ãland)
+        
+          Albania (ShqipÃ«ria)
+        
+          Algeria (Ø§ÙØ¬Ø²Ø§Ø¦Ø±)
+        
+          American Samoa
+        
+          Andorra
+        
+          Angola
+        
+          Anguilla
+        
+          Antarctica
+        
+          Antigua and Barbuda
+        
+          Argentina
+        
+          Armenia (ÕÕ¡ÕµÕ¡Õ½Õ¿Õ¡Õ¶Õ« ÕÕ¡Õ¶ÖÕ¡ÕºÕ¥Õ¿Õ¸ÖÕ©Õ«ÖÕ¶)
+        
+          Aruba
+        
+          Ascension Island
+        
+          Australia
+        
+          Austria (Ãsterreich)
+        
+          Azerbaijan (AzÉrbaycan)
+        
+          Bahamas
+        
+          Bahrain (Ø§ÙØ¨Ø­Ø±ÙÙ)
+        
+          Bangladesh (à¦¬à¦¾à¦à¦²à¦¾à¦¦à§à¦¶)
+        
+          Barbados
+        
+          Belarus (ÐÐµÐ»Ð°ÑÑÑÑ)
+        
+          Belgium (BelgiÃ«)
+        
+          Belize
+        
+          Benin (BÃ©nin)
+        
+          Bermuda
+        
+          Bhutan (à¤­à¥à¤à¤¾à¤¨)
+        
+          Bolivia
+        
+          Bosnia and Herzegovina (Bosna i Hercegovina)
+        
+          Botswana
+        
+          Bouvet Island
+        
+          Brazil (Brasil)
+        
+          British Indian Ocean Territory
+        
+          British Virgin Islands
+        
+          Brunei
+        
+          Bulgaria (ÐÑÐ»Ð³Ð°ÑÐ¸Ñ)
+        
+          Burkina Faso
+        
+          Burundi
+        
+          Cambodia (ááááá»áá¶)
+        
+          Cameroon (Cameroun)
+        
+          Canada
+        
+          Canary Islands
+        
+          Cape Verde (Cabo Verde)
+        
+          Caribbean Netherlands
+        
+          Cayman Islands
+        
+          Central African Republic (RÃ©publique centrafricaine)
+        
+          Ceuta and Melilla
+        
+          Chad (ØªØ´Ø§Ø¯)
+        
+          Chile
+        
+          China (ä¸­å½)
+        
+          Christmas Island
+        
+          Clipperton Island
+        
+          Cocos (Keeling) Islands
+        
+          Colombia
+        
+          Comoros (Ø¬Ø²Ø± Ø§ÙÙÙØ±)
+        
+          Congo
+        
+          Congo (DRC) (RÃ©publique dÃ©mocratique du Congo)
+        
+          Cook Islands
+        
+          Costa Rica
+        
+          CÃ´te dâIvoire
+        
+          Croatia (Hrvatska)
+        
+          Cuba
+        
+          CuraÃ§ao
+        
+          Cyprus (ÎÏÏÏÎ¿Ï)
+        
+          Czechia (Äesko)
+        
+          Denmark (Danmark)
+        
+          Diego Garcia
+        
+          Djibouti (Jabuuti)
+        
+          Dominica
+        
+          Dominican Republic (RepÃºblica Dominicana)
+        
+          Ecuador
+        
+          Egypt (ÙØµØ±)
+        
+          El Salvador
+        
+          Equatorial Guinea (GuinÃ©e Ã©quatoriale)
+        
+          Eritrea (á¤á­áµá«, Ø§Ø±ÙØªØ±ÙØ§)
+        
+          Estonia (Eesti)
+        
+          Ethiopia (á¢áµá®áµá«)
+        
+          Falkland Islands
+        
+          Faroe Islands (FÃ¸royar)
+        
+          Fiji (à¤«à¤¿à¤à¥)
+        
+          Finland (Suomi)
+        
+          France
+        
+          French Guiana (Guyane franÃ§aise)
+        
+          French Polynesia (PolynÃ©sie franÃ§aise)
+        
+          French Southern Territories
+        
+          Gabon
+        
+          Gambia
+        
+          Georgia (á¡áá¥áá ááááá)
+        
+          Germany (Deutschland)
+        
+          Ghana
+        
+          Gibraltar
+        
+          Greece (ÎÎ»Î»Î¬Î´Î±)
+        
+          Greenland (Kalaallit Nunaat)
+        
+          Grenada
+        
+          Guadeloupe
+        
+          Guam
+        
+          Guatemala
+        
+          Guernsey
+        
+          Guinea (GuinÃ©e)
+        
+          Guinea-Bissau (GuinÃ© Bissau)
+        
+          Guyana
+        
+          Haiti (HaÃ¯ti)
+        
+          Heard & McDonald Islands
+        
+          Honduras
+        
+          Hong Kong (é¦æ¸¯)
+        
+          Hungary (MagyarorszÃ¡g)
+        
+          Iceland (Ãsland)
+        
+          India (à¤­à¤¾à¤°à¤¤)
+        
+          Indonesia
+        
+          Iran (Ø§ÛØ±Ø§Ù)
+        
+          Iraq (Ø§ÙØ¹Ø±Ø§Ù)
+        
+          Ireland
+        
+          Isle of Man
+        
+          Israel (××©×¨××)
+        
+          Italy (Italia)
+        
+          Jamaica
+        
+          Japan (æ¥æ¬)
+        
+          Jersey
+        
+          Jordan (Ø§ÙØ£Ø±Ø¯Ù)
+        
+          Kazakhstan (ÐÐ°Ð·Ð°ÑÑÑÐ°Ð½)
+        
+          Kenya
+        
+          Kiribati
+        
+          Kosovo
+        
+          Kuwait (Ø§ÙÙÙÙØª)
+        
+          Kyrgyzstan (ÐÑÑÐ³ÑÐ·ÑÑÐ°Ð½)
+        
+          Laos (à¸¥à¸²à¸§)
+        
+          Latvia (Latvija)
+        
+          Lebanon (ÙØ¨ÙØ§Ù)
+        
+          Lesotho
+        
+          Liberia
+        
+          Libya (ÙÙØ¨ÙØ§)
+        
+          Liechtenstein
+        
+          Lithuania (Lietuva)
+        
+          Luxembourg
+        
+          Macau (æ¾³é¨)
+        
+          Macedonia (FYROM) (ÐÐ°ÐºÐµÐ´Ð¾Ð½Ð¸ÑÐ°)
+        
+          Madagascar
+        
+          Malawi
+        
+          Malaysia
+        
+          Maldives
+        
+          Mali (ÙØ§ÙÙ)
+        
+          Malta
+        
+          Marshall Islands
+        
+          Martinique
+        
+          Mauritania (ÙÙØ±ÙØªØ§ÙÙØ§)
+        
+          Mauritius
+        
+          Mayotte
+        
+          Mexico (MÃ©xico)
+        
+          Micronesia
+        
+          Moldova
+        
+          Monaco
+        
+          Mongolia (ÐÐ¾Ð½Ð³Ð¾Ð» ÑÐ»Ñ)
+        
+          Montenegro (Ð¦ÑÐ½Ð° ÐÐ¾ÑÐ°)
+        
+          Montserrat
+        
+          Morocco (Ø§ÙÙØºØ±Ø¨)
+        
+          Mozambique (MoÃ§ambique)
+        
+          Myanmar (Burma)
+        
+          Norway (Norge)
+        
+          Oman (Ø¹ÙØ§Ù)
+        
+          Outlying Oceania
+        
+          Pakistan (Ù¾Ø§Ú©Ø³ØªØ§Ù)
+        
+          Palau
+        
+          Palestine (ÙÙØ³Ø·ÙÙ)
+        
+          Panama (PanamÃ¡)
+        
+          Papua New Guinea
+        
+          Paraguay
+        
+          Peru (PerÃº)
+        
+          Philippines
+        
+          Pitcairn Islands
+        
+          Poland (Polska)
+        
+          Portugal
+        
+          Puerto Rico
+        
+          Qatar (ÙØ·Ø±)
+        
+          RÃ©union
+        
+          Romania (RomÃ¢nia)
+        
+          Russia (Ð Ð¾ÑÑÐ¸Ñ)
+        
+          Rwanda
+        
+          Saint BarthÃ©lemy
+        
+          Saint Helena
+        
+          Saint Kitts and Nevis
+        
+          Saint Lucia
+        
+          Saint Martin
+        
+          Saint Pierre and Miquelon
+        
+          Samoa
+        
+          San Marino
+        
+          SÃ£o TomÃ© and PrÃ­ncipe
+        
+          Saudi Arabia (Ø§ÙÙÙÙÙØ© Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©)
+        
+          Senegal (SÃ©nÃ©gal)
+        
+          Serbia (Ð¡ÑÐ±Ð¸ÑÐ°)
+        
+          Seychelles
+        
+          Sierra Leone
+        
+          Singapore (æ°å å¡)
+        
+          Sint Maarten
+        
+          Slovakia (SlovenskÃ¡ republika)
+        
+          Slovenia (Slovenija)
+        
+          Solomon Islands
+        
+          Somalia (Somali)
+        
+          South Africa
+        
+          South Georgia & South Sandwich Islands
+        
+          South Korea (ëíë¯¼êµ­)
+        
+          South Sudan
+        
+          Spain (EspaÃ±a)
+        
+          Sri Lanka (à®à®²à®à¯à®à¯)
+        
+          St. Vincent & Grenadines
+        
+          Sudan (Ø§ÙØ³ÙØ¯Ø§Ù)
+        
+          Suriname
+        
+          Svalbard and Jan Mayen
+        
+          Swaziland
+        
+          Sweden (Sverige)
+        
+          Switzerland (Schweiz, Suisse, Svizzera)
+        
+          Syria (Ø³ÙØ±ÙØ§)
+        
+          Taiwan (å°æ¹¾)
+        
+          Tajikistan (ØªØ§Ø¬ÛÚ©Ø³ØªØ§Ù)
+        
+          Tanzania
+        
+          Thailand (à¸à¸£à¸°à¹à¸à¸¨à¹à¸à¸¢)
+        
+          Timor-Leste
+        
+          Togo
+        
+          Tokelau
+        
+          Tonga
+        
+          Trinidad and Tobago
+        
+          Tristan da Cunha
+        
+          Tunisia (ØªÙÙØ³)
+        
+          Turkey (TÃ¼rkiye)
+        
+          Turkmenistan (Ð¢ÑÑÐºÐ¼ÐµÐ½Ð¸ÑÑÐ°Ð½)
+        
+          Turks and Caicos Islands
+        
+          Tuvalu
+        
+          U.S. Outlying Islands (United States Minor Outlying Islands)
+        
+          U.S. Virgin Islands
+        
+          Uganda
+        
+          Ukraine (Ð£ÐºÑÐ°ÑÐ½Ð°)
+        
+          United Arab Emirates (Ø§ÙØ§ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©)
+        
+          United Kingdom
+        
+          United States
+        
+          Uruguay
+        
+          Uzbekistan (ÐÐ·Ð±ÐµÐºÐ¸ÑÑÐ¾Ð½)
+        
+          Vanuatu
+        
+          Vatican City (Vaticano)
+        
+          Venezuela
+        
+          Vietnam (Viá»t Nam)
+        
+          Wallis and Futuna
+        
+          Western Sahara (Ø§ÙØµØ­Ø±Ø§Ø¡ Ø§ÙØºØ±Ø¨ÙØ©)
+        
+          Yemen (Ø§ÙÙÙÙ)
+        
+          Zambia
+        
+          Zimbabwe
+        
+
+          Please select your region
+        
+      Please enter a valid email address (i.e     
+
+
+
+
+      Please enter a valid email address (i.e     
+
+
+
+
+Please share your top app URL. This will help us provide you with tailored support.From the Google Play store, your app URL may look like https://play.google.com/store/apps/details?id=example and from iOS App Store -  https://apps.apple.com/us/app/example-app/exampleID.
+
+
+      Please enter a valid email address (i.e     
+
+
+
+                    Subscribe
+                  
+
+Sign up to receive communications from AdMob. Your information will be used in accordance with Google's privacy policy and terms of service. You may opt out at any time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+          You're now subscribed.
+        
+
+
+
+
+
+  
+
+
+
+      Some features are in beta and are not yet available to all publishers.
+    
+
+
+
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              About Google AdMob
+              
+
+
+
+
+
+
+Overview
+
+
+AdMob Advantage
+
+
+AdMob for Games
+
+
+Get Started
+
+
+Resources
+
+
+Request a consultation
+
+
+
+
+
+
+              Learning & support
+              
+
+
+
+
+
+
+Blog
+
+
+Forum
+
+
+YouTube
+
+
+SDK
+
+
+Support
+
+
+Newsletter
+
+
+
+
+
+
+              Developers & partners
+              
+
+
+
+
+
+
+Google Developers
+
+
+Certified Publishing Partners
+
+
+
+
+
+
+              Related products
+              
+
+
+
+
+
+
+Firebase
+
+
+Google Ads
+
+
+Google Ad Manager
+
+
+
+
+
+
+              More from Google
+              
+
+
+
+
+
+
+Think with Google
+
+
+Business Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+Terms
+
+
+About Google
+
+
+Google Products
+
+
+
+
+
+
+
+
+          Help
+        
+
+
+Change language or region
+
+
+                Deutsch
+            
+
+                English
+            
+
+                EspaÃ±ol (LatinoamÃ©rica)
+            
+
+                FranÃ§ais
+            
+
+                Indonesia
+            
+
+                Italiano
+            
+
+                PortuguÃªs (Brasil)
+            
+
+                Tiáº¿ng Viá»t
+            
+
+                TÃ¼rkÃ§e
+            
+
+                Ð ÑÑÑÐºÐ¸Ð¹
+            
+
+                Ø§Ø±Ø¯Ù
+            
+
+                Ø§ÙØ¹Ø±Ø¨ÙØ©
+            
+
+                à¹à¸à¸¢
+            
+
+                ä¸­æ (ç®ä½, ä¸­å½)
+            
+
+                ä¸­æ (ç¹é«)
+            
+
+                æ¥æ¬èª
+            
+
+                íêµ­ì´
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

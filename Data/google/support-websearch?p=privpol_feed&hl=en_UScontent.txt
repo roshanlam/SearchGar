@@ -1,0 +1,150 @@
+Customize what you find in Discover - Android - Google Search Help   Skip to main content   Google Search HelpSign inGoogle HelpHelp CenterCommunityGoogle SearchPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityAnnouncementsGoogle Search        Customize what you find in DiscoverWith Discover, you can get updates for your interests, like your favorite sports team or news site, without searching for them. You can choose the types of updates you want to see in Discover in the Google app or when you’re browsing the web on your phone. 
+Important: Some of these features might not be available in all languages and countries.
+Find Discover
+You can find Discover in a few different ways:
+
+In the Google app .
+On your Android phone or tablet, in your browser on google.com.
+On some devices, swipe right from your device's home screen.
+
+
+Customize Discover
+
+To manage your content in Discover, select an option below.
+If you're using:
+
+Chrome: Go to manage suggested articles.
+A Google app or google.com: Follow the steps below to choose what updates you get, follow, or unfollow.
+
+
+
+Step 1: Turn on Web & App Activity & personal results
+Web & App Activity saves your searches, browsing history, and other activity in your Google Account. Personal results uses your saved activity to give you helpful personalized results, like articles you might be interested in.
+
+
+
+On your Android phone or tablet, open the Google app .
+At the top right, tap your Profile picture or initial  Your data in Search.
+Under "Google-wide controls," tap Web & App activity.
+Turn on Web & App Activity.
+
+
+
+Turn on personal results
+
+
+On your Android phone or tablet, open the Google app .
+At the top right, tap your Profile picture or initial  Your data in Search.
+Tap Personal results.
+Turn on Personal results.
+
+
+
+Step 2: Choose what updates you get
+Follow new topics
+
+
+When you search for an interest, you can follow it to get updates in Discover.
+In the Google app
+
+On your Android phone or tablet, open the Google app  .
+At the top right, tap your Profile picture or initial  Settings  Interests  Your interests.
+Under “Based on your activity,” to follow new topics, tap Add  .
+    
+To hide a topic in Discover, tap Block  .
+
+
+
+In your browser
+
+In your browser on your Android phone or tablet, go to google.com.
+At the top left, tap Menu   Settings.
+Under “Discover,” tap Manage interests  Your interests.
+Under “Based on your activity,” to follow new topics tap Add  .
+    
+To hide a topic in Discover, tap Block  .
+
+
+
+
+
+
+Unfollow topics from your browser
+
+
+
+
+On your Android phone or tablet, in your browser, go to google.com
+
+
+Tap Menu   Settings.
+
+
+Under “Discover,” tap Manage interests  Your interests.
+
+
+Under "Topics you follow," uncheck any topics you don’t want to see updates for.
+
+
+
+
+
+Stop getting stories from certain topics or sources
+
+Important: This feature may not be available in all languages and countries. To find your Collections, sign in to your Google Account.
+
+
+Open your Google app  or, in your browser, go to google.com.
+At the bottom right of the card, tap More   Not interested in [Topic] or Don't show content from [Source].
+
+
+
+
+Bring back topics or sources you removed
+
+
+In the Google app
+
+On your Android phone or tablet, open the Google app .
+At the top right, tap your Profile picture or initial  Settings  Interests  Not interested.
+Next to the topic or source that you want to bring back, tap Unhide .
+
+In your browser
+
+On your Android phone or tablet, in your browser go to google.com .
+At the top left, tap Menu   Settings.
+Under "Discover," tap Manage interests  Not interested.
+Next to the topic or source that you want to bring back, tap Unhide .
+
+
+
+
+Step 3: Change how often you find topics in Discover
+
+
+On your Android phone or tablet, open the Google app  or in your browser go to google.com.
+At the bottom right of the card you like, tap Like .
+
+
+
+Important: Only you can view the stories you like, but your selections may be shared anonymously with publishers.
+How Google decides what to show you in Discover
+To know what to show in Discover, Google uses information from your device and from other Google products.
+Google also uses data that's stored in your Google Account. This data is based on settings you can change or turn on or off. These settings may include:
+
+Web & App Activity. Learn how to find & control your Web & App Activity.
+
+    
+App info from your devices. Learn how to manage app info from your devices.
+Contact info from your devices. Learn how to manage contact info from your devices.
+Personal results. Learn how to turn off personal results.
+
+
+Location History (For Google to use this information, you need to have Web & App Activity turned on.) Learn how to change your Google app location settings. 
+Location settings: Some updates in Discover are shown based on your home location. Learn how to set your home and work locations. If your home location isn't available, Google will estimate your location based on other sources, like your IP address. Understand and manage your location when you search on Google.
+
+
+Turn off personalization in Discover
+If you don’t want to get personalized stories, turn off personal results.
+
+   Was this helpful?How can we improve it?YesNoSubmit      Android iPhone & iPad   More                 true    HelpManage & delete your Search historyUnderstand & manage your location when you search on GoogleManage Google autocomplete predictionsFind & control your Web & App ActivityCustomize what you find in DiscoverGet info about your photos & surroundingsUse "Hey Google" voice searches & actions           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 100334                                           false 

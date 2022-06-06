@@ -1,0 +1,787 @@
+
+
+
+
+
+Privacy Facts for Teens : Teen Privacy Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Content
+
+
+
+
+
+
+
+
+Teen Privacy Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teen Privacy Guide
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Your privacy on Google
+Here's where you can find answers to some of the top questions we get asked about privacy, like What is data? Also have a look at the Privacy Policy if you want to learn more.
+
+
+
+
+
+
+
+
+
+
+
+
+Your location
+Go to topic
+
+
+
+
+
+Sharing on Google
+Go to topic
+
+
+
+
+
+Data & personalization
+Go to topic
+
+
+
+
+
+Youâre in control
+Go to topic
+
+
+
+
+
+
+
+
+
+
+Your location
+
+
+
+
+
+
+Does Google know my location?
+
+
+How can I turn location on and off?
+
+
+How precise is my location?
+
+
+How does Google know my location?
+
+
+Who can see my location?
+
+
+
+
+Does Google know my location?
+Whenever you use the internet, apps and sites can estimate roughly where you are, and the same is true for Google. Google may also know your precise location, depending on your device settings. (See How precise is my location?)
+When you search on Google, like with Search, Maps, or Google Assistant, your current location may be used to give you more helpful results. For example, if you search for restaurants, the most helpful results are probably for restaurants near where you are.
+See How you can manage your location
+
+
+How can I turn location on and off?
+When you search on Google, Google will always estimate the general area that you’re searching from. Google, like any app or website you use that connects to the Internet, can estimate your location based on your device’s IP address. For more, see How does Google know where I am?
+To choose whether to send your precise location when you use Google, you can turn location permissions on or off for individual apps, sites, and for your device.
+If you set your home or work addresses, and Google estimates that you’re at home or work, then the exact address will be used for your search.
+
+
+How precise is my location?
+Your general area
+When you search on Google, Google will always estimate the general area that you’re searching from. This way Google can give you relevant results, and keep your account safe by detecting unusual activity, such as signing in from a new city.
+A general area is larger than 3 sq km and has at least 1,000 users so that the general area of your search doesn’t identify you, helping to protect your privacy.
+Your precise location
+If you give your permission, Google can use your precise location. For example, Google needs your precise location to return the most relevant results for searches like “ice cream near me” or turn-by-turn walking directions to a store.
+Precise location means exactly where you are, such as a particular address.
+
+
+How does Google know my location?
+Your location comes from different sources, which are used together to estimate where you are.
+
+
+
+
+Your deviceâs IP address
+
+
+
+
+
+IP addresses are roughly based on geography, similar to phone number area codes. This means that any app or website you use, including google.com, can estimate the general area you’re in because of your IP address. Your device’s IP address is assigned to your device by your Internet Service Provider, and is required to use the internet.
+
+Learn more
+
+
+
+
+
+Your device location
+
+
+
+
+
+If you give a Google app or site permission to use your device’s location, that information can be used to help understand where you are. Nearly all devices have a location setting built into the operating system, usually in settings.
+
+Learn more
+
+
+
+
+
+Your activity on Google
+
+
+
+
+
+Google can estimate the general area you’re in based on your previous Google searches. For example, if you often search for pizza in Mumbai, it’s likely that you want to see results in Mumbai.
+
+Learn more
+
+
+
+
+
+Your labeled places
+
+
+
+
+
+If you set your home or work address, Google can use them to estimate where you are. For example, if you set your home address, and your IP address, previous activity, or other sources of location information suggest that you may be near your home, then we will use your home location as an estimate of where you are.
+
+Learn more
+
+
+
+
+
+
+
+Who can see my location?
+It’s up to you. If you use Google Location Sharing, you can share your real-time location with friends and family across Google apps and sites.
+Check if you’re sharing your location
+Location Sharing is off by default. If you want to share your real-time location, you need to choose and confirm who you want to share with and for how long. You can stop sharing your location at any time.
+See Sharing your real-time location with others
+
+
+
+
+
+
+              Back to topics
+            
+
+
+
+
+
+
+
+
+
+Sharing on Google
+
+
+
+
+
+
+What can other people see when I share on Google?
+
+
+Who can see the things I share, such as photos, videos, and docs?
+
+
+Does Google ever share my info with others?
+
+
+
+
+What can other people see when I share on Google?
+What other people can see about you on Google apps and sites depends on what and how you share:
+Sharing publicly
+If you contribute to apps like Google Maps, other people can see your name and picture. For example, if you rate your favorite ice cream store, other people can see your rating, name, and picture if they explore that store on Google Maps.
+Sharing privately
+If you share things like photos, videos, and docs with others, your name and picture are visible to the person you’re sending them to in addition to what you’re sharing.
+Think carefully before sharing with others, and understand what level of access you're giving. For example, when sharing access to things like folders in Google Drive, or albums in Google Photos, people may have continued access as you add new content.
+
+
+Who can see the things I share, such as photos, videos, and docs?
+You can choose to share specific content with other people in the Google apps and sites that you use.
+Don’t forget that when you share, it’s possible for other people to reshare, even in apps and on sites outside of Google.
+You can delete your own content from your account anytime, but this doesn’t delete copies that you’ve already shared.
+Be thoughtful about what you share, and share only with people you trust.
+
+
+Does Google ever share my personal info with others?
+We don’t share your personal information with companies, organizations, or individuals outside of Google except in limited cases like when we’re legally required to.
+If you have a Google Account through your school (a Google Workspace for Education account), the school administrator who manages your account will have access to your information.
+
+
+
+
+Access by school admins
+
+
+
+
+
+Your school admin may be able to access the following information in your Google Workspace for Education account:
+
+Access and retain information stored in your account, like your email
+View statistics regarding your account, like how many apps you install
+Change your account password
+Suspend or terminate your account access
+Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request
+Restrict your ability to delete or edit your information or your privacy settings
+
+
+
+
+
+Why Google might share your info
+
+
+
+
+
+When you give us permission
+For example, if you use Google Assistant to order a pizza, we’ll get your permission before sharing your name or phone number with the restaurant. See How Google helps you share data safely with third-party apps & services
+With domain administrators, as described above.
+For external processing, We provide personal information to companies we work with to process data based on instructions we give them. For example, we use external companies to help us with customer support, and have to share personal information with the company in order to respond to user questions.
+For legal reasons
+We will share personal information outside of Google if we believe that providing it may be necessary to:
+
+Meet any applicable law, regulation, legal process, or enforceable governmental request.
+Enforce applicable Terms of Service, including investigation of potential violations.
+Detect, prevent, or otherwise address fraud, security, or technical issues.
+Protect against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law.
+
+
+
+
+
+
+
+
+
+
+
+              Back to topics
+            
+
+
+
+
+
+
+
+
+
+Data & personalization
+
+
+
+
+
+
+What data does Google collect about me?
+
+
+What is data?
+
+
+Why does Google collect data?
+
+
+How does Google use data to personalize things?
+
+
+Does Google personalize the ads I see?
+
+
+
+
+What data does Google collect about me?
+When you use Google apps and sites, we collect information we need in order to provide them to you, make them more useful to you, and for other reasons as explained in Why does Google collect data?.
+With your settings, you can limit the data we collect and how that data is used. For example, if you don’t want us to save your YouTube History to your Google Account, you can turn YouTube History off. See How can I decide what Google saves?
+
+
+What is data?
+Your personal information includes things you provide to us which personally identify you, such as your name or email address. It also includes other data that can be reasonably linked to you by Google, such as information we associate with you in your Google Account.
+Your personal information includes two types of things:
+
+
+
+
+Things you provide or create
+
+
+
+
+
+When you create a Google Account, you provide us with personal information like your name and a password.
+You can also save content you create, upload, or receive from others, like email messages, and photos.
+
+
+
+
+Things you do on Google
+
+
+
+
+
+We collect information about your activity in our services, which can include things like the terms you search for and the videos you watch, people with whom you communicate or share content, and your Chrome browsing history to deliver a better experience.
+We collect information about the apps, browsers, and devices you use to access Google services, which helps us provide features like dimming your screen if your battery runs low.
+We process your location, such as when you’re using features like turn-by-turn directions. For more, see the Location section.
+
+
+
+
+
+
+Why does Google collect data?
+We collect information we need in order to provide our services, make them more useful to you, and for other reasons as explained in Ways we use data.
+For example, Google Maps can help you get to where you’re going while avoiding traffic because it combines information about where you are (your data) with public data (maps and information about public places).
+
+
+
+
+Ways we use data
+
+
+
+
+
+Provide our services
+We use data to provide our services, like processing the terms you search for in order to return results.
+Maintain & improve our services
+Data helps us maintain and improve our services. For example, we can track outages. And understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
+Develop new services
+Data helps us develop new services. For example, understanding how people organized their photos in Google’s first photos app, Picasa, helped us design and launch Google Photos.
+Provide personalized services, including content and ads
+We use data to provide personalized content, for example, recommendations for videos you may like. Depending on your settings and how old you are, we may show you personalized ads based on your interests.
+Measure performance
+We also use data to measure performance and understand how our services are used
+Communicate with you
+We might use your email address to send you a notification if we detect suspicious activity
+Protect Google, our users, and the public
+We use data to keep people safer online, like detecting and preventing fraud
+
+
+
+
+
+
+How does Google use data to personalize things?
+“Personalization” is about using the information we collect to tailor our apps and sites to you, for example:
+
+Recommendations for videos you may like
+Security tips adapted to how you use Google apps and sites (see Security Checkup)
+
+We also use data to personalize ads except in cases like when the setting is off or for certain ages.
+
+
+Does Google personalize the ads I see?
+We try to make the ads we show as useful as possible. But we don’t personalize ads for certain ages or for people who turn Ad personalization off.
+We can still make ads useful even without personalizing them. For example, if you’re looking at a page of results for “new shoes,” you might see an ad from a sneaker company. The ad can be based on general factors like the time of day, your general location, and content of the page you’re looking at.
+
+
+
+
+
+
+              Back to topics
+            
+
+
+
+
+
+
+
+
+
+Youâre in control
+
+
+
+
+
+
+How can I decide what Google saves?
+
+
+How do I delete my activity data?
+
+
+How do I download my content?
+
+
+What controls do I have when Iâm signed out?
+
+
+
+
+How can I decide what Google saves to my account?
+As you use a Google service, like Photos, there are settings that let you decide things like whether you want to back up and sync your photos.
+There are also settings that help personalize your experience across Google apps and sites. Two key ones are Web & App Activity and YouTube History.
+When these controls are on:
+
+Information about your activity on Google apps and sites is saved to your Google Account and
+Saved information is used to personalize your Google experience
+
+
+
+
+
+Web & App Activity
+
+
+
+
+
+Saves your activity on Google sites and apps, like Search and Maps, and includes associated info like location. It also saves synced Chrome history and activity from sites, apps, and devices that use Google services.
+Your activity is used to give you faster searches, better recommendations, and more personalized experiences in Maps, Search, and other Google services.
+
+
+
+
+YouTube History
+
+
+
+
+
+Saves the videos you watch and the things you search for when you use YouTube.
+Your YouTube History is used to personalize your YouTube experience and other apps, like your search results.
+
+
+
+
+
+
+How do I delete My Activity data?
+You can delete data saved in your Google Account. Data you choose to permanently delete gets removed from our systems. We follow a careful process to make sure this data is completely removed from our servers or kept only in a form that can’t be associated with you.
+Visit My Activity to review the activity saved in your Google Account, such as things you’ve searched for, read, and watched. You can delete specific pieces of activity or all your activity within a specific time range.
+You can also choose to have your activity deleted automatically.
+
+
+How do I download my content?
+Your content includes things like emails, photos, videos, docs, sheets, comments, contacts, and calendar events.
+Visit Download your data to create an archive of your content — either to back it up or to take it to another company if you want to try a different service.
+
+
+What controls do I have when Iâm signed out?
+You have controls that let you choose how to use Google, even when you’re signed out. When you’re signed out, visit g.co/privacytools to change these settings:
+Search customization
+Uses your Google searches from this browser for more relevant results and recommendations.
+YouTube Search and Watch History
+Uses your activity on YouTube, like videos you watch and things you search for, to personalize YouTube for you.
+You can also block some or all cookies in your browser, but this can cause certain features across the web to stop working. For example, many websites require cookies to be turned on when you want to sign in.
+Signed-out users can also choose whether they want to see personalized ads, though we don’t personalize ads for certain ages.
+
+
+
+
+
+
+              Back to topics
+            
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+About Google
+
+
+Google products
+
+
+Privacy
+
+
+Terms
+
+
+
+
+
+
+
+Help
+        
+
+
+
+
+              Afrikaans
+            
+
+              English
+            
+
+              á áá­á
+            
+
+              Ø§ÙØ¹Ø±Ø¨ÙØ©
+            
+
+              Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸
+            
+
+              à¦¬à¦¾à¦à¦²à¦¾
+            
+
+              catalÃ 
+            
+
+              ÄeÅ¡tina
+            
+
+              dansk
+            
+
+              Deutsch
+            
+
+              ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+            
+
+              English (United Kingdom)
+            
+
+              espaÃ±ol (LatinoamÃ©rica)
+            
+
+              espaÃ±ol
+            
+
+              eesti
+            
+
+              euskara
+            
+
+              ÙØ§Ø±Ø³Û
+            
+
+              suomi
+            
+
+              Filipino
+            
+
+              franÃ§ais (Canada)
+            
+
+              franÃ§ais
+            
+
+              galego
+            
+
+              àªà«àªàª°àª¾àª¤à«
+            
+
+              à¤¹à¤¿à¤¨à¥à¤¦à¥
+            
+
+              hrvatski
+            
+
+              magyar
+            
+
+              Indonesia
+            
+
+              Ã­slenska
+            
+
+              italiano
+            
+
+              ×¢××¨××ª (××©×¨××)
+            
+
+              æ¥æ¬èª
+            
+
+              à²à²¨à³à²¨à²¡
+            
+
+              íêµ­ì´
+            
+
+              lietuviÅ³
+            
+
+              latvieÅ¡u
+            
+
+              à´®à´²à´¯à´¾à´³à´
+            
+
+              à¤®à¤°à¤¾à¤ à¥
+            
+
+              Melayu
+            
+
+              Nederlands
+            
+
+              norsk bokmÃ¥l (Norge)
+            
+
+              polski
+            
+
+              portuguÃªs (Brasil)
+            
+
+              portuguÃªs (Portugal)
+            
+
+              romÃ¢nÄ
+            
+
+              ÑÑÑÑÐºÐ¸Ð¹
+            
+
+              slovenÄina
+            
+
+              slovenÅ¡Äina
+            
+
+              ÑÑÐ¿ÑÐºÐ¸
+            
+
+              svenska
+            
+
+              Kiswahili
+            
+
+              à®¤à®®à®¿à®´à¯
+            
+
+              à°¤à±à°²à±à°à±
+            
+
+              à¹à¸à¸¢
+            
+
+              TÃ¼rkÃ§e
+            
+
+              ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+            
+
+              Ø§Ø±Ø¯Ù
+            
+
+              Tiáº¿ng Viá»t
+            
+
+              ä¸­æ (ç®ä½)
+            
+
+              ä¸­æ
+            
+
+              ä¸­æ (ç¹é«)
+            
+
+              isiZulu
+            
+
+
+
+
+
+
+
+
+

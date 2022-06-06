@@ -1,0 +1,7 @@
+annoy
+transformers
+sentence_transformers
+sklearn
+numpy
+flask
+nltk

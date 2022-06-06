@@ -1,0 +1,971 @@
+
+
+
+
+
+
+ Android | The platform pushing whatâs possible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google serves cookies to analyze traffic to this site. Information about your use of our site is shared with Google for that purpose. See details.
+
+
+
+        Ok
+      
+
+
+
+
+
+
+
+
+
+
+ Android 
+
+
+
+
+
+
+
+What is Android
+
+
+
+Android 12
+
+
+
+Phones & Tablets
+
+
+
+Enterprise
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Android
+
+
+
+Android 12
+
+
+
+Phones & Tablets
+
+
+
+Enterprise
+
+
+
+
+Android Developers
+
+
+
+
+ 
+
+
+Languages
+
+Dansk
+Deutsch (Belgien)
+Deutsch
+English (Australia)
+English (Belgium)
+English (Canada)
+English (Hong Kong)
+English (Ireland)
+English (India)
+English (New Zealand)
+English (Philippines)
+English (United Kingdom)
+English
+EspaÃ±ol
+EspaÃ±ol (Estados Unidos)
+EspaÃ±ol (MÃ©xico)
+Filipino
+FranÃ§ais (Belgique)
+FranÃ§ais (Canada)
+FranÃ§ais
+Indonesia
+Italiano
+Nederlands (BelgiÃ«)
+Nederlands
+Norsk bokmÃ¥l
+Polski
+PortuguÃªs (Brasil)
+PortuguÃªs
+Svenska
+Tiáº¿ng viá»t
+TÃ¼rkÃ§e
+Ð ÑÑÑÐºÐ¸Ð¹
+Ø§ÙØ¹Ø±Ø¨ÙØ©
+à¤¹à¤¿à¤¨à¥à¤¦à¥
+à¹à¸à¸¢
+ä¸­æ (ç®ä½)
+ä¸­æ (é¦æ¸¯)
+ä¸­æ (å°ç£)
+æ¥æ¬èª
+íêµ­ì´
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google I/O 2022
+Navigate a connected world.
+New features that let you do more on your phone while keeping you safe and secure. Exciting updates to Wear OS and Android tablets. And seamless cross-device experiences to amplify your entertainment and communication across surfaces.
+Learn how your devices work better together
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your data is Protected by Android.
+Android protects your privacy and security with encryption, app permissions, safe browsing and more to help keep you safe from malware attacks and mobile threats.
+
+Learn how to protect your data
+
+
+
+
+
+
+
+
+Seamless, multi-device experiences. 
+Connect your Android phone to your TV, watch or car for a unified experience. Move from one device to another seamlessly and make everything work better together.
+
+Learn how to sync your devices
+
+
+
+
+
+
+
+Android devices for everyone and everything.
+  There are thousands of phones, foldables, flips and tablets that run on Android. No matter what type of device youâre looking for, thereâs something for you.
+Find your next phone or tablet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New updates to messaging and entertainment.
+Discover whatâs new on Android with better cross-device messaging, upgrades to Portrait blur in Google Photos, Highlights on Google TV mobile and more.
+
+Check out Androidâs newest features
+
+
+
+
+
+
+
+
+How to switch to Android.
+It's now easier than ever to make the switch from iPhone to Android. Transfer your contacts, messages, photos and favorite apps. Just connect, select and go.
+
+Switch from iPhone to Android
+
+
+
+
+
+
+
+
+
+
+
+
+A more accessible world.
+Screen readers, voice access, speech-to-text, talk back and lookout are some of the newest ways to experience the world with Androidâs new accessibility features.
+
+Explore accessibility features
+
+
+
+
+
+
+
+
+Drive with Android Auto.
+Hands-free navigation and messaging. Just connect your phone and go.
+
+Learn more
+
+
+
+
+ 
+
+
+
+
+
+
+
+      Thanks for visiting.
+    
+
+      Weâd like to ask you a few questions about your experience to help us improve our website. It should take about a minute.
+    
+
+
+
+              Question 1 of 5
+            
+
+What is your reason for visiting android.com?
+
+
+
+Learn about Android phones or tablets
+
+
+
+Learn about an Android OS release
+
+
+
+Learn about Android features
+
+
+
+Find partner resources
+
+
+
+Find developer tools or support
+
+
+
+Get help with using Android
+
+
+
+
+
+Other
+
+Please explain
+
+    
+Do not include personal information, including email addresses and phone numbers.
+
+
+
+
+
+
+
+              Question 2 of 5
+            
+
+Overall, how satisfied are you with android.com?
+
+
+
+Very satisfied
+
+
+
+Somewhat satisfied
+
+
+
+Neutral
+
+
+
+Somewhat dissatisfied
+
+
+
+Very dissatisfied
+
+
+
+
+
+
+              Question 3 of 5
+            
+
+Is the information on this website relevant to your needs?
+
+
+
+Very relevant
+
+
+
+Somewhat relevant
+
+
+
+Neither relevant or irrelevant
+
+
+
+Somewhat irrelevant
+
+
+
+Very irrelevant
+
+
+
+
+
+
+              Question 4 of 5
+            
+
+Which of the following best describes you?
+
+
+
+Consumer
+
+
+
+Developer
+
+
+
+Government representative
+
+
+
+Business customer
+
+
+
+Partner
+
+
+
+Press representative
+
+
+
+None of the above
+
+
+
+
+
+
+              Question 5 of 5
+            
+
+
+      Is there additional feedback you would like to share?
+  
+
+
+      Do not include personal information, including email addresses and phone numbers.
+    
+
+
+
+
+      Thanks for your feedback.
+    
+
+      Done
+    
+
+
+
+
+
+
+      Please select an answer.
+    
+
+        Close
+      
+
+        Get Started
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          For developers
+              
+
+
+
+
+
+
+Developer Resources
+
+
+
+
+Android Studio and SDK
+
+
+
+
+Android Open Source Project
+
+
+
+
+
+
+
+
+          For enterprise
+              
+
+
+
+
+
+
+Enterprise Overview
+
+
+
+
+Essentials
+
+
+
+
+Management
+
+
+
+
+Security
+
+
+
+
+Enrollment
+
+
+
+
+Employees
+
+
+
+
+Recommended
+
+
+
+
+Enterprise Devices
+
+
+
+
+Resources
+
+
+
+
+For Partners
+
+
+
+
+Solutions Directory
+
+
+
+
+
+
+
+
+          For the press
+              
+
+
+
+
+
+
+Android Blog
+
+
+
+
+Enterprise Blog
+
+
+
+
+Press Corner
+
+
+
+
+Android is for everyone
+
+
+
+
+Contact Press Team
+
+
+
+
+How Google Play works
+
+
+
+
+
+
+
+
+          The ecosystem
+              
+
+
+
+
+
+
+Android Auto
+
+
+
+
+Android TV
+
+
+
+
+Wear OS by Google
+
+
+
+
+
+
+
+
+          Support
+              
+
+
+
+
+
+
+Switch from iOS
+
+
+
+
+Android Help Center
+
+
+
+
+Android File Transfer
+
+
+
+
+Find My Device
+
+
+
+
+Join User Studies
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+ 
+
+
+Languages
+
+Dansk
+Deutsch (Belgien)
+Deutsch
+English (Australia)
+English (Belgium)
+English (Canada)
+English (Hong Kong)
+English (Ireland)
+English (India)
+English (New Zealand)
+English (Philippines)
+English (United Kingdom)
+English
+EspaÃ±ol
+EspaÃ±ol (Estados Unidos)
+EspaÃ±ol (MÃ©xico)
+Filipino
+FranÃ§ais (Belgique)
+FranÃ§ais (Canada)
+FranÃ§ais
+Indonesia
+Italiano
+Nederlands (BelgiÃ«)
+Nederlands
+Norsk bokmÃ¥l
+Polski
+PortuguÃªs (Brasil)
+PortuguÃªs
+Svenska
+Tiáº¿ng viá»t
+TÃ¼rkÃ§e
+Ð ÑÑÑÐºÐ¸Ð¹
+Ø§ÙØ¹Ø±Ø¨ÙØ©
+à¤¹à¤¿à¤¨à¥à¤¦à¥
+à¹à¸à¸¢
+ä¸­æ (ç®ä½)
+ä¸­æ (é¦æ¸¯)
+ä¸­æ (å°ç£)
+æ¥æ¬èª
+íêµ­ì´
+
+
+
+
+
+
+Some features and devices may not be available in all countries. Subject to availability.
+Some features and availability vary by OEM and/or device manufacturer.
+
+
+
+
+
+ Find Android on Twitter 
+
+
+
+
+
+
+
+ Find Android on Instagram 
+
+
+
+
+
+
+
+ Find Android on YouTube 
+
+
+
+
+
+
+
+ Find Android on Facebook 
+
+
+
+
+
+
+
+ Find Android on LinkedIn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Close
+
+
+
+

@@ -1,0 +1,711 @@
+
+
+
+
+
+Exposure Notifications: Helping fight COVID-19 - Google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Content
+
+
+
+
+
+COVID-19 information & resources
+
+
+
+
+
+
+
+
+
+
+Check availability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19
+
+
+
+Check availability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to top
+How it helps
+How it works
+Already turned it on, what's next?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exposure Notifications: Help slow the spread of COVID-19, with one step on your phone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google and Apple jointly created the Exposure Notifications System out of a shared sense of responsibility to help governments and our global community fight this pandemic through contact tracing.
+
+
+
+
+
+
+
+
+
+Overview
+
+How Exposure Notifications can help
+Traditional methods of contact tracing are critical to containing the spread of infection. Technology can support and augment these efforts by allowing public health authorities to quickly notify people who may have been exposed to a person who has contracted COVID-19, including those the person might not know directly. This starts with Exposure Notifications on your smartphone. These will help your public health authority alert you if youâve been exposed to COVID-19.
+On Android, you can find the app for your area, if available, on Google Play.
+If you have an iPhone, opt-in to Exposure Notifications in your device settings.
+Using Exposure Notifications helps you protect your community â even if you've been vaccinated.
+
+
+
+
+
+
+
+
+Hear from the people Exposure Notifications has helped
+
+Molly Moon, Entrepreneur
+"I was hesitant to reopen, but knew if I didn't, there wouldn't be a company for my employees to return to. Exposure Notifications help all of us feel protected as we bring joy back to our community."
+
+Ryan and Jennifer
+"We're vaccinated, but that doesn't mean COVID-19 won't have an impact on us now. If there's a risk of exposure, why wouldn't we keep Exposure Notifications enabled to let us know?"
+
+Chris, Pastor
+"If someone tested positive, Exposure Notifications will privately alert anyone they've come in contact with. Being back together means the world to the congregation, and Exposure Notification helps make that possible."
+
+
+
+
+
+
+
+
+
+
+How Exposure Notifications work
+
+
+
+
+
+
+
+
+Public health authorities around the world are building apps that use the Exposure Notifications System to help their contact tracing efforts. On Android, you can find the app for your area, if available, on Google Play. Android users will also receive a notification from the Play Store, if their state has made Exposure Notifications available.
+If you have an iPhone, opt-in to Exposure Notifications in your device settings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Once you opt-in to the notification system, the Exposure Notifications System will generate a random ID for your device. To help ensure these random keys canât be used to identify you or your location, they change every 10-20 minutes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your phone and the phones around you will work in the background to exchange these privacy-preserving random keys via Bluetooth. You do not need to have the app open for this process to take place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your phone periodically checks all the random keys associated with positive COVID-19 cases against its own list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If thereâs a match, you will receive a COVID-19 exposure notification, with further instructions from your public health authority on how to keep you and the people around you safe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exposure Notifications and your privacy
+
+
+
+
+
+
+
+
+We understand how important your privacy is. Hereâs how weâve built this system to respect your privacy and keep you in control.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You control whether you receive Exposure Notifications
+This technology only works if you decide to opt-in. If you change your mind, you can turn it off at any time.
+
+
+
+
+
+
+
+
+The Exposure Notifications System doesnât track your location
+The Exposure Notifications System does not collect or use the location from your device. It uses Bluetooth, which can be used to detect if two devices are near each other â without revealing where the devices are.
+
+
+
+
+
+
+
+
+
+
+
+
+Neither Google, Apple, nor other users can see your identity
+All of the Exposure Notification matching happens on your device. The system does not share your identity with other users, Apple, or Google. Public health authorities may ask you for additional information, such as a phone number, to contact you with additional guidance.
+
+
+
+
+
+
+
+
+Only public health authorities can use this system
+Only public health authorities will be able to use this system. They must meet specific criteria around privacy, security, and data use.
+
+
+
+
+
+
+
+
+Already turned on Exposure Notifications, what's next?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for taking a step in protecting your friends, family and community by enabling Exposure Notifications. Using Exposure Notifications helps you protect your community â even if you've been vaccinated.
+
+
+
+
+
+
+
+
+
+FAQ
+
+If you receive an Exposure Notification...
+If you test positive for COVID-19...
+
+
+
+
+
+
+
+What does the notification mean?
+
+
+
+
+
+
+
+If you receive a notification, it means that someone that you were near tested positive for COVID-19 and chose to privately share their diagnosis in the Exposure Notifications System. The notification will allow you to take action to protect yourself and those around you, like getting tested, seeking medical attention, quarantining, etc. Visit your public health website for specific guidance.
+
+
+
+
+
+Will others know that I received a notification? Is this information shared with others?
+
+
+
+
+
+
+
+The Exposure Notifications System itself does not collect or store information such as your name, contacts, or location, and does not share that information with other users.
+Some health authorities may ask for your information. You can choose to share your information when you use Exposure Notifications.
+
+
+
+
+
+How do I know the Exposure Notification System is working?
+
+
+
+
+
+
+
+Once you enable Exposure Notifications, the system will continuously run in the background to scan for other phones with Exposure Notifications enabled that you are near. If someone you were near later tests positive for COVID-19 and they report their test result in Exposure Notifications, you may be alerted about a potential exposure without the system needing to know your identity or the identities of other people you have been near.
+The Exposure Notification System uses your phoneâs Bluetooth Low Energy (BLE) signal strength to determine proximity to other phones. There are many factors that can affect BLE signal strength, but generally the closer two phones are to each other, the stronger the signal strength between the two.
+
+
+
+
+
+I received an Exposure Notification. Whatâs next?
+
+
+
+
+
+
+
+Visit your public health website for specific guidance.
+
+
+
+
+
+
+
+
+
+
+
+What is a code? Who do I get this from?
+
+
+
+
+
+
+
+After you receive a positive test result, you may receive a SMS or a phone call from your health authority. They will provide you with a code that you can use to upload your diagnosis into the Exposure Notifications System.
+By uploading your code, you are helping to keep those near you safe by alerting them so they know that they may have been exposed. In fact, a study conducted in England/Wales showed that every code upload can stop one COVID-19 infection. Uploading your diagnosis does not reveal your name or personal information to other Exposure Notifications users.
+
+
+
+
+
+Who will see my positive diagnosis?
+
+
+
+
+
+
+
+This information remains private to you, your testing provider, and the health authority. When someone receives a notification about possible exposure, they will only know approximately how many days ago the exposure happened. Your name, the time of the exposure, or where the exposure occurred will not be shared as part of the notification.
+
+
+
+
+
+Someone I was near tested positive for COVID-19. Why didnât I get an Exposure Notification?
+
+
+
+
+
+
+
+There are different reasons why you may not receive an Exposure Notification. To start, the person who tested positive needs to be an Exposure Notification user and choose to upload their positive diagnosis.
+In addition, your health authority determines whether you receive a notification based on how close and long you were near another Exposure Notification user. Visit your health authorityâs Exposure Notification website for more information.
+
+
+
+
+
+I have been vaccinated. Should I keep Exposure Notifications on?
+
+
+
+
+
+
+
+Yes. In addition to being vaccinated, Exposure Notifications is another tool to help slow the spread and is an added layer of protection to others in your community. Keeping Exposure Notifications turned on makes a difference, as the technology works better when more people use it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Helpful links and specs
+
+
+
+
+
+
+
+
+
+
+
+FAQs for Exposure Notifications
+
+
+
+
+Download PDF
+
+
+
+Exposure Key Export File Format and Verification
+
+Learn more
+
+
+
+Sample Public Health Authority app code
+
+Learn more
+
+
+
+Open Source Reference Implementation of an Exposure Notifications server
+
+Learn more
+
+
+
+Overview of COVID-19 Exposure Notifications
+
+Learn more
+
+
+
+Exposure Notifications Bluetooth Specification
+
+
+
+
+Download PDF
+
+
+
+Exposure Notifications Cryptography Specification
+
+
+
+
+Download PDF
+
+
+
+Exposure Notifications Android API Documentation
+
+Learn more
+
+
+
+Google COVID-19 Exposure Notifications Service Additional Terms (for public health authorities)
+
+Learn more
+
+
+
+Google COVID-19 Exposure Notifications Service COVID Cards Requirements
+
+Learn more
+
+
+
+Provide advance notice to the Google Play App Review team
+
+Learn more
+
+
+
+Exposure Notification API Code Snippets
+
+Learn more
+
+
+
+Exposure Notification API Update
+
+Learn more
+
+
+
+[Blog] Our latest update on the Exposure Notifications System
+
+Learn more
+
+
+
+FAQ for Analytics in EN Express
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Google
+Google Products
+Privacy
+Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+Turn sync on and off in Chrome - Computer - Google Chrome Help   Skip to main content   Google Chrome HelpSign inGoogle HelpHelp CenterCommunityGoogle ChromePrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Chrome    If you're new to iPhone, get helpful tips to use Chrome with this step-by-step guide.
+         Turn sync on and off in ChromeTo save your info to your Google Account, turn on sync.
+When you sync
+
+You can see and update your synced info on all your devices, like bookmarks, history, passwords, and other settings.
+You'll sign in automatically to Gmail, YouTube, Search, and other Google services. If you were signed in before turning on sync, you'll stay signed in.
+If you change devices (like if you lose your phone or get a new laptop), you'll get your synced info back.
+You’ll personalize your experience in other Google products with your Chrome history if you turn on Web & App Activity.
+Chrome may combine declared  age and gender  information from your Google account with our statistics to help us build products better suited for all demographics. This information is used only in aggregate form.
+
+
+Important: Only turn on Chrome sync with devices you own. If you're using a public computer, use guest mode instead.
+Learn more about Chrome's privacy policy.
+
+Sign in and turn on sync
+To turn on sync, you'll need a Google Account.
+
+On your computer, open Chrome.
+At the top right, click Profile .
+Sign in to your Google Account.
+If you want to sync your info across all your devices, click Turn on sync Turn on.
+
+
+If you want to sync more than one account or you share your computer with others, learn  how to add a profile in Chrome.
+Turn off sync
+If you turn off sync, you can still see your bookmarks, history, passwords, and other settings on your computer. If you make any changes, they won't be saved to your Google Account and synced to your other devices.
+When you turn off sync, you’ll also be signed out of other Google services, like Gmail.
+
+
+On your computer, open Chrome.
+At the top right, click Profile Sync is on.
+Click Turn off.
+
+
+Learn how to delete your synced info from your Google Account.
+To sign out and turn off your Chromebook, learn how to sign out and turn it off.
+When you sign in to your Google Account through a Google service, like Gmail, you’ll be automatically signed in to Chrome. If you don’t want to ever sign in to Chrome, you can turn off Chrome sign-in.
+Related articles
+
+
+Sign out of Chrome
+Get your bookmarks, history & other info across devices
+Share Chrome with others
+Browse Chrome as a guest
+Choose which Google features you use in Chrome
+
+
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    HelpTurn sync on and off in ChromeShare Chrome with othersSet your homepage and startup pageCreate, view & edit bookmarksGet your bookmarks, passwords & more on all your devicesUse passwords across your devicesBrowse Chrome as a guest           Google Chrome tips From productivity to customization, learn how to get things done more quickly with your browser.           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 237                                             false 

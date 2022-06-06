@@ -1,0 +1,707 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+                Add YouTube functionality to your sites and apps.
+              
+
+
+
+
+
+
+
+  Home
+
+
+
+
+  Guides
+
+
+
+
+  Samples
+
+
+
+
+  Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+      Home
+   
+
+
+
+
+
+      Guides
+   
+
+
+
+
+
+
+
+      Samples
+   
+
+
+
+
+
+
+
+      Terms
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        YouTube
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Let users watch, find, and manage YouTube content
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Play YouTube Videos
+      
+  
+
+
+            Use an embedded player to play videos directly in your app and customize the playback experience.
+          
+
+IFrame
+Android
+iOS
+Player parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Add YouTube Data
+      
+  
+
+
+            Let users search YouTube content, upload videos, create and manage playlists, and more.
+          
+
+Overview
+Reference
+Code samples
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Add more YouTube features
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Analytics & Reporting
+      
+  
+
+
+            Understand your users and how they interact with your channel and your videos.
+          
+
+How it works
+Code samples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Subscribe Buttons
+      
+  
+
+
+            Enable users to subscribe to your YouTube channel with one click.
+          
+
+Add a button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Live streaming
+      
+  
+
+
+            Schedule live YouTube broadcasts and manage your broadcast video streams.
+          
+
+Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        
+        Blog
+      
+The latest news on the YouTube blog
+
+
+
+
+          
+        
+        GitHub
+      
+Find API code samples and other YouTube open-source projects.
+
+
+
+
+          
+        
+        Issue Tracker
+      
+Something wrong? Send us a bug report!
+
+
+
+
+          
+        
+        Stack Overflow
+      
+Ask a question under the youtube-api tag
+
+
+
+
+          
+        
+        Videos
+      
+Check out the YouTube Developer Relations team's YouTube channel
+
+
+
+
+
+
+
+
+Tools
+
+
+
+            
+          
+            Google APIs Explorer
+          
+          
+
+
+
+            
+          
+            YouTube Player Demo
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Configure a Subscribe Button
+          
+          
+
+
+
+
+Issue Tracker
+
+
+
+            
+          
+            File a bug
+          
+          
+
+
+
+            
+          
+            Request a feature
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            See open issues
+          
+          
+
+
+
+
+Product Info
+
+
+
+            
+          
+            Terms of Service
+          
+          
+
+
+
+            
+          
+            Developer Policies
+          
+          
+
+
+
+            
+          
+            Required Minimum Functionality
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Branding Guidelines
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+Sign in on a device that's not yours - Computer - Google Account Help   Skip to main content   Google Account HelpSign inGoogle HelpHelp CenterCommunityGoogle AccountPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Account General security informationSign in on a device that's not yours       Sign in on a device that's not yoursIf you sign in temporarily on a computer, phone, or tablet that doesn't belong to you, use a private browsing window.
+For example:
+
+A public computer that's available to lots of people, like at a library or internet cafe
+A device that you've borrowed from a friend or family member
+
+If you share a device or browser with people you trust, you can set it up for multiple people. Learn how to share Chrome with others.
+Browse in private
+If you sign in on a device that's used by other people, follow the steps below. That way, others won't be able to:
+
+Use your Google Account
+Find out what searches you did or sites you visited
+See that your account was signed in
+
+In Chrome
+
+On a computer, open Chrome.
+At the top right, click Profile .
+Click Guest.
+Go to a Google service, like www.google.com, and sign in to your account.
+When you're done using the web, close the "Guest mode" browsing window. Your browsing history, cookies, and site data will be deleted.
+
+When you use Guest mode in Chrome and sign in:
+
+Searches you do, sites you visit, and other activity aren't saved to the browser's history.
+Your activity controls apply, so the same activity as usual is saved to your Google Account.
+Cookies are deleted after you leave Guest mode.
+
+Learn more about using Guest mode in Chrome.
+On Chromebook: Learn how to use a Chromebook as a guest.
+In other browsers
+Note: Browsing in private might work differently on various browsers. Read the details when you follow the instructions to browse in private.
+
+On a computer, open a browser, like Safari.
+Open a private window. To learn how, select your browser:
+    
+Safari
+Firefox
+Microsoft Edge
+
+
+Go to a Google service, like www.google.com, and sign in to your account.
+When you're done using the web, close all private windows or sign out. To sign out:
+    
+Go to a Google service, like www.google.com.
+On the top right, click your profile image, initial, or email address.
+Click Sign out.
+
+
+
+If you can't browse in private
+
+Open a browser, like Chrome.
+Follow these steps before you sign in and after you sign out:
+    
+Clear the browser's cache and cookies: Learn how to clear cache and cookies.
+Delete browsing history: Learn how to delete browsing history in Chrome.
+
+
+
+
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    General security informationMake your account more secureAvoid getting locked out of your Google AccountSee devices with account accessReview security notificationsPrevent phishing with Password AlertChange unsafe passwords in your Google AccountSign in on a device that's not yoursLock or erase your lost phone or computerWhen Google might send you a textUse Google Play Protect to help keep your apps safe and your data privatePolicies by productGet Google's strongest account security with the Advanced Protection ProgramBlock or unblock people's accountsImport passwords to your Google AccountSave, manage & protect your passwords           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                                         false 

@@ -1,0 +1,439 @@
+
+
+
+
+
+Read Along |  An Android app from Google
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Home
+                  
+
+
+
+                    Impact
+                  
+
+
+
+                    Resources
+                  
+
+
+
+                    Educators
+                  
+
+
+
+
+
+
+
+
+
+Change language or region
+
+
+        English
+
+        Ø§ÙØ¹Ø±Ø¨ÙØ©
+
+        à¦¬à¦¾à¦à¦²à¦¾
+
+        English (India)
+
+        English (Africa)
+
+        espaÃ±ol (LatinoamÃ©rica)
+
+        àªà«àªàª°àª¾àª¤à«
+
+        à¤¹à¤¿à¤¨à¥à¤¦à¥
+
+        à¤®à¤°à¤¾à¤ à¥
+
+        portuguÃªs (Brasil)
+
+        à®¤à®®à®¿à®´à¯
+
+        à°¤à±à°²à±à°à±
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Home
+                    
+
+
+
+                      Impact
+                    
+
+
+
+                      Resources
+                    
+
+
+
+                      Educators
+                    
+
+
+
+
+
+              Close the navigation drawer
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Privacy Notice
+This Read Along privacy notice is intended to help parents understand what data is collected by the app and how we use it. This notice provides information about our privacy practices that are specific to Read Along and summarizes the most relevant portions of the Google Privacy Policy. Read Along operates as a signed-out service. This means that we don’t allow your child to sign in and you don’t need to use your Google account for the app to work.
+Information we collect
+Google collects information based on your children's use of the app, like when they read a book. This information includes:
+
+log information, including usage statistics on how our service is used, device event information, and the device's Internet protocol (IP) address;
+general location information (such as city or state) based on your device’s IP address; and
+a unique identifier, which is used to collect and store information about an app or device, such as preferred language, reading and search history, and other settings.
+
+We use various technologies to collect and store your child’s information, including cookies or similar mechanisms. The information collected through cookies or similar mechanisms is used for the purposes mentioned below and retained for 120 days on our servers on a per-user basis.
+The app also collects images of the users if they decide to add a photo to the app or if the parent decides to set up different profiles for their children, as well as a name or nickname of the user they enter into the app. The app further collects voice data. Both the images and the voice data are processed only on a user’s device and are not shared with Google to protect users’ privacy. Images are locally stored on the device and voice data is not stored at all after processing.
+How we use information we collect
+Google uses the information collected for internal operational purposes such as spam and abuse prevention, enforcing content license restrictions, determining preferred language, analysing usage of the app, and providing, maintaining and improving the service.
+Google also offers users personalized book recommendations based on an on device processing model. The ID of the recommended books is sent to Google to determine if the on device recommendation engine is working properly based on whether the book was opened and read.
+Google also offers a mechanism for teachers and admins to create groups to allow multiple children to share with their teacher information on which books they are reading, how well they are doing, and how many minutes they are reading overall, as well as their nickname within the app. This allows the teacher to guide your child and the other children in the group to practice reading regularly.
+Google does not allow your children to share personal information with third parties or make it publicly available. If you would like to review and/or delete any of the data collected by Read Along that is stored on your device, you can do so by deleting the Read Along app, or using your operating system’s application data deletion feature.
+Information we share
+Google will not disclose personal information outside of Google unless one of the following circumstances applies:
+With consent
+Google will share personal information with companies, organizations or individuals outside of Google when we have parental consent.
+For legal reasons
+Google will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+meet any applicable law, regulation, legal process or enforceable governmental request.
+enforce applicable Terms of Service, including investigation of potential violations.
+detect, prevent, or otherwise address fraud, security or technical issues.
+protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+For external processing
+Google may provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+Google may share aggregate information about the use of the app with third parties to, for example, show trends about the use of the app or meet our reporting obligations with partners.
+Interpretation of conflicting terms
+Where there are terms that differ between the Privacy Notice and the Google Privacy Policy, this Privacy Notice controls over the Google Privacy Policy.
+Service Provider
+The Read Along service is provided by:
+Google LLC
+1600 Amphitheatre Parkway, Mountain View, CA 94043 USA
+Phone: +1 650-253-0000
+In the EEA and Switzerland:
+Google Ireland Limited
+Gordon House, Barrow Street, Dublin 4
+Republic of Ireland
+Contact Us
+Parents may contact us directly with any questions or concerns at:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+Read Along App Privacy
+
+
+Terms
+
+
+Read Along App Terms
+
+
+
+
+Change language or region
+
+
+        English
+
+        Ø§ÙØ¹Ø±Ø¨ÙØ©
+
+        à¦¬à¦¾à¦à¦²à¦¾
+
+        English (India)
+
+        English (Africa)
+
+        espaÃ±ol (LatinoamÃ©rica)
+
+        àªà«àªàª°àª¾àª¤à«
+
+        à¤¹à¤¿à¤¨à¥à¤¦à¥
+
+        à¤®à¤°à¤¾à¤ à¥
+
+        portuguÃªs (Brasil)
+
+        à®¤à®®à®¿à®´à¯
+
+        à°¤à±à°²à±à°à±
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

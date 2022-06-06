@@ -1,0 +1,54 @@
+Delete or restore your site - Sites Help   Skip to main content   Sites HelpSign inGoogle HelpHelp CenterCommunitySitesPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunitySites    Starting September 1, 2021, classic Sites will not be viewable by others. Learn how to convert to new Sites today.           Delete or restore your siteYou can delete any Google Site you own, or restore a Google Site you deleted.
+Tip: This section is for new Google Sites. Get help with classic Google Sites.
+
+
+Delete your site
+
+On a computer, open new Google Sites.
+On the site you want to delete, click More .
+Click Remove .
+To permanently delete your site, empty your Google Drive trash. 
+
+
+Restore your site
+Google Sites are saved as files in Google Drive. To restore your site, you'll have to restore it from Google Drive. Learn how to restore your site.
+Classic Google Sites
+Tip: This section is for classic Google Sites. Get help with new Google Sites.
+Delete or restore your site
+
+Delete a site
+
+
+On a computer, open a site in classic Google Sites.
+Click Settings   Manage Site.
+Click General  Delete this site.
+To confirm that you want to delete the site, click Delete.
+
+
+
+
+
+Restore a site
+
+If you deleted your site within 30 days, you can restore it.
+
+On a computer, open a site in classic Google Sites.
+Click Deleted sites.
+Next to your deleted site, click Restore site.
+
+
+
+
+
+Reuse the web address of a deleted site
+
+You can permanently delete a site and reuse the web address. After a site is deleted permanently, you can’t restore it.
+
+Sign in to classic Google Sites.
+Click Deleted sites.
+Next to your deleted site, click Delete permanently.
+
+
+
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    HelpAdd or edit text & imagesAdd & edit Announcement bannersAdd Google files, videos, website content, & moreChange how your site looksDelete or restore your sitePublish & share your siteReview the latest changes to your site before publishingInvite others to edit your siteAdd gadgets, scripts & more to classic SitesUse a custom domain for your site           ©2022 Google   Privacy Policy   Terms of Service     català‎Deutsch‎English (Australia)‎español‎français‎hrvatski‎italiano‎magyar‎Nederlands‎polski‎português (Brasil)‎română‎slovenčina‎Türkçe‎čeština‎русский‎українська‎हिन्दी‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70                                      false 

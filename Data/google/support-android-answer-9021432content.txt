@@ -1,0 +1,114 @@
+Learn about the Android Device Configuration Service - Android Help   Skip to main content   Android HelpSign inGoogle HelpHelp CenterCommunityAndroidPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityExposure Notifications InfoAndroid        Learn about the Android Device Configuration ServiceThe Android Device Configuration Service periodically sends data from Android devices to Google. This data helps Google ensure that your device remains up-to-date and is working as well as possible. 
+What data is collected
+The Android Device Configuration Service collects information from Android devices, including:
+
+Device and account identifiers
+Device attributes
+Software and security software versions
+Network connectivity and performance data
+
+Devices usually connect to the Android Device Configuration service every few days. Except for a few data points (e.g. Timestamps), the Android Device Configuration Service keeps only the latest copy of the information sent from your Android device, replacing previous data with new information when your device sends it.
+
+What Google does with this data
+We use the data we collect from the Android Device Configuration Service for various purposes, such as:
+
+Help ensure that your device receives software updates and security patches: For example, the security patch level on your device is used to determine if you need an update.
+Make apps and services work consistently across a wide variety of Android devices with different specifications and software: For example, Google Play may use attributes, like your screen layout, to ensure you're offered compatible versions of software.
+Protect your device and the Android ecosystem from fraud, abuse, and other harmful behavior: For example, to protect your account, we use device identifiers to help us detect suspicious login behavior.
+Maintain aggregate metrics about Android devices: For example, we use anonymized data about how devices connect to mobile networks to optimize the trade off between maintaining connectivity and preserving battery life.
+
+
+Can I delete this data?
+Because the data in the Android Device Configuration Service is critical to ensuring your device is functioning and updated properly, you can't delete the data if your device is in use. The Android Device Configuration Service follows Google's Privacy Policy.
+If you sign out of your Google Account or delete it entirely on your Android device, the configuration information will no longer be associated with your Google Account. The Android Device Configuration Service will automatically delete your data after a period of inactivity.
+
+Find out what data the Android Device Configuration Service collects
+You can download a copy of the Android Device Configuration Service data linked with your Google Account. Learn more about downloading your data.
+
+Visit the Download your data page.
+Choose Android Device Configuration Service, and the data for devices associated with your account will be included.
+Click Next.
+Choose the archive's preferences.
+Click Create Archive.
+
+
+Categories of collected data
+Here are some examples of the data collected through the Android Device Configuration Service and what we use them for:
+
+
+
+
+Category
+
+
+Examples of data
+
+
+How Google uses the data
+
+
+
+
+
+Device & account identifiers
+
+
+IMEI, MEID, and ESN numbers
+Device serial number
+Google Services Framework Android ID (or "Android ID") Note: This is different than the Settings Secure Android ID.
+Google Account (when it's activated)*
+MAC addresses
+
+
+To protect your account, we use device identifiers to help us detect suspicious sign-in behavior.
+
+
+Device attributes
+
+
+Hardware type
+Product
+Model
+Manufacturer
+Supported native platforms / CPU types
+Keyboard, navigation, & screen layout types
+Screen size (height & width in pixels)
+Total memory
+Locale
+Time zone
+
+
+Google Play may use attributes like screen layout to ensure you're offered compatible software versions.
+
+
+System & security software versions
+
+
+OS build string (also known as OS build fingerprint )
+OS build timestamp
+Android version
+Google Services version
+
+
+The security patch level on your device is used to determine if you need an update.
+
+
+Network connectivity & performance
+
+
+SIM & mobile operators
+IP address
+SIM subscription data (SIM operator MCC/MNC, carrier name, roaming state, defaults roles for the SIM, truncated IMSI with last 5 digits rounded down, Group ID Level 1)
+Timestamps for the last 50 configuration connections to the Android Device Configuration Service & the build information for the last 10 connections with build changes
+Timestamps & HTTP response codes for the last 10 configuration connections that failed
+
+
+We use anonymized data about how devices connect to mobile networks to optimize the trade off between maintaining connectivity and preserving battery life.
+
+
+
+
+*If more than one account is signed in to a single device, Google Account information may not be provided in the data download.
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    Account & location settingsAdd or remove an account on AndroidManage your Google SettingsShare usage & diagnostics information with GoogleChoose how Google uses your shared data      Get to know your Android phone 
+Learn how to use your Android device and get the most out of Google. Get step-by-step guides and instructional videos on how to set up your phone, customize your settings, and use apps.           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎বাংলা‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center                                          false 

@@ -1,0 +1,919 @@
+
+
+
+
+
+
+
+
+      
+        
+          
+        
+      
+      
+        Flutter - Build apps for any screen
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Multi-Platform 
+
+
+
+
+Overview
+Mobile
+Web
+Desktop
+Embedded
+
+
+
+
+
+              Development 
+
+
+
+
+Overview
+Learn
+Flutter Favorites
+Packages
+Monetization
+Games
+
+
+
+
+
+              Ecosystem 
+
+
+
+
+Overview
+Community
+Events
+Culture
+
+
+
+
+
+              Showcase
+            
+
+
+
+              Docs 
+
+
+
+
+Overview
+What's New
+Editor Support
+Hot Reload
+Profiling
+
+
+Install Flutter
+Dev Tools
+Cookbook
+Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+Build apps for any screen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase.
+Get started
+
+
+
+
+
+
+
+
+  Build apps on six different platforms from a single codebase with Flutter 3. Learn more.  
+
+
+
+
+
+
+
+
+
+
+Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+
+
+Fast
+Productive
+Flexible
+
+
+
+
+
+
+
+
+
+
+
+Fast
+Flutter code compiles to ARM or Intel machine code as well as JavaScript, for fast performance on any device.
+Try it in DartPad
+
+
+
+
+
+
+
+
+
+Productive
+Build and iterate quickly with Hot Reload. Update code and see changes almost instantly, without losing state.
+Try it in DartPad
+
+
+
+
+
+
+
+
+
+Flexible
+Control every pixel to create customized, adaptive designs that look and feel great on any screen.
+Try it in DartPad
+
+
+
+
+
+
+
+
+
+
+Multi-Platform
+Reach users on every screen
+
+Deploy to multiple devices from a single codebase: mobile, web, desktop, and embedded devices.
+See the target platforms
+
+
+
+
+
+
+
+
+Developer Experience
+Transform your workflow
+
+Take control of your codebase with automated testing, developer tooling, and everything else you need to build production-quality apps.
+Flutter for developers
+
+
+
+
+
+
+
+
+Stable & Reliable
+Trusted by many
+
+Flutter is supported and used by Google, trusted by well-known brands around the world, and maintained by a community of global developers.
+Explore the ecosystem
+
+
+
+
+
+
+
+
+
+
+
+Developer Story
+See how Google Pay uses Flutter to change the world of mobile payments
+Read story 
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Global Open Source Community
+Supported by Google, open to everyone
+
+Collaborate on the open source framework, contribute to the package ecosystem on pub.dev, and find help when you need it.
+
+Learn more
+
+            Join the community  
+
+
+
+
+
+
+
+
+Dart
+Flutter is powered by Dart, a language optimized for fast apps on any platform
+
+Visit dart.dev
+Get packages 
+           
+
+
+
+
+
+
+
+
+
+
+Latest news
+
+
+
+
+
+
+Introducing Flutter 3
+
+                Read more  
+
+
+
+
+
+
+
+Dart 2.17: Productivity and integration
+
+                Read more  
+
+
+
+
+
+
+
+What’s new in Flutter 3
+
+                Read more  
+
+
+
+
+
+
+
+Announcing the Flutter Casual Games Toolkit
+
+                Read more  
+
+
+
+
+
+
+
+Perspectives from early adopters of Flutter as a game development tool
+
+                Read more  
+
+
+
+
+
+
+
+I/O Pinball Powered by Flutter and Firebase
+
+                Read more  
+
+
+
+
+
+
+
+Announcing Flutter for Windows
+
+                Read more  
+
+
+
+
+
+
+
+Flutter in 2022: strategy and roadmap
+
+                Read more  
+
+
+
+
+
+
+
+Does Flutter boost developer productivity?
+
+                Read more  
+
+
+
+
+
+
+
+Announcing the Flutter Puzzle Hack winners!
+
+                Read more  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join our newsletter
+
+
+
+
+Keep up with the latest Flutter news, releases, and more:
+
+
+            There was an unknown error submitting your data. Please try again. 
+          
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+First name
+
+
+
+
+
+
+
+Last name
+
+
+
+
+
+
+
+
+Country
+
+Country
+United States of America
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (the Democratic Republic of the)
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+
+
+
+
+
+
+
+
+
+                By using this service, you agree to be bound by our Google Terms of Service. I
+                acknowledge that the information provided in this form will be subject to Google's Privacy Policy. 
+              
+
+
+
+
+
+
+
+
+
+You're in!
+You have successfully signed up for the latest Flutter updates and announcements.
+
+
+
+
+
+
+
+
+Get started
+Instant access to the power of the Flutter framework
+
+
+          Install
+        
+
+          See the docs  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Flutter
+Careers
+News
+Brand
+Culture
+Press
+
+
+Learn Flutter
+Learning Journey
+Codelabs
+Samples
+Cookbook
+
+
+Multi-Platform
+Mobile
+Web
+Desktop
+Embedded
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Except as otherwise noted, this work is licensed under a Creative Commons Attribution 4.0 International License, and code samples are licensed under the BSD License.
+
+
+Terms
+Privacy
+Security
+
+
+
+
+
+
+Google uses cookies to deliver its services, to personalize ads, and to analyze traffic. You can 
+      adjust your privacy controls anytime in your 
+      Google settings. 
+      Learn more.
+    
+Okay
+
+
+
+
+
+

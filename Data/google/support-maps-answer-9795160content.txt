@@ -1,0 +1,187 @@
+COVID-19 Google Maps updates - Google Maps Help   Skip to main content   Google Maps HelpSign inGoogle HelpHelp CenterCommunityGoogle MapsPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Maps    Learn more about Google Maps COVID-19 updates.         COVID-19 Google Maps updatesIf your area is affected by COVID-19, you can use Google Maps to obtain relevant information on impacted places.
+Tip: In some regions, you might find additional information related to COVID-19. If you select the alert on the Google Maps home screen, you'll find locally relevant links based on your current map view.
+Search for COVID-19 health facilities
+You can search on Google to find a list of facilities near you that offer COVID-19 vaccination and/or testing.
+Learn more about COVID-19 testing information.
+Tip: COVID-19 vaccination locations and/or testing center information may only be available in some countries.
+Turn on the COVID-19 layer
+You can view COVID-19 related information as a layer in Google Maps.
+
+On your mobile device, open Google Maps .
+At the top, tap Layers   COVID-19 info.
+
+
+The COVID-19 layer displays the 7-day average for the number of new cases per 100,000 people. It also indicates whether cases are increasing or decreasing. The layer’s colors indicate:
+
+Grey: Less than 1 case
+Yellow: 1-10 cases
+Orange: 10-20 cases
+Dark orange: 20-30 cases
+Red: 30-40 cases
+Dark red: 40+ cases
+
+
+COVID-19 information sources
+We get our information from:
+
+Wikipedia
+The New York Times
+JHU CSSE COVID-19 Data
+Brihanmumbai Municipal Corporation
+
+
+Make business-related updates
+Our current focus is on the quality and reliability of information on Google Search and Maps. We want to make sure users and business owners have access to essential features, like whether the business is open or has special hours.
+
+Follow the steps below to suggest various updates to businesses. On your mobile device, you can also edit other business attributes.
+Tip: To get updates on the status of a business, you can send a message to a business through the Google Maps app. To use this feature, a business must have messaging turned on.
+Change a place's business hours
+
+Open Google Maps .
+Search for a place or select it on the map.
+To display the business’s hours: Select the Overview tab. Scroll to Hours , and select the Down arrow .
+Select Suggest an edit.
+Choose from the following:
+    
+If the business hours are incorrect: Next to the hours you want to change, select Edit .
+If some or all business hours are missing: At the bottom, select Edit hours .
+        
+If a place has additional open or closed hours, like a lunch break in the middle of the day, select Add hours to fill in the details.
+
+
+
+
+Complete your edits, and select Save.
+
+
+Tip: To help us verify your suggestion, add a photo. Your photos are publicly available under your name.
+Change a place's name, location, or other details
+
+
+Open Google Maps .
+Search for a place or select it on the map.
+Select Suggest an edit  Change name or other details. 
+Follow onscreen instructions to submit your feedback.
+
+
+
+Tip: To help us verify your suggestion, add a photo. Your photos are publicly available under your name.
+Tell us if a place doesn't exist or shouldn't be displayed
+Mark a place as moved or a duplicate
+
+
+Open Google Maps .
+    
+Make sure you’re signed in to your Google Account.
+
+
+Search for a place or select it on the map.
+Select Suggest an edit  Close or remove.
+Under "Close or remove," select Moved to a different location or Duplicate of another place  Submit.
+
+
+Tip: If you think something should be removed for legal reasons, submit a legal request.
+
+Mark a place as private or non-existent
+
+Open Google Maps .
+    
+Make sure you’re signed in to your Google Account.
+
+
+Search for a place or select it on the map.
+Select Suggest an edit  Close or remove.
+Under "Close or remove," select Not open to the public or Doesn't exist here  Submit.
+
+
+Tell us if a place has closed or reopened
+Mark a place as permanently or temporarily closed
+
+Open Google Maps .
+    
+Make sure you’re signed in to your Google Account.
+
+
+Search for a place or select it on the map.
+Select Suggest an edit  Close or remove.
+Under "Close or remove," select Permanently closed or Temporarily closed  Submit.
+
+
+Mark a business as reopened
+
+Open Google Maps .
+    
+Make sure you’re signed in to your Google Account.
+
+
+Search for a place marked as temporarily or permanently closed, or select it on the map.
+Select Suggest an edit  Reopen  Submit.
+
+
+Transit alerts
+In some countries or regions, you’ll get in-app alerts when you begin navigation and your route is affected by restrictions related to COVID-19. Local, state, and federal agencies provide the alert information.
+
+Alerts and station crowd levels
+You can get alerts if there are:
+
+Government mandates like mask requirements or closures that impact public transportation
+Government COVID-19 checkpoints or other border restrictions on your driving route
+
+When you begin driving directions to medical facilities or testing centers, an alert will remind you to call ahead to learn about eligibility and facility guidelines.
+Find station crowd levels
+When you make a trip on public transit, you might be able to find out how crowded a station is. When it’s available, you can find crowd level information under the name of the station. The information is based on public transit data.
+
+Find restaurants that offer takeout & delivery
+Restaurants that offer takeout or delivery options are now featured on Google Maps. When you search for a specific restaurant or cuisine, you can find out what dining options are available: Dine in, takeout, or delivery.
+Search for takeout and delivery options
+To find restaurants with takeout and delivery options:
+
+On your mobile device, open the Google Maps app .
+Narrow your search to restaurants that support takeout or delivery:
+    
+Under the Search bar, tap Takeout  or Delivery .
+In the Search bar, enter "Takeout" or "Delivery".
+
+
+
+Your search results will filter to restaurants with takeout or delivery, with available options highlighted in the search results.
+
+Find updates from restaurants
+Restaurants can post the latest updates related to COVID-19 directly to their business profile.
+When available, these updates will appear just below the restaurant's business info, under "COVID-19 updates from the business."
+
+Find & book online services
+You can find and book an online service directly on Google when you search for a specific business or term like “yoga classes” or “piano lessons.” If a business offers these services online and updated their Business Profile to reflect that, it will show:
+
+"Online classes”
+"Online estimates” 
+"Online appointments”
+
+For in-person services, go to Google Search, Maps, or Google Assistant to make a booking from a local business or service.
+
+How to book online services
+
+Important: If the business doesn’t have a booking button on their knowledge panel, they’re not set up to receive bookings through Google.
+
+Open Google Search, Maps, or Assistant. 
+Search for the types of services and classes you want, like yoga classes.
+Find and select the Business Profile where you want to make a booking and click Book online.
+Select a date and time.
+    
+Online classes and services are marked with an "Online services" icon .
+
+
+For businesses that let you book individual staff members: Under "Staff," you can select your preferred staff member. For example, you might select a favorite yoga instructor. You can also select a staff member later if you modify your booking.
+Click Book now.
+In the pop-up window that appears, fill out the required info.
+    
+Businesses may ask for payment at the time of booking or when they deliver the service. 
+
+
+Click Book.
+
+Learn how to make a booking on Google.
+
+
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    HelpGet started with Google MapsDownload areas & navigate offlineFind & improve your location’s accuracyAdd, edit, or delete Google Maps reviews & ratingsGoogle Maps TimelineDiscover helpful features in Google MapsCOVID-19 Google Maps updates           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةमराठी‎हिन्दी‎বাংলা‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 76697                                           false 

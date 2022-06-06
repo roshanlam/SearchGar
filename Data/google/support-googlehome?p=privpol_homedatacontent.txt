@@ -1,0 +1,142 @@
+Data security and privacy on devices that work with Assistant - Google Nest Help   Skip to main content   Google Nest HelpSign inGoogle HelpHelp CenterSpeakers and DisplaysNest ThermostatCameras and DoorbellLocks and Alarm SystemsSmoke AlarmsWi-FiSubscriptions and ServicesYour privacyCommunityGoogle NestPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle NestSpeakers and DisplaysGet startedExplore featuresChange your settingsTroubleshoot an issueWarranty, manual and returnsNest ThermostatIntroducing Nest thermostatsGet startedExplore features and settings Fix a problemWarranty, manual & returnsCameras and DoorbellIntroducing Nest cameras and doorbellsGet startedExplore features and settingsFix a problemWarranty, manual & returnsLocks and Alarm SystemsLocksAlarm SystemsSmoke AlarmsIntroducing Nest ProtectGet startedExplore features and settings Safety and certifications Fix a problemWarranty, manual & returnsWi-FiLearn about Wifi productsGet startedFeatures and settingsFix a problemWarranty, manual & returnsYour privacySubscriptions and ServicesNest AwareNest RenewRush Hour RewardsHVAC monitoringNest Pro installationADTYour privacyYour privacyData security and privacy on devices that work with Assistant   To get the most out of Google Home, choose your Help Center: U.S. Help Center, U.K Help Center, Canada Help Center, Australia Help Center. 
+           Data security and privacy on devices that work with AssistantThis Help Center article provides details on privacy and security for Google’s connected home devices and services working with the Google Assistant. To better understand how we collect and use data when you use our connected home devices and services, read the Frequently Asked Questions on Privacy: Google Nest. Please also read Google’s commitment to privacy in the home.
+Data collection
+
+What information does Google collect when I interact with Google Assistant?
+
+
+Google’s Privacy Policy explains what information we collect; why we collect it; and how you can update, manage, export, and delete your information, including when you interact with the Google Assistant. Learn more about Assistant and your privacy where we explain how your audio data is handled when you interact with the Assistant using a Google connected home device, as well as the controls available to you. You can review and update your Google Account settings anytime to choose what you share with your Assistant.
+Google Assistant is designed to wait in standby mode until it detects an activation, like when it hears “Hey Google.” In standby mode, the device processes short snippets of audio (a few seconds) to detect an activation (such as “Hey Google”). If no activation is detected, then those audio snippets won’t be sent or saved to Google. Once it detects an activation, Assistant exits standby mode and sends your request to Google servers. This can, for example, happen if there is a noise that sounds like “Hey Google,” or an unintended manual activation.
+The status indicator on your device lets you know when Google Assistant is activated. To help keep you in control, we're constantly working to make Assistant better at reducing unintended activation.
+
+
+
+Can Google Assistant get information from my other apps?     
+
+Google uses information you permit it to access, such as your device contacts or activity on Google sites and apps, to provide better, more helpful answers through the Google Assistant. Third party services may also share information with Google pursuant to their own privacy policies when you choose to use those services via Google services, including the Google Assistant.
+
+ Can Google Assistant or Google Home app access my search history / location history?   
+
+  
+  Yes. Activity controls in your Google Account let you decide what data is saved and used across Google services. For example, if you have enabled the Web & App Activity setting, the Google Assistant and Home apps can use your search history to provide you with better, more helpful answers from the Google Assistant. The Google Home app asks you to provide your address during setup. If you choose not to do so, Google Home app will guess your approximate location based on your IP address and other signals in order to set alarms for the right time zone and provide you with relevant weather and traffic information.
+
+
+What does Google know about me when I use its home devices and services with Google Assistant?
+
+
+If you have chosen to share information with Google then, subject to your settings, Google uses that information, along with your Google activity, to better assist you and personalize your experiences with Google services, including the Assistant. For example, if you ask, “When is my mom’s birthday?” the Assistant answers your question using information from your Calendar. Or if you ask “Do I need an umbrella tomorrow?” the Assistant uses your current location to give you the most relevant answer.
+You can delete your activity in My Activity manually, set up automatic deletion, or turn off Web & App Activity entirely, which will limit the personalized experience in the Google Assistant and other Google services. You can view and delete your activity with Google Assistant by visiting your Assistant Activity, which is accessible through the Google Home and Google Assistant apps and online at myactivity.google.com.
+Please read the Google Privacy Policy, the Frequently Asked Questions on Privacy: Google Nest, and our commitment to privacy in the home to understand what data Google collects, why we collect it, and the settings and tools available to you to update, manage, export, and delete your information when you use our devices and services.
+
+
+
+
+
+Can Google Assistant unintentionally collect my voice data? What happens if it does and what are my choices?
+
+
+Google Assistant might activate when you didn’t intend it to because it incorrectly detected that you wanted its help - for instance when there is a noise that sounds like “Hey Google,” or you manually activate your device accidentally. If that happens, and your Web & App Activity is turned on, you can say, “Hey Google, that wasn’t for you,” and Assistant will delete what you said from My Activity. You can also review and delete your Assistant interactions in My Activity at any time. If Google Assistant activates when you didn’t intend it to, and your Web & App Activity setting is disabled, your Assistant interaction will not be stored in My Activity. To better tailor Google Assistant to your environment, you can adjust how sensitive your Assistant is to activation phrases (like “Hey Google”) through the Google Home app for smart speakers and smart displays.
+
+
+
+What are some types of activation methods?    
+
+
+You can activate Google Assistant in many ways. For example, you can say “Hey Google,” use a different activation method like Look and Talk on your Nest Hub Max, or a long-press on your Google Nest device. The status indicator on your device, such as flashing dots, lets you know when Assistant is activated.
+
+
+
+
+Data use
+ What does Google do with the data it collects when I use the Assistant? 
+Google handles your data as described in the Google Privacy Policy. If you use our connected home devices and services, please also read Google’s commitment to privacy in the home and the Frequently Asked Questions on Privacy: Google Nest, where we explain some limits Google has placed on how your data is handled. Our privacy on Google Assistant video explains how your Assistant audio data is handled when you interact with the Google Assistant, and how the Google Assistant protects your privacy and gives you transparency, choice and control.
+Data storage
+ Where are you saving my data? 
+
+Google stores data about your interactions with the Google Assistant on its servers, which reside in its data centers. For more information, you can visit https://www.google.com/about/datacenters/. You can view and delete your past interactions with the Google Assistant in My Activity. Learn about Google Assistant and your privacy.   
+  Some Google Nest devices and services, such as Google Nest Hub Max, store and process some of your data locally on your device and not on Google servers. To learn more, please read the FAQs on camera sensing and FAQs on Face Match.
+Does the Google Assistant retain my audio recordings?    
+By default, we don’t retain your audio recordings on Google servers. You can decide to save your audio to make Google speech products more helpful to you and better for everyone. Visit your data in the Assistant to learn more about how your data makes the Assistant work for you.
+
+Can I look at what I've asked my device with Google Assistant / What my Google Nest device has heard?
+
+You can always visit your Assistant Activity tool to review or delete data from your interactions with your Assistant. To control your Assistant activity using your voice, you can also just say something like, “Hey Google, delete what I said this week,” and the Google Assistant will delete your audio recordings from My Activity. You can also choose to have your activity deleted automatically. Learn more about the Google Assistant and your privacy.
+
+
+
+How do I change what Google knows about me?
+
+
+You can limit the data Google collects by reviewing and updating your Google Account settings at any time. You can also review and delete your voice interaction activity by visiting your Assistant Activity. Learn how the Google Assistant works with your data in your data in the Assistant.
+You can even control your privacy on the Assistant with just your voice. Ask questions like “Where can I change my privacy settings?” to get answers to the most common privacy and security questions.
+
+
+
+Data security
+ Is my data safe with Google? 
+Your security comes first in everything we do. Go to myaccount.google.com to understand how we keep your account protected and to complete a Security Checkup.
+Data deletion
+ What happens to my information if I uninstall the Google Home app / delete my account? 
+
+You can always choose to delete your home in the Google Home app, or your Google Account (account.google.com), but if you only uninstall your Google Home app, it will not delete your account or home information. Learn about how to delete and remove access to Google Nest devices. 
+
+How do I delete my search / location / history and voice recordings? 
+
+You can delete your activity in the Google Home app or at myactivity.google.com.
+
+Google Assistant and my privacy
+ Is my Google Nest device recording all of my conversations? 
+
+No. You can learn more about how Google Assistant protects your privacy and gives you transparency, choice and control.
+
+
+Do my Assistant interactions influence the ads I see on Google?
+
+Depending on your settings, when you interact with your Assistant by voice, we may use the text of those interactions to inform your interests for ad personalization. You can always review your Google settings to control the ads you see, including opting out of ad personalization completely. Learn more about the Google Assistant and the choices available to you.
+
+
+Can the Assistant activate when I didn’t intend it to?
+
+Google Assistant might activate when you didn’t intend it to because it incorrectly detected that you wanted its help  - for instance, when there is a noise that sounds like “Hey Google,” an unintended manual activation, or, for Look and Talk, if you’re looking directly at your Nest Hub Max while talking to someone else. You can learn more by reading about how Google Assistant protects your privacy and gives you transparency, choice and control.
+
+
+Who can hear my location / search / conversation history?
+
+Anyone who is near your Google speaker or display device can request information from it, and if you have given  your device access to your calendars, Gmail or other personal information, people may be able to ask your device about that information, depending on your personal results settings and Voice Match settings. Google employees and trusted third parties can also access your conversation history in line with Google’s Privacy Policy. Learn about guests and your Google connected home devices.
+
+
+
+
+Google Account and settings
+
+How can I configure my Google Account settings when I use it to manage my home devices? 
+
+
+You can use our connected home devices and service with a Google Account. Your Google Account gives you quick access to settings and tools that let you safeguard your data and protect your privacy. Go to your Google Account to manage your privacy settings and review your Google activity data. Additional home and device settings are also available to you in the Nest and Home apps. Learn about how to delete and remove access to Google Nest devices. 
+
+
+
+How do I delete my Google Account?
+
+Here's how to delete your Google Account.
+
+
+
+Services 
+Note: The services referred to below don't include music, home control, news, and video services that work with your Google connected home device.
+ Does Google sell my information to anyone / my contacts / Google partners / other apps / advertisers / other companies? 
+Never. We do not sell your personal information to anyone. There are some circumstances where we share information with third parties, which are listed in Google's Privacy Policy. For example, using a Google connected home device, if you request a service from a business like Uber, we will send information you've provided to that service to complete a booking or confirm a ride. In these cases, we will have previously asked you to give us permission to share that information with that service.
+ Can services save my interaction history?
+
+Please note that when you use third-party services with our connected home devices and services, their own terms and privacy policies will also govern your use of those services. Review those carefully as you use those other services. For example, to help you faster and more easily, a service might use information from its past interactions with you.
+  In addition, a service that recommends concerts in your area can remember your music preferences if you share them with that service, so you don’t have to tell them each time. Learn more about how to choose which services remember you.
+ Can a service get my Google Account information? 
+
+Before a service can see any of the information stored in your account (such as your email address, name, or contacts), it’ll ask for your permission. We won’t share personal information like your name, email, or address with a service without your permission. Please note that when you use third-party services with our connected home devices and services, their own terms and privacy policies will also govern your use of those services, so please be careful about who you choose to share information with.
+For example, if you’re using a service to find local plumbers, it may ask:
+“In order to recommend a plumber nearby, I'll just need to get your street address from Google. Is that ok?”
+You can accept or deny the request.
+
+ Does the third-party service provider get an audio recording of what I said? 
+We don't share Assistant queries with Works with Google Assistant partners. Google transcribes what you say and sends the text, but not the audio, to the third-party partner.
+   Was this helpful?How can we improve it?YesNoSubmit      Need more help? Try these next steps:          Ask the Help Community Get answers from community experts      Contact us Tell us more and we’ll help you get there       true    Your privacyRemove Google Nest devices from the Google Home appFAQs on privacy: Google NestGoogle's connected home devices and servicesData security and privacy on devices that work with AssistantSensors in Google Nest devicesGuests and your Google connected home devicesChromecast, Google Nest and your privacyGoogle Nest & Chromecast security tipsFAQs about accounts for the Nest appFAQs on camera sensing: Google Nest Hub MaxFAQs on camera states and controls: Google Nest Hub MaxGoogle Nest Wifi and your privacyCreate a new account to use the Nest appTroubleshoot Nest app sign-in issuesManage your Nest app account security and emails      Have a question? Get an answer from an expert on the Google Home Help Forum.           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎English (Australia)‎English (Canada)‎English (India)‎English (Singapore)‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎Indonesia‎italiano‎Melayu‎Nederlands‎norsk‎português‎português (Brasil)‎suomi‎svenska‎ไทย‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center               true 1633396                                            false 

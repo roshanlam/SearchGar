@@ -1,0 +1,46 @@
+Last account activity - Gmail Help   Skip to main content   Gmail HelpSign inGoogle HelpHelp CenterCommunityGmailPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityNew to integrated GmailGmail iPhone & iPadLast account activity   Stay on top of everything that's important with Gmail's new interface. Learn more about the new layout.           Last account activityYou can see your sign-in history, including the dates and times that your Gmail account was used. You can also see the IP addresses which were used to access your account.
+
+Want to get more out of Google apps at work or school?  Sign up for a Google Workspace trial at no charge.
+
+
+See your account activity
+
+On your computer, open Gmail.
+In the bottom right, click Details.
+
+
+Tip: You can also visit the Recent security events page to see security updates for your entire Google Account.
+Information shown on the "Last account activity" page
+The Last account activity page shows your sign-in records, and includes the information below.
+Concurrent session information
+In the "Concurrent session information" section, you'll see if you're signed in to Gmail on another device, browser, or location.
+To sign out of all sessions except the one you have open in front of you, click Sign out all other Gmail web sessions.
+
+
+Access type
+In the "Access type" section, you'll see the browser, device, or mail server (like POP or IMAP) that you accessed Gmail from.
+If you've authorized an application, you'll see the location (IP Address) of the 3rd party application. 
+
+
+Location (IP address)
+You can see the last 10 IP addresses and approximate locations that accessed your Gmail account.
+If you got a warning about suspicious activity in your account, you might also see up to 3 additional IP addresses that have been labeled as suspicious.
+There are a few reasons you may see multiple IP addresses or locations in your activity:
+
+If you use POP or IMAP to read your mail on other services, like Apple Mail or Microsoft Outlook, this location information will be included, too.
+If you use Mail Fetcher, a Google IP will show up because your messages are being fetched through a Google server.
+If you use Gmail on a phone or tablet, your Internet service or mobile carrier's location may show up. This may be a location far from where you are. As long as the name of the carrier matches yours, this isn't unusual.
+
+
+
+Troubleshoot problems
+
+I think someone else has access to my account
+If you don't recognize the activity on the page, like a location or access type, someone might have access to your account because of phishing or malware.
+
+Immediately change your password.
+Follow the Gmail security tips to help protect your account.
+
+
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    iPhone & iPadSign in to GmailChange or reset your passwordBlock or unsubscribe from emailsFix bounced or rejected emailsSign out of GmailLast account activitySupported browsersSee Google Contacts on your mobile devices or computerMake Gmail your default mail appManage the Gmail widget           ©2022 Google   Privacy Policy   Terms of Service   Program Policies     català‎dansk‎Deutsch‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center           true 17                                        false 

@@ -1,0 +1,269 @@
+Manage your Android device’s location settings - Android Help   Skip to main content   Android HelpSign inGoogle HelpHelp CenterCommunityAndroidPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityExposure Notifications InfoAndroid Fix Android issuesLocation issuesManage your Android device’s location settings       Manage your Android device’s location settingsYou can use location-based services such as getting better local search results, like commute predictions and nearby restaurants based on your phone’s location, when you turn location on in settings.
+
+
+
+Important:
+
+Some of these steps work only on Android 12 and up. Learn how to check your Android version.
+Some of these steps require you to touch the screen.
+
+
+
+Understand the location settings available on your phone
+Important: When you turn off location on your phone, apps and services can't get your phone’s location. You can still get local results and ads based on your IP address.
+Google has a list of location-based services, including:
+
+Google Location Accuracy for your Android device (a.k.a. Google Location Services): To get a more accurate location for your phone, learn how to manage Location Accuracy.
+Emergency Location Service for your Android device: Learn how to manage Android Emergency Location Service.
+Earthquake alerts for your Android device: To get updates for nearby earthquakes on your phone, learn how to manage Earthquake alerts.
+Use location for time zone on your Android device: To get time zone updates based on location, learn how to manage location for time zone.
+Location History for your Google Account: To find and manage the places your phone has been, learn how to turn on Location History.
+Location Sharing for Google Maps: To let others know where your phone is, learn how to share your real-time location via Google Maps.
+Location in Search: To get more helpful results when you search on Google, learn how to manage location permissions for websites and apps.
+Wi-Fi scanning and Bluetooth scanning: To help apps get better location info, learn how to scan for network or bluetooth devices.
+
+
+Tip: Apps have their own settings. Learn how to manage app location settings.
+Turn location on or off for your phone
+ 
+
+Swipe down from the top of the screen.
+Touch and hold Location .
+    
+If you don't find Location :
+        
+Tap Edit  or Settings .
+Drag Location  into your Quick Settings.
+
+
+
+
+
+
+ 
+When Location is on
+
+
+Apps you’ve granted location permission to can find your phone's location to give you location-based info, services, or ads. Learn how to change app location settings.
+If Google Location Accuracy (also known as Google Location Services) is on, Google Location Accuracy can collect data to improve location-based services. Learn about Google Location Accuracy.
+You can get search results based on your phone's location, if your app and browser permissions allow it. Learn how to manage your location when you search on Google.
+You can locate where your phone is if you lose it. Learn about Find My Device.
+You can share your phone's location with others. Learn about Location Sharing with Google Maps, how to send your location in an emergency, and how to get earthquake alerts.
+If you have location for time zone enabled, your phone can use your location to determine your time zone. Learn about location for time zone.
+If you have Location History turned on, the places your phone goes will be saved. You can review and manage them later. Learn about Location History.
+
+
+
+
+When Location is off
+
+
+Your phone’s location isn't shared with any apps. Features that use location may not work properly.
+Google Location Accuracy won’t collect data to improve location-based services.
+You can get search results and ads based on information such as your IP address. Learn how to manage your location when you search on Google.
+You can’t see where your phone is if you lose it. Learn about Find My Device.
+You can’t share your phone’s location with anyone via Google Maps. Your device can still send location to first responders in an emergency. Learn about Location Sharing with Google Maps and sending location in emergencies.
+Emergency location services or your mobile carrier can still automatically send your phone’s location to emergency responders when you call or text an emergency number. Learn about emergency location services.
+You can’t get earthquake alerts for earthquakes nearby. Learn about earthquake alerts.
+Your phone won’t be able to use location to determine your time zone. Learn about location for time zone.
+Even if you have Location History turned on, the places your phone goes won’t be saved. Learn about Location History.
+
+
+
+
+Help your phone get a more accurate location (Google Location Services a.k.a. Google Location Accuracy)
+Turn your phone’s location accuracy on or off
+Android 12 & higher
+
+Swipe down from the top of the screen.
+Touch and hold Location .
+    
+If you don't find Location :
+        
+Tap Edit  or Settings .
+Drag Location  into your Quick Settings.
+
+
+
+
+Tap Location Services   Google Location Accuracy.
+Turn Improve Location Accuracy on or off.
+
+
+Android 11 & lower
+
+Swipe down from the top of the screen. 
+Touch and hold Location .
+    
+If you don't find Location :
+        
+Tap Edit  or Settings .
+Drag Location  into your Quick Settings.
+
+
+
+
+Tap Advanced  Google Location Accuracy. 
+Turn Improve Location Accuracy on or off.
+
+
+When Google Location Accuracy is on
+
+When you have Google Location Accuracy turned on, your phone uses these sources to get the most accurate location:
+
+GPS
+Wi-Fi
+Mobile networks
+Sensors (such as accelerometer)
+
+Google may collect location data periodically and use this data in an anonymous way to improve location accuracy and location-based services.
+
+
+
+When Google Location Accuracy is off
+
+When you turn off Google Location Accuracy, your phone uses GPS and sensors, like accelerometer, to determine location. GPS can be slower and less accurate than other sources.
+When Google Location Accuracy is off, GPS, Wi-Fi, network, and sensor data are not used or collected by Google Location Accuracy.
+For Android 12 and higher, you can manage each app’s permission to access precise location. This is different from Google Location Accuracy, which is a location setting for your device that allows your phone to use more sources for the most accurate location.  Even with Google Location Accuracy on, you can grant an app only approximate location permission if you don't want to allow it access to your device’s precise location.  If you turn off Google Location Accuracy, apps may not be able to get your device’s precise location. Learn how to manage app location permissions.
+
+
+Set up Wi-Fi & Bluetooth scanning
+To help apps get better location info, you can let your phone scan for nearby Wi-Fi access points or Bluetooth devices.
+Android 12 & higher
+
+Swipe down from the top of the screen.
+Touch and hold Location .
+    
+If you don't find Location :
+        
+Tap Edit  or Settings .
+Drag Location  into your Quick Settings.
+
+
+
+
+Tap Location services.
+Turn Wi-Fi scanning and Bluetooth scanning on or off.
+
+Android 11 & lower
+
+Swipe down from the top of the screen. 
+Touch and hold Location .
+    
+If you don't find Location :
+        
+Tap Edit  or Settings . 
+Drag Location  into your Quick Settings.
+
+
+
+
+Tap Wi-Fi scanning and Bluetooth scanning. 
+Turn Wi-Fi scanning and Bluetooth scanning on or off.
+
+
+Send your location in an emergency
+To help first responders find you quickly, your phone’s location can be sent when you dial or text an emergency number. For example, dialing 911 in the US or 112 in Europe.
+If Android Emergency Location Service (ELS) works in your country and on your mobile network, and you haven't turned off ELS, your phone will automatically send its location to first responders using ELS. If ELS is off, your mobile carrier may still send the device's location during an emergency call or text.
+
+Turn Android Emergency Location Service on or off
+You can turn Emergency Location Service on or off at any time.
+Android 12 & higher
+
+To open your device's Settings app, swipe down twice from the top of the screen.
+Tap Settings   Safety & emergency.
+Turn Emergency Location Service on or off.
+
+
+Android 11 & lower
+
+Swipe down from the top of the screen.
+Touch and hold Location .
+    
+If you don't find Location :
+        
+Tap Edit  or Settings .
+Drag Location  into your Quick Settings.
+
+
+
+
+Tap Advanced  Emergency Location Service.
+Turn Emergency Location Service on or off.
+
+
+ 
+Tip: Learn how to get help in an emergency.
+How Emergency Location Service works
+ELS is only activated when you call or text a local emergency number.
+During your emergency call, ELS may use Google Location Accuracy and other information to get the most accurate location possible for the device.
+Your phone sends its location to authorized emergency partners for the purpose of helping emergency services locate you. Your location is sent directly from your phone to emergency partners.
+After a completed emergency call or text during which ELS was active, your phone may send deidentified usage and analytics data to Google for the purpose of analyzing how well ELS works. This information doesn’t include the location sent to authorized emergency partners, and doesn't identify you.
+
+Tip: When ELS sends your location to authorized emergency partners, it’s different from when you share location via Google Maps. Learn about Location Sharing with Google Maps.
+If you use an older Android version
+Choose location settings (Android 9.0)
+
+
+To change location settings: 
+
+Open your device's Settings app.
+Tap Security & Location  Location.
+
+If you have a work profile, tap Advanced.
+
+
+
+Then, choose an option:
+
+Turn Location on or off: Tap Location.
+Scan for nearby networks: Tap Advanced Scanning. Turn Wi-Fi scanning or Bluetooth scanning on or off.
+Turn emergency location service on or off:  Tap Advanced Google Emergency Location Service. Turn Emergency Location Service on or off. 
+
+
+
+
+Choose location mode (Android 4.4—8.1)
+
+
+Open your phone's Settings app.
+Tap Security & Location  Location.
+    
+If you don't find "Security & Location," tap Location.
+
+
+Tap Mode.
+Select a mode:
+    
+High accuracy: Use GPS, Wi-Fi, mobile networks, and sensors to get the most accurate location. Use Google Location Services to help estimate your phone's location faster and more accurately.
+Battery saving: Use sources that use less battery, like Wi-Fi and mobile networks. Use Google Location Services to help estimate your phone's location faster and more accurately.
+Device only: Use GPS and sensors. Don’t use Google Location Services to improve location accuracy. This can estimate your phone's location more slowly and use more battery.
+
+
+
+
+
+Choose location access (Android 4.1—4.3)
+
+You can control what location information your phone can use.
+
+Open your phone's Settings app.
+Under "Personal," tap Location access.
+At the top of the screen, turn Access to my location on or off.
+    
+When location access is on, pick either or both of:
+
+GPS satellites: Lets your phone estimate its location from satellite signals, like a GPS device in a car.
+Wi-Fi & mobile network location: Lets your phone use Google Location Services to help estimate its location faster, with or without GPS.
+
+
+When location access is off:
+        Your phone can’t find its precise location or share it with any apps.
+
+
+
+
+Tip: If you have a tablet that more than one person uses, each person can have different location access settings.
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    Location issuesManage your Android device’s location settingsChoose which apps use your Android phone’s locationManage your Location History      Get to know your Android phone 
+Learn how to use your Android device and get the most out of Google. Get step-by-step guides and instructional videos on how to set up your phone, customize your settings, and use apps.           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎বাংলা‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center                                                 false 

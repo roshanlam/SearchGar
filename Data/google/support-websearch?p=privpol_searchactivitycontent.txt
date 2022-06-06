@@ -1,0 +1,70 @@
+Find & control your Web & App Activity - Computer - Google Search Help   Skip to main content   Google Search HelpSign inGoogle HelpHelp CenterCommunityGoogle SearchPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityAnnouncementsGoogle Search        Find & control your Web & App ActivityIf Web & App Activity is turned on, your searches and activity from other Google services are saved in your Google Account, so you may get more personalized experiences, like faster searches and more helpful app and content recommendations.
+You can turn Web & App Activity off or delete past activity at any time.
+Note: If you got your Google Account through work or school, you might need to contact your administrator to turn on the Web & App Activity additional service for your organization.
+Turn Web & App Activity on or off
+
+On your computer, visit the Activity controls page. You may be asked to sign in to your Google Account.
+Turn Web & App Activity on or off.
+When Web & App Activity is on:
+    
+You can check the box next to "Include Chrome history and activity from websites and apps that use Google services."
+You can check the box next to "Include audio recordings."
+
+
+
+Note: Some browsers and devices may have more settings that affect how this activity is saved.
+Find or delete your activity
+You can find and delete your Web & App Activity by visiting My Activity. Learn more about how to delete activity manually or set up automatic deletion.
+Tip: To add more security, you can require an extra verification step to view your full history on My Activity.
+What’s saved as Web & App Activity
+Info about your searches and other activity on Google sites, apps, and services
+
+When Web & App Activity is on, Google saves information like:
+
+Searches and other things you do on Google products and services, like Maps and Play
+Your location, language, IP address, referrer, and whether you use a browser or an app
+Ads you click, or things you buy on an advertiser’s site
+Information on your device like recent apps or contact names you searched for
+
+Note: Activity could be saved even when you’re offline.
+
+
+Info about your browsing and other activity on sites, apps, and devices that use Google services
+
+When Web & App Activity is on, you can include additional activity like:
+
+Sites and apps that partner with Google to show ads
+Sites and apps that use Google services, including data that apps share with Google
+Your Chrome browsing history
+Android usage & diagnostics, like battery level and system errors
+
+To let Google save this information:
+
+Web & App Activity must be on.
+The box next to "Include Chrome history and activity from sites, apps, and devices that use Google services" must be checked.
+
+Your Chrome history is saved only if you’re signed in to your Google Account and have Chrome Sync turned on. Learn about Chrome Sync.
+Note: If you use a shared device or sign in with more than one account, activity might be saved to the default account on the browser or device you use.
+
+Audio recordings
+
+
+When Web & App Activity is on, you can include audio recordings from your interactions with Google Search, Assistant, and Maps as part of your activity. Learn about audio recordings.
+To let Google save this information:
+
+Web & App Activity must be on.
+The box next to "Include audio recordings" must be checked.
+
+
+
+
+
+How your saved activity is used
+Learn more about how Google uses your saved activity and helps keep it private.
+For more information about how Google treats search queries generally, review the Privacy Policy FAQ.
+How Web & App Activity works when you’re signed out
+Your search and ad results may be customized using search-related activity even if you're signed out. To turn off this kind of search customization, you can search and browse privately. Learn how.
+Browser history
+In the Activity controls page, you can also check the box to "Include Chrome history and activity from sites, apps, and devices that use Google services." When this box is checked, you can control whether activity from your device is saved.
+Your searches and the sites you visit may also be stored in your browser or the Google Toolbar. Learn how to delete your history on Chrome, Toolbar, Safari, Internet Explorer, or Firefox.
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    HelpFind & control your Web & App ActivityUnderstand & manage your location when you search on Google           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 100334                                         false 

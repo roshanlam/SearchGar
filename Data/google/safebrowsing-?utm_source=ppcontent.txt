@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+      Safe Browsing â Google Safe Browsing
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safe Browsing
+
+
+
+
+Home
+
+
+Policies
+
+
+Webmasters
+
+
+Developers
+
+
+
+  
+
+
+
+
+
+
+
+
+
+                  Making the worldâs information safely accessible.
+                
+
+
+
+
+
+
+
+
+
+
+                Safety First
+              
+
+                Keeping over four billion devices safer.
+              
+
+                Google Safe Browsing helps protect over four billion devices every day by showing
+                warnings to users when they attempt to navigate to dangerous sites or download
+                dangerous files. Safe Browsing also notifies webmasters when their websites are
+                compromised by malicious actors and helps them diagnose and resolve the problem so
+                that their visitors stay safer. Safe Browsing protections work across Google
+                products and power safer browsing experiences across the Internet.
+              
+
+                Our Transparency Report includes details on the threats that Safe Browsing
+                identifies. The Transparency Report includes our Site
+                Status diagnostic tool that you can use to see whether a site currently
+                contains content that Safe Browsing has determined to be dangerous.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Product Protection
+              
+
+                Safe Browsing protects Google and other products.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Chrome and Other Browsers
+                      
+
+                        Chrome and other browsers use Safe Browsing to show users a warning message
+                        before they visit a dangerous site or download a harmful app. Our scanning
+                        infrastructure also protects the Chrome Web Store from potentially harmful
+                        extensions. Learn more
+
+
+
+
+
+
+
+
+
+                        Search
+                      
+
+                        Users see a Safe Browsing message in Search results when Safe Browsing has
+                        found that the site theyâre about to visit might be dangerous. Learn more
+
+
+
+
+
+
+
+
+
+                        Gmail
+                      
+
+                        Safe Browsing protects Gmail users by identifying dangerous links in email
+                        messages and showing warnings if users click on them. Learn more
+
+
+
+
+
+
+
+
+
+
+
+                        Android
+                      
+
+                        Google and Android security teams collaborated to develop an app scanning
+                        infrastructure that protects Google Play and powers Verify Apps to protect
+                        users who install apps from outside Google Play. Safe Browsing also
+                        protects Chrome users on Android by showing them warnings before they visit
+                        dangerous sites. Learn more
+
+
+
+
+
+
+
+
+
+                        Ads
+                      
+
+                        Googleâs Ads Security team uses Safe Browsing to make sure that Google ads
+                        do not promote dangerous pages. Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Beginnings
+              
+
+                A history of safety
+              
+
+                Safe Browsing launched in 2007 to protect users across the web from phishing
+                attacks, and has evolved to give users tools to help protect themselves from
+                web-based threats like malware, unwanted software, and social engineering across
+                desktop and mobile platforms.
+              
+
+                Our Safe Browsing engineering, product, and operations teams work at the forefront
+                of security research and technology to build systems that help users protect
+                themselves from harm. Check out our Research and the
+                Google Security Blog
+                for updates on Safe Browsing and other Google security technology.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+                API Documentation
+              
+
+                Protection for all
+              
+
+                To make the Internet safer for everyone, weâve made Safe Browsing services free and
+                publicly available for developers and other companies to use in their applications
+                and browsers. Today, half the worldâs online population is protected by Safe
+                Browsing. If you are a developer and would like to protect your users from online
+                threats, get started by visiting our API
+                Documentation. If you are a webmaster, you can sign up for
+                Google Search Console to receive notifications and help with security issues.
+              API Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Policies
+              
+
+                Safe Browsing gives users the ability to protect themselves from multiple types of
+                unsafe sites and applications. Our policies help define the types of web threats
+                about which Safe Browsing will notify users and webmasters.
+              
+
+
+
+
+
+
+
+
+
+
+                    Malware
+                  
+
+                    Since 2006, Safe Browsing has warned users when they attempt to navigate to
+                    sites that might be malicious. Malware is software specifically designed to
+                    harm a device, the software it's running, or its users.
+                  Learn more
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+                    Unwanted Software
+                  
+
+                    In 2014, we added protection against a broad category of harmful technology
+                    that we now call âUnwanted Softwareâ: for example, programs disguised as
+                    helpful downloads that actually make unexpected changes to your computer like
+                    switching your homepage or other browser settings to ones you donât want.
+                  Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+                    Social Engineering
+                  
+
+                    Since 2005, Safe Browsing has protected users across the web from Social
+                    Engineering attacks. A Social Engineering attack tricks users into performing
+                    an action that they normally would not if they knew the true identity of the
+                    attacker. A common example is Phishing, where a page tries to steal a user's
+                    password or other personal data.
+                  Learn
+                  more 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Safe Browsing
+            
+
+Policies
+
+
+Webmasters
+
+
+Developers
+
+
+
+
+              Tools
+            
+
+Search Console
+
+
+Search Console Help
+
+
+Site Status
+              Tool
+
+
+Chrome for
+              Business
+
+
+
+
+              News
+            
+
+Google Security Blog
+
+
+Research
+
+
+
+
+              Contact us
+            
+
+Report malware
+
+
+Report phishing
+
+
+Report phishing error
+
+
+Join
+              us
+
+
+
+
+
+
+
+
+
+
+ 
+                Help
+
+
+Google
+
+
+Privacy
+
+
+Terms
+
+
+
+
+
+
+
+
+
+
+
+

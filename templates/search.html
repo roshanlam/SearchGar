@@ -1,0 +1,20 @@
+<form action="{{ url_for("search")}}" method="post">
+<input type="text" name="query_input" id="query_input" placeholder="Enter Query">
+<button type="submit" name="search_button" id="search_button">Search</button>
+</form>
+
+Query: {{ query }}
+
+<p>Result:</p>
+{{error}}
+<div id="result">
+{% for r in urls%}
+<a href="{{r}}">{{ r }}</a>
+{% endfor %}
+</div>
+
+<style>
+a{
+   display: block;
+}
+</style>

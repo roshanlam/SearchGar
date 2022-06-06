@@ -1,0 +1,1214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Platform
+
+
+
+
+  Android Studio
+
+
+
+
+  Google Play
+
+
+
+
+  Jetpack
+
+
+
+
+  Kotlin
+
+
+
+
+  Docs
+
+
+
+
+  Games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Español – América Latina
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Platform
+   
+
+
+
+
+
+      Android Studio
+   
+
+
+
+
+
+      Google Play
+   
+
+
+
+
+
+      Jetpack
+   
+
+
+
+
+
+      Kotlin
+   
+
+
+
+
+
+      Docs
+   
+
+
+
+
+
+      Games
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Android Developers
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Latest in Android Form Factors
+
+
+Discover all the Google I/O announcements for Wear OS, tablets, foldables and more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recap blog post
+
+
+
+
+
+
+
+
+Recap video
+
+
+
+
+
+
+
+
+YouTube playlist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download Android Studio
+get_app
+
+
+
+
+
+Launch Play Console
+launch
+
+
+
+
+
+View Android courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured
+
+
+      
+    
+        Android 13 Beta 2 now available
+
+      
+  
+    
+
+            Beta 2 is now available with the latest features and changes to try with your apps! The Beta is now available to users as well as developers, so try the new features and share feedback!
+
+          
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured
+
+
+      
+    
+        Learn Android Basics with Compose
+
+      
+  
+    
+
+            Check out the brand new course, Android Basics with Compose! You’ll learn how to build Android apps with Jetpack Compose, programming concepts in Kotlin, and Android fundamentals!
+
+          
+
+Start course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Platform Updates
+      
+  
+    
+
+              Keep up to date with what's going on with the Android platform.
+
+            
+
+
+Go to Android Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Tools Updates
+      
+  
+    
+
+              The latest on tools that help you build the highest quality Android apps for every Android device.
+
+            
+
+
+Go to Studio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Explore more
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Developer Guides
+      
+  
+
+
+            Find training classes that describe how to accomplish a specific task with code samples you can re-use in your app.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Sample Code
+      
+  
+
+
+            Jump-start your development using these sample projects.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Quality guidelines
+      
+  
+
+
+            Build a high quality app with these design and behavior guidelines.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Distribute Your App
+      
+  
+
+
+            Learn how to launch and distribute your apps and games successfully.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Latest news
+      
+  
+    
+
+              Keep up to date with what's going on in Android.
+
+            
+
+
+View all news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Latest videos
+      
+  
+    
+
+              Get the latest Android news, best practices, live videos, demonstrations, tutorials.
+
+            
+
+
+View all videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Visit Our Community
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Stack Overflow Android Community
+      
+  
+
+
+            Ask questions and get help and tips from Android developers in our Stack Overflow community
+
+          
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Twitter for Android Developers
+      
+  
+
+
+            Follow our Twitter and get real-time updates and announcements related to Android development
+
+          
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Developers Community
+      
+  
+
+
+            Connect with fellow developers and startups in your area, hear from industry experts, share your skills, and learn
+
+          
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        
+        Twitter
+      
+Follow on Twitter
+
+
+
+
+          
+        
+        YouTube
+      
+Check out Android Developers on YouTube
+
+
+
+
+          
+        
+        LinkedIn
+      
+Connect with the Android Developers community on LinkedIn
+
+
+
+
+
+
+
+
+More Android
+
+
+
+            
+          
+            Android
+          
+          
+
+
+
+            
+          
+            Android for Enterprise
+          
+          
+
+
+
+            
+          
+            Security
+          
+          
+
+
+
+            
+          
+            Source
+          
+          
+
+
+
+            
+          
+            News
+          
+          
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Podcasts
+          
+          
+
+
+
+
+Discover
+
+
+
+            
+          
+            Gaming
+          
+          
+
+
+
+            
+          
+            Machine Learning
+          
+          
+
+
+
+            
+          
+            Privacy
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            5G
+          
+          
+
+
+
+
+Android Devices
+
+
+
+            
+          
+            Large screens
+          
+          
+
+
+
+            
+          
+            Wear OS
+          
+          
+
+
+
+            
+          
+            Android TV
+          
+          
+
+
+
+            
+          
+            Android for cars
+          
+          
+
+
+
+            
+          
+            Android Things
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome OS devices
+          
+          
+
+
+
+
+Releases
+
+
+
+            
+          
+            Android 11
+          
+          
+
+
+
+            
+          
+            Android 10
+          
+          
+
+
+
+            
+          
+            Pie
+          
+          
+
+
+
+            
+          
+            Oreo
+          
+          
+
+
+
+            
+          
+            Nougat
+          
+          
+
+
+
+            
+          
+            Marshmallow
+          
+          
+
+
+
+            
+          
+            Lollipop
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            KitKat
+          
+          
+
+
+
+
+Documentation and Downloads
+
+
+
+            
+          
+            Android Studio guide
+          
+          
+
+
+
+            
+          
+            Developers guides
+          
+          
+
+
+
+            
+          
+            API reference
+          
+          
+
+
+
+            
+          
+            Download Studio
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Android NDK
+          
+          
+
+
+
+
+Support
+
+
+
+            
+          
+            Report platform bug
+          
+          
+
+
+
+            
+          
+            Report documentation bug
+          
+          
+
+
+
+            
+          
+            Google Play support
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Join research studies
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Privacy
+        
+
+
+
+          License
+        
+
+
+
+          Brand guidelines
+        
+
+
+Get news and tips by email
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Español – América Latina
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

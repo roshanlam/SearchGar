@@ -1,0 +1,9073 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud Computing Services  |  Google Cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Google
+
+
+
+close
+
+
+
+Discover why leading businesses choose Google Cloud
+Whether your business is early in its journey or well on its way to digital transformation, Google Cloud can help you solve your toughest challenges.
+
+
+
+
+                      Learn more
+                    
+
+
+
+
+
+
+Key benefits
+
+
+
+                      Overview
+                    
+
+                      Top reasons businesses choose us.
+                    
+
+
+
+
+
+                      Multicloud
+                    
+
+                      Run your apps wherever you need them.
+                    
+
+
+
+
+
+                      Trust and security
+                    
+
+                      Keep your data secure and compliant.
+                    
+
+
+
+
+
+                      Global infrastructure
+                    
+
+                      Build on the same infrastructure as Google.
+                    
+
+
+
+
+
+
+
+
+
+                      Data cloud
+                    
+
+                      Unify data across your organization.
+                    
+
+
+
+
+
+                      Open cloud
+                    
+
+                      Scale with open, flexible technology.
+                    
+
+
+
+
+
+                      Sustainability
+                    
+
+                      Run on the cleanest cloud in the industry.
+                    
+
+
+
+
+
+                      Productivity and collaboration
+                    
+
+                      Connect your teams with AI-powered apps.
+                    
+
+
+
+
+
+
+Resources
+
+
+
+                      Events
+                    
+
+                      Browse upcoming Google Cloud events.
+                    
+
+
+
+
+
+                      Blog
+                    
+
+                      Read our latest product news and stories.
+                    
+
+
+
+
+
+                      Customer stories
+                    
+
+                      Explore case studies and videos.
+                    
+
+
+
+
+
+                      Analyst reports
+                    
+
+                      Read what industry analysts say about us.
+                    
+
+
+
+
+
+
+
+
+
+  Solutions
+
+
+
+close
+
+
+
+
+
+
+
+
+
+                      Industry Solutions
+                    
+
+                      Reduce cost, increase operational agility, and capture new market opportunities.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Retail
+                    
+
+                      Analytics and collaboration tools for the retail value chain.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Consumer Packaged Goods
+                    
+
+                      Solutions for CPG digital transformation and brand growth.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Financial Services
+                    
+
+                      Computing, data management, and analytics tools for financial services.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Healthcare and Life Sciences
+                    
+
+                      Advance research at scale and empower healthcare innovation.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Media and Entertainment
+                    
+
+                      Solutions for content production and distribution operations.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Telecommunications
+                    
+
+                      Hybrid and multi-cloud services to deploy and monetize 5G.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Gaming
+                    
+
+                      AI-driven solutions to build and scale games faster.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Manufacturing
+                    
+
+                      Migration and AI tools to optimize the manufacturing value chain.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Supply Chain and Logistics
+                    
+
+                      Digital supply chain solutions built in the cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Government
+                    
+
+                      Data storage, AI, and analytics solutions for government agencies.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Education
+                    
+
+                      Teaching tools to provide more engaging learning experiences.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all industry solutions
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all solutions
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Application Modernization
+                    
+
+                      Develop and run applications anywhere, using cloud-native technologies like containers, serverless, and service mesh.
+                    
+
+
+
+
+
+
+
+                      Hybrid and Multi-cloud Application Platform
+                    
+
+                      Platform for modernizing legacy apps and building new apps.
+                    
+
+
+
+
+
+
+
+                      API Management
+                    
+
+                      Accelerate application design and development with an API-first approach.
+                    
+
+
+
+
+
+
+
+                      Serverless Solutions
+                    
+
+                      Fully managed environment for developing, deploying and scaling apps.
+                    
+
+
+
+
+
+
+
+                      DevOps
+                    
+
+                      Processes and resources for implementing DevOps in your org.
+                    
+
+
+
+
+
+
+
+                      Continuous Delivery (CD)
+                    
+
+                      End-to-end automation from source to production.
+                    
+
+
+
+
+
+
+
+                      Continuous Integration (CI)
+                    
+
+                      Fast feedback on code changes at scale.
+                    
+
+
+
+
+
+
+
+                      Mainframe Modernization
+                    
+
+                      Automated tools and prescriptive guidance for moving to the cloud.
+                    
+
+
+
+
+
+
+
+                      CAMP
+                    
+
+                      Program that uses DORA to improve your software delivery capabilities.
+                    
+
+
+
+
+
+
+
+                      Hosting
+                    
+
+                      Services and infrastructure for building web apps and websites.
+                    
+
+
+
+
+
+
+
+                      Site Reliability Engineering (SRE)
+                    
+
+                      Tools and resources for adopting SRE in your org.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Artificial Intelligence
+                    
+
+                      Add intelligence and efficiency to your business with AI and machine learning.
+                    
+
+
+
+
+
+
+
+                      Build and use AI
+                    
+
+                      Products to build and use artificial intelligence.
+                    
+
+
+
+
+
+
+
+                      Contact Center AI
+                    
+
+                      AI model for speaking with customers and assisting human agents.
+                    
+
+
+
+
+
+
+
+                      Agent Assist
+                    
+
+                      AI-powered conversations with human agents.
+                    
+
+
+
+
+
+
+
+                      Cloud Talent Solution
+                    
+
+                      AI with job search and talent acquisition capabilities.
+                    
+
+
+
+
+
+
+
+                      Document AI
+                    
+
+                      Machine learning and AI to unlock insights from your documents.
+                    
+
+
+
+
+
+
+
+                      Lending DocAI
+                    
+
+                      Mortgage document data capture at scale with machine learning.
+                    
+
+
+
+
+
+
+
+                      Procurement DocAI
+                    
+
+                      Procurement document data capture at scale with machine learning.
+                    
+
+
+
+
+
+
+
+                      Intelligent products
+                    
+
+                      Create engaging product ownership experiences with AI.
+                    
+
+
+
+
+
+
+
+                      Data Science
+                    
+
+                      Put your data to work with Data Science on Google Cloud.
+                    
+
+
+
+
+
+
+
+                      Contract DocAI
+                    
+
+                      Specialized AI for bettering contract understanding.
+                    
+
+
+
+
+
+
+
+                      Contact Center AI Insights
+                    
+
+                      AI-powered understanding to better customer experience.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      APIs and Applications
+                    
+
+                      Speed up the pace of innovation without coding, using APIs, apps, and automation.
+                    
+
+
+
+
+
+
+
+                      New Business Channels Using APIs
+                    
+
+                      Attract and empower an ecosystem of developers and partners.
+                    
+
+
+
+
+
+
+
+                      Unlocking Legacy Applications Using APIs
+                    
+
+                      Cloud services for extending and modernizing legacy apps.
+                    
+
+
+
+
+
+
+
+                      Open Banking APIx
+                    
+
+                      Simplify and accelerate secure delivery of open banking compliant APIs.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Databases
+                    
+
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
+                    
+
+
+
+
+
+
+
+                      Database Migration
+                    
+
+                      Guides and tools to simplify your database migration life cycle.
+                    
+
+
+
+
+
+
+
+                      Database Modernization
+                    
+
+                      Upgrades to modernize your operational database infrastructure.
+                    
+
+
+
+
+
+
+
+                      Google Cloud Databases
+                    
+
+                      Database services to migrate, manage, and modernize data.
+                    
+
+
+
+
+
+
+
+                      Migrate Oracle workloads to Google Cloud
+                    
+
+                      Rehost, replatform, rewrite your Oracle workloads.
+                    
+
+
+
+
+
+
+
+                      Open Source Databases
+                    
+
+                      Fully managed open source databases with enterprise-grade support.
+                    
+
+
+
+
+
+
+
+                      SQL Server on Google Cloud
+                    
+
+                      Options for running SQL Server virtual machines on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Data Cloud
+                    
+
+                      Unify data across your organization with an open and simplified approach to data-driven transformation that is unmatched for speed, scale, and security with AI built-in.
+                    
+
+
+
+
+
+
+
+                      Databases Solutions
+                    
+
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
+                    
+
+
+
+
+
+
+
+                      Smart Analytics Solutions
+                    
+
+                      Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.
+                    
+
+
+
+
+
+
+
+                      AI Solutions
+                    
+
+                      Add intelligence and efficiency to your business with AI and machine learning.
+                    
+
+
+
+
+
+
+
+                      Data Cloud for ISVs
+                    
+
+                      Innovate, optimize and amplify your SaaS applications using Google's data and machine learning solutions such as BigQuery, Looker, Spanner and Vertex AI.
+                    
+
+
+
+
+
+
+
+                      Data Cloud Alliance
+                    
+
+                      An initiative to ensure that global businesses have more seamless access and insights into the data required for digital transformation.
+                    
+
+
+
+
+
+
+Digital Transformation
+Accelerate business recovery and ensure a better future with solutions that enable hybrid and multi-cloud, generate intelligent insights, and keep your workers connected.
+
+
+
+
+
+                      Digital Innovation
+                    
+
+                      Reimagine your operations and unlock new opportunities.
+                    
+
+
+
+
+
+
+
+                      Operational Efficiency
+                    
+
+                      Prioritize investments and optimize costs.
+                    
+
+
+
+
+
+
+
+                      COVID-19 Solutions
+                    
+
+                      Get work done more safely and securely.
+                    
+
+
+
+
+
+
+
+                      COVID-19 Solutions for the Healthcare Industry
+                    
+
+                      How Google is helping healthcare meet extraordinary challenges.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Infrastructure Modernization
+                    
+
+                      Migrate quickly with solutions for SAP, VMware, Windows, Oracle, and other workloads.
+                    
+
+
+
+
+
+
+
+                      Application Migration
+                    
+
+                      Discovery and analysis tools for moving to the cloud.
+                    
+
+
+
+
+
+
+
+                      SAP on Google Cloud
+                    
+
+                      Certifications for running SAP applications and SAP HANA.
+                    
+
+
+
+
+
+
+
+                      High Performance Computing
+                    
+
+                      Compute, storage, and networking options to support any workload.
+                    
+
+
+
+
+
+
+
+                      Windows on Google Cloud
+                    
+
+                      Tools and partners for running Windows workloads.
+                    
+
+
+
+
+
+
+
+                      Data Center Migration
+                    
+
+                      Migration solutions for VMs, apps, databases, and more.
+                    
+
+
+
+
+
+
+
+                      Active Assist
+                    
+
+                      Automatic cloud resource optimization and increased security.
+                    
+
+
+
+
+
+
+
+                      Virtual Desktops
+                    
+
+                      Remote work solutions for desktops and applications (VDI & DaaS).
+                    
+
+
+
+
+
+
+
+                      Rapid Assessment & Migration Program (RAMP)
+                    
+
+                      End-to-end migration program to simplify your path to the cloud.
+                    
+
+
+
+
+
+
+
+                      Backup and Disaster Recovery
+                    
+
+                      Ensure your business continuity needs are met.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Productivity and Collaboration
+                    
+
+                      Change the way teams work with solutions designed for humans and built for impact.
+                    
+
+
+
+
+
+
+
+                      Google Workspace
+                    
+
+                      Collaboration and productivity tools for enterprises.
+                    
+
+
+
+
+
+
+
+                      Google Workspace Essentials
+                    
+
+                      Secure video meetings and modern collaboration for teams.
+                    
+
+
+
+
+
+
+
+                      Cloud Identity
+                    
+
+                      Unified platform for IT admins to manage user devices and apps.
+                    
+
+
+
+
+
+
+
+                      Chrome Enterprise
+                    
+
+                      Chrome OS, Chrome Browser, and Chrome devices built for business.
+                    
+
+
+
+
+
+
+
+                      Cloud Search
+                    
+
+                      Enterprise search for employees to quickly find company information.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Security
+                    
+
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    
+
+
+
+
+
+
+
+                      Security Analytics and Operations
+                    
+
+                      Solution for analyzing petabytes of security telemetry.
+                    
+
+
+
+
+
+
+
+                      Web App and API Protection
+                    
+
+                      Threat and fraud protection for your web applications and APIs.
+                    
+
+
+
+
+
+
+
+                      Security and Resilience Framework
+                    
+
+                      Solutions for each phase of the security and resilience life cycle.
+                    
+
+
+
+
+
+
+
+                      Risk and compliance as code (RCaC)
+                    
+
+                      Solution to modernize your governance, risk, and compliance function with automation.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Smart Analytics
+                    
+
+                      Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.
+                    
+
+
+
+
+
+
+
+                      Data Warehouse Modernization
+                    
+
+                      Data warehouse to jumpstart your migration and unlock insights.
+                    
+
+
+
+
+
+
+
+                      Data Lake Modernization
+                    
+
+                      Services for building and modernizing your data lake.
+                    
+
+
+
+
+
+
+
+                      Spark on Google Cloud
+                    
+
+                      Run and write Spark where you need it, serverless and integrated.
+                    
+
+
+
+
+
+
+
+                      Stream Analytics
+                    
+
+                      Insights from ingesting, processing, and analyzing event streams.
+                    
+
+
+
+
+
+
+
+                      Business Intelligence
+                    
+
+                      Solutions for modernizing your BI stack and creating rich data experiences.
+                    
+
+
+
+
+
+
+
+                      Data Science
+                    
+
+                      Put your data to work with Data Science on Google Cloud.
+                    
+
+
+
+
+
+
+
+                      Marketing Analytics
+                    
+
+                      Solutions for collecting, analyzing, and activating customer data.
+                    
+
+
+
+
+
+
+
+                      Geospatial Analytics and AI
+                    
+
+                      Solutions for building a more prosperous and sustainable business.
+                    
+
+
+
+
+
+
+
+                      Datasets
+                    
+
+                      Data from Google, public, and commercial providers to enrich your analytics and AI initiatives.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Startups and SMB
+                    
+
+                      Accelerate startup and SMB growth with tailored solutions and programs.
+                    
+
+
+
+
+
+
+
+                      Startup Solutions
+                    
+
+                      Grow your startup and solve your toughest challenges using Google’s proven technology.
+                    
+
+
+
+
+
+
+
+                      Startup Program
+                    
+
+                      Get financial, business, and technical support to take your startup to the next level.
+                    
+
+
+
+
+
+
+
+                      Small and Medium Business
+                    
+
+                      Explore solutions for web hosting, app development, AI, and analytics.
+                    
+
+
+
+
+
+
+
+                      Software as a Service
+                    
+
+                      Build better SaaS products, scale efficiently, and grow your business.
+                    
+
+
+
+
+
+
+
+
+
+  Products
+
+
+
+close
+
+
+
+Featured Products
+
+
+
+
+
+
+
+
+                      Compute Engine
+                    
+
+                      Virtual machines running in Google’s data center.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Storage
+                    
+
+                      Object storage that’s secure, durable, and scalable.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud SDK
+                    
+
+                      Command-line tools and libraries for Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud SQL
+                    
+
+                      Relational database service for MySQL, PostgreSQL and SQL Server.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Kubernetes Engine
+                    
+
+                      Managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      BigQuery
+                    
+
+                      Data warehouse for business agility and insights.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud CDN
+                    
+
+                      Content delivery network for delivering web and video.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataflow
+                    
+
+                      Streaming analytics for stream and batch  processing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Operations
+                    
+
+                      Monitoring, logging, and application performance suite.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Anthos
+                    
+
+                      Platform for modernizing existing apps and building new ones.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+
+                      See all products (100+)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      AI and Machine Learning
+                    
+
+
+
+
+
+
+
+
+
+
+                      Vertex AI
+                    
+
+                      Unified ML Platform for training, hosting, and managing ML models.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Speech-to-Text
+                    
+
+                      Speech recognition and transcription supporting 125 languages.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Vision AI
+                    
+
+                      Custom and pre-trained models to detect emotion, text, more.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Text-to-Speech
+                    
+
+                      Speech synthesis in 220+ voices and 40+ languages.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Translation
+                    
+
+                      Language detection, translation, and glossary support.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Natural Language
+                    
+
+                      Sentiment analysis and classification of unstructured text.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AutoML
+                    
+
+                      Custom machine learning model training and development.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Video AI
+                    
+
+                      Video classification and recognition using machine learning.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AI Infrastructure
+                    
+
+                      Options for every business to train deep learning and machine learning models cost-effectively.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dialogflow
+                    
+
+                      Conversation applications and systems development suite for virtual agents.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AutoML Tables
+                    
+
+                      Service for training ML models with structured data.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all AI and machine learning products
+                    
+
+
+
+
+
+
+API Management
+
+
+
+
+
+
+
+
+                      Apigee API Management
+                    
+
+                      Manage the full life cycle of APIs anywhere with visibility and control.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Apigee Integration
+                    
+
+                      API-first integration to connect existing data and applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Healthcare API
+                    
+
+                      Solution to bridge existing care systems and apps on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AppSheet
+                    
+
+                      No-code development platform to build and extend applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      API Gateway
+                    
+
+                      Develop, deploy, secure, and manage APIs with a fully managed gateway.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Compute
+                    
+
+
+
+
+
+
+
+
+
+
+                      Compute Engine
+                    
+
+                      Virtual machines running in Google’s data center.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      App Engine
+                    
+
+                      Serverless application platform for apps and back ends.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud GPUs
+                    
+
+                      GPUs for ML, scientific computing, and 3D visualization.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Compute Engine
+                    
+
+                      Server and virtual machine migration to Compute Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Spot VMs
+                    
+
+                      Compute instances for batch jobs and fault-tolerant workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Shielded VMs
+                    
+
+                      Reinforced virtual machines on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Sole-Tenant Nodes
+                    
+
+                      Dedicated hardware for compliance, licensing, and management.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Bare Metal
+                    
+
+                      Infrastructure to run specialized workloads on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Recommender
+                    
+
+                      Usage recommendations for Google Cloud products and services.
+                    
+
+
+
+
+
+
+
+
+
+
+                      VMware Engine
+                    
+
+                      Fully managed, native VMware Cloud Foundation software stack.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all compute products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Containers
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Kubernetes Engine
+                    
+
+                      Managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Container Registry
+                    
+
+                      Registry for storing, managing, and securing Docker images.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Container Security
+                    
+
+                      Container environment security for each stage of the life cycle.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Build
+                    
+
+                      Solution for running build steps in a Docker container.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Deep Learning Containers
+                    
+
+                      Containers with data science frameworks, libraries, and tools.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Kubernetes Applications
+                    
+
+                      Containerized apps with prebuilt deployment and unified billing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Artifact Registry
+                    
+
+                      Package manager for build artifacts and dependencies.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Knative
+                    
+
+                      Components to create Kubernetes-native cloud-based software.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Code
+                    
+
+                      IDE support to write, run, and debug Kubernetes applications.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Data Analytics
+                    
+
+
+
+
+
+
+
+
+
+
+                      BigQuery
+                    
+
+                      Data warehouse for business agility and insights.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Looker
+                    
+
+                      Platform for BI, data applications, and embedded analytics.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataflow
+                    
+
+                      Streaming analytics for stream and batch processing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Pub/Sub
+                    
+
+                      Messaging service for event ingestion and delivery.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataproc
+                    
+
+                      Service for running Apache Spark and Apache Hadoop clusters.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Data Fusion
+                    
+
+                      Data integration for building and managing data pipelines.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Composer
+                    
+
+                      Workflow orchestration service built on Apache Airflow.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataprep
+                    
+
+                      Service to prepare data for analysis and machine learning.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataplex
+                    
+
+                      Intelligent data fabric for unifying data management across silos.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Data Catalog
+                    
+
+                      Metadata service for discovering, understanding, and managing data.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Analytics Hub
+                    
+
+                      Service for securely and efficiently exchanging data analytics assets.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all data analytics products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Databases
+                    
+
+
+
+
+
+
+
+
+
+
+                      AlloyDB for PostgreSQL
+                    
+
+                      Fully managed, PostgreSQL-compatible database for demanding enterprise workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Bigtable
+                    
+
+                      Cloud-native wide-column database for large scale, low-latency workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Firestore
+                    
+
+                      Cloud-native document database for building rich mobile, web, and IoT apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Memorystore
+                    
+
+                      In-memory database for managed Redis and Memcached.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Spanner
+                    
+
+                      Cloud-native relational database with unlimited scale and 99.999% availability.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud SQL
+                    
+
+                      Fully managed database for MySQL, PostgreSQL, and SQL Server.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Database Migration Service
+                    
+
+                      Serverless, minimal downtime migrations to Cloud SQL.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Bare Metal Solution for Oracle
+                    
+
+                      Infrastructure to run specialized Oracle workloads on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Firebase Realtime Database
+                    
+
+                      NoSQL database for storing and syncing data in real time.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Datastream
+                    
+
+                      Serverless change data capture and replication service.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Developer Tools
+                    
+
+
+
+
+
+
+
+
+
+
+                      Artifact Registry
+                    
+
+                      Universal package manager for build artifacts and dependencies.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Build
+                    
+
+                      Continuous integration and continuous delivery platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Code
+                    
+
+                      IDE support to write, run, and debug Kubernetes applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Deployment Manager
+                    
+
+                      Service for creating and managing Google Cloud resources.
+                    
+
+
+
+
+
+
+
+
+
+
+                      gcloud CLI
+                    
+
+                      Command line tools and libraries for Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Scheduler
+                    
+
+                      Cron job scheduler for task automation and management.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Source Repositories
+                    
+
+                      Private Git repository to store, manage, and track code.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Tasks
+                    
+
+                      Task management service for asynchronous task execution.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Cloud Deploy
+                    
+
+                      Fully managed continuous delivery to Google Kubernetes Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Tekton
+                    
+
+                      Kubernetes-native resources for declaring CI/CD pipelines.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Tools for PowerShell
+                    
+
+                      Full cloud control from Windows PowerShell.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all developer tools
+                    
+
+
+
+
+
+
+Healthcare and Life Sciences
+
+
+
+
+
+
+
+
+                      Apigee Healthcare APIx
+                    
+
+                      FHIR API-based digital service production.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Healthcare API
+                    
+
+                      Solution for bridging existing care systems and apps on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Life Sciences
+                    
+
+                      Tools for managing, processing, and transforming biomedical data.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Healthcare Natural Language AI
+                    
+
+                      Real-time insights from unstructured medical text.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Hybrid and Multicloud
+                    
+
+
+
+
+
+
+
+
+
+
+                      Anthos
+                    
+
+                      Platform for modernizing existing apps and building new ones.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Looker
+                    
+
+                      Platform for BI, data applications, and embedded analytics.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run for Anthos
+                    
+
+                      Integration that provides a serverless development platform on GKE.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Cloud Marketplace for Anthos
+                    
+
+                      Containerized apps with prebuilt deployment and unified billing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Anthos
+                    
+
+                      Tool to move workloads and existing applications to GKE.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Operations
+                    
+
+                      Monitoring, logging, and application performance suite.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Build
+                    
+
+                      Service for executing builds on Google Cloud infrastructure.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Traffic Director
+                    
+
+                      Traffic control pane and management for open service mesh.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Apigee API Management
+                    
+
+                      API management, development, and security platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Distributed Cloud
+                    
+
+                      Fully managed solutions for the edge and data centers.
+                    
+
+
+
+
+
+
+Internet of Things
+
+
+
+
+
+
+
+
+                      Cloud IoT Core
+                    
+
+                      IoT device management, integration, and  connection service.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Edge TPU
+                    
+
+                      ASIC designed to run ML inference and AI at the edge.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Management Tools
+                    
+
+
+
+
+
+
+
+
+
+
+                      Anthos Config Management
+                    
+
+                      Automate policy and security for your deployments.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Carbon Footprint
+                    
+
+                      Dashboard to view and export Google Cloud carbon emissions reports.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud APIs
+                    
+
+                      Programmatic interfaces for  Google Cloud services.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud console
+                    
+
+                      Web-based interface for managing and monitoring cloud apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Mobile App
+                    
+
+                      App to  manage Google Cloud services from your mobile device.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Shell
+                    
+
+                      Interactive shell environment with a built-in command line.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Config Connector
+                    
+
+                      Kubernetes add-on for managing Google Cloud resources.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cost Management
+                    
+
+                      Tools for monitoring, controlling, and optimizing your costs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Intelligent Management
+                    
+
+                      Tools for easily managing performance, security, and cost.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Private Catalog
+                    
+
+                      Service catalog for admins managing internal enterprise solutions.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Terraform on Google Cloud
+                    
+
+                      Open source tool to provision Google Cloud resources with declarative configuration files.
+                    
+
+
+
+
+
+
+Media and Gaming
+
+
+
+
+
+
+
+
+                      Game Servers
+                    
+
+                      Game server management service running on Google Kubernetes Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      OpenCue
+                    
+
+                      Open source render manager for visual effects and animation.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Transcoder API
+                    
+
+                      Convert video files and package them for optimized delivery.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Migration
+                    
+
+
+
+
+
+
+
+
+
+
+                      Application Migration
+                    
+
+                      App migration to the cloud for low-cost refresh cycles.
+                    
+
+
+
+
+
+
+
+
+
+
+                      BigQuery Data Transfer Service
+                    
+
+                      Data import service for scheduling and moving data into BigQuery.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Foundation Toolkit
+                    
+
+                      Reference templates for Deployment Manager and Terraform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Database Migration Service
+                    
+
+                      Serverless, minimal downtime migrations to Cloud SQL.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Anthos
+                    
+
+                      Components for migrating VMs into system containers on GKE.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Compute Engine
+                    
+
+                      Components for migrating VMs and physical servers to Compute Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Rapid Assessment & Migration Program (RAMP)
+                    
+
+                      End-to-end migration program to simplify your path to the cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Transfer Appliance
+                    
+
+                      Storage server for moving large volumes of data to Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Storage Transfer Service
+                    
+
+                      Data transfers from online and on-premises sources to Cloud Storage.
+                    
+
+
+
+
+
+
+
+
+
+
+                      VMware Engine
+                    
+
+                      Migrate and run your VMware workloads natively on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Networking
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Armor
+                    
+
+                      Security policies and defense against web and DDoS attacks.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud CDN
+                    
+
+                      Content delivery network for serving web and video content.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud DNS
+                    
+
+                      Domain name system for reliable and low-latency name lookups.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Load Balancing
+                    
+
+                      Service for distributing traffic across applications and regions.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud NAT
+                    
+
+                      NAT service for giving private instances internet access.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Hybrid Connectivity
+                    
+
+                      Connectivity options for VPN, peering, and enterprise needs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Network Connectivity Center
+                    
+
+                      Connectivity management to help simplify and scale networks.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Network Intelligence Center
+                    
+
+                      Network monitoring, verification, and optimization platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Network Service Tiers
+                    
+
+                      Cloud network options  based on performance, availability, and cost.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Traffic Director
+                    
+
+                      Traffic control pane and management for open service mesh.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all networking products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Operations
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Logging
+                    
+
+                      Google Cloud audit, platform, and application logs management.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Monitoring
+                    
+
+                      Infrastructure and application health with rich metrics.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Error Reporting
+                    
+
+                      Application error identification and analysis.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Kubernetes Engine Monitoring
+                    
+
+                      GKE app development and troubleshooting.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Trace
+                    
+
+                      Tracing system collecting latency data from applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Profiler
+                    
+
+                      CPU and heap profiler for analyzing application performance.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Debugger
+                    
+
+                      Real-time application state inspection and in-production debugging.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Intelligent Operations
+                    
+
+                      Tools for easily optimizing performance, security, and cost.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Security and Identity
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud IAM
+                    
+
+                      Permissions management system for Google Cloud resources.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Assured Workloads
+                    
+
+                      Compliance and security controls for sensitive workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Key Management
+                    
+
+                      Manage encryption keys on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Confidential Computing
+                    
+
+                      Encrypt data in use with Confidential VMs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Security Command Center
+                    
+
+                      Platform for defending against threats to your Google Cloud assets.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Data Loss Prevention
+                    
+
+                      Sensitive data inspection, classification, and redaction platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Managed Service for Microsoft Active Directory
+                    
+
+                      Hardened service running Microsoft® Active Directory (AD).
+                    
+
+
+
+
+
+
+
+
+
+
+                      Access Transparency
+                    
+
+                      Cloud provider visibility through near real-time logs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Titan Security Key
+                    
+
+                      Two-factor authentication device for user account protection.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Secret Manager
+                    
+
+                      Store API keys, passwords, certificates, and other sensitive data.
+                    
+
+
+
+
+
+
+
+
+
+
+                      BeyondCorp Enterprise
+                    
+
+                      Zero trust solution for secure application and resource access.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+
+                      See all security and identity products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Serverless Computing
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Functions
+                    
+
+                      Platform for creating functions that respond to cloud events.
+                    
+
+
+
+
+
+
+
+
+
+
+                      App Engine
+                    
+
+                      Serverless application platform for apps and back ends.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Workflows
+                    
+
+                      Workflow orchestration for serverless products and API services.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Storage
+                    
+
+
+
+
+
+
+
+
+
+
+                      All Storage Products
+                    
+
+                      Cloud-based storage services for your business.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Storage
+                    
+
+                      Object storage that’s secure, durable, and scalable.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Filestore
+                    
+
+                      File storage that is highly scalable and secure.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Persistent Disk
+                    
+
+                      Block storage for virtual machine instances running on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Storage for Firebase
+                    
+
+                      Object storage for storing and serving user-generated content.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Local SSD
+                    
+
+                      Block storage that is locally attached for high-performance needs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Storage Transfer Service
+                    
+
+                      Data transfers from online and on-premises sources to Cloud Storage.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Workspace Essentials
+                    
+
+                      Secure video meetings and modern collaboration for teams.
+                    
+
+
+
+
+
+
+
+
+
+  Pricing
+
+
+
+close
+
+
+
+Save money with our transparent approach to pricing
+Google Cloud's pay-as-you-go pricing offers automatic savings based on monthly usage and discounted rates for prepaid resources. Contact us today to get a quote.
+
+
+
+
+                      Request a quote
+                    
+
+
+
+
+
+
+Google Cloud
+
+
+
+                      Pricing overview
+                    
+
+                      Pay only for what you use with no lock-in.
+                    
+
+
+
+
+
+                      Price list
+                    
+
+                      Get pricing details for individual products.
+                    
+
+
+
+
+
+                      Pricing calculator
+                    
+
+                      Calculate your cloud savings.
+                    
+
+
+
+
+
+                      Google Cloud Free Program
+                    
+
+                      $300 in free credits and 20+ free products.
+                    
+
+
+
+
+
+
+Related Products
+
+
+
+                      Google Workspace
+                    
+
+
+
+
+
+                      Google Maps Platform
+                    
+
+
+
+
+
+                      Chrome Enterprise
+                    
+
+
+
+
+
+                      Apigee
+                    
+
+
+
+
+
+                      Looker
+                    
+
+
+
+
+
+                      Firebase
+                    
+
+
+
+
+
+
+
+
+
+  Getting started
+
+
+
+close
+
+
+
+Get started with Google Cloud
+Start building right away on our secure, intelligent platform. New customers get $300 in free credits to use toward Google Cloud products and services.
+
+
+
+                      Get started for free
+                    
+
+
+
+
+
+
+Self-service Resources
+
+
+
+                      Get started
+                    
+
+                      Get started with Google Cloud.
+                    
+
+
+
+
+
+                      Developer Center
+                    
+
+                      Stay in the know and become an Innovator.
+                    
+
+
+
+
+
+                      Google Cloud certification
+                    
+
+                      Prepare and register for certifications.
+                    
+
+
+
+
+
+
+Expert help and training
+
+
+
+                      Consulting
+                    
+
+                      Partner with our experts on cloud projects.
+                    
+
+
+
+
+
+                      Technical Account Management
+                    
+
+                      Get ongoing guidance from Google.
+                    
+
+
+
+
+
+                      Training
+                    
+
+                      Enroll in on-demand or classroom training.
+                    
+
+
+
+
+
+
+Partners and third-party tools
+
+
+
+                      Google Cloud partners
+                    
+
+                      Explore benefits of working with a partner.
+                    
+
+
+
+
+
+                      Become a partner
+                    
+
+                      Join the Partner Advantage program.
+                    
+
+
+
+
+
+                      Google Cloud Marketplace
+                    
+
+                      Deploy ready-to-go solutions in a few clicks.
+                    
+
+
+
+
+
+
+
+
+
+  Docs
+
+
+
+
+  Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Docs
+
+
+
+
+  Support
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+Get started for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Why Google
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Solutions
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Products
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Pricing
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Getting started
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Docs
+   
+
+
+
+
+
+      Support
+   
+
+
+
+
+
+      Console
+   
+
+
+
+
+
+      Contact Us
+   
+
+
+
+
+
+      Get started for free
+   
+
+
+
+
+
+
+
+
+
+      Discover why leading businesses choose Google Cloud
+   
+
+
+
+
+
+      Learn more
+   
+
+
+
+
+
+      Key benefits
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Multicloud
+   
+
+
+
+
+
+      Trust and security
+   
+
+
+
+
+
+      Global infrastructure
+   
+
+
+
+
+
+      Data cloud
+   
+
+
+
+
+
+      Open cloud
+   
+
+
+
+
+
+      Sustainability
+   
+
+
+
+
+
+      Productivity and collaboration
+   
+
+
+
+
+
+      Resources
+   
+
+
+
+
+
+      Events
+   
+
+
+
+
+
+      Blog
+   
+
+
+
+
+
+      Customer stories
+   
+
+
+
+
+
+      Analyst reports
+   
+
+
+
+
+
+
+
+      Industry Solutions
+   
+
+
+
+
+
+      Retail
+   
+
+
+
+
+
+      Consumer Packaged Goods
+   
+
+
+
+
+
+      Financial Services
+   
+
+
+
+
+
+      Healthcare and Life Sciences
+   
+
+
+
+
+
+      Media and Entertainment
+   
+
+
+
+
+
+      Telecommunications
+   
+
+
+
+
+
+      Gaming
+   
+
+
+
+
+
+      Manufacturing
+   
+
+
+
+
+
+      Supply Chain and Logistics
+   
+
+
+
+
+
+      Government
+   
+
+
+
+
+
+      Education
+   
+
+
+
+
+
+      See all industry solutions
+   
+
+
+
+
+
+      See all solutions
+   
+
+
+
+
+
+      Application Modernization
+   
+
+
+
+
+
+      Hybrid and Multi-cloud Application Platform
+   
+
+
+
+
+
+      API Management
+   
+
+
+
+
+
+      Serverless Solutions
+   
+
+
+
+
+
+      DevOps
+   
+
+
+
+
+
+      Continuous Delivery (CD)
+   
+
+
+
+
+
+      Continuous Integration (CI)
+   
+
+
+
+
+
+      Mainframe Modernization
+   
+
+
+
+
+
+      CAMP
+   
+
+
+
+
+
+      Hosting
+   
+
+
+
+
+
+      Site Reliability Engineering (SRE)
+   
+
+
+
+
+
+      Artificial Intelligence
+   
+
+
+
+
+
+      Build and use AI
+   
+
+
+
+
+
+      Contact Center AI
+   
+
+
+
+
+
+      Agent Assist
+   
+
+
+
+
+
+      Cloud Talent Solution
+   
+
+
+
+
+
+      Document AI
+   
+
+
+
+
+
+      Lending DocAI
+   
+
+
+
+
+
+      Procurement DocAI
+   
+
+
+
+
+
+      Intelligent products
+   
+
+
+
+
+
+      Data Science
+   
+
+
+
+
+
+      Contract DocAI
+   
+
+
+
+
+
+      Contact Center AI Insights
+   
+
+
+
+
+
+      APIs and Applications
+   
+
+
+
+
+
+      New Business Channels Using APIs
+   
+
+
+
+
+
+      Unlocking Legacy Applications Using APIs
+   
+
+
+
+
+
+      Open Banking APIx
+   
+
+
+
+
+
+      Databases
+   
+
+
+
+
+
+      Database Migration
+   
+
+
+
+
+
+      Database Modernization
+   
+
+
+
+
+
+      Google Cloud Databases
+   
+
+
+
+
+
+      Migrate Oracle workloads to Google Cloud
+   
+
+
+
+
+
+      Open Source Databases
+   
+
+
+
+
+
+      SQL Server on Google Cloud
+   
+
+
+
+
+
+      Data Cloud
+   
+
+
+
+
+
+      Databases Solutions
+   
+
+
+
+
+
+      Smart Analytics Solutions
+   
+
+
+
+
+
+      AI Solutions
+   
+
+
+
+
+
+      Data Cloud for ISVs
+   
+
+
+
+
+
+      Data Cloud Alliance
+   
+
+
+
+
+
+      Digital Transformation
+   
+
+
+
+
+
+      Digital Innovation
+   
+
+
+
+
+
+      Operational Efficiency
+   
+
+
+
+
+
+      COVID-19 Solutions
+   
+
+
+
+
+
+      COVID-19 Solutions for the Healthcare Industry
+   
+
+
+
+
+
+      Infrastructure Modernization
+   
+
+
+
+
+
+      Application Migration
+   
+
+
+
+
+
+      SAP on Google Cloud
+   
+
+
+
+
+
+      High Performance Computing
+   
+
+
+
+
+
+      Windows on Google Cloud
+   
+
+
+
+
+
+      Data Center Migration
+   
+
+
+
+
+
+      Active Assist
+   
+
+
+
+
+
+      Virtual Desktops
+   
+
+
+
+
+
+      Rapid Assessment & Migration Program (RAMP)
+   
+
+
+
+
+
+      Backup and Disaster Recovery
+   
+
+
+
+
+
+      Productivity and Collaboration
+   
+
+
+
+
+
+      Google Workspace
+   
+
+
+
+
+
+      Google Workspace Essentials
+   
+
+
+
+
+
+      Cloud Identity
+   
+
+
+
+
+
+      Chrome Enterprise
+   
+
+
+
+
+
+      Cloud Search
+   
+
+
+
+
+
+      Security
+   
+
+
+
+
+
+      Security Analytics and Operations
+   
+
+
+
+
+
+      Web App and API Protection
+   
+
+
+
+
+
+      Security and Resilience Framework
+   
+
+
+
+
+
+      Risk and compliance as code (RCaC)
+   
+
+
+
+
+
+      Smart Analytics
+   
+
+
+
+
+
+      Data Warehouse Modernization
+   
+
+
+
+
+
+      Data Lake Modernization
+   
+
+
+
+
+
+      Spark on Google Cloud
+   
+
+
+
+
+
+      Stream Analytics
+   
+
+
+
+
+
+      Business Intelligence
+   
+
+
+
+
+
+      Data Science
+   
+
+
+
+
+
+      Marketing Analytics
+   
+
+
+
+
+
+      Geospatial Analytics and AI
+   
+
+
+
+
+
+      Datasets
+   
+
+
+
+
+
+      Startups and SMB
+   
+
+
+
+
+
+      Startup Solutions
+   
+
+
+
+
+
+      Startup Program
+   
+
+
+
+
+
+      Small and Medium Business
+   
+
+
+
+
+
+      Software as a Service
+   
+
+
+
+
+
+
+
+      Featured Products
+   
+
+
+
+
+
+      Compute Engine
+   
+
+
+
+
+
+      Cloud Storage
+   
+
+
+
+
+
+      Cloud SDK
+   
+
+
+
+
+
+      Cloud SQL
+   
+
+
+
+
+
+      Google Kubernetes Engine
+   
+
+
+
+
+
+      BigQuery
+   
+
+
+
+
+
+      Cloud CDN
+   
+
+
+
+
+
+      Dataflow
+   
+
+
+
+
+
+      Operations
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      Anthos
+   
+
+
+
+
+
+      See all products (100+)
+   
+
+
+
+
+
+      AI and Machine Learning
+   
+
+
+
+
+
+      Vertex AI
+   
+
+
+
+
+
+      Speech-to-Text
+   
+
+
+
+
+
+      Vision AI
+   
+
+
+
+
+
+      Text-to-Speech
+   
+
+
+
+
+
+      Cloud Translation
+   
+
+
+
+
+
+      Cloud Natural Language
+   
+
+
+
+
+
+      AutoML
+   
+
+
+
+
+
+      Video AI
+   
+
+
+
+
+
+      AI Infrastructure
+   
+
+
+
+
+
+      Dialogflow
+   
+
+
+
+
+
+      AutoML Tables
+   
+
+
+
+
+
+      See all AI and machine learning products
+   
+
+
+
+
+
+      API Management
+   
+
+
+
+
+
+      Apigee API Management
+   
+
+
+
+
+
+      Apigee Integration
+   
+
+
+
+
+
+      Cloud Healthcare API
+   
+
+
+
+
+
+      AppSheet
+   
+
+
+
+
+
+      API Gateway
+   
+
+
+
+
+
+      Compute
+   
+
+
+
+
+
+      Compute Engine
+   
+
+
+
+
+
+      App Engine
+   
+
+
+
+
+
+      Cloud GPUs
+   
+
+
+
+
+
+      Migrate for Compute Engine
+   
+
+
+
+
+
+      Spot VMs
+   
+
+
+
+
+
+      Shielded VMs
+   
+
+
+
+
+
+      Sole-Tenant Nodes
+   
+
+
+
+
+
+      Bare Metal
+   
+
+
+
+
+
+      Recommender
+   
+
+
+
+
+
+      VMware Engine
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      See all compute products
+   
+
+
+
+
+
+      Containers
+   
+
+
+
+
+
+      Google Kubernetes Engine
+   
+
+
+
+
+
+      Container Registry
+   
+
+
+
+
+
+      Container Security
+   
+
+
+
+
+
+      Cloud Build
+   
+
+
+
+
+
+      Deep Learning Containers
+   
+
+
+
+
+
+      Kubernetes Applications
+   
+
+
+
+
+
+      Artifact Registry
+   
+
+
+
+
+
+      Knative
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      Cloud Code
+   
+
+
+
+
+
+      Data Analytics
+   
+
+
+
+
+
+      BigQuery
+   
+
+
+
+
+
+      Looker
+   
+
+
+
+
+
+      Dataflow
+   
+
+
+
+
+
+      Pub/Sub
+   
+
+
+
+
+
+      Dataproc
+   
+
+
+
+
+
+      Cloud Data Fusion
+   
+
+
+
+
+
+      Cloud Composer
+   
+
+
+
+
+
+      Dataprep
+   
+
+
+
+
+
+      Dataplex
+   
+
+
+
+
+
+      Data Catalog
+   
+
+
+
+
+
+      Analytics Hub
+   
+
+
+
+
+
+      See all data analytics products
+   
+
+
+
+
+
+      Databases
+   
+
+
+
+
+
+      AlloyDB for PostgreSQL
+   
+
+
+
+
+
+      Cloud Bigtable
+   
+
+
+
+
+
+      Firestore
+   
+
+
+
+
+
+      Memorystore
+   
+
+
+
+
+
+      Cloud Spanner
+   
+
+
+
+
+
+      Cloud SQL
+   
+
+
+
+
+
+      Database Migration Service
+   
+
+
+
+
+
+      Bare Metal Solution for Oracle
+   
+
+
+
+
+
+      Firebase Realtime Database
+   
+
+
+
+
+
+      Datastream
+   
+
+
+
+
+
+      Developer Tools
+   
+
+
+
+
+
+      Artifact Registry
+   
+
+
+
+
+
+      Cloud Build
+   
+
+
+
+
+
+      Cloud Code
+   
+
+
+
+
+
+      Cloud Deployment Manager
+   
+
+
+
+
+
+      gcloud CLI
+   
+
+
+
+
+
+      Cloud Scheduler
+   
+
+
+
+
+
+      Cloud Source Repositories
+   
+
+
+
+
+
+      Cloud Tasks
+   
+
+
+
+
+
+      Google Cloud Deploy
+   
+
+
+
+
+
+      Tekton
+   
+
+
+
+
+
+      Tools for PowerShell
+   
+
+
+
+
+
+      See all developer tools
+   
+
+
+
+
+
+      Healthcare and Life Sciences
+   
+
+
+
+
+
+      Apigee Healthcare APIx
+   
+
+
+
+
+
+      Cloud Healthcare API
+   
+
+
+
+
+
+      Cloud Life Sciences
+   
+
+
+
+
+
+      Healthcare Natural Language AI
+   
+
+
+
+
+
+      Hybrid and Multicloud
+   
+
+
+
+
+
+      Anthos
+   
+
+
+
+
+
+      Looker
+   
+
+
+
+
+
+      Cloud Run for Anthos
+   
+
+
+
+
+
+      Google Cloud Marketplace for Anthos
+   
+
+
+
+
+
+      Migrate for Anthos
+   
+
+
+
+
+
+      Operations
+   
+
+
+
+
+
+      Cloud Build
+   
+
+
+
+
+
+      Traffic Director
+   
+
+
+
+
+
+      Apigee API Management
+   
+
+
+
+
+
+      Google Distributed Cloud
+   
+
+
+
+
+
+      Internet of Things
+   
+
+
+
+
+
+      Cloud IoT Core
+   
+
+
+
+
+
+      Edge TPU
+   
+
+
+
+
+
+      Management Tools
+   
+
+
+
+
+
+      Anthos Config Management
+   
+
+
+
+
+
+      Carbon Footprint
+   
+
+
+
+
+
+      Cloud APIs
+   
+
+
+
+
+
+      Cloud console
+   
+
+
+
+
+
+      Cloud Mobile App
+   
+
+
+
+
+
+      Cloud Shell
+   
+
+
+
+
+
+      Config Connector
+   
+
+
+
+
+
+      Cost Management
+   
+
+
+
+
+
+      Intelligent Management
+   
+
+
+
+
+
+      Private Catalog
+   
+
+
+
+
+
+      Terraform on Google Cloud
+   
+
+
+
+
+
+      Media and Gaming
+   
+
+
+
+
+
+      Game Servers
+   
+
+
+
+
+
+      OpenCue
+   
+
+
+
+
+
+      Transcoder API
+   
+
+
+
+
+
+      Migration
+   
+
+
+
+
+
+      Application Migration
+   
+
+
+
+
+
+      BigQuery Data Transfer Service
+   
+
+
+
+
+
+      Cloud Foundation Toolkit
+   
+
+
+
+
+
+      Database Migration Service
+   
+
+
+
+
+
+      Migrate for Anthos
+   
+
+
+
+
+
+      Migrate for Compute Engine
+   
+
+
+
+
+
+      Rapid Assessment & Migration Program (RAMP)
+   
+
+
+
+
+
+      Transfer Appliance
+   
+
+
+
+
+
+      Storage Transfer Service
+   
+
+
+
+
+
+      VMware Engine
+   
+
+
+
+
+
+      Networking
+   
+
+
+
+
+
+      Cloud Armor
+   
+
+
+
+
+
+      Cloud CDN
+   
+
+
+
+
+
+      Cloud DNS
+   
+
+
+
+
+
+      Cloud Load Balancing
+   
+
+
+
+
+
+      Cloud NAT
+   
+
+
+
+
+
+      Hybrid Connectivity
+   
+
+
+
+
+
+      Network Connectivity Center
+   
+
+
+
+
+
+      Network Intelligence Center
+   
+
+
+
+
+
+      Network Service Tiers
+   
+
+
+
+
+
+      Traffic Director
+   
+
+
+
+
+
+      See all networking products
+   
+
+
+
+
+
+      Operations
+   
+
+
+
+
+
+      Cloud Logging
+   
+
+
+
+
+
+      Cloud Monitoring
+   
+
+
+
+
+
+      Error Reporting
+   
+
+
+
+
+
+      Kubernetes Engine Monitoring
+   
+
+
+
+
+
+      Cloud Trace
+   
+
+
+
+
+
+      Cloud Profiler
+   
+
+
+
+
+
+      Cloud Debugger
+   
+
+
+
+
+
+      Intelligent Operations
+   
+
+
+
+
+
+      Security and Identity
+   
+
+
+
+
+
+      Cloud IAM
+   
+
+
+
+
+
+      Assured Workloads
+   
+
+
+
+
+
+      Cloud Key Management
+   
+
+
+
+
+
+      Confidential Computing
+   
+
+
+
+
+
+      Security Command Center
+   
+
+
+
+
+
+      Cloud Data Loss Prevention
+   
+
+
+
+
+
+      Managed Service for Microsoft Active Directory
+   
+
+
+
+
+
+      Access Transparency
+   
+
+
+
+
+
+      Titan Security Key
+   
+
+
+
+
+
+      Secret Manager
+   
+
+
+
+
+
+      BeyondCorp Enterprise
+   
+
+
+
+
+
+      See all security and identity products
+   
+
+
+
+
+
+      Serverless Computing
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      Cloud Functions
+   
+
+
+
+
+
+      App Engine
+   
+
+
+
+
+
+      Workflows
+   
+
+
+
+
+
+      Storage
+   
+
+
+
+
+
+      All Storage Products
+   
+
+
+
+
+
+      Cloud Storage
+   
+
+
+
+
+
+      Filestore
+   
+
+
+
+
+
+      Persistent Disk
+   
+
+
+
+
+
+      Cloud Storage for Firebase
+   
+
+
+
+
+
+      Local SSD
+   
+
+
+
+
+
+      Storage Transfer Service
+   
+
+
+
+
+
+      Google Workspace Essentials
+   
+
+
+
+
+
+
+
+      Save money with our transparent approach to pricing
+   
+
+
+
+
+
+      Request a quote
+   
+
+
+
+
+
+      Google Cloud
+   
+
+
+
+
+
+      Pricing overview
+   
+
+
+
+
+
+      Price list
+   
+
+
+
+
+
+      Pricing calculator
+   
+
+
+
+
+
+      Google Cloud Free Program
+   
+
+
+
+
+
+      Related Products
+   
+
+
+
+
+
+      Google Workspace
+   
+
+
+
+
+
+      Google Maps Platform
+   
+
+
+
+
+
+      Chrome Enterprise
+   
+
+
+
+
+
+      Apigee
+   
+
+
+
+
+
+      Looker
+   
+
+
+
+
+
+      Firebase
+   
+
+
+
+
+
+
+
+      Get started with Google Cloud
+   
+
+
+
+
+
+      Get started for free
+   
+
+
+
+
+
+      Self-service Resources
+   
+
+
+
+
+
+      Get started
+   
+
+
+
+
+
+      Developer Center
+   
+
+
+
+
+
+      Google Cloud certification
+   
+
+
+
+
+
+      Expert help and training
+   
+
+
+
+
+
+      Consulting
+   
+
+
+
+
+
+      Technical Account Management
+   
+
+
+
+
+
+      Training
+   
+
+
+
+
+
+      Partners and third-party tools
+   
+
+
+
+
+
+      Google Cloud partners
+   
+
+
+
+
+
+      Become a partner
+   
+
+
+
+
+
+      Google Cloud Marketplace
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get $300 in free credits and free usage of 20+ products
+
+arrow_forward
+
+
+
+
+
+
+
+Built by developers, for
+                    developers
+
+
+Get started with Google Cloud’s easy-to-use platform, tools,
+                  and APIs. Or join the Innovators Program for special
+                  invitations, product previews, and more.
+
+
+
+
+
+
+
+
+      Get started for free
+      
+    
+      
+
+
+
+      Join Innovators Program
+      
+    
+      
+
+
+
+
+
+
+
+      Go to console
+      
+    
+      
+
+
+
+      Join Innovators Program
+      
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deploy with 80% fewer lines of code in the Google Cloud console
+
+
+
+
+
+
+
+
+
+
+For developers
+What's new
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEVELOPER CENTER
+Explore technical blogs, how-tos, and resources
+
+
+
+
+
+
+
+
+
+
+
+QUICKSTART
+Create a Linux VM with Compute Engine
+
+
+
+
+
+
+
+
+
+
+
+DEVELOPER ADVOCATES
+Connect with Google engineers to support your cloud journey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENT
+Save the date for Google Cloud Next ’22: October 11-13
+
+
+
+
+
+
+
+
+
+
+
+2-MINUTE QUIZ
+How data-driven is your company culture?
+
+
+
+
+
+
+
+
+
+
+
+REPORT
+Rank your digital transformation against global leaders 
+
+
+
+
+
+
+            ; 
+  
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Choose from over 150 cutting-edge
+                products
+
+ Solve your
+            toughest challenges with Google Cloud. 
+
+
+
+
+      Request a quote
+      
+    
+      
+
+
+
+      See all products
+      
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+                        Compute
+
+
+
+
+
+
+
+
+Create and run
+                              customizable virtual machines with
+                              Compute Engine.
+                              For scale-out workloads,
+                              Tau VMs
+                              offer 42% better price performance over comparable
+                              cloud offerings.
+
+
+
+
+
+
+
+Automatically
+                              deploy, scale, and manage containers with
+                              Google Kubernetes Engine
+                              or
+                              Cloud Run
+
+
+
+
+
+
+
+
+Migrate your
+                              apps at your own pace by
+                              moving directly to virtual machines
+                              or automatically
+                              modernizing to containers—without
+                              rewriting code
+
+
+
+
+
+
+
+
+                        Storage
+
+
+
+
+
+
+
+
+Store any type
+                              of data, any amount of data, and retrieve it as
+                              often as you’d like with
+                              object storage
+
+
+
+
+
+
+
+
+Transfer data
+                              with online and offline transfer solutions,
+                              including
+                              Storage Transfer Service
+                              and
+                              Transfer Appliance
+
+
+
+
+
+
+
+
+
+Persistent Disk block storage
+                              is fully integrated with Google Cloud products
+                              like Compute Engine and GKE
+
+
+
+
+
+
+
+
+                        Databases
+
+
+
+
+
+
+
+
+Reduce
+                              maintenance costs with fully managed
+                              MySQL,
+                              PostgreSQL,
+                              and SQL Server databases
+
+
+
+
+
+
+
+Simplify
+                              migrations to
+                              Cloud SQL
+                              from MySQL and PostgreSQL with the
+                              Database Migration Service
+
+
+
+
+
+
+
+
+
+Develop rich applications
+                              using a fully managed, scalable, and serverless
+                              document database
+
+
+
+
+
+
+
+
+                        Data analytics
+
+
+
+
+
+
+
+
+Run
+                              analytics at scale
+                              with 26%–34% lower three-year TCO on BigQuery
+                              compared to cloud data warehouse alternatives
+
+
+
+
+
+
+
+Ingest,
+                              process, and
+                              analyze event streams
+                              in real time to make data more useful
+
+
+
+
+
+
+
+Reveal the true
+                              power of your data and bring clarity to every
+                              situation with
+                              Looker
+                              and Google Cloud
+
+
+
+
+
+
+
+
+                        AI and machine learning
+
+
+
+
+
+
+
+
+Build, deploy,
+                              and scale more effective AI models with our
+                              unified
+                              machine learning platform,
+                              Vertex AI
+
+
+
+
+
+
+
+Improve
+                              customer service with Contact Center AI’s
+                              virtual agents
+                              and conversational AI products like
+                              Speech-to-Text
+
+
+
+
+
+
+
+
+Derive insights
+                              from
+                              unstructured text
+                              and
+                              images
+                              with Natural Language AI and Vision AI
+
+
+
+
+
+
+
+
+                        Networking
+
+
+
+
+
+
+
+
+Help
+                              protect
+                              your applications and websites against denial of
+                              service and web attacks with Cloud Armor
+
+
+
+
+
+
+
+Quickly and
+                              securely scale
+                              web and video content delivery
+                              with Cloud CDN
+
+
+
+
+
+
+
+Explore
+                              hybrid connectivity options,
+                              including VPN, peering, and enterprise support
+
+
+
+
+
+
+
+
+                        Developer tools
+
+
+
+
+
+
+
+
+
+Write, debug, and run
+                              cloud-native applications, locally or in the
+                              cloud—quickly and easily with Cloud Code
+
+
+
+
+
+
+
+With
+                              Cloud Build,
+                              continuously build, test, and deploy software
+                              across all languages and in multiple environments
+                            
+
+
+
+
+
+
+
+Try Google
+                              Cloud product sandboxes and tutorials—free for
+                              anyone with a Google account—including
+                              Anthos,
+                              GKE,
+                              and
+                              Cloud Run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save up to 30% over 3 years compared to other clouds with products like Anthos, BigQuery, and Active Assist.
+
+
+        
+      
+      See pricing
+      
+    
+       
+
+
+
+New customers get $300 in free credits to fully explore and conduct an assessment of Google Cloud. 
+
+
+        
+      
+      Get started for free
+      
+    
+       
+
+
+
+
+
+
+Save up to 30% over 3 years compared to other clouds with products like Anthos, BigQuery, and Active Assist.
+
+
+        
+      
+      See pricing
+      
+    
+       
+
+
+
+ 
+
+
+
+
+Solve your business problems with our
+            industry
+              solutions
+
+
+
+From
+              improving retail
+              product discovery
+              to detecting
+              bank fraud,
+              our industry solutions tackle your biggest challenges.
+
+
+
+
+
+      Request a demo
+      
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Retail
+          
+
+
+
+
+
+
+
+
+            Consumer packaged goods
+          
+
+
+
+
+
+
+
+
+            Financial services
+          
+
+
+
+
+
+
+
+
+            Healthcare and life sciences
+          
+
+
+
+
+
+
+
+
+            Media and entertainment
+          
+
+
+
+
+
+
+
+
+            Telecommunications
+          
+
+
+
+
+
+
+
+
+            Gaming
+          
+
+
+
+
+
+
+
+
+            Manufacturing
+          
+
+
+
+
+
+
+
+
+            Supply chain and logistics
+          
+
+
+
+
+
+
+
+
+            Government
+          
+
+
+
+
+
+
+
+
+            Education
+          
+
+
+
+
+
+
+      See all industries
+      
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+              8 / top 10
+
+
+              retail companies trust Google Cloud 
+
+
+
+
+
+
+
+
+
+
+The largest US beauty retailer
+                easily supported a 9X growth in user traffic with Google Cloud’s
+                highly scalable infrastructure. Discover what you can do
+                  with our
+                  retail solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Top consumer goods companies trust Google Cloud 
+
+
+
+
+
+
+
+
+
+
+General Mills makes faster
+                planning decisions and powers product personalization across 100
+                of its iconic brands with Google Cloud data analytics and AI.
+                Discover what you can do with our
+                  consumer packaged goods solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Top banking and insurance companies choose Google Cloud 
+
+
+
+
+
+
+
+
+
+
+Equifax uses Google Cloud
+                security, data and analytics, and AI tools to help deliver
+                better outcomes for millions of customers worldwide.
+                Discover what you can do with our
+                  financial services solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              6 / top 10
+
+
+              biotech and pharma companies trust Google Cloud 
+
+
+
+
+
+
+
+
+
+
+Schrödinger uses high performance
+                computing power in the cloud to accelerate the discovery of new
+                medicines. Discover what you can do with our
+                  healthcare and life sciences solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              8 / top 10
+
+
+              media and entertainment companies trust Google Cloud 
+
+
+
+
+
+
+
+
+
+
+MLB supports millions of stats
+                across 15 simultaneous games with Anthos. Discover what
+                  you can do with our
+                  media and entertainment solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              8 / top 10
+
+
+              telecommunications companies trust Google Cloud 
+
+
+
+
+
+
+
+
+
+
+Using data-driven insights,
+                Vodafone offers personalized mobile product recommendations to
+                their customers. Discover what you can do with our
+                  telecommunications solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Top gaming companies choose Google Cloud 
+
+
+
+
+
+
+
+
+
+
+The mobile gaming studio saves
+                time, prioritizes urgent tasks, and streamlines decision-making
+                with custom data experiences. Discover what you can do
+                  with our
+                  gaming solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              7 / top 10
+
+
+              manufacturing companies trust Google Cloud 
+
+
+
+
+
+
+
+
+
+
+The French automaker transforms
+                its supply chain with Google AI solutions, resulting in more
+                accurate quality controls and reduced time to market.
+                Discover what you can do with our
+                  manufacturing solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Top supply chain and logistics companies choose Google Cloud
+            
+
+
+
+
+
+
+
+
+
+
+J.B. Hunt enhances shipping
+                efficiency and makes informed decisions on available capacity
+                with data cloud products. Discover what you can do with
+                  our
+                  supply chain and logistics solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Top government agencies choose Google Cloud 
+
+
+
+
+
+
+
+
+
+
+The State of Illinois used Contact
+                Center AI virtual agents to handle more than 140,000 phone and
+                web unemployment inquiries per day. Discover what you
+                  can do with our
+                  government solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Top academic institutions choose Google Cloud 
+
+
+
+
+
+
+
+
+
+
+Georgetown University uses Google
+                Cloud to optimize their operations, accelerate research, and
+                prepare today’s rising leaders for tomorrow’s digital
+                economy. Discover what you can do with our education solutions.
+
+
+
+
+ 
+
+
+
+
+Customer innovation happens
+          on Google Cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        3:15
+      
+
+
+
+
+Goldman Sachs
+                    empowers its team to
+                    analyze data
+                    and
+                    scale compute power
+                    confidently
+
+
+
+
+      Watch the video
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        2:54
+      
+
+
+
+
+Spotify powers the
+                    playlists of 381 million monthly listeners with Google
+                    Cloud
+
+
+
+
+      Watch the video
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontier Development Lab,
+                    in partnership with NASA, analyzed a 20-year data bottleneck
+                    in 20 mins with
+                    Google Cloud AI
+
+
+
+
+      Launch the demo
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        1:55
+      
+
+
+
+
+Cardinal Health saved
+                    25% quarter over quarter by migrating to Google Cloud
+
+
+
+
+      Watch the video
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IKEA Retail increases
+                    ecommerce orders by 2% using Google Cloud
+
+
+
+
+      Read the blog
+      
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leading
+                      companies solve for innovation with Google
+                    Cloud
+
+
+
+
+      Read the Ebook
+      
+      
+        
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      See more customers
+      
+    
+      
+ 
+
+
+
+
+
+
+
+ Cloud
+              computing, ready for business 
+
+
+
+
+Whether you’re migrating or already in the cloud, we’ll help
+                  you modernize and digitally transform your business.
+
+
+
+
+
+      Talk to us
+      
+    
+      
+
+
+
+
+
+
+
+
+
+Run and build your apps, anywhere
+Avoid vendor lock-in and speed up development with Google Cloud’s commitment to open source, hybrid, and multicloud.
+
+
+
+
+
+
+
+
+
+Make smarter decisions with the leading data platform
+Give anyone on your team access to business insights with advanced machine learning and analytics.
+
+
+
+
+
+
+
+
+
+Protect what's important 
+Help defend your data and apps against threats and fraudulent activity with the same security technology Google uses.
+
+
+
+
+
+
+
+
+
+Transform how your teams collaborate—from anywhere
+Integrate video calling, email, chat, and document collaboration in one place.
+
+
+
+
+
+
+
+
+
+
+
+ Let’s start building  your tomorrow,
+          today 
+
+
+
+
+
+
+      Get started for free
+      
+    
+      
+
+
+
+      Contact sales
+      
+    
+      
+
+
+
+
+
+      Go to console
+      
+    
+      
+
+
+
+      Contact sales
+      
+    
+      
+
+
+
+
+
+
+ Call our sales team
+844-613-7591
+
+
+Run on the industry’s
+            cleanest cloud
+Learn more
+
+
+Stay in the know with the
+            Google Cloud newsletter
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Google
+
+
+
+            
+          
+            Choosing Google Cloud
+          
+          
+
+
+
+            
+          
+            Trust and security
+          
+          
+
+
+
+            
+          
+            Open cloud
+          
+          
+
+
+
+            
+          
+            Multicloud
+          
+          
+
+
+
+            
+          
+            Global infrastructure
+          
+          
+
+
+
+            
+          
+            Customers and case studies
+          
+          
+
+
+
+            
+          
+            Analyst reports
+          
+          
+
+
+
+            
+          
+            Whitepapers
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Blog
+          
+          
+
+
+
+
+Products and pricing
+
+
+
+            
+          
+            Google Cloud pricing
+          
+          
+
+
+
+            
+          
+            Google Workspace pricing
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            See all products
+          
+          
+
+
+
+
+Solutions
+
+
+
+            
+          
+            Infrastructure modernization
+          
+          
+
+
+
+            
+          
+            Databases
+          
+          
+
+
+
+            
+          
+            Application modernization
+          
+          
+
+
+
+            
+          
+            Smart analytics
+          
+          
+
+
+
+            
+          
+            Artificial Intelligence
+          
+          
+
+
+
+            
+          
+            Security
+          
+          
+
+
+
+            
+          
+            Productivity & work transformation
+          
+          
+
+
+
+            
+          
+            Industry solutions
+          
+          
+
+
+
+            
+          
+            DevOps solutions
+          
+          
+
+
+
+            
+          
+            Small business solutions
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            See all solutions
+          
+          
+
+
+
+
+Resources
+
+
+
+            
+          
+            Google Cloud documentation
+          
+          
+
+
+
+            
+          
+            Google Cloud quickstarts
+          
+          
+
+
+
+            
+          
+            Google Cloud Marketplace
+          
+          
+
+
+
+            
+          
+            Learn about cloud computing
+          
+          
+
+
+
+            
+          
+            Support
+          
+          
+
+
+
+            
+          
+            Code samples
+          
+          
+
+
+
+            
+          
+            Cloud Architecture Center
+          
+          
+
+
+
+            
+          
+            Training
+          
+          
+
+
+
+            
+          
+            Certifications
+          
+          
+
+
+
+            
+          
+            Google Developers
+          
+          
+
+
+
+            
+          
+            Google Cloud for Startups
+          
+          
+
+
+
+            
+          
+            System status
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Release Notes
+          
+          
+
+
+
+
+Engage
+
+
+
+            
+          
+            Contact sales
+          
+          
+
+
+
+            
+          
+            Find a Partner
+          
+          
+
+
+
+            
+          
+            Become a Partner
+          
+          
+
+
+
+            
+          
+            Events
+          
+          
+
+
+
+            
+          
+            Podcasts
+          
+          
+
+
+
+            
+          
+            Developer Center
+          
+          
+
+
+
+            
+          
+            Press Corner
+          
+          
+
+
+
+            
+          
+            Google Cloud on YouTube
+          
+          
+
+
+
+            
+          
+            Google Cloud Tech on YouTube
+          
+          
+
+
+
+            
+          
+            Follow on Twitter
+          
+          
+
+
+
+            
+          
+            Join User Research
+          
+          
+
+
+
+            
+          
+            We're hiring. Join Google Cloud!
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Cloud Community
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Cookie Settings
+        
+
+
+
+          About Google
+        
+
+
+
+          Privacy
+        
+
+
+
+          Site terms
+        
+
+
+
+          Google Cloud terms
+        
+
+
+
+          Carbon neutral since 2007
+        
+
+
+Sign up for the Google Cloud newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

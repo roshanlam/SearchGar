@@ -1,0 +1,879 @@
+
+
+
+
+
+
+      Google AdSense - Earn Money From Website Monetization
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AdSense
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Solutions
+
+
+Auto Ads
+
+
+Responsive Ads
+
+
+
+
+Success Stories
+
+
+Resources
+
+
+Blog
+
+
+
+
+
+
+Sign in
+
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AdSense
+
+
+
+
+
+
+Home
+
+
+Solutions
+
+
+Auto Ads
+
+
+Responsive Ads
+
+
+
+
+Success Stories
+
+
+Resources
+
+
+Blog
+
+
+
+
+
+
+
+Sign in
+
+
+Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              We value your content
+            
+
+
+
+              Creating content takes time, making it profitable shouldn't
+            
+Get started
+
+
+
+
+
+            2 million people have chosen AdSense, here's why
+          
+
+
+
+
+                Earn money from your site
+              
+
+                Millions of advertisers compete for your ad space. That means more money, more relevant ads, and more ad spaces filled.
+              
+
+
+
+
+                Ads optimized for mobile
+              
+
+                Google can optimize the size of your ad units to automatically fit desktop or mobile, meaning there's more chance they'll be seen and clicked.
+              
+
+
+
+
+                Save time
+              
+
+                Add one piece of code to your site and Google will automatically show ads tailored to your site's layout, saving you time making changes to ad code.
+              
+
+
+
+
+
+
+
+
+
+
+            Drive revenue
+          
+
+
+              See how much you could earn from AdSense
+            
+
+
+
+              To view your potential earnings, select a category for your site and a region for your site's visitors.
+            
+
+
+
+
+
+
+
+Calculate
+
+
+
+              Your site visitors location and content category is set as
+            
+
+
+                {[ calculatorCtrl.selectedRegion[0] ]}
+              
+
+                {[ calculatorCtrl.selectedCategory[0] ]}
+              
+Try a different content category
+
+
+
+                  Monthly page views
+                
+
+
+
+
+
+
+                        The number of times your website pages load and are viewed by human visitors per month.
+                      Ok
+
+
+
+
+
+                {[ calculatorCtrl.pageImpressions.toLocaleString() ]}
+              
+
+
+
+                Your potential annual revenue
+              
+
+                This is an estimate and should be only used as a reference.
+              
+
+$
+
+
+{[ character ]}
+,
+
+
+
+Get started
+
+
+
+* There's no guarantee or commitment that you'll earn this amount. Estimates are based on the content category and region you selected. Actual revenue is dependent on many factors such as advertiser demand, user location, user device, content vertical, seasonality, ad size and currency exchange rates.
+            
+
+
+
+
+
+
+
+
+
+
+                  BENEFITS
+                
+
+                  Only the highest paying ads go live
+                
+
+                  Boost your revenue by tapping into the largest network of online advertisers who bid for your ad space.
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  BENEFITS
+                
+
+                  The right ads for your audience
+                
+
+                  Ads are screened to ensure theyâre high quality and relevant to your content or audience, even when viewed on smartphones and tablets. The result? You can make more money online.
+                
+
+
+
+
+
+
+
+
+
+                  BENEFITS
+                
+
+                  Youâre in control
+                
+
+                  Block ads you don't like, customize where ads appear, and choose which types fit your site best.
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+â
+
+
+              All you have to do is drop the little AdSense code into your website and it immediately starts working
+            Jack Herrick, WikiHow Founder and CEO 
+ View success story
+
+
+
+
+
+
+
+
+
+
+
+            Get started
+          
+
+            You just need 3 things to get started with AdSense
+          
+
+
+
+
+1
+
+
+                A Google Account
+              
+
+                If youâre using Gmail or any other Google service, you already have one. If not, just click to sign up and weâll help you create your new account. It gets you into AdSense and everything Google.
+              
+
+
+
+
+2
+
+
+                Phone number and postal address
+              
+
+                Your phone number and the mailing address associated with your bank account so you can get paid.
+              
+
+
+
+
+3
+
+
+                Connect your site to AdSense
+              
+
+                Add one piece of code to your site and Google will take care of the rest, allowing you to grow your business.
+              
+
+
+
+Get started
+
+
+
+              Contact an AdSense expert for help that's specific to you.
+            Contact an expert 
+
+
+
+
+
+
+
+Ã
+
+
+              Looks like this Google account isn't associated with an AdSense account. That's okay. You can either sign in  with the Google account associated with AdSense, or sign up  for an AdSense account today.
+            
+
+
+
+              Your Google account is missing your date of birth. To proceed, please update your details here and try again.
+            
+
+
+
+              As stated in the Adsense Terms and Conditions, you must be of age to participate in AdSense.
+            
+
+              If you are not of age, you may have a parent or guardian submit an application on your behalf.
+            
+
+
+
+
+
+
+
+
+
+
+              Follow us
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Learning & support 
+
+
+
+
+
+Help Center
+
+
+AdSense Help Forum
+
+
+Certified Publishing Partners
+
+
+
+
+
+
+                Developers 
+
+
+
+
+
+Google Developers site
+
+
+AdSense Management API
+
+
+AdSense Custom Search Ads
+
+
+
+
+
+
+                Related products 
+
+
+
+
+
+Google Ads
+
+
+Google Ad Manager
+
+
+Google AdMob
+
+
+AdSense for Shopping
+
+
+Google Site Kit
+
+
+Blogger
+
+
+
+
+
+
+                More solutions from Google 
+
+
+
+
+
+Business solutions
+
+
+Google for retail
+
+
+Google Workspace
+
+
+Google Analytics
+
+
+Think with Google
+
+
+Google Domains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+Terms
+
+
+About Google
+
+
+Google products
+
+
+
+
+
+ Help
+
+
+
+
+                Brasil â PortuguÃªs (Brasil)
+              
+
+                ÄeskÃ¡ republika - ÄeÅ¡tina
+              
+
+                Danmark - dansk
+              
+
+                Deutschland - Deutsch
+              
+
+                English â India
+              
+
+                EspaÃ±a - EspaÃ±ol
+              
+
+                France - FranÃ§ais
+              
+
+                Hrvatska - Hrvatski
+              
+
+                Indonesia â Bahasa Indonesia
+              
+
+                Italia - Italiano
+              
+
+                LatinoamÃ©rica - EspaÃ±ol
+              
+
+                Latvija - Latvietis
+              
+
+                Lietuva - Lietuvis
+              
+
+                MagyarorszÃ¡g â Magyar
+              
+
+                Malaysia - Bahasa Melayu
+              
+
+                Nederland - Nederlands
+              
+
+                Norge - norsk
+              
+
+                Pilipinas - Pilipino
+              
+
+                Polska - polski
+              
+
+                Portugal - PortuguÃªs
+              
+
+                RomÃ¢nia - RomÃ¢nÄ
+              
+
+                Slovensko - slovenskÃ½
+              
+
+                Suomi - Suomalainen
+              
+
+                Sverige - svenska
+              
+
+                TÃ¼rkiye â TÃ¼rkÃ§e
+              
+
+                United Kingdom - English
+              
+
+                United States - English
+              
+
+                Viá»t Nam â Tiáº¿ng Viá»t
+              
+
+                ÎÎ»Î»Î¬Î´Î± - ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+              
+
+                ÐÑÐ»Ð³Ð°ÑÐ¸Ñ - Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸
+              
+
+                Ð Ð¾ÑÑÐ¸Ñ â Ð ÑÑÑÐºÐ¸Ð¹
+              
+
+                Ð¡ÑÐ±Ð¸ÑÐ° - Ð¡ÑÐ¿ÑÐºÐ¸
+              
+
+                Ð£ÐºÑÐ°ÑÐ½Ð° - Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+              
+
+                Ø§ÙØ£Ø±Ø¯Ù â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                Ø§ÙØ¨Ø­Ø±ÙÙ â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                Ø§ÙØ¹Ø±Ø§Ù â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                Ø§ÙØ¹Ø±Ø¨ÙØ©
+              
+
+                Ø§ÙÙÙÙØª â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                Ø§ÙÙØºØ±Ø¨ â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                ÙØ¨ÙØ§Ù â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                ÙØµØ± â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                ÛÙØ¯ÙØ³ØªØ§Ù - Ø§Ø±Ø¯Ù
+              
+
+                à¤­à¤¾à¤°à¤¤ - à¤®à¤°à¤¾à¤ à¥
+              
+
+                à¤­à¤¾à¤°à¤¤ - à¤¹à¤¿à¤¨à¥à¤¦à¥
+              
+
+                à¦¬à¦à§à¦ - à¦¬à¦¾à¦à¦²à¦¾
+              
+
+                à®à®¨à¯à®¤à®¿à®¯à®¾ - à®¤à®®à®¿à®´à¯
+              
+
+                à°­à°¾à°°à°¤à°¦à±à°¶à° - à°¤à±à°²à±à°à±
+              
+
+                à¹à¸à¸¢ â à¹à¸à¸¢
+              
+
+                ëíë¯¼êµ­ â íêµ­ì´
+              
+
+                â«××©×¨×× â ×¢××¨××ªâ¬
+              
+
+                â«Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø© â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                â«Ø§ÙÙÙÙÙØ© Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ© â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                â«ØªÙÙØ³ â Ø§ÙØ¹Ø±Ø¨ÙØ©â¬
+              
+
+                ä¸­å½ â ä¸­æï¼ç®ä½ä¸­æï¼
+              
+
+                å°ç£ â ä¸­æï¼ç¹é«ä¸­æï¼
+              
+
+                æ¥æ¬ â æ¥æ¬èª
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

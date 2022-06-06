@@ -1,0 +1,8728 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Cloud Privacy Notice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Why Google
+
+
+
+close
+
+
+
+Discover why leading businesses choose Google Cloud
+Whether your business is early in its journey or well on its way to digital transformation, Google Cloud can help you solve your toughest challenges.
+
+
+
+
+                      Learn more
+                    
+
+
+
+
+
+
+Key benefits
+
+
+
+                      Overview
+                    
+
+                      Top reasons businesses choose us.
+                    
+
+
+
+
+
+                      Multicloud
+                    
+
+                      Run your apps wherever you need them.
+                    
+
+
+
+
+
+                      Trust and security
+                    
+
+                      Keep your data secure and compliant.
+                    
+
+
+
+
+
+                      Global infrastructure
+                    
+
+                      Build on the same infrastructure as Google.
+                    
+
+
+
+
+
+
+
+
+
+                      Data cloud
+                    
+
+                      Unify data across your organization.
+                    
+
+
+
+
+
+                      Open cloud
+                    
+
+                      Scale with open, flexible technology.
+                    
+
+
+
+
+
+                      Sustainability
+                    
+
+                      Run on the cleanest cloud in the industry.
+                    
+
+
+
+
+
+                      Productivity and collaboration
+                    
+
+                      Connect your teams with AI-powered apps.
+                    
+
+
+
+
+
+
+Resources
+
+
+
+                      Events
+                    
+
+                      Browse upcoming Google Cloud events.
+                    
+
+
+
+
+
+                      Blog
+                    
+
+                      Read our latest product news and stories.
+                    
+
+
+
+
+
+                      Customer stories
+                    
+
+                      Explore case studies and videos.
+                    
+
+
+
+
+
+                      Analyst reports
+                    
+
+                      Read what industry analysts say about us.
+                    
+
+
+
+
+
+
+
+
+
+  Solutions
+
+
+
+close
+
+
+
+
+
+
+
+
+
+                      Industry Solutions
+                    
+
+                      Reduce cost, increase operational agility, and capture new market opportunities.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Retail
+                    
+
+                      Analytics and collaboration tools for the retail value chain.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Consumer Packaged Goods
+                    
+
+                      Solutions for CPG digital transformation and brand growth.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Financial Services
+                    
+
+                      Computing, data management, and analytics tools for financial services.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Healthcare and Life Sciences
+                    
+
+                      Advance research at scale and empower healthcare innovation.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Media and Entertainment
+                    
+
+                      Solutions for content production and distribution operations.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Telecommunications
+                    
+
+                      Hybrid and multi-cloud services to deploy and monetize 5G.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Gaming
+                    
+
+                      AI-driven solutions to build and scale games faster.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Manufacturing
+                    
+
+                      Migration and AI tools to optimize the manufacturing value chain.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Supply Chain and Logistics
+                    
+
+                      Digital supply chain solutions built in the cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Government
+                    
+
+                      Data storage, AI, and analytics solutions for government agencies.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Education
+                    
+
+                      Teaching tools to provide more engaging learning experiences.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all industry solutions
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all solutions
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Application Modernization
+                    
+
+                      Develop and run applications anywhere, using cloud-native technologies like containers, serverless, and service mesh.
+                    
+
+
+
+
+
+
+
+                      Hybrid and Multi-cloud Application Platform
+                    
+
+                      Platform for modernizing legacy apps and building new apps.
+                    
+
+
+
+
+
+
+
+                      API Management
+                    
+
+                      Accelerate application design and development with an API-first approach.
+                    
+
+
+
+
+
+
+
+                      Serverless Solutions
+                    
+
+                      Fully managed environment for developing, deploying and scaling apps.
+                    
+
+
+
+
+
+
+
+                      DevOps
+                    
+
+                      Processes and resources for implementing DevOps in your org.
+                    
+
+
+
+
+
+
+
+                      Continuous Delivery (CD)
+                    
+
+                      End-to-end automation from source to production.
+                    
+
+
+
+
+
+
+
+                      Continuous Integration (CI)
+                    
+
+                      Fast feedback on code changes at scale.
+                    
+
+
+
+
+
+
+
+                      Mainframe Modernization
+                    
+
+                      Automated tools and prescriptive guidance for moving to the cloud.
+                    
+
+
+
+
+
+
+
+                      CAMP
+                    
+
+                      Program that uses DORA to improve your software delivery capabilities.
+                    
+
+
+
+
+
+
+
+                      Hosting
+                    
+
+                      Services and infrastructure for building web apps and websites.
+                    
+
+
+
+
+
+
+
+                      Site Reliability Engineering (SRE)
+                    
+
+                      Tools and resources for adopting SRE in your org.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Artificial Intelligence
+                    
+
+                      Add intelligence and efficiency to your business with AI and machine learning.
+                    
+
+
+
+
+
+
+
+                      Build and use AI
+                    
+
+                      Products to build and use artificial intelligence.
+                    
+
+
+
+
+
+
+
+                      Contact Center AI
+                    
+
+                      AI model for speaking with customers and assisting human agents.
+                    
+
+
+
+
+
+
+
+                      Agent Assist
+                    
+
+                      AI-powered conversations with human agents.
+                    
+
+
+
+
+
+
+
+                      Cloud Talent Solution
+                    
+
+                      AI with job search and talent acquisition capabilities.
+                    
+
+
+
+
+
+
+
+                      Document AI
+                    
+
+                      Machine learning and AI to unlock insights from your documents.
+                    
+
+
+
+
+
+
+
+                      Lending DocAI
+                    
+
+                      Mortgage document data capture at scale with machine learning.
+                    
+
+
+
+
+
+
+
+                      Procurement DocAI
+                    
+
+                      Procurement document data capture at scale with machine learning.
+                    
+
+
+
+
+
+
+
+                      Intelligent products
+                    
+
+                      Create engaging product ownership experiences with AI.
+                    
+
+
+
+
+
+
+
+                      Data Science
+                    
+
+                      Put your data to work with Data Science on Google Cloud.
+                    
+
+
+
+
+
+
+
+                      Contract DocAI
+                    
+
+                      Specialized AI for bettering contract understanding.
+                    
+
+
+
+
+
+
+
+                      Contact Center AI Insights
+                    
+
+                      AI-powered understanding to better customer experience.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      APIs and Applications
+                    
+
+                      Speed up the pace of innovation without coding, using APIs, apps, and automation.
+                    
+
+
+
+
+
+
+
+                      New Business Channels Using APIs
+                    
+
+                      Attract and empower an ecosystem of developers and partners.
+                    
+
+
+
+
+
+
+
+                      Unlocking Legacy Applications Using APIs
+                    
+
+                      Cloud services for extending and modernizing legacy apps.
+                    
+
+
+
+
+
+
+
+                      Open Banking APIx
+                    
+
+                      Simplify and accelerate secure delivery of open banking compliant APIs.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Databases
+                    
+
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
+                    
+
+
+
+
+
+
+
+                      Database Migration
+                    
+
+                      Guides and tools to simplify your database migration life cycle.
+                    
+
+
+
+
+
+
+
+                      Database Modernization
+                    
+
+                      Upgrades to modernize your operational database infrastructure.
+                    
+
+
+
+
+
+
+
+                      Google Cloud Databases
+                    
+
+                      Database services to migrate, manage, and modernize data.
+                    
+
+
+
+
+
+
+
+                      Migrate Oracle workloads to Google Cloud
+                    
+
+                      Rehost, replatform, rewrite your Oracle workloads.
+                    
+
+
+
+
+
+
+
+                      Open Source Databases
+                    
+
+                      Fully managed open source databases with enterprise-grade support.
+                    
+
+
+
+
+
+
+
+                      SQL Server on Google Cloud
+                    
+
+                      Options for running SQL Server virtual machines on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Data Cloud
+                    
+
+                      Unify data across your organization with an open and simplified approach to data-driven transformation that is unmatched for speed, scale, and security with AI built-in.
+                    
+
+
+
+
+
+
+
+                      Databases Solutions
+                    
+
+                      Migrate and manage enterprise data with security, reliability, high availability, and fully managed data services.
+                    
+
+
+
+
+
+
+
+                      Smart Analytics Solutions
+                    
+
+                      Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.
+                    
+
+
+
+
+
+
+
+                      AI Solutions
+                    
+
+                      Add intelligence and efficiency to your business with AI and machine learning.
+                    
+
+
+
+
+
+
+
+                      Data Cloud for ISVs
+                    
+
+                      Innovate, optimize and amplify your SaaS applications using Google's data and machine learning solutions such as BigQuery, Looker, Spanner and Vertex AI.
+                    
+
+
+
+
+
+
+
+                      Data Cloud Alliance
+                    
+
+                      An initiative to ensure that global businesses have more seamless access and insights into the data required for digital transformation.
+                    
+
+
+
+
+
+
+Digital Transformation
+Accelerate business recovery and ensure a better future with solutions that enable hybrid and multi-cloud, generate intelligent insights, and keep your workers connected.
+
+
+
+
+
+                      Digital Innovation
+                    
+
+                      Reimagine your operations and unlock new opportunities.
+                    
+
+
+
+
+
+
+
+                      Operational Efficiency
+                    
+
+                      Prioritize investments and optimize costs.
+                    
+
+
+
+
+
+
+
+                      COVID-19 Solutions
+                    
+
+                      Get work done more safely and securely.
+                    
+
+
+
+
+
+
+
+                      COVID-19 Solutions for the Healthcare Industry
+                    
+
+                      How Google is helping healthcare meet extraordinary challenges.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Infrastructure Modernization
+                    
+
+                      Migrate quickly with solutions for SAP, VMware, Windows, Oracle, and other workloads.
+                    
+
+
+
+
+
+
+
+                      Application Migration
+                    
+
+                      Discovery and analysis tools for moving to the cloud.
+                    
+
+
+
+
+
+
+
+                      SAP on Google Cloud
+                    
+
+                      Certifications for running SAP applications and SAP HANA.
+                    
+
+
+
+
+
+
+
+                      High Performance Computing
+                    
+
+                      Compute, storage, and networking options to support any workload.
+                    
+
+
+
+
+
+
+
+                      Windows on Google Cloud
+                    
+
+                      Tools and partners for running Windows workloads.
+                    
+
+
+
+
+
+
+
+                      Data Center Migration
+                    
+
+                      Migration solutions for VMs, apps, databases, and more.
+                    
+
+
+
+
+
+
+
+                      Active Assist
+                    
+
+                      Automatic cloud resource optimization and increased security.
+                    
+
+
+
+
+
+
+
+                      Virtual Desktops
+                    
+
+                      Remote work solutions for desktops and applications (VDI & DaaS).
+                    
+
+
+
+
+
+
+
+                      Rapid Assessment & Migration Program (RAMP)
+                    
+
+                      End-to-end migration program to simplify your path to the cloud.
+                    
+
+
+
+
+
+
+
+                      Backup and Disaster Recovery
+                    
+
+                      Ensure your business continuity needs are met.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Productivity and Collaboration
+                    
+
+                      Change the way teams work with solutions designed for humans and built for impact.
+                    
+
+
+
+
+
+
+
+                      Google Workspace
+                    
+
+                      Collaboration and productivity tools for enterprises.
+                    
+
+
+
+
+
+
+
+                      Google Workspace Essentials
+                    
+
+                      Secure video meetings and modern collaboration for teams.
+                    
+
+
+
+
+
+
+
+                      Cloud Identity
+                    
+
+                      Unified platform for IT admins to manage user devices and apps.
+                    
+
+
+
+
+
+
+
+                      Chrome Enterprise
+                    
+
+                      Chrome OS, Chrome Browser, and Chrome devices built for business.
+                    
+
+
+
+
+
+
+
+                      Cloud Search
+                    
+
+                      Enterprise search for employees to quickly find company information.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Security
+                    
+
+                      Detect, investigate, and respond to online threats to help protect your business.
+                    
+
+
+
+
+
+
+
+                      Security Analytics and Operations
+                    
+
+                      Solution for analyzing petabytes of security telemetry.
+                    
+
+
+
+
+
+
+
+                      Web App and API Protection
+                    
+
+                      Threat and fraud protection for your web applications and APIs.
+                    
+
+
+
+
+
+
+
+                      Security and Resilience Framework
+                    
+
+                      Solutions for each phase of the security and resilience life cycle.
+                    
+
+
+
+
+
+
+
+                      Risk and compliance as code (RCaC)
+                    
+
+                      Solution to modernize your governance, risk, and compliance function with automation.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Smart Analytics
+                    
+
+                      Generate instant insights from data at any scale with a serverless, fully managed analytics platform that significantly simplifies analytics.
+                    
+
+
+
+
+
+
+
+                      Data Warehouse Modernization
+                    
+
+                      Data warehouse to jumpstart your migration and unlock insights.
+                    
+
+
+
+
+
+
+
+                      Data Lake Modernization
+                    
+
+                      Services for building and modernizing your data lake.
+                    
+
+
+
+
+
+
+
+                      Spark on Google Cloud
+                    
+
+                      Run and write Spark where you need it, serverless and integrated.
+                    
+
+
+
+
+
+
+
+                      Stream Analytics
+                    
+
+                      Insights from ingesting, processing, and analyzing event streams.
+                    
+
+
+
+
+
+
+
+                      Business Intelligence
+                    
+
+                      Solutions for modernizing your BI stack and creating rich data experiences.
+                    
+
+
+
+
+
+
+
+                      Data Science
+                    
+
+                      Put your data to work with Data Science on Google Cloud.
+                    
+
+
+
+
+
+
+
+                      Marketing Analytics
+                    
+
+                      Solutions for collecting, analyzing, and activating customer data.
+                    
+
+
+
+
+
+
+
+                      Geospatial Analytics and AI
+                    
+
+                      Solutions for building a more prosperous and sustainable business.
+                    
+
+
+
+
+
+
+
+                      Datasets
+                    
+
+                      Data from Google, public, and commercial providers to enrich your analytics and AI initiatives.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Startups and SMB
+                    
+
+                      Accelerate startup and SMB growth with tailored solutions and programs.
+                    
+
+
+
+
+
+
+
+                      Startup Solutions
+                    
+
+                      Grow your startup and solve your toughest challenges using Google’s proven technology.
+                    
+
+
+
+
+
+
+
+                      Startup Program
+                    
+
+                      Get financial, business, and technical support to take your startup to the next level.
+                    
+
+
+
+
+
+
+
+                      Small and Medium Business
+                    
+
+                      Explore solutions for web hosting, app development, AI, and analytics.
+                    
+
+
+
+
+
+
+
+                      Software as a Service
+                    
+
+                      Build better SaaS products, scale efficiently, and grow your business.
+                    
+
+
+
+
+
+
+
+
+
+  Products
+
+
+
+close
+
+
+
+Featured Products
+
+
+
+
+
+
+
+
+                      Compute Engine
+                    
+
+                      Virtual machines running in Google’s data center.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Storage
+                    
+
+                      Object storage that’s secure, durable, and scalable.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud SDK
+                    
+
+                      Command-line tools and libraries for Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud SQL
+                    
+
+                      Relational database service for MySQL, PostgreSQL and SQL Server.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Kubernetes Engine
+                    
+
+                      Managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      BigQuery
+                    
+
+                      Data warehouse for business agility and insights.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud CDN
+                    
+
+                      Content delivery network for delivering web and video.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataflow
+                    
+
+                      Streaming analytics for stream and batch  processing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Operations
+                    
+
+                      Monitoring, logging, and application performance suite.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Anthos
+                    
+
+                      Platform for modernizing existing apps and building new ones.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+
+                      See all products (100+)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      AI and Machine Learning
+                    
+
+
+
+
+
+
+
+
+
+
+                      Vertex AI
+                    
+
+                      Unified ML Platform for training, hosting, and managing ML models.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Speech-to-Text
+                    
+
+                      Speech recognition and transcription supporting 125 languages.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Vision AI
+                    
+
+                      Custom and pre-trained models to detect emotion, text, more.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Text-to-Speech
+                    
+
+                      Speech synthesis in 220+ voices and 40+ languages.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Translation
+                    
+
+                      Language detection, translation, and glossary support.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Natural Language
+                    
+
+                      Sentiment analysis and classification of unstructured text.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AutoML
+                    
+
+                      Custom machine learning model training and development.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Video AI
+                    
+
+                      Video classification and recognition using machine learning.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AI Infrastructure
+                    
+
+                      Options for every business to train deep learning and machine learning models cost-effectively.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dialogflow
+                    
+
+                      Conversation applications and systems development suite for virtual agents.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AutoML Tables
+                    
+
+                      Service for training ML models with structured data.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all AI and machine learning products
+                    
+
+
+
+
+
+
+API Management
+
+
+
+
+
+
+
+
+                      Apigee API Management
+                    
+
+                      Manage the full life cycle of APIs anywhere with visibility and control.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Apigee Integration
+                    
+
+                      API-first integration to connect existing data and applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Healthcare API
+                    
+
+                      Solution to bridge existing care systems and apps on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AppSheet
+                    
+
+                      No-code development platform to build and extend applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      API Gateway
+                    
+
+                      Develop, deploy, secure, and manage APIs with a fully managed gateway.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Compute
+                    
+
+
+
+
+
+
+
+
+
+
+                      Compute Engine
+                    
+
+                      Virtual machines running in Google’s data center.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      App Engine
+                    
+
+                      Serverless application platform for apps and back ends.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud GPUs
+                    
+
+                      GPUs for ML, scientific computing, and 3D visualization.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Compute Engine
+                    
+
+                      Server and virtual machine migration to Compute Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Spot VMs
+                    
+
+                      Compute instances for batch jobs and fault-tolerant workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Shielded VMs
+                    
+
+                      Reinforced virtual machines on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Sole-Tenant Nodes
+                    
+
+                      Dedicated hardware for compliance, licensing, and management.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Bare Metal
+                    
+
+                      Infrastructure to run specialized workloads on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Recommender
+                    
+
+                      Usage recommendations for Google Cloud products and services.
+                    
+
+
+
+
+
+
+
+
+
+
+                      VMware Engine
+                    
+
+                      Fully managed, native VMware Cloud Foundation software stack.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all compute products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Containers
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Kubernetes Engine
+                    
+
+                      Managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Container Registry
+                    
+
+                      Registry for storing, managing, and securing Docker images.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Container Security
+                    
+
+                      Container environment security for each stage of the life cycle.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Build
+                    
+
+                      Solution for running build steps in a Docker container.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Deep Learning Containers
+                    
+
+                      Containers with data science frameworks, libraries, and tools.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Kubernetes Applications
+                    
+
+                      Containerized apps with prebuilt deployment and unified billing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Artifact Registry
+                    
+
+                      Package manager for build artifacts and dependencies.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Knative
+                    
+
+                      Components to create Kubernetes-native cloud-based software.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Code
+                    
+
+                      IDE support to write, run, and debug Kubernetes applications.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Data Analytics
+                    
+
+
+
+
+
+
+
+
+
+
+                      BigQuery
+                    
+
+                      Data warehouse for business agility and insights.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Looker
+                    
+
+                      Platform for BI, data applications, and embedded analytics.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataflow
+                    
+
+                      Streaming analytics for stream and batch processing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Pub/Sub
+                    
+
+                      Messaging service for event ingestion and delivery.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataproc
+                    
+
+                      Service for running Apache Spark and Apache Hadoop clusters.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Data Fusion
+                    
+
+                      Data integration for building and managing data pipelines.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Composer
+                    
+
+                      Workflow orchestration service built on Apache Airflow.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataprep
+                    
+
+                      Service to prepare data for analysis and machine learning.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Dataplex
+                    
+
+                      Intelligent data fabric for unifying data management across silos.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Data Catalog
+                    
+
+                      Metadata service for discovering, understanding, and managing data.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Analytics Hub
+                    
+
+                      Service for securely and efficiently exchanging data analytics assets.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all data analytics products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Databases
+                    
+
+
+
+
+
+
+
+
+
+
+                      AlloyDB for PostgreSQL
+                    
+
+                      Fully managed, PostgreSQL-compatible database for demanding enterprise workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Bigtable
+                    
+
+                      Cloud-native wide-column database for large scale, low-latency workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Firestore
+                    
+
+                      Cloud-native document database for building rich mobile, web, and IoT apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Memorystore
+                    
+
+                      In-memory database for managed Redis and Memcached.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Spanner
+                    
+
+                      Cloud-native relational database with unlimited scale and 99.999% availability.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud SQL
+                    
+
+                      Fully managed database for MySQL, PostgreSQL, and SQL Server.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Database Migration Service
+                    
+
+                      Serverless, minimal downtime migrations to Cloud SQL.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Bare Metal Solution for Oracle
+                    
+
+                      Infrastructure to run specialized Oracle workloads on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Firebase Realtime Database
+                    
+
+                      NoSQL database for storing and syncing data in real time.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Datastream
+                    
+
+                      Serverless change data capture and replication service.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Developer Tools
+                    
+
+
+
+
+
+
+
+
+
+
+                      Artifact Registry
+                    
+
+                      Universal package manager for build artifacts and dependencies.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Build
+                    
+
+                      Continuous integration and continuous delivery platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Code
+                    
+
+                      IDE support to write, run, and debug Kubernetes applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Deployment Manager
+                    
+
+                      Service for creating and managing Google Cloud resources.
+                    
+
+
+
+
+
+
+
+
+
+
+                      gcloud CLI
+                    
+
+                      Command line tools and libraries for Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Scheduler
+                    
+
+                      Cron job scheduler for task automation and management.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Source Repositories
+                    
+
+                      Private Git repository to store, manage, and track code.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Tasks
+                    
+
+                      Task management service for asynchronous task execution.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Cloud Deploy
+                    
+
+                      Fully managed continuous delivery to Google Kubernetes Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Tekton
+                    
+
+                      Kubernetes-native resources for declaring CI/CD pipelines.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Tools for PowerShell
+                    
+
+                      Full cloud control from Windows PowerShell.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all developer tools
+                    
+
+
+
+
+
+
+Healthcare and Life Sciences
+
+
+
+
+
+
+
+
+                      Apigee Healthcare APIx
+                    
+
+                      FHIR API-based digital service production.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Healthcare API
+                    
+
+                      Solution for bridging existing care systems and apps on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Life Sciences
+                    
+
+                      Tools for managing, processing, and transforming biomedical data.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Healthcare Natural Language AI
+                    
+
+                      Real-time insights from unstructured medical text.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Hybrid and Multicloud
+                    
+
+
+
+
+
+
+
+
+
+
+                      Anthos
+                    
+
+                      Platform for modernizing existing apps and building new ones.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Looker
+                    
+
+                      Platform for BI, data applications, and embedded analytics.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run for Anthos
+                    
+
+                      Integration that provides a serverless development platform on GKE.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Cloud Marketplace for Anthos
+                    
+
+                      Containerized apps with prebuilt deployment and unified billing.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Anthos
+                    
+
+                      Tool to move workloads and existing applications to GKE.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Operations
+                    
+
+                      Monitoring, logging, and application performance suite.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Build
+                    
+
+                      Service for executing builds on Google Cloud infrastructure.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Traffic Director
+                    
+
+                      Traffic control pane and management for open service mesh.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Apigee API Management
+                    
+
+                      API management, development, and security platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Distributed Cloud
+                    
+
+                      Fully managed solutions for the edge and data centers.
+                    
+
+
+
+
+
+
+Internet of Things
+
+
+
+
+
+
+
+
+                      Cloud IoT Core
+                    
+
+                      IoT device management, integration, and  connection service.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Edge TPU
+                    
+
+                      ASIC designed to run ML inference and AI at the edge.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Management Tools
+                    
+
+
+
+
+
+
+
+
+
+
+                      Anthos Config Management
+                    
+
+                      Automate policy and security for your deployments.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Carbon Footprint
+                    
+
+                      Dashboard to view and export Google Cloud carbon emissions reports.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud APIs
+                    
+
+                      Programmatic interfaces for  Google Cloud services.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud console
+                    
+
+                      Web-based interface for managing and monitoring cloud apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Mobile App
+                    
+
+                      App to  manage Google Cloud services from your mobile device.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Shell
+                    
+
+                      Interactive shell environment with a built-in command line.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Config Connector
+                    
+
+                      Kubernetes add-on for managing Google Cloud resources.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cost Management
+                    
+
+                      Tools for monitoring, controlling, and optimizing your costs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Intelligent Management
+                    
+
+                      Tools for easily managing performance, security, and cost.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Private Catalog
+                    
+
+                      Service catalog for admins managing internal enterprise solutions.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Terraform on Google Cloud
+                    
+
+                      Open source tool to provision Google Cloud resources with declarative configuration files.
+                    
+
+
+
+
+
+
+Media and Gaming
+
+
+
+
+
+
+
+
+                      Game Servers
+                    
+
+                      Game server management service running on Google Kubernetes Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      OpenCue
+                    
+
+                      Open source render manager for visual effects and animation.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Transcoder API
+                    
+
+                      Convert video files and package them for optimized delivery.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Migration
+                    
+
+
+
+
+
+
+
+
+
+
+                      Application Migration
+                    
+
+                      App migration to the cloud for low-cost refresh cycles.
+                    
+
+
+
+
+
+
+
+
+
+
+                      BigQuery Data Transfer Service
+                    
+
+                      Data import service for scheduling and moving data into BigQuery.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Foundation Toolkit
+                    
+
+                      Reference templates for Deployment Manager and Terraform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Database Migration Service
+                    
+
+                      Serverless, minimal downtime migrations to Cloud SQL.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Anthos
+                    
+
+                      Components for migrating VMs into system containers on GKE.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Migrate for Compute Engine
+                    
+
+                      Components for migrating VMs and physical servers to Compute Engine.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Rapid Assessment & Migration Program (RAMP)
+                    
+
+                      End-to-end migration program to simplify your path to the cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Transfer Appliance
+                    
+
+                      Storage server for moving large volumes of data to Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Storage Transfer Service
+                    
+
+                      Data transfers from online and on-premises sources to Cloud Storage.
+                    
+
+
+
+
+
+
+
+
+
+
+                      VMware Engine
+                    
+
+                      Migrate and run your VMware workloads natively on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Networking
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Armor
+                    
+
+                      Security policies and defense against web and DDoS attacks.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud CDN
+                    
+
+                      Content delivery network for serving web and video content.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud DNS
+                    
+
+                      Domain name system for reliable and low-latency name lookups.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Load Balancing
+                    
+
+                      Service for distributing traffic across applications and regions.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud NAT
+                    
+
+                      NAT service for giving private instances internet access.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Hybrid Connectivity
+                    
+
+                      Connectivity options for VPN, peering, and enterprise needs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Network Connectivity Center
+                    
+
+                      Connectivity management to help simplify and scale networks.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Network Intelligence Center
+                    
+
+                      Network monitoring, verification, and optimization platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Network Service Tiers
+                    
+
+                      Cloud network options  based on performance, availability, and cost.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Traffic Director
+                    
+
+                      Traffic control pane and management for open service mesh.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+                      See all networking products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Operations
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Logging
+                    
+
+                      Google Cloud audit, platform, and application logs management.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Monitoring
+                    
+
+                      Infrastructure and application health with rich metrics.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Error Reporting
+                    
+
+                      Application error identification and analysis.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Kubernetes Engine Monitoring
+                    
+
+                      GKE app development and troubleshooting.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Trace
+                    
+
+                      Tracing system collecting latency data from applications.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Profiler
+                    
+
+                      CPU and heap profiler for analyzing application performance.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Debugger
+                    
+
+                      Real-time application state inspection and in-production debugging.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Intelligent Operations
+                    
+
+                      Tools for easily optimizing performance, security, and cost.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Security and Identity
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud IAM
+                    
+
+                      Permissions management system for Google Cloud resources.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Assured Workloads
+                    
+
+                      Compliance and security controls for sensitive workloads.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Key Management
+                    
+
+                      Manage encryption keys on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Confidential Computing
+                    
+
+                      Encrypt data in use with Confidential VMs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Security Command Center
+                    
+
+                      Platform for defending against threats to your Google Cloud assets.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Data Loss Prevention
+                    
+
+                      Sensitive data inspection, classification, and redaction platform.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Managed Service for Microsoft Active Directory
+                    
+
+                      Hardened service running Microsoft® Active Directory (AD).
+                    
+
+
+
+
+
+
+
+
+
+
+                      Access Transparency
+                    
+
+                      Cloud provider visibility through near real-time logs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Titan Security Key
+                    
+
+                      Two-factor authentication device for user account protection.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Secret Manager
+                    
+
+                      Store API keys, passwords, certificates, and other sensitive data.
+                    
+
+
+
+
+
+
+
+
+
+
+                      BeyondCorp Enterprise
+                    
+
+                      Zero trust solution for secure application and resource access.
+                    
+
+
+
+
+Not seeing what you're looking for?
+
+
+
+
+                      See all security and identity products
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Serverless Computing
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Run
+                    
+
+                      Fully managed environment for running containerized apps.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Functions
+                    
+
+                      Platform for creating functions that respond to cloud events.
+                    
+
+
+
+
+
+
+
+
+
+
+                      App Engine
+                    
+
+                      Serverless application platform for apps and back ends.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Workflows
+                    
+
+                      Workflow orchestration for serverless products and API services.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                      Storage
+                    
+
+
+
+
+
+
+
+
+
+
+                      All Storage Products
+                    
+
+                      Cloud-based storage services for your business.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Storage
+                    
+
+                      Object storage that’s secure, durable, and scalable.
+
+                    
+
+
+
+
+
+
+
+
+
+
+                      Filestore
+                    
+
+                      File storage that is highly scalable and secure.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Persistent Disk
+                    
+
+                      Block storage for virtual machine instances running on Google Cloud.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Cloud Storage for Firebase
+                    
+
+                      Object storage for storing and serving user-generated content.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Local SSD
+                    
+
+                      Block storage that is locally attached for high-performance needs.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Storage Transfer Service
+                    
+
+                      Data transfers from online and on-premises sources to Cloud Storage.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Google Workspace Essentials
+                    
+
+                      Secure video meetings and modern collaboration for teams.
+                    
+
+
+
+
+
+
+
+
+
+  Pricing
+
+
+
+close
+
+
+
+Save money with our transparent approach to pricing
+Google Cloud's pay-as-you-go pricing offers automatic savings based on monthly usage and discounted rates for prepaid resources. Contact us today to get a quote.
+
+
+
+
+                      Request a quote
+                    
+
+
+
+
+
+
+Google Cloud
+
+
+
+                      Pricing overview
+                    
+
+                      Pay only for what you use with no lock-in.
+                    
+
+
+
+
+
+                      Price list
+                    
+
+                      Get pricing details for individual products.
+                    
+
+
+
+
+
+                      Pricing calculator
+                    
+
+                      Calculate your cloud savings.
+                    
+
+
+
+
+
+                      Google Cloud Free Program
+                    
+
+                      $300 in free credits and 20+ free products.
+                    
+
+
+
+
+
+
+Related Products
+
+
+
+                      Google Workspace
+                    
+
+
+
+
+
+                      Google Maps Platform
+                    
+
+
+
+
+
+                      Chrome Enterprise
+                    
+
+
+
+
+
+                      Apigee
+                    
+
+
+
+
+
+                      Looker
+                    
+
+
+
+
+
+                      Firebase
+                    
+
+
+
+
+
+
+
+
+
+  Getting started
+
+
+
+close
+
+
+
+Get started with Google Cloud
+Start building right away on our secure, intelligent platform. New customers get $300 in free credits to use toward Google Cloud products and services.
+
+
+
+                      Get started for free
+                    
+
+
+
+
+
+
+Self-service Resources
+
+
+
+                      Get started
+                    
+
+                      Get started with Google Cloud.
+                    
+
+
+
+
+
+                      Developer Center
+                    
+
+                      Stay in the know and become an Innovator.
+                    
+
+
+
+
+
+                      Google Cloud certification
+                    
+
+                      Prepare and register for certifications.
+                    
+
+
+
+
+
+
+Expert help and training
+
+
+
+                      Consulting
+                    
+
+                      Partner with our experts on cloud projects.
+                    
+
+
+
+
+
+                      Technical Account Management
+                    
+
+                      Get ongoing guidance from Google.
+                    
+
+
+
+
+
+                      Training
+                    
+
+                      Enroll in on-demand or classroom training.
+                    
+
+
+
+
+
+
+Partners and third-party tools
+
+
+
+                      Google Cloud partners
+                    
+
+                      Explore benefits of working with a partner.
+                    
+
+
+
+
+
+                      Become a partner
+                    
+
+                      Join the Partner Advantage program.
+                    
+
+
+
+
+
+                      Google Cloud Marketplace
+                    
+
+                      Deploy ready-to-go solutions in a few clicks.
+                    
+
+
+
+
+
+
+
+
+
+  Docs
+
+
+
+
+  Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Docs
+
+
+
+
+  Support
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Deutsch
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Nederlands
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+Get started for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Why Google
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Solutions
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Products
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Pricing
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Getting started
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Docs
+   
+
+
+
+
+
+      Support
+   
+
+
+
+
+
+      Console
+   
+
+
+
+
+
+      Contact Us
+   
+
+
+
+
+
+      Get started for free
+   
+
+
+
+
+
+
+
+
+
+      Discover why leading businesses choose Google Cloud
+   
+
+
+
+
+
+      Learn more
+   
+
+
+
+
+
+      Key benefits
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Multicloud
+   
+
+
+
+
+
+      Trust and security
+   
+
+
+
+
+
+      Global infrastructure
+   
+
+
+
+
+
+      Data cloud
+   
+
+
+
+
+
+      Open cloud
+   
+
+
+
+
+
+      Sustainability
+   
+
+
+
+
+
+      Productivity and collaboration
+   
+
+
+
+
+
+      Resources
+   
+
+
+
+
+
+      Events
+   
+
+
+
+
+
+      Blog
+   
+
+
+
+
+
+      Customer stories
+   
+
+
+
+
+
+      Analyst reports
+   
+
+
+
+
+
+
+
+      Industry Solutions
+   
+
+
+
+
+
+      Retail
+   
+
+
+
+
+
+      Consumer Packaged Goods
+   
+
+
+
+
+
+      Financial Services
+   
+
+
+
+
+
+      Healthcare and Life Sciences
+   
+
+
+
+
+
+      Media and Entertainment
+   
+
+
+
+
+
+      Telecommunications
+   
+
+
+
+
+
+      Gaming
+   
+
+
+
+
+
+      Manufacturing
+   
+
+
+
+
+
+      Supply Chain and Logistics
+   
+
+
+
+
+
+      Government
+   
+
+
+
+
+
+      Education
+   
+
+
+
+
+
+      See all industry solutions
+   
+
+
+
+
+
+      See all solutions
+   
+
+
+
+
+
+      Application Modernization
+   
+
+
+
+
+
+      Hybrid and Multi-cloud Application Platform
+   
+
+
+
+
+
+      API Management
+   
+
+
+
+
+
+      Serverless Solutions
+   
+
+
+
+
+
+      DevOps
+   
+
+
+
+
+
+      Continuous Delivery (CD)
+   
+
+
+
+
+
+      Continuous Integration (CI)
+   
+
+
+
+
+
+      Mainframe Modernization
+   
+
+
+
+
+
+      CAMP
+   
+
+
+
+
+
+      Hosting
+   
+
+
+
+
+
+      Site Reliability Engineering (SRE)
+   
+
+
+
+
+
+      Artificial Intelligence
+   
+
+
+
+
+
+      Build and use AI
+   
+
+
+
+
+
+      Contact Center AI
+   
+
+
+
+
+
+      Agent Assist
+   
+
+
+
+
+
+      Cloud Talent Solution
+   
+
+
+
+
+
+      Document AI
+   
+
+
+
+
+
+      Lending DocAI
+   
+
+
+
+
+
+      Procurement DocAI
+   
+
+
+
+
+
+      Intelligent products
+   
+
+
+
+
+
+      Data Science
+   
+
+
+
+
+
+      Contract DocAI
+   
+
+
+
+
+
+      Contact Center AI Insights
+   
+
+
+
+
+
+      APIs and Applications
+   
+
+
+
+
+
+      New Business Channels Using APIs
+   
+
+
+
+
+
+      Unlocking Legacy Applications Using APIs
+   
+
+
+
+
+
+      Open Banking APIx
+   
+
+
+
+
+
+      Databases
+   
+
+
+
+
+
+      Database Migration
+   
+
+
+
+
+
+      Database Modernization
+   
+
+
+
+
+
+      Google Cloud Databases
+   
+
+
+
+
+
+      Migrate Oracle workloads to Google Cloud
+   
+
+
+
+
+
+      Open Source Databases
+   
+
+
+
+
+
+      SQL Server on Google Cloud
+   
+
+
+
+
+
+      Data Cloud
+   
+
+
+
+
+
+      Databases Solutions
+   
+
+
+
+
+
+      Smart Analytics Solutions
+   
+
+
+
+
+
+      AI Solutions
+   
+
+
+
+
+
+      Data Cloud for ISVs
+   
+
+
+
+
+
+      Data Cloud Alliance
+   
+
+
+
+
+
+      Digital Transformation
+   
+
+
+
+
+
+      Digital Innovation
+   
+
+
+
+
+
+      Operational Efficiency
+   
+
+
+
+
+
+      COVID-19 Solutions
+   
+
+
+
+
+
+      COVID-19 Solutions for the Healthcare Industry
+   
+
+
+
+
+
+      Infrastructure Modernization
+   
+
+
+
+
+
+      Application Migration
+   
+
+
+
+
+
+      SAP on Google Cloud
+   
+
+
+
+
+
+      High Performance Computing
+   
+
+
+
+
+
+      Windows on Google Cloud
+   
+
+
+
+
+
+      Data Center Migration
+   
+
+
+
+
+
+      Active Assist
+   
+
+
+
+
+
+      Virtual Desktops
+   
+
+
+
+
+
+      Rapid Assessment & Migration Program (RAMP)
+   
+
+
+
+
+
+      Backup and Disaster Recovery
+   
+
+
+
+
+
+      Productivity and Collaboration
+   
+
+
+
+
+
+      Google Workspace
+   
+
+
+
+
+
+      Google Workspace Essentials
+   
+
+
+
+
+
+      Cloud Identity
+   
+
+
+
+
+
+      Chrome Enterprise
+   
+
+
+
+
+
+      Cloud Search
+   
+
+
+
+
+
+      Security
+   
+
+
+
+
+
+      Security Analytics and Operations
+   
+
+
+
+
+
+      Web App and API Protection
+   
+
+
+
+
+
+      Security and Resilience Framework
+   
+
+
+
+
+
+      Risk and compliance as code (RCaC)
+   
+
+
+
+
+
+      Smart Analytics
+   
+
+
+
+
+
+      Data Warehouse Modernization
+   
+
+
+
+
+
+      Data Lake Modernization
+   
+
+
+
+
+
+      Spark on Google Cloud
+   
+
+
+
+
+
+      Stream Analytics
+   
+
+
+
+
+
+      Business Intelligence
+   
+
+
+
+
+
+      Data Science
+   
+
+
+
+
+
+      Marketing Analytics
+   
+
+
+
+
+
+      Geospatial Analytics and AI
+   
+
+
+
+
+
+      Datasets
+   
+
+
+
+
+
+      Startups and SMB
+   
+
+
+
+
+
+      Startup Solutions
+   
+
+
+
+
+
+      Startup Program
+   
+
+
+
+
+
+      Small and Medium Business
+   
+
+
+
+
+
+      Software as a Service
+   
+
+
+
+
+
+
+
+      Featured Products
+   
+
+
+
+
+
+      Compute Engine
+   
+
+
+
+
+
+      Cloud Storage
+   
+
+
+
+
+
+      Cloud SDK
+   
+
+
+
+
+
+      Cloud SQL
+   
+
+
+
+
+
+      Google Kubernetes Engine
+   
+
+
+
+
+
+      BigQuery
+   
+
+
+
+
+
+      Cloud CDN
+   
+
+
+
+
+
+      Dataflow
+   
+
+
+
+
+
+      Operations
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      Anthos
+   
+
+
+
+
+
+      See all products (100+)
+   
+
+
+
+
+
+      AI and Machine Learning
+   
+
+
+
+
+
+      Vertex AI
+   
+
+
+
+
+
+      Speech-to-Text
+   
+
+
+
+
+
+      Vision AI
+   
+
+
+
+
+
+      Text-to-Speech
+   
+
+
+
+
+
+      Cloud Translation
+   
+
+
+
+
+
+      Cloud Natural Language
+   
+
+
+
+
+
+      AutoML
+   
+
+
+
+
+
+      Video AI
+   
+
+
+
+
+
+      AI Infrastructure
+   
+
+
+
+
+
+      Dialogflow
+   
+
+
+
+
+
+      AutoML Tables
+   
+
+
+
+
+
+      See all AI and machine learning products
+   
+
+
+
+
+
+      API Management
+   
+
+
+
+
+
+      Apigee API Management
+   
+
+
+
+
+
+      Apigee Integration
+   
+
+
+
+
+
+      Cloud Healthcare API
+   
+
+
+
+
+
+      AppSheet
+   
+
+
+
+
+
+      API Gateway
+   
+
+
+
+
+
+      Compute
+   
+
+
+
+
+
+      Compute Engine
+   
+
+
+
+
+
+      App Engine
+   
+
+
+
+
+
+      Cloud GPUs
+   
+
+
+
+
+
+      Migrate for Compute Engine
+   
+
+
+
+
+
+      Spot VMs
+   
+
+
+
+
+
+      Shielded VMs
+   
+
+
+
+
+
+      Sole-Tenant Nodes
+   
+
+
+
+
+
+      Bare Metal
+   
+
+
+
+
+
+      Recommender
+   
+
+
+
+
+
+      VMware Engine
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      See all compute products
+   
+
+
+
+
+
+      Containers
+   
+
+
+
+
+
+      Google Kubernetes Engine
+   
+
+
+
+
+
+      Container Registry
+   
+
+
+
+
+
+      Container Security
+   
+
+
+
+
+
+      Cloud Build
+   
+
+
+
+
+
+      Deep Learning Containers
+   
+
+
+
+
+
+      Kubernetes Applications
+   
+
+
+
+
+
+      Artifact Registry
+   
+
+
+
+
+
+      Knative
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      Cloud Code
+   
+
+
+
+
+
+      Data Analytics
+   
+
+
+
+
+
+      BigQuery
+   
+
+
+
+
+
+      Looker
+   
+
+
+
+
+
+      Dataflow
+   
+
+
+
+
+
+      Pub/Sub
+   
+
+
+
+
+
+      Dataproc
+   
+
+
+
+
+
+      Cloud Data Fusion
+   
+
+
+
+
+
+      Cloud Composer
+   
+
+
+
+
+
+      Dataprep
+   
+
+
+
+
+
+      Dataplex
+   
+
+
+
+
+
+      Data Catalog
+   
+
+
+
+
+
+      Analytics Hub
+   
+
+
+
+
+
+      See all data analytics products
+   
+
+
+
+
+
+      Databases
+   
+
+
+
+
+
+      AlloyDB for PostgreSQL
+   
+
+
+
+
+
+      Cloud Bigtable
+   
+
+
+
+
+
+      Firestore
+   
+
+
+
+
+
+      Memorystore
+   
+
+
+
+
+
+      Cloud Spanner
+   
+
+
+
+
+
+      Cloud SQL
+   
+
+
+
+
+
+      Database Migration Service
+   
+
+
+
+
+
+      Bare Metal Solution for Oracle
+   
+
+
+
+
+
+      Firebase Realtime Database
+   
+
+
+
+
+
+      Datastream
+   
+
+
+
+
+
+      Developer Tools
+   
+
+
+
+
+
+      Artifact Registry
+   
+
+
+
+
+
+      Cloud Build
+   
+
+
+
+
+
+      Cloud Code
+   
+
+
+
+
+
+      Cloud Deployment Manager
+   
+
+
+
+
+
+      gcloud CLI
+   
+
+
+
+
+
+      Cloud Scheduler
+   
+
+
+
+
+
+      Cloud Source Repositories
+   
+
+
+
+
+
+      Cloud Tasks
+   
+
+
+
+
+
+      Google Cloud Deploy
+   
+
+
+
+
+
+      Tekton
+   
+
+
+
+
+
+      Tools for PowerShell
+   
+
+
+
+
+
+      See all developer tools
+   
+
+
+
+
+
+      Healthcare and Life Sciences
+   
+
+
+
+
+
+      Apigee Healthcare APIx
+   
+
+
+
+
+
+      Cloud Healthcare API
+   
+
+
+
+
+
+      Cloud Life Sciences
+   
+
+
+
+
+
+      Healthcare Natural Language AI
+   
+
+
+
+
+
+      Hybrid and Multicloud
+   
+
+
+
+
+
+      Anthos
+   
+
+
+
+
+
+      Looker
+   
+
+
+
+
+
+      Cloud Run for Anthos
+   
+
+
+
+
+
+      Google Cloud Marketplace for Anthos
+   
+
+
+
+
+
+      Migrate for Anthos
+   
+
+
+
+
+
+      Operations
+   
+
+
+
+
+
+      Cloud Build
+   
+
+
+
+
+
+      Traffic Director
+   
+
+
+
+
+
+      Apigee API Management
+   
+
+
+
+
+
+      Google Distributed Cloud
+   
+
+
+
+
+
+      Internet of Things
+   
+
+
+
+
+
+      Cloud IoT Core
+   
+
+
+
+
+
+      Edge TPU
+   
+
+
+
+
+
+      Management Tools
+   
+
+
+
+
+
+      Anthos Config Management
+   
+
+
+
+
+
+      Carbon Footprint
+   
+
+
+
+
+
+      Cloud APIs
+   
+
+
+
+
+
+      Cloud console
+   
+
+
+
+
+
+      Cloud Mobile App
+   
+
+
+
+
+
+      Cloud Shell
+   
+
+
+
+
+
+      Config Connector
+   
+
+
+
+
+
+      Cost Management
+   
+
+
+
+
+
+      Intelligent Management
+   
+
+
+
+
+
+      Private Catalog
+   
+
+
+
+
+
+      Terraform on Google Cloud
+   
+
+
+
+
+
+      Media and Gaming
+   
+
+
+
+
+
+      Game Servers
+   
+
+
+
+
+
+      OpenCue
+   
+
+
+
+
+
+      Transcoder API
+   
+
+
+
+
+
+      Migration
+   
+
+
+
+
+
+      Application Migration
+   
+
+
+
+
+
+      BigQuery Data Transfer Service
+   
+
+
+
+
+
+      Cloud Foundation Toolkit
+   
+
+
+
+
+
+      Database Migration Service
+   
+
+
+
+
+
+      Migrate for Anthos
+   
+
+
+
+
+
+      Migrate for Compute Engine
+   
+
+
+
+
+
+      Rapid Assessment & Migration Program (RAMP)
+   
+
+
+
+
+
+      Transfer Appliance
+   
+
+
+
+
+
+      Storage Transfer Service
+   
+
+
+
+
+
+      VMware Engine
+   
+
+
+
+
+
+      Networking
+   
+
+
+
+
+
+      Cloud Armor
+   
+
+
+
+
+
+      Cloud CDN
+   
+
+
+
+
+
+      Cloud DNS
+   
+
+
+
+
+
+      Cloud Load Balancing
+   
+
+
+
+
+
+      Cloud NAT
+   
+
+
+
+
+
+      Hybrid Connectivity
+   
+
+
+
+
+
+      Network Connectivity Center
+   
+
+
+
+
+
+      Network Intelligence Center
+   
+
+
+
+
+
+      Network Service Tiers
+   
+
+
+
+
+
+      Traffic Director
+   
+
+
+
+
+
+      See all networking products
+   
+
+
+
+
+
+      Operations
+   
+
+
+
+
+
+      Cloud Logging
+   
+
+
+
+
+
+      Cloud Monitoring
+   
+
+
+
+
+
+      Error Reporting
+   
+
+
+
+
+
+      Kubernetes Engine Monitoring
+   
+
+
+
+
+
+      Cloud Trace
+   
+
+
+
+
+
+      Cloud Profiler
+   
+
+
+
+
+
+      Cloud Debugger
+   
+
+
+
+
+
+      Intelligent Operations
+   
+
+
+
+
+
+      Security and Identity
+   
+
+
+
+
+
+      Cloud IAM
+   
+
+
+
+
+
+      Assured Workloads
+   
+
+
+
+
+
+      Cloud Key Management
+   
+
+
+
+
+
+      Confidential Computing
+   
+
+
+
+
+
+      Security Command Center
+   
+
+
+
+
+
+      Cloud Data Loss Prevention
+   
+
+
+
+
+
+      Managed Service for Microsoft Active Directory
+   
+
+
+
+
+
+      Access Transparency
+   
+
+
+
+
+
+      Titan Security Key
+   
+
+
+
+
+
+      Secret Manager
+   
+
+
+
+
+
+      BeyondCorp Enterprise
+   
+
+
+
+
+
+      See all security and identity products
+   
+
+
+
+
+
+      Serverless Computing
+   
+
+
+
+
+
+      Cloud Run
+   
+
+
+
+
+
+      Cloud Functions
+   
+
+
+
+
+
+      App Engine
+   
+
+
+
+
+
+      Workflows
+   
+
+
+
+
+
+      Storage
+   
+
+
+
+
+
+      All Storage Products
+   
+
+
+
+
+
+      Cloud Storage
+   
+
+
+
+
+
+      Filestore
+   
+
+
+
+
+
+      Persistent Disk
+   
+
+
+
+
+
+      Cloud Storage for Firebase
+   
+
+
+
+
+
+      Local SSD
+   
+
+
+
+
+
+      Storage Transfer Service
+   
+
+
+
+
+
+      Google Workspace Essentials
+   
+
+
+
+
+
+
+
+      Save money with our transparent approach to pricing
+   
+
+
+
+
+
+      Request a quote
+   
+
+
+
+
+
+      Google Cloud
+   
+
+
+
+
+
+      Pricing overview
+   
+
+
+
+
+
+      Price list
+   
+
+
+
+
+
+      Pricing calculator
+   
+
+
+
+
+
+      Google Cloud Free Program
+   
+
+
+
+
+
+      Related Products
+   
+
+
+
+
+
+      Google Workspace
+   
+
+
+
+
+
+      Google Maps Platform
+   
+
+
+
+
+
+      Chrome Enterprise
+   
+
+
+
+
+
+      Apigee
+   
+
+
+
+
+
+      Looker
+   
+
+
+
+
+
+      Firebase
+   
+
+
+
+
+
+
+
+      Get started with Google Cloud
+   
+
+
+
+
+
+      Get started for free
+   
+
+
+
+
+
+      Self-service Resources
+   
+
+
+
+
+
+      Get started
+   
+
+
+
+
+
+      Developer Center
+   
+
+
+
+
+
+      Google Cloud certification
+   
+
+
+
+
+
+      Expert help and training
+   
+
+
+
+
+
+      Consulting
+   
+
+
+
+
+
+      Technical Account Management
+   
+
+
+
+
+
+      Training
+   
+
+
+
+
+
+      Partners and third-party tools
+   
+
+
+
+
+
+      Google Cloud partners
+   
+
+
+
+
+
+      Become a partner
+   
+
+
+
+
+
+      Google Cloud Marketplace
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Back to Google Cloud Terms Directory
+            
+
+
+
+
+
+
+
+
+
+ Current
+                      
+
+
+
+
+
+
+
+
+
+
+
+ Google Cloud Privacy
+                      Notice 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effective Date: April 20, 2022
+This Google Cloud Privacy Notice describes how we collect
+                      and process your personal information in relation
+                      to Google Workspace, Google Workspace for Education and Google Cloud Platform (together,
+                      “Cloud Services”).
+We offer Cloud Services either directly or via our
+                      authorized partners. Where we refer to our customers in
+                      this notice, we also mean our partners and their
+                      customers.
+
+
+
+
+
+
+
+
+
+
+
+
+                            Information We Collect
+
+
+
+
+Google processes Customer Data, Partner Data
+                                and Service Data in order to provide Cloud
+                                Services. This Privacy Notice applies solely to
+                                Service Data and does
+                                  not apply to Customer Data or
+                                Partner Data.
+Customer Data and Partner Data are defined in
+                                our agreement(s) covering Cloud Services and
+                                represent the data that you and our customers
+                                provide for processing in Cloud Services. For
+                                more information about how we process Customer
+                                Data and Partner Data, see
+                                our Google Workspace Data Processing Amendment, Google Cloud Platform Data Processing and Security Terms (Customers) and Google Cloud Platform Data Processing and Security Terms (Partners).
+                              
+Service Data is the personal information Google
+                                collects or generates during the provision and
+                                administration of the Cloud Services, excluding
+                                any Customer Data and Partner Data. Service Data
+                                includes:
+
+Cloud payments and
+                                    transactions. We keep
+                                  reasonable business records of charges,
+                                  payments, and billing details and issues.
+Cloud settings and
+                                    configurations. We record your
+                                  configuration and settings, including resource
+                                  identifiers and attributes. This includes
+                                  service and security settings for data and
+                                  other resources.
+Technical and operational details of
+                                    your usage of Cloud
+                                    Services. We collect
+                                  information about usage, operational status,
+                                  software errors and crash reports,
+                                  authentication credentials, quality and
+                                  performance metrics, and other technical
+                                  details necessary for us to operate and
+                                  maintain Cloud Services and related software.
+                                  This information may include device
+                                  identifiers, identifiers from cookies or
+                                  tokens, and IP addresses.
+Your direct
+                                    communications. We keep
+                                  records of your communications and
+                                  interactions with us and our partners, for
+                                  example, when you provide feedback or contact
+                                  information, ask questions or seek technical
+                                  support.
+
+
+
+
+
+
+
+
+                            Why We Process Data
+
+
+
+
+Google processes Service Data for the following
+                                purposes:
+
+Provide Cloud Services you
+                                    request. Service Data is
+                                  primarily used to deliver the Cloud Services
+                                  that you and our customers request. This
+                                  includes a number of processing activities
+                                  that are necessary to provide the Cloud
+                                  Services, including processing to bill for
+                                  services usage, to ensure services are working
+                                  as intended, to detect and avoid outages or
+                                  other problems you might experience, and to
+                                  secure your data and the services you use.
+                                
+Make recommendations to optimize use
+                                    of Cloud Services. We may
+                                  process Service Data to provide you and our
+                                  customers with recommendations and tips. These
+                                  suggestions may include ways to better secure
+                                  your account or data, options to reduce
+                                  service charges or improve performance, and
+                                  information about new or related products and
+                                  features. We may also evaluate your response
+                                  to our recommendations.
+Maintain and improve Cloud
+                                    Services. We evaluate Service
+                                  Data to help us improve the performance and
+                                  functionality of Cloud Services. As we
+                                  optimize Cloud Services for you, this may
+                                  improve them for our customers and vice versa.
+                                
+Provide and improve other services
+                                    you request. We may use
+                                  Service Data to deliver and improve other
+                                  services that you and our customers request,
+                                  including Google or third-party services that
+                                  are enabled via the Cloud Services,
+                                  administrative consoles, APIs, or the Google
+                                  Cloud Platform Marketplace or Google Workspace
+                                  Marketplace.
+Assist you. We use
+                                  Service Data when needed to provide technical
+                                  support and professional services as requested
+                                  by you and our customers, and to assess
+                                  whether we have met your needs. We also use
+                                  Service Data to improve our online support,
+                                  and to communicate with you and our customers.
+                                  This includes notifications about updates to
+                                  Cloud Services, and responding to support
+                                  requests.
+Protect you, our users, the public,
+                                    and Google. We use Service
+                                  Data to improve the safety and reliability of
+                                  our services. This includes detecting,
+                                  preventing, and responding to fraud, abuse,
+                                  security risks, and technical issues that
+                                  could harm our users, our customers, the
+                                  public, or Google. These activities are an
+                                  important part of our commitment to secure our
+                                  services.
+Comply with legal
+                                    obligations. We may need to
+                                  process Service Data to comply with our legal
+                                  obligations, for example, where we’re
+                                  responding to legal process or an enforceable
+                                  governmental request, or to meet our financial
+                                  record-keeping obligations.
+Other purposes with your
+                                    consent. We may ask for your
+                                  consent to process information for other
+                                  purposes not covered in this Privacy Notice.
+                                  You have the right to withdraw your consent at
+                                  any time.
+
+To achieve these purposes, we may use Service
+                                Data together with information we collect from
+                                other Google products and services. We may use
+                                algorithms to recognize patterns in Service
+                                Data. Manual collection and review of Service
+                                Data may also occur, such as when you interact
+                                directly with our billing or support teams. We
+                                may aggregate and anonymize Service Data to
+                                eliminate personal details, and we may use
+                                Service Data for internal reporting and analysis
+                                of applicable product and business operations.
+                              
+
+
+
+
+
+
+
+                            Where Data Is Stored
+
+
+
+
+We maintain data centers around the world, and
+                                provide Google Workspace and Google Workspace
+                                for Education
+                                from these locations, and
+                                Google Cloud Platform
+                                from these locations.
+                                Service Data may be processed on servers located
+                                outside of the country where our users and
+                                customers are located because Service Data is
+                                typically processed by centralized or
+                                regionalized operations like billing, support,
+                                and security.
+Regardless of where Service Data is processed,
+                                we apply the same protections described in this
+                                Privacy Notice. When transferring Service Data
+                                outside of the European Economic Area, we comply
+                                with
+                                certain legal frameworks.
+                              
+
+
+
+
+
+
+
+                            How We Secure Data
+
+
+
+
+We build Cloud Services with strong security
+                                features to protect information. The insights we
+                                gain from providing our services help us detect
+                                and automatically block security threats from
+                                ever reaching you.
+We work hard to protect you and Google from
+                                unauthorized access, alteration, disclosure, or
+                                destruction of information we hold, including:
+                              
+
+We encrypt Service Data at rest and while in
+                                  transit between our facilities.
+We regularly review our information
+                                  collection, storage, and processing practices,
+                                  including physical security measures, to
+                                  prevent unauthorized access to our systems.
+                                
+We restrict access to personal information
+                                  to Google employees, contractors, and agents
+                                  who need that information in order to process
+                                  it for us. Anyone with this access is subject
+                                  to strict contractual confidentiality
+                                  obligations and may be disciplined or
+                                  terminated if they fail to meet these
+                                  obligations.
+
+
+
+
+
+
+
+
+                            How We Share Data
+
+
+
+
+We do not share Service Data with companies,
+                                organizations, or individuals outside of Google
+                                except in the following cases:
+
+
+With your consent
+
+
+We’ll share Service
+                                Data outside of Google when we have your
+                                consent. For example, when you or our customer
+                                chooses to procure a third-party service through
+                                the Google Cloud Platform Marketplace or Google
+                                Workspace Marketplace, or use a third-party
+                                application that requests access to your
+                                information, we’ll seek permission to share
+                                information with that third party.
+
+
+
+With your administrators and authorized
+                                    resellers
+
+
+When you use Cloud
+                                Services, your administrator and resellers
+                                authorized to manage your or your organization’s
+                                account will have access to certain Service
+                                Data. For example, they may be able to:
+
+
+
+View account and billing information,
+                                      activity and statistics
+Change your account password
+Suspend or terminate your account access
+                                    
+Access your account information in order
+                                      to satisfy applicable law, regulation,
+                                      legal process, or enforceable governmental
+                                      request
+Restrict your ability to delete or edit
+                                      your information or your privacy settings
+                                    
+
+For external processing
+
+
+We provide
+                                information to our affiliates, partners and
+                                other trusted businesses or persons to process
+                                it for us, based on our instructions and in
+                                compliance with this Privacy Notice and other
+                                appropriate confidentiality and security
+                                measures.
+
+
+For legal reasons
+
+
+We may share
+                                Service Data outside of Google if we have a
+                                good-faith belief that access to, or use,
+                                preservation, or disclosure of the information
+                                is reasonably necessary to:
+
+
+
+Comply with applicable law, regulation,
+                                      legal process, or enforceable governmental
+                                      request. We share information about the
+                                      number and type of requests we receive
+                                      from governments in
+                                      our Transparency Report.
+                                    
+Enforce applicable agreements, including
+                                      investigation of potential violations.
+                                    
+Detect, prevent, or otherwise address
+                                      fraud, security, or technical issues.
+Protect against harm to the rights,
+                                      property or safety of Google, our
+                                      customers, users, and the public as
+                                      required or permitted by law.
+
+
+
+If Google is
+                                involved in a reorganization, merger,
+                                acquisition, or sale of assets, we’ll continue
+                                to ensure the confidentiality of your personal
+                                information and give affected users notice
+                                before personal information becomes subject to a
+                                different privacy policy.
+
+
+
+
+
+
+
+
+                            Access to Data
+
+
+
+
+Your organization may allow you to access and
+                                export your data in order to back it up or
+                                transfer it to a service outside of Google. Some
+                                Google Cloud Services enable you to directly
+                                access and download the data you have stored in
+                                the services. For example, as further described
+                                in
+                                our Google Workspace Data Subject Requests Guide,
+                                you or your organization may use various tools
+                                to access, control, and export data.
+You and your organization’s administrator can
+                                access several categories of Service Data
+                                directly from Google Cloud, including your
+                                billing contact information, payment and
+                                transaction information, as well as product and
+                                communication settings and configurations.
+If you’re otherwise unable to access your data,
+                                you can always request
+                                it here.
+                              
+
+
+
+
+
+
+
+                            Deletion and Retention of Data
+
+
+
+
+We retain Service Data for different periods of
+                                time depending on what it is, how we use it, and
+                                how you configure your settings.
+Service Data is deleted or anonymized once it
+                                is no longer needed. For each type of data and
+                                operation, we set retention timeframes based on
+                                the purpose for its collection, and ensure it is
+                                kept for no longer than necessary.
+Sometimes we need to retain certain information
+                                for an extended period of time for legitimate
+                                business or legal purposes. For example, when
+                                Google processes a payment for you, or when you
+                                make a payment to Google, we’ll retain data
+                                about those transactions as required for tax or
+                                accounting purposes. Other legitimate business
+                                or legal purposes that may require us to retain
+                                data include security, fraud and abuse
+                                prevention, ensuring continuity of our services,
+                                and complying with legal or regulatory
+                                requirements.
+When we delete data, we follow detailed steps
+                                to make sure that the data is securely and
+                                completely removed from our active systems or
+                                retained only in anonymized form. We take
+                                measures to ensure that our services protect
+                                information from accidental or malicious
+                                deletion through the use of backup systems.
+
+
+
+
+
+
+
+                            Using Google Accounts and Products
+
+
+
+
+Your Google Account is your connection to all
+                                Google products and services, not just Cloud
+                                Services. When you choose to use Google products
+                                and services outside of Cloud Services,
+                                the Google Privacy Policy describes
+                                how data (including your Google Account profile
+                                information) is collected and used. You and your
+                                administrator can control which other Google
+                                services you may use while logged into a Google
+                                Account managed by your organization.
+If you interact with Cloud Services using a
+                                Google Account managed by an organization, then
+                                your personal information may be subject to your
+                                organization’s privacy policies and processes,
+                                and you should direct privacy inquiries to your
+                                organization.
+
+
+
+
+
+
+
+                            EU Privacy Standards and GDPR
+
+
+
+
+If European Union (EU), UK or Swiss data
+                                protection law applies to the processing of
+                                information about you, you have certain rights,
+                                including the rights to access, correct, delete
+                                and export your information, as well as to
+                                object to or request that we restrict processing
+                                of your information.
+For users based in the European Economic Area,
+                                UK or Switzerland, the data controller
+                                responsible for Service Data is Google Cloud
+                                EMEA Ltd. However, where our customer has
+                                entered into an agreement covering Cloud
+                                Services with a different Google affiliate, that
+                                affiliate will be the data controller
+                                responsible for processing Service Data in
+                                connection with billing for the Cloud Services
+                                only.
+If you want to exercise your data protection
+                                rights with regard to information we process in
+                                accordance with this Privacy Notice and are not
+                                able to do so via the tools available to you or
+                                your organization’s administrator, you can
+                                always contact Google via
+                                our Privacy Help Center.
+                                And you can contact your local data protection
+                                authority if you have concerns regarding your
+                                rights under local law.
+In addition to the purposes and grounds
+                                described in this Privacy Notice, we may process
+                                information on the following legal grounds:
+
+Where necessary for the performance
+                                    of a contract with you
+We may process your information where
+                                    necessary for us to enter into a contract
+                                    with you or to comply with our contractual
+                                    commitments to you.
+
+When we’re complying with legal
+                                    obligations
+We’ll process your information when we have
+                                    a legal obligation to do so.
+
+When we’re pursuing legitimate
+                                    interests
+We may process Service Data based on our
+                                    legitimate interests and those of third
+                                    parties while applying appropriate
+                                    safeguards that protect your privacy. This
+                                    means that we process your information in
+                                    the interests of providing Cloud Services
+                                    you request; making recommendations to
+                                    optimize use of Cloud Services; maintaining
+                                    and improving Cloud Services; providing and
+                                    improving other services you request;
+                                    assisting you; and protecting against harm
+                                    to the rights, property or safety of Google,
+                                    our users, our customers, and the public, as
+                                    required or permitted by law.
+
+
+
+
+
+
+
+
+
+                            Brazil Requirements
+
+
+
+
+If Brazilian data protection law applies to the
+                                processing of information about you, you have
+                                certain rights, including the rights to access,
+                                correct, delete or export your information, as
+                                well as to object to or request that we restrict
+                                processing of your information. You also have
+                                the right to object to the processing of your
+                                information or to export your information to
+                                another service.
+For users based in Brazil, the data controller
+                                responsible for Service Data we collect for
+                                Google Workspace and Google Workspace for
+                                Education is Google LLC, and the data controller
+                                responsible for Service Data we collect for
+                                Google Cloud Platform is Cloud Brasil Computação
+                                e Serviços de Dados Ltda. If you want to
+                                exercise your data protection rights with regard
+                                to information we process in accordance with
+                                this Privacy Notice and are not able to do so
+                                via the tools available to you or your
+                                organization’s administrator, you can always
+                                contact Google via
+                                our Privacy Help Center.
+                                And you can contact your data protection
+                                authority if you have concerns regarding your
+                                rights under Brazilian law.
+In addition to the purposes and grounds
+                                described in this Privacy Notice, we may process
+                                information on the following legal grounds:
+
+Where necessary for the performance
+                                    of a contract with you
+We may process your information where
+                                    necessary for us to enter into a contract
+                                    with you or to comply with our contractual
+                                    commitments to you.
+
+When we’re complying with legal
+                                    obligations
+We’ll process your information when we have
+                                    a legal obligation to do so.
+
+When we’re pursuing legitimate
+                                    interests
+We may process Service Data based on our
+                                    legitimate interests and those of third
+                                    parties while applying appropriate
+                                    safeguards that protect your privacy. This
+                                    means that we process your information in
+                                    the interests of providing Cloud Services
+                                    you request; making recommendations to
+                                    optimize use of Cloud Services; maintaining
+                                    and improving Cloud Services; providing and
+                                    improving other services you request;
+                                    assisting you; and protecting against harm
+                                    to the rights, property or safety of Google,
+                                    our users, our customers, and the public, as
+                                    required or permitted by law.
+
+
+
+
+
+
+
+
+
+                            California Requirements
+
+
+
+
+The California Consumer Privacy Act (CCPA)
+                                requires specific disclosures for California
+                                residents.
+This Privacy Notice is designed to help you
+                                understand how Google handles your information:
+                              
+
+
+We explain the categories of information
+                                    Google collects and the sources of that
+                                    information
+                                    in Information We Collect.
+                                  
+
+
+We explain how Google uses information
+                                    in Why We Process Data.
+                                  
+
+
+We explain when Google may share
+                                    information
+                                    in How We Share Data.
+                                    Google does not sell your personal
+                                    information.
+
+
+The CCPA also provides the right to request
+                                information about how Google collects, uses, and
+                                discloses your personal information. And it
+                                gives you the right to access your information
+                                and request that Google delete that information.
+                                Finally, the CCPA provides the right to not be
+                                discriminated against for exercising your
+                                privacy rights.
+We provide
+                                the information and tools described
+                                in this Notice so you can exercise these rights.
+                                When you use them, we’ll validate your request
+                                by verifying your identity (for example, by
+                                confirming that you’re signed in to your Google
+                                Account). If you have questions or requests
+                                related to your rights under the CCPA, you (or
+                                your authorized agent) can
+                                also contact Google.
+                              
+The CCPA requires a description of data
+                                practices using specific categories. This table
+                                uses these categories to organize the
+                                information in this Privacy Notice.
+
+
+
+
+
+Categories of personal
+                                          information we collect
+Business purposes for which
+                                          information may be used or
+                                          disclosed
+Parties with whom information
+                                          may be shared
+
+
+
+
+
+Service Data is the personal
+                                            information Google collects or
+                                            generates during the provision and
+                                            administration of the Cloud
+                                            Services, excluding any Customer
+                                            Data and Partner Data. Service Data
+                                            includes:
+
+Identifiers such
+                                          as your name, phone number, and
+                                          address, as well as unique identifiers
+                                          tied to the browser, application, or
+                                          device you’re using.
+Demographic
+                                            information, such as
+                                          your preferred language.
+Commercial
+                                            information such as
+                                          records of charges, payments, and
+                                          billing details and issues.
+Internet, network, and other
+                                            activity
+                                            information such as
+                                          device identifiers, identifiers from
+                                          cookies or tokens, IP addresses, and
+                                          information about usage, operational
+                                          status, software errors and crash
+                                          reports, authentication credentials,
+                                          quality and performance metrics, and
+                                          other technical details necessary for
+                                          us to operate and maintain Cloud
+                                          Services and related software.
+Geolocation
+                                            data, such as the
+                                          country you’re in, as may be
+                                          determined by GPS or IP address,
+                                          depending in part on your device and
+                                          account settings.
+Audio, electronic, visual and
+                                            similar
+                                            information, such as
+                                          audio recordings of your calls with
+                                          our technical support providers.
+
+Inferences drawn
+                                          from the above, like aggregated
+                                          performance metrics for a new product
+                                          feature to determine product strategy.
+                                        
+
+
+Google processes Service Data
+                                            for the following purposes:
+
+Protecting against security
+                                            threats, abuse, and illegal
+                                            activity. Google uses
+                                          and may disclose Service Data to
+                                          detect, prevent and respond to
+                                          security incidents, and for protecting
+                                          against other malicious, deceptive,
+                                          fraudulent, or illegal activity. For
+                                          example, to protect our services,
+                                          Google may receive or disclose
+                                          information about IP addresses that
+                                          malicious actors have compromised.
+Auditing and
+                                            measurement. Google
+                                          uses Service Data for analytics and
+                                          measurement to understand how our
+                                          services are used, and to provide you
+                                          and our customers with recommendations
+                                          and tips.
+Maintaining our
+                                            services. Google uses
+                                          Service Data to provide Cloud
+                                          Services, technical support, and other
+                                          services you request, and ensure they
+                                          are working as intended, for example
+                                          by tracking outages or troubleshooting
+                                          bugs and other issues that you report
+                                          to us.
+Product
+                                            development. Google
+                                          uses Service Data to improve Cloud
+                                          Services and other services you
+                                          request, and to develop new features
+                                          and technologies that benefit our
+                                          users and customers.
+Use of service
+                                            providers. Google
+                                          shares Service Data with service
+                                          providers to perform services on our
+                                          behalf, in compliance with this
+                                          Privacy Notice and other appropriate
+                                          confidentiality and security measures.
+                                          For example, we may rely on service
+                                          providers to help provide technical
+                                          support.
+Legal
+                                            reasons. Google also
+                                          uses Service Data to satisfy
+                                          applicable laws or regulations, and
+                                          discloses information in response to
+                                          legal process or enforceable
+                                          government requests, including to law
+                                          enforcement. We provide information
+                                          about the number and type of requests
+                                          we receive from governments in
+                                          our Transparency Report.
+                                        
+
+
+We do not share Service Data
+                                            with companies, organizations, or
+                                            individuals outside of Google except
+                                            in the following cases:
+With your
+                                            consent. We’ll share
+                                          Service Data outside of Google when we
+                                          have your consent. For example, when
+                                          you or our customer chooses to procure
+                                          a third-party service through the
+                                          Google Cloud Platform Marketplace or
+                                          Google Workspace Marketplace, or use a
+                                          third-party application that requests
+                                          access to your information, we’ll seek
+                                          permission to share information with
+                                          that third party.
+With your administrators and
+                                            authorized
+                                            resellers. When you
+                                          use Cloud Services, your administrator
+                                          and resellers authorized to manage
+                                          your or your organization’s account
+                                          will have access to certain Service
+                                          Data. For example, they may be able
+                                          to:
+
+
+View account and billing
+                                              information, activity and
+                                              statistics
+
+
+Change your account password
+
+
+Suspend or terminate your account
+                                              access
+
+
+Access your account information
+                                              in order to satisfy applicable
+                                              law, regulation, legal process, or
+                                              enforceable governmental request
+                                            
+
+
+Restrict your ability to delete
+                                              or edit your information or your
+                                              privacy settings
+
+
+For external
+                                            processing. We provide
+                                          information to our affiliates,
+                                          partners and other trusted businesses
+                                          or persons to process it for us, based
+                                          on our instructions and in compliance
+                                          with this Privacy Notice and other
+                                          appropriate confidentiality and
+                                          security measures.
+For legal
+                                            reasons. We may share
+                                          Service Data outside of Google if we
+                                          have a good-faith belief that access,
+                                          use, preservation, or disclosure of
+                                          the information is reasonably
+                                          necessary to:
+
+
+Comply with applicable law,
+                                              regulation, legal process, or
+                                              enforceable governmental request.
+                                              We share information about the
+                                              number and type of requests we
+                                              receive from governments in
+                                              our Transparency Report.
+                                            
+
+
+Enforce applicable agreements,
+                                              including investigation of
+                                              potential violations.
+
+
+Detect, prevent, or otherwise
+                                              address fraud, security, or
+                                              technical issues.
+
+
+Protect against harm to the
+                                              rights, property or safety of
+                                              Google, our customers, users, and
+                                              the public as required or
+                                              permitted by law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Korea Requirements
+
+
+
+
+If Korean data protection law applies to the
+                                processing of your Service Data, we provide the
+                                following additional information for users of
+                                Cloud Services residing in Korea.
+Items of personal information
+                                  collected. When you use our Cloud
+                                Services, the following Service Data is
+                                collected: (i) business records of charges,
+                                payments, billing issues, credit card info and
+                                connecting info (ii) configuration and settings,
+                                including resource identifiers and attributes.
+                                (iii) usage, operational status, quality and
+                                performance metrics, and other technical
+                                details, device identifiers, identifiers from
+                                cookies or tokens, and IP addresses, (iv) your
+                                feedback, contact information (including, for
+                                example, name, email, address and/or phone
+                                number)  and your other communications with
+                                us, each as further
+                                described here.
+                              
+The above personal information may be
+                                transmitted to
+                                our data centers located
+                                abroad through our network for the purposes
+                                listed below and stored for the retention period
+                                below.
+We may use cookies (small text files placed on
+                                the user's device) and similar technologies for
+                                a variety of purposes, including user
+                                preferences or settings, authentication
+                                information, and interest-based advertising or
+                                analysis. Most web browsers accept cookies
+                                automatically, but provide controls that allow
+                                you to block or delete cookies.
+Purpose of collection and use of
+                                  personal information. Google
+                                collects and uses Service Data (i) to provide
+                                Cloud Services you request, (ii) to make
+                                recommendations to optimize use of Cloud
+                                Services, (iii) to maintain and improve Cloud
+                                Services, (iv) to provide and improve other
+                                services you request (v) to assist you, (vi) to
+                                protect you, our users, the public and Google,
+                                (vii) to comply with legal obligations, and
+                                (viii) for other purposes with your consent,
+                                each as further
+                                described here.
+                              
+Retention period of personal
+                                  information. Service Data is
+                                deleted or anonymized once it is no longer
+                                needed for the purposes described above. For
+                                each type of data and operation, we set
+                                retention timeframes based on the purpose for
+                                its collection, and ensure it is kept for no
+                                longer than necessary.
+Deletion of personal
+                                  information. If the retention
+                                period expires or you request deletion, Google
+                                will faithfully endeavor to delete such personal
+                                information unless there is a legal obligation
+                                that requires processing or another lawful basis
+                                for retaining the information. When we receive a
+                                request to delete personal information, the
+                                retention period of the archive copy expires,
+                                and then Google's archiving system has a
+                                mechanism to overwrite the expired data. In some
+                                cases, it may be necessary to store some data
+                                for a variety of other reasons, such as
+                                complying with legal obligations.
+Consignment of personal information
+                                  processing. We provide
+                                information to affiliates
+                                (listed here for
+                                Google Cloud Platform,
+                                and here for
+                                Google Workspace and Google Workspace for
+                                Education) and other trusted businesses or
+                                persons to process it for us, based on our
+                                instructions and in compliance with this Privacy
+                                Notice and other appropriate confidentiality and
+                                security measures.
+Google has contracts with the third-party
+                                service providers listed below to provide Cloud
+                                Services to Korean residents. The contracts
+                                impose obligations on those companies to
+                                prohibit the processing of personal information
+                                other than for the purposes we specify, to
+                                return or destroy personal information after the
+                                end of processing, and to implement processes to
+                                ensure those companies comply with these
+                                obligations.  
+
+
+
+
+
+Third-party vendor
+
+Role
+Note
+
+
+
+EPAM Systems Japan G.K.
+Webhelp Malaysia Sdn. Bhd
+TELUS International Philippines, Inc.
+                                        
+Infosys Limited.
+
+Customer Support for Cloud Services
+                                      
+In order for Google to provide Cloud
+                                        Services to Korean residents, these
+                                        companies can process Service Data
+                                        remotely from abroad during the
+                                        retention period described above.
+
+
+Toss Payments Co., Ltd. (Korean
+                                        Company)
+Payment and notification services
+
+
+
+D-Agent (Korean company)
+Local representative for user's
+                                        privacy inquiries
+
+
+
+
+
+Legal minors. Our basic
+                                policy is not to collect personal information of
+                                Korean residents under the age of 14. If you are
+                                Korean residents under the age of 14, you may
+                                use Cloud Services only with the consent of a
+                                parent or legal representative.
+
+Safety measures for personal information.
+                                Google takes the administrative, technical and
+                                physical measures described in the "How We
+                                Secure Data" section above to ensure the safety
+                                of personal information
+Contact Information. If
+                                you have any questions about Google's privacy
+                                policy or privacy practices, please contact our
+                                Google privacy team
+                                (Email:                                 For local representatives under Personal
+                                Information Protection Act and the Act on
+                                Promotion of Information and Communication
+                                Network Utilization and Information Protection,
+                                please see below:
+
+Name and Representative: D-Agent Co., Ltd.
+                                  (CEO  Byung-gun An)
+Address and Contact Information: 11th floor,
+                                  Platinum Building, Gwanghwamun 28, Saemunan-ro
+                                  5-ga-gil, Jongno-gu, Seoul, 02-737-0346,
+                                  
+                                
+
+
+
+
+
+
+
+
+                            Updates to this Notice
+
+
+
+
+We may update this Privacy Notice from time to
+                                time. We will not make any significant changes
+                                without notifying you in advance by posting a
+                                prominent notice on this page describing the
+                                changes or by sending you a direct
+                                communication. We encourage you to regularly
+                                review this Privacy Notice, and we will always
+                                indicate the date the last changes were
+                                published.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous versions
+ (Last modified April 20, 2022) 
+
+
+
+
+        December 7, 2021
+      
+
+
+
+        May 30, 2021
+      
+
+
+
+        December 7, 2020
+      
+
+
+
+        November 12, 2020
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Google
+
+
+
+            
+          
+            Choosing Google Cloud
+          
+          
+
+
+
+            
+          
+            Trust and security
+          
+          
+
+
+
+            
+          
+            Open cloud
+          
+          
+
+
+
+            
+          
+            Multicloud
+          
+          
+
+
+
+            
+          
+            Global infrastructure
+          
+          
+
+
+
+            
+          
+            Customers and case studies
+          
+          
+
+
+
+            
+          
+            Analyst reports
+          
+          
+
+
+
+            
+          
+            Whitepapers
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Blog
+          
+          
+
+
+
+
+Products and pricing
+
+
+
+            
+          
+            Google Cloud pricing
+          
+          
+
+
+
+            
+          
+            Google Workspace pricing
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            See all products
+          
+          
+
+
+
+
+Solutions
+
+
+
+            
+          
+            Infrastructure modernization
+          
+          
+
+
+
+            
+          
+            Databases
+          
+          
+
+
+
+            
+          
+            Application modernization
+          
+          
+
+
+
+            
+          
+            Smart analytics
+          
+          
+
+
+
+            
+          
+            Artificial Intelligence
+          
+          
+
+
+
+            
+          
+            Security
+          
+          
+
+
+
+            
+          
+            Productivity & work transformation
+          
+          
+
+
+
+            
+          
+            Industry solutions
+          
+          
+
+
+
+            
+          
+            DevOps solutions
+          
+          
+
+
+
+            
+          
+            Small business solutions
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            See all solutions
+          
+          
+
+
+
+
+Resources
+
+
+
+            
+          
+            Google Cloud documentation
+          
+          
+
+
+
+            
+          
+            Google Cloud quickstarts
+          
+          
+
+
+
+            
+          
+            Google Cloud Marketplace
+          
+          
+
+
+
+            
+          
+            Learn about cloud computing
+          
+          
+
+
+
+            
+          
+            Support
+          
+          
+
+
+
+            
+          
+            Code samples
+          
+          
+
+
+
+            
+          
+            Cloud Architecture Center
+          
+          
+
+
+
+            
+          
+            Training
+          
+          
+
+
+
+            
+          
+            Certifications
+          
+          
+
+
+
+            
+          
+            Google Developers
+          
+          
+
+
+
+            
+          
+            Google Cloud for Startups
+          
+          
+
+
+
+            
+          
+            System status
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Release Notes
+          
+          
+
+
+
+
+Engage
+
+
+
+            
+          
+            Contact sales
+          
+          
+
+
+
+            
+          
+            Find a Partner
+          
+          
+
+
+
+            
+          
+            Become a Partner
+          
+          
+
+
+
+            
+          
+            Events
+          
+          
+
+
+
+            
+          
+            Podcasts
+          
+          
+
+
+
+            
+          
+            Developer Center
+          
+          
+
+
+
+            
+          
+            Press Corner
+          
+          
+
+
+
+            
+          
+            Google Cloud on YouTube
+          
+          
+
+
+
+            
+          
+            Google Cloud Tech on YouTube
+          
+          
+
+
+
+            
+          
+            Follow on Twitter
+          
+          
+
+
+
+            
+          
+            Join User Research
+          
+          
+
+
+
+            
+          
+            We're hiring. Join Google Cloud!
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Cloud Community
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Cookie Settings
+        
+
+
+
+          About Google
+        
+
+
+
+          Privacy
+        
+
+
+
+          Site terms
+        
+
+
+
+          Google Cloud terms
+        
+
+
+
+          Carbon neutral since 2007
+        
+
+
+Sign up for the Google Cloud newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Deutsch
+      
+
+        Español – América Latina
+      
+
+        Français
+      
+
+        Italiano
+      
+
+        Nederlands
+      
+
+        Português – Brasil
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

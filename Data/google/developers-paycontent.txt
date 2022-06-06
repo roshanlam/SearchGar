@@ -1,0 +1,1125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pay  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Pay
+
+
+
+
+
+
+
+
+
+
+
+  Overview
+
+
+
+
+  Payments
+
+
+
+
+
+
+ 
+
+
+
+                      Android
+                    
+
+
+
+
+
+                      Web
+                    
+
+
+
+
+
+
+
+
+
+  Passes
+
+
+
+
+
+
+ 
+
+
+
+                      Boarding passes
+                    
+
+
+
+
+
+                      Event tickets
+                    
+
+
+
+
+
+                      Loyalty cards
+                    
+
+
+
+
+
+                      Gift cards
+                    
+
+
+
+
+
+                      Offers
+                    
+
+
+
+
+
+                      Transit passes
+                    
+
+
+
+
+
+
+
+
+
+  India
+
+
+
+
+
+
+Merchant APIs
+
+
+
+                      Android
+                    
+
+
+
+
+
+                      iOS
+                    
+
+
+
+
+
+                      Web
+                    
+
+
+
+
+
+                      Omnichannel
+                    
+
+
+
+
+
+                      Merchant SDK
+                    
+
+
+
+
+PSP APIs
+
+
+
+                      UPI callbacks
+                    
+
+
+
+
+Bank APIs
+
+
+
+                      Credit Card
+                    
+
+
+
+
+
+
+
+
+
+  Transit
+
+
+
+
+
+
+ 
+
+
+
+                      Closed loop
+                    
+
+
+
+
+
+                      Open loop
+                    
+
+
+
+
+
+                      QR code
+                    
+
+
+
+
+
+                      Visual tickets
+                    
+
+
+
+
+
+
+
+
+
+  Payment Card Recognition
+
+
+
+
+  Spot Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Polski
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+    
+        Overview
+      
+  
+
+
+
+                Google Pay APIs help developers build checkout experiences.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Pay
+
+
+
+
+
+
+
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Payments
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Passes
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      India
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Transit
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Payment Card Recognition
+   
+
+
+
+
+
+      Spot Platform
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Android
+   
+
+
+
+
+
+      Web
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Boarding passes
+   
+
+
+
+
+
+      Event tickets
+   
+
+
+
+
+
+      Loyalty cards
+   
+
+
+
+
+
+      Gift cards
+   
+
+
+
+
+
+      Offers
+   
+
+
+
+
+
+      Transit passes
+   
+
+
+
+
+
+
+
+      Merchant APIs
+   
+
+
+
+
+
+      Android
+   
+
+
+
+
+
+      iOS
+   
+
+
+
+
+
+      Web
+   
+
+
+
+
+
+      Omnichannel
+   
+
+
+
+
+
+      Merchant SDK
+   
+
+
+
+
+
+      PSP APIs
+   
+
+
+
+
+
+      UPI callbacks
+   
+
+
+
+
+
+      Bank APIs
+   
+
+
+
+
+
+      Credit Card
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Closed loop
+   
+
+
+
+
+
+      Open loop
+   
+
+
+
+
+
+      QR code
+   
+
+
+
+
+
+      Visual tickets
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        Google Pay
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Google Pay APIs help you build better checkout experiences
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Make payments easy for you and your customers
+      
+  
+    
+
+Add Google Pay to your existing payments processing stack to offer simpler, more secure checkout in your apps and websites. Learn more  View developer documentation Android Web Transaction Events Plus, check out customized Google Pay APIs for India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Give users fast, secure access to everyday essentials
+      
+  
+
+
+With Google Wallet, your customers can tap to pay everywhere Google Pay is accepted, shop with loyalty cards, board a flight, and more, all with just their Android phone.
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Trusted by top brands
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Get the latest news
+      
+  
+
+
+            Stay up to date on Google Pay news, products, and events.
+          
+
+Follow us on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Facebook
+          
+          
+
+
+
+            
+          
+            Medium
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Programs
+
+
+
+            
+          
+            Women Techmakers
+          
+          
+
+
+
+            
+          
+            Google Developer Groups
+          
+          
+
+
+
+            
+          
+            Google Developers Experts
+          
+          
+
+
+
+            
+          
+            Accelerators
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Polski
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        中文 – 繁體
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

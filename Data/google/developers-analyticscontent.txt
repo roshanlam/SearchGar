@@ -1,0 +1,946 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Analytics  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+                Collect, configure, and analyze your data to reach the right audience.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        Google Analytics
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Set up Google Analytics
+      
+  
+
+
+            Set up and customize measurement for websites, web and mobile apps, and internet connected devices.
+          
+
+Choose a platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Integrate with Google Analytics
+      
+  
+
+
+            Build on top of Google Analytics with our simple and powerful APIs.
+          
+
+Find an API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Learn about Google Analytics
+      
+  
+
+
+            Educate yourself and experience what's possible with the Google Analytics platform.
+          
+
+Discover Google Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Libraries and SDKs for measurement
+      
+  
+    
+
+
+
+
+
+
+
+
+
+    
+        Web
+      
+  
+
+
+            Measure user interaction with websites or web applications.
+          
+
+Google Analytics 4 properties
+gtag.js
+analytics.js
+
+
+
+
+
+
+
+
+
+    
+        Android
+      
+  
+
+
+            Measure user interaction with Android applications.
+          
+
+
+
+
+
+
+
+
+    
+        iOS
+      
+  
+
+
+            Measure user interaction with iOS applications.
+          
+
+
+
+
+
+
+
+
+
+
+    
+        Measurement Protocol
+      
+  
+
+
+            Measure user interaction in any environment with this low-level protocol.
+          
+
+
+
+
+
+
+
+
+    
+        AMP HTML
+      
+  
+
+
+            Measure user interactions in AMP pages.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        APIs for reporting and configuration
+      
+  
+    
+
+
+
+
+
+
+
+
+
+    
+        Data API (Preview)
+      
+  
+
+
+            Access report data in Google Analytics 4 (GA4) properties.
+          
+
+
+
+
+
+
+
+
+    
+        Core Reporting API
+      
+  
+
+
+            Query for dimensions and metrics to produce customized reports.
+          
+
+
+
+
+
+
+
+
+    
+        Embed API
+      
+  
+
+
+            Easily create and embed dashboards on a 3rd party website in minutes.
+          
+
+
+
+
+
+
+
+
+    
+        Multi-Channel Funnels Reporting API
+      
+  
+
+
+            Query the traffic source paths that lead to a user's goal conversion.
+          
+
+
+
+
+
+
+
+
+    
+        Real Time Reporting API
+      
+  
+
+
+            Report on activity occurring on your property right now.
+          
+
+
+
+
+
+
+
+
+    
+        Metadata API
+      
+  
+
+
+            Access the list of API dimensions and metrics and their attributes.
+          
+
+
+
+
+
+
+
+
+
+
+    
+        Admin API (Preview)
+      
+  
+
+
+            Access the Google Analytics 4 (GA4) configuration data.
+          
+
+
+
+
+
+
+
+
+    
+        Management API
+      
+  
+
+
+            View and manage accounts, properties, views, filters, uploads, permissions, etc.
+          
+
+
+
+
+
+
+
+
+    
+        User Deletion API
+      
+  
+
+
+            Delete all data in a Google Analytics property associated with a user identifier.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        More resources
+      
+  
+    
+
+
+
+
+
+
+
+
+
+    
+        Demos and tools
+      
+  
+
+
+            See what's possible with the Google Analytics Platform.
+          
+
+
+
+
+
+
+
+
+    
+        Solutions and implementation guides
+      
+  
+
+
+            Learn about advanced implementation techniques.
+          
+
+
+
+
+
+
+
+
+    
+        Developer migration center
+      
+  
+
+
+            Learn how to migrate to the latest Google Analytics measurement libraries.
+          
+
+
+
+
+
+
+
+
+
+
+    
+        Community & updates
+      
+  
+
+
+            Resources to stay up to date and participate with other developers.
+          
+
+
+
+
+
+
+
+
+    
+        Get help
+      
+  
+
+
+            Get your questions answered and report issues.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        
+        GitHub
+      
+Try Google Analytics samples
+
+
+
+
+          
+        
+        Stack Overflow
+      
+Ask questions using the google-analytics tag
+
+
+
+
+          
+        
+        Twitter
+      
+Follow on Twitter
+
+
+
+
+          
+        
+        Videos
+      
+View Google Analytics videos on YouTube
+
+
+
+
+
+
+
+
+Connect
+
+
+
+            
+          
+            Community & Updates
+          
+          
+
+
+
+            
+          
+            Getting Help
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Reporting an Issue
+          
+          
+
+
+
+
+Product Info
+
+
+
+            
+          
+            Protocol / SDK Policy
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Branding Policy
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

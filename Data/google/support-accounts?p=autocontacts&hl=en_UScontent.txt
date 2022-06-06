@@ -1,0 +1,75 @@
+Change who's saved & suggested as contacts - Computer - Google Account Help   Skip to main content   Google Account HelpSign inGoogle HelpHelp CenterCommunityGoogle AccountPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Account Manage your informationChange who's saved & suggested as contacts       Change who's saved & suggested as contactsYou'll see contacts suggested in some Google services, like when you start typing someone's name in a new email in Gmail. You can control who gets saved and suggested as a contact.
+Who shows up as suggestions
+
+People you've added to your contacts.
+People you've interacted with in Google services are automatically saved to "Other contacts." You can stop automatically saving contacts at any time.
+
+Control who's saved as contacts
+Add contacts yourself
+
+
+Sign in to Google Contacts. You'll see a list of contacts you've added.
+At the top left, select Create contact.
+Enter the person's contact info.
+Select Save.
+
+
+
+Save contact info when you interact with people
+
+When you interact with people on Google products, you can automatically save their contact info, including names, email addresses, and phone numbers. When this setting is turned on, you'll keep the contact info for:
+
+People you've shared something with, like a document in Drive
+People who share content with you, like shared albums in Google Photos
+People included in events or groups you're in
+
+Start or stop saving automatically
+
+Go to your Google Account.
+On the left navigation panel, click People & sharing.
+On the Contacts panel, click Contact info saved from interactions.
+Turn Save contact info when you interact with people on or off.
+If you use Gmail, choose if Gmail saves contact info from people you email:
+    
+On a computer, go to your Gmail settings.
+Under "Create contacts for auto-complete," choose an option.
+At the bottom of the page, click Save changes.
+
+
+
+
+
+
+Change or remove contacts
+To stop people from showing up as suggestions, follow the steps below to remove them.
+Contacts you've added
+
+
+Sign in to Google Contacts.
+Click or tap a contact.
+From here you can:
+        
+Change info: On the top right, select Edit . Make the changes you want. At the bottom, select Save.
+Remove a contact: On the top right, select More   Delete.
+
+
+
+
+
+Contacts saved automatically
+
+
+Sign in to Google Contacts.
+On the left, select Other contacts.
+Click or tap a contact.
+From here you can:
+        
+Change info: On the top right, select Add to contacts . Make the changes you want. At the bottom, select Save.
+Remove a contact: On the top right, select More   Delete. To stop them from getting added back, follow the steps to stop saving automatically.
+
+
+
+
+
+ 
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    Manage your informationVerify your Google AccountCheck for an account that existsChange your Google Account picture, name & other infoSet up a recovery phone number or email addressChange the phone number on your account & how it's usedChange the email address for your accountGet a summary of data in your Google AccountHow to download your Google dataCopy your photos to a service outside of GoogleManage contact info from your devicesChange who's saved & suggested as contactsSave, manage & protect your passwordsManage your online reputationUse passwords across your devicesBlock or unblock people's accountsCreate or change your Google Account PINFind your purchases, reservations & subscriptionsControl the ads you seeBlock certain adsWhy you're seeing an adManage your Brand AccountManage business personalization for your Google AccountRemove productsDelete your Gmail serviceChange who manages your Brand AccountManage your Google payment infoManage app info from your devices           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                                              false 

@@ -1,0 +1,594 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interactive Media Ads SDKs  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interactive Media Ads SDKs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+                Monetize video, audio, or gaming content with multimedia advertising.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interactive Media Ads SDKs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        Interactive Media Ads SDKs
+      
+  
+
+
+
+
+
+  
+    
+    Send feedback
+  
+  
+
+
+
+
+
+
+
+
+
+
+ Interactive Media Ads (IMA) is a suite of SDKs that make it easy to integrate multimedia ads into your websites and apps. IMA SDKs can request ads from any  VAST-compliant ad server and manage ad playback in your apps. IMA can also display companion ads, report metrics to ad servers, and incorporate key buying signals, such as Active View viewability, IDFA/ADID, and content targeting.   There are two ways to implement IMA SDKs: client-side, which combines ad and content video within your app, and dynamic ad insertion (DAI), which combines ad and content video on the Ad Manager servers, and then returns a single video stream to your app for playback. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      stay_current_portrait
+    
+
+
+
+
+
+    
+        IMA client-side
+      
+  
+
+
+ With IMA client-side SDKs, you maintain control of content video playback, while the SDK handles ad playback. Ads play in a separate video player positioned on top of the app's content video player.  Features  Available to all publishers. Can make ad requests to Google Ad Manager, the Google AdSense network, or any  VAST-compliant ad server.    For more information on the features supported by IMA client-side for each platform, refer to  Support and compatibility. 
+
+
+HTML5
+Android
+Google Cast
+iOS
+tvOS
+
+
+
+
+
+
+
+
+
+      dynamic_feed
+    
+
+
+
+
+
+    
+        IMA DAI
+      
+  
+
+
+ With IMA DAI SDKs, apps make a stream request for ad and content video—either VOD or live content. The SDK then returns a combined video stream, so that you don't have to manage switching between ad and content video within your app.  Features  Provides a seamless, broadcast-like viewing experience. Can make ad requests to Google Ad Manager, Ad Exchange for video, AdSense for video, and AdSense for games networks, as well as third-party ad servers. Streams are combined on the Ad Manager servers, regardless of which network an ad is hosted on.   Note: To use IMA DAI, you must have an Ad Manager 360 Advanced account. If you have an Ad Manager account, contact your account manager for more details. For information about signing up for Ad Manager, visit the Ad Manager Help Center. 
+
+
+HTML5
+Android
+Google Cast
+iOS
+tvOS
+Roku
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      tv
+    
+
+
+
+
+
+    
+        Additional platforms and devices
+      
+  
+
+
+            In addition to using IMA SDKs with their native platforms, you may also be able to integrate IMA with other platforms and devices by using the native SDKs to develop apps for compatible platforms.
+
+          
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Facebook
+          
+          
+
+
+
+            
+          
+            Medium
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Programs
+
+
+
+            
+          
+            Women Techmakers
+          
+          
+
+
+
+            
+          
+            Google Developer Groups
+          
+          
+
+
+
+            
+          
+            Google Developers Experts
+          
+          
+
+
+
+            
+          
+            Accelerators
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

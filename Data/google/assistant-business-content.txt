@@ -1,0 +1,1825 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why build  |  Google Assistant  |  Google Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Assistant
+
+
+
+
+
+
+
+
+
+
+
+  Actions on Google
+
+
+
+
+
+
+Ways to build
+
+
+
+                      Overview
+                    
+
+                      Learn all the ways to build Actions.
+
+                    
+
+
+
+
+
+                      Extend your mobile app
+                    
+
+                      Provide faster ways for users to access your Android app via Assistant.
+
+                    
+
+
+
+
+
+                      Build rich and natural conversations
+                    
+
+                      Build custom voice and visual experiences for smart devices.
+
+                    
+
+
+
+
+
+                      Enhance your web presence
+                    
+
+                      Present your content in rich ways for Google Search and Assistant.
+
+                    
+
+
+
+
+
+                      Connect your smart home devices
+                    
+
+                      Let users control lights, doors, coffee machines, and many other devices.
+
+                    
+
+
+
+
+
+
+Get inspired
+
+
+
+                      Why build
+                    
+
+                      Help users find answers and get things done with Google Assistant.
+
+                    
+
+
+
+
+
+                      Reach 1 billion devices
+                    
+
+                      Help users at home, on the go, and in the car—on over 1 billion devices.
+
+                    
+
+
+
+
+
+                      Build games
+                    
+
+                      Build fun, voice-enabled games for smart displays.
+
+                    
+
+
+
+
+
+                      Explore all Actions
+                    
+
+                      See what others are building for Google Assistant.
+
+                    
+
+
+
+
+
+                      Get discovered
+                    
+
+                      Publish your Actions to the Assistant directory.
+
+                    
+
+
+
+
+
+
+
+
+
+  Docs
+
+
+
+
+
+
+Mobile
+
+
+
+                      App Actions
+                    
+
+
+
+
+
+                      Android Slices
+                    
+
+
+
+
+
+                      Assistant sharing
+                    
+
+
+
+
+
+                      Read It
+                    
+
+
+
+
+Content
+
+
+
+                      Schema.org web markup
+                    
+
+
+
+
+
+
+Smart home devices
+
+
+
+                      Overview
+                    
+
+
+
+
+
+                      Device types and traits
+                    
+
+
+
+
+
+                      Local Home SDK
+                    
+
+
+
+
+Experimental devices
+
+
+
+                      Assistant SDK
+                    
+
+
+
+
+
+
+Conversational
+
+
+
+                      Overview
+                    
+
+
+
+
+
+                      Fundamentals
+                    
+
+
+
+
+
+                      Build
+                    
+
+
+
+
+
+                      Interactive Canvas
+                    
+
+
+
+
+
+                      User engagement
+                    
+
+
+
+
+
+                      Transactions
+                    
+
+
+
+
+
+                      Account linking
+                    
+
+
+
+
+
+
+Console
+
+
+
+                      Overview
+                    
+
+
+
+
+
+                      Localization
+                    
+
+
+
+
+
+                      Analytics
+                    
+
+
+
+
+
+                      Policies
+                    
+
+
+
+
+
+                      Go to console
+                    
+
+
+
+
+
+
+
+
+
+  Community
+
+
+
+
+  Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google
+
+Assistant
+
+
+
+
+
+
+
+
+
+
+
+
+      Actions on Google
+   
+
+
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Docs
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Community
+   
+
+
+
+
+
+      Support
+   
+
+
+
+
+
+
+
+
+
+      Ways to build
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Extend your mobile app
+   
+
+
+
+
+
+      Build rich and natural conversations
+   
+
+
+
+
+
+      Enhance your web presence
+   
+
+
+
+
+
+      Connect your smart home devices
+   
+
+
+
+
+
+      Get inspired
+   
+
+
+
+
+
+      Why build
+   
+
+
+
+
+
+      Reach 1 billion devices
+   
+
+
+
+
+
+      Build games
+   
+
+
+
+
+
+      Explore all Actions
+   
+
+
+
+
+
+      Get discovered
+   
+
+
+
+
+
+
+
+      Mobile
+   
+
+
+
+
+
+      App Actions
+   
+
+
+
+
+
+      Android Slices
+   
+
+
+
+
+
+      Assistant sharing
+   
+
+
+
+
+
+      Read It
+   
+
+
+
+
+
+      Content
+   
+
+
+
+
+
+      Schema.org web markup
+   
+
+
+
+
+
+      Smart home devices
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Device types and traits
+   
+
+
+
+
+
+      Local Home SDK
+   
+
+
+
+
+
+      Experimental devices
+   
+
+
+
+
+
+      Assistant SDK
+   
+
+
+
+
+
+      Conversational
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Fundamentals
+   
+
+
+
+
+
+      Build
+   
+
+
+
+
+
+      Interactive Canvas
+   
+
+
+
+
+
+      User engagement
+   
+
+
+
+
+
+      Transactions
+   
+
+
+
+
+
+      Account linking
+   
+
+
+
+
+
+      Console
+   
+
+
+
+
+
+      Overview
+   
+
+
+
+
+
+      Localization
+   
+
+
+
+
+
+      Analytics
+   
+
+
+
+
+
+      Policies
+   
+
+
+
+
+
+      Go to console
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Want your Android app to work seamlessly with Google Assistant? Sign up to be guided through
+the different stages of development for App Actions.
+
+        
+
+
+
+
+
+
+    
+        Home
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+    
+        Google Assistant
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Help your users take action with Google Assistant
+      
+  
+    
+
+
+  Join thousands of companies and developers leveraging Google's
+  natural language understanding technology to help their users
+  find answers and get things done with Google Assistant.
+ 
+
+    Get started
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Be more action-oriented
+      
+  
+    
+
+
+  Google Assistant helps users buy products,
+  book appointments, find stores, and more. Whatever
+  your business does, Assistant can help your
+  users get things done.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Give your brand a voice
+      
+  
+    
+
+
+  Digital assistants are changing the way consumers
+  interact with businesses. Build Actions to connect
+  your brand directly with your users through voice.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Be available anytime, anywhere
+      
+  
+    
+
+
+  Assistant helps people get things done
+  all day—at home, on the go, and in the car.
+  Make sure your users can get the best of your brand
+  anytime on any device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Be everywhere your users are
+      
+  
+    
+
+
+
+
+
+
+
+      devices_other
+    
+
+
+
+      
+    
+        1 billion+ devices
+      
+  
+    
+
+
+  Available on over 1 billion devices like
+  smart speakers, displays, phones, auto,
+  and more.
+
+
+
+
+
+
+
+
+
+      language
+    
+
+
+
+      
+    
+        80 countries, 30+ languages
+      
+  
+    
+
+
+  Reach users all over the world in English, Dutch,
+  Hindi, and many more languages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Smart displays
+      
+  
+
+
+
+  Devices with screens make it easy for users to quickly
+  scan lists or make selections in
+  common use cases like shopping or product browsing.
+
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Speakers
+      
+  
+
+
+
+  These devices use only voice and audio for their user
+  experience that make hands-free
+  interactions and multi-tasking easy for users.
+
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Smartphones
+      
+  
+
+
+
+  Phones are multimodal, combining voice and visual
+  interactions like Smart Displays,
+  but with the added benefit of mobility.
+
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Feature and entry-level phones
+      
+  
+
+
+
+  Reach your next billion users on Android Go for
+  entry-level smartphones and KaiOS, a feature phone
+  operating system that supports Google Assistant.
+
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        New Actions added every day
+      
+  
+    
+
+
+  Some of the world's favorite brands have already created Actions for Google Assistant.
+  See what they are doing in our
+  Assistant directory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+             
+          
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        News and resources
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+        Reach the Next Billion Users with Your Actions for the Google Assistant (Google I/O'19)
+      
+  
+
+
+Watch video
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Data and Insights to Build for the Digital Assistant Era (Google I/O'19)
+      
+  
+
+
+Watch video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Building a Smart Home Cloud Service with Google
+      
+  
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Interested in early access opportunities?
+      
+  
+    
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Information
+
+
+
+            
+          
+            Google Assistant
+          
+          
+
+
+
+            
+          
+            Why build for the Assistant?
+          
+          
+
+
+
+            
+          
+            How Google Assistant works
+          
+          
+
+
+
+            
+          
+            Assistant directory
+          
+          
+
+
+
+            
+          
+            Support
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Community
+          
+          
+
+
+
+
+Programs
+
+
+
+            
+          
+            Women Techmakers
+          
+          
+
+
+
+            
+          
+            Google Developer Groups
+          
+          
+
+
+
+            
+          
+            Google Developers Experts
+          
+          
+
+
+
+            
+          
+            Accelerators
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+Language
+
+        English
+      
+
+        Bahasa Indonesia
+      
+
+        Deutsch
+      
+
+        Español
+      
+
+        Français
+      
+
+        Português – Brasil
+      
+
+        Русский
+      
+
+        中文 – 简体
+      
+
+        日本語
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

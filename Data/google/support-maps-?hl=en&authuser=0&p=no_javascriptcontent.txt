@@ -1,0 +1,19 @@
+Enable JavaScript to see Google Maps - Google Maps Help   Skip to main content   Google Maps HelpSign inGoogle HelpHelp CenterCommunityGoogle MapsPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle Maps    Learn more about Google Maps COVID-19 updates.         Enable JavaScript to see Google MapsTo use Google Maps, you need to turn on JavaScript in your browser, like Chrome or Firefox. If you don’t have JavaScript turned on, you’ll see an empty page when you go to Google Maps.
+To enable JavaScript from your computer:
+Google Chrome
+
+Open a Chrome browser window, then click More .
+Select Settings.
+At the bottom, click Advanced.
+Under "Privacy and security", click Content settings.
+Click JavaScript.
+Turn on Allowed.
+
+Microsoft Edge, Mozilla Firefox or Apple Safari
+Go to your browser’s website for instructions:
+
+Microsoft Edge
+Mozilla Firefox
+Apple Safari
+
+   Was this helpful?How can we improve it?YesNoSubmit       true    Maps help (iOS)Add a widget for places you often visitTraffic from nearby eventsConnect a device to your Google AccountSee traffic near youFind places you'll like           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةमराठी‎हिन्दी‎বাংলা‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 76697                                        false 

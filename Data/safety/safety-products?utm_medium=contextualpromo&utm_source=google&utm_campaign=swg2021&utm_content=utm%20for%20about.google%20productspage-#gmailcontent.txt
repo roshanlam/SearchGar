@@ -1,0 +1,2352 @@
+
+
+
+
+
+Safety in Our Products - Google Safety Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety Center
+
+
+
+
+
+
+
+
+Overview
+
+
+In our products
+
+
+Security and privacy
+
+
+Built-in security
+
+
+Privacy controls
+
+
+Data practices
+
+
+Security tips
+
+
+Ads and data
+
+
+
+
+Family safety
+
+
+Parental controls
+
+
+Family-friendly experiences
+
+
+
+
+Leadership
+
+
+Innovation
+
+
+Engineering Center
+
+
+
+
+
+
+
+
+
+              Google Account
+            
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Every Google product is designed for safety.
+
+
+
+
+
+Every day, billions of people use Google to find reliable information, get to their destination, connect with loved ones, and more. When you use our products and services, itâs our responsibility to keep your personal information private, safe, and secure.
+
+
+
+
+
+
+
+
+      Explore products
+    
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+Gmail
+
+
+
+
+
+
+
+
+
+
+Chrome
+
+
+
+
+
+
+
+
+
+
+Maps
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+Photos
+
+
+
+
+
+
+
+
+
+
+Pixel
+
+
+
+
+
+
+
+
+
+
+Assistant
+
+
+
+
+
+
+
+
+
+
+Android OS
+
+
+
+
+
+
+
+
+
+
+Pay
+
+
+
+
+
+
+
+
+
+
+Duo
+
+
+
+
+
+
+
+
+
+
+Meet
+
+
+
+
+
+
+
+
+
+
+Nest
+
+
+
+
+
+
+
+
+
+
+Google One
+
+
+
+
+
+
+
+
+
+
+Fi
+
+
+
+
+See more
+See less
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search. Safely and securely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Search
+      
+
+
+
+
+
+Safe, high-quality results
+
+We work hard to ensure that you see helpful, high-quality search results and not web spam, such as sites that donât deliver on the promise of high quality content or employ tactics that might prove harmful to users. Weâre continuously improving our spam-fighting technology and working with those beyond Google to support a high-quality, safer web.
+
+
+
+Your searches are secure
+
+All searches on google.com and in the Google app are protected by encryption.
+
+
+
+Easy-to-use privacy controls
+
+We secure the Search history saved to your Google Account and make it easy for you to review and delete it from your account with privacy controls.
+
+
+
+Search without surprises
+
+Search is designed to help you find what youâre looking for. You can add a layer of protection by opting into SafeSearch, which can help filter sexually explicit results.
+
+
+
+Search in Incognito mode with the Google app
+
+The Google app for iOS comes with Incognito mode. Itâs always a tap away from the homescreen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+                3
+              
+
+
+
+                4
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email that keeps your private information safe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        GMAIL
+      
+
+
+
+
+
+Strong phishing protections
+
+Many malware and phishing attacks start with an email. Gmail blocks more than 99.9% of spam, phishing attempts, and malware from reaching you.
+
+
+
+Account safety
+
+We protect your account against suspicious logins and unauthorized activity by monitoring multiple security signals. We also offer the Advanced Protection Program for accounts most at risk of targeted attacks.
+
+
+
+Email encryption
+
+In Google infrastructure, messages are encrypted at rest and while in transit between data centers. Messages transiting to third-party providers are encrypted with Transport Layer Security when possible or required by configuration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security you never have to think about.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Chrome
+      
+
+
+
+
+
+Secure by default
+
+Built-in protections like Safe Browsing, sandboxing, and other best-in-class technologies protect you from dangerous sites, malware, and threats when you use Chrome.
+
+
+
+Automatic security updates
+
+Chrome can automatically update every six weeks so you have the latest security features and fixes, no action needed from you.
+
+
+
+Strong and unique passwords
+
+To keep all your accounts more secure, Chrome can help create strong and unique passwords and fill them in for you across devices as you browse the web.
+
+
+
+Incognito mode
+
+Incognito mode in Chrome gives you the choice to browse the internet without your activity being saved to your browser or your device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore the world,  control your privacy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Maps
+      
+
+
+
+
+
+Incognito mode
+
+Use Maps in Incognito mode and your activity wonât be saved to your device. Easily turn on Incognito mode in Maps by tapping your profile photo, and turn it off anytime to get a more personalized experience, including  restaurant recommendations and other features tailored to you.
+
+
+
+Location History controls
+
+Google Maps can use your Location History to give you commute predictions, faster directions, better local search results, and more useful ads. Location History is off by default. You can change your settings anytime.
+
+
+
+Easy-to-access privacy controls
+
+With âYour data in Maps,â you can easily access your Location History and other privacy controls to view and manage your data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your YouTube experience is yours to control.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        YouTube
+      
+
+
+
+
+
+Ad Settings
+
+We never sell your personal information to anyone. We also provide ad settings so that you can better control what ads you see and turn off ads personalization in your Ad Settings.
+
+
+
+Incognito mode
+
+While Incognito mode in YouTube is on, your activity â like the videos you watch â wonât be saved to your Google Account or included in your watch history.
+
+
+
+Easy-to-use privacy controls
+
+Your YouTube History can improve your experience and deliver content recommendations. Decide how long to keep your YouTube History or turn it off altogether by going to âYour Data in YouTube.â
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Photos, a safe home for lifeâs memories.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Google Photos
+      
+
+
+
+
+
+Keeping your information safe
+
+We protect the memories you back up to Google Photos with one of the world's most advanced security infrastructures. We also encrypt your information as it moves between your device, Google services, and our data centers.
+
+
+
+Treating data responsibly
+
+Google Photos doesn't sell your photos, videos, or personal information to anyone and we don't use your photos and videos for advertising. Features like face grouping making it easy to search and manage your photos. However, face groups and labels are only visible to you and we do not make general purpose facial recognition technology commercially available.
+
+
+
+Putting you in control
+
+We build easy-to-use tools that help put you in control of your Google Photos experience. You can selectively back up the photos you want stored in the cloud, securely share your photos, turn off face groups and labels to delete them from your account, and make edits to location information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your digital life, secured by Pixel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Pixel
+      
+
+
+
+
+
+On-device intelligence
+
+Weâve been pioneering new ways to use machine learning (ML) that keeps more of your data on your device. Federated learning is a  new approach that combines anonymized information from different devices to train ML models, helping us learn from everyone without learning about anyone individually. Federated learning helps preserve your privacy while creating more helpful products and services.
+
+
+
+Titanâ¢ M chip
+
+The same security chip that protects Google Cloud data centers protects your most sensitive information. This includes passcode protection, encryption, and transaction security.
+
+
+
+Automatic OS updates
+
+With Pixel, you automatically get the latest OS and security updates for at least three years.1 This helps you access new features and benefit from security enhancements right away. 
+1 Android version updates for at least 3 years from when the device first became available on the Google Store in the U.S. See g.co/pixel/updates for details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Assistant is designed for privacy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Google Assistant
+      
+
+
+
+
+
+Starts in standby
+
+Google Assistant is designed to wait in standby mode until it detects an activation, like when it hears  âHey Google.â When in standby mode, your Assistant wonât send what you are saying to Google or anyone else.
+Once Google Assistant detects an activation, it exits standby mode and sends your request to Google servers. This can also happen if there is a noise that sounds like âHey Googleâ or an unintended manual activation.
+
+
+
+Designed for privacy
+
+By default, we donât retain your Google Assistant audio recordings. Visit âYour data in the Google Assistantâ to learn more about how your data makes Google Assistant work for you.
+
+
+
+Easy-to-use privacy controls
+
+To control which interactions are stored, just say something like âHey Google, delete what I said this week,â and Google Assistant will delete those interactions in âMy Activity.â
+
+
+
+Guest Mode
+
+With Google Assistantâs Guest Mode, you now have even more control over your Assistant activity on your home devices. By saying âHey Google, turn on Guest Mode,â you can turn on Guest Mode whenever you donât want Assistant interactions to be saved to your Google Account or used to personalize your experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The platform designed to protect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Android
+      
+
+
+
+
+
+Google Play Protect
+
+Google Play Protect automatically scans your apps to make sure theyâre safe. If you come across a bad app, weâll quickly alert you and instruct you on how to remove the app from your device.
+
+
+
+App permissions
+
+Apps you download use data on your device to make their functionality more useful. App permissions give you control over if and when an app can access different types of data on your device, such as contacts, photos, and location.
+
+
+
+Phishing protections
+
+Phishing occurs when someone tries to trick you into giving them your private information. Android alerts you to spammers, and Call Screen let you ask who's calling before you ever pick up the phone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A safer way to pay,  every day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Google Pay
+      
+
+
+
+
+
+Only you can pay with your phone
+
+Google Pay requires authentication â via a pin, pattern or biometric â to open the app or pay a person. That means no one but you can make payments or see your information if your phone goes missing.
+
+
+
+Easy-to-use privacy controls
+
+When you sign up for Google Pay, you can choose whether youâd like to use your transaction history to personalize your experience within the app or not. That setting is not on by default, and weâve created a way that you can try it for three months to see if you like it. At the end of three months, you can decide if you want to keep it on or off.
+
+
+
+Your card details aren't shared
+
+Contactless payments are more secure than swiping your card because merchants wonât receive your real card number. Google Pay uses a Virtual Account Number that protects your payment info.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your conversations stay private  with end-to-end encryption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Duo
+      
+
+
+
+
+
+End-to-end encrypted calls and messages
+
+Duo is built with end-to-end encryption, so whether youâre on a smart display, phone, tablet, or web browser, your video calls and messages stay private between you and the people youâre talking to. Learn more about encryption here.
+
+
+
+On-device processing for effects
+
+In Duo, you can add effects and filters to personalize your calls and messages. To keep your data private, Duo uses on-device models and doesn't store your facial data. Learn more about on-device processing here.
+
+
+
+Family Link account support
+
+Children signed in to their Google Account managed with Family Link can enjoy calls and messages on Duo. For their safety, only their contacts can reach them directly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The safer way to Meet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Meet
+      
+
+
+
+
+
+Safety features on by default
+
+To keep meetings safe, Google Meet has default-on anti-abuse features and secure meeting controls, and supports multiple two-step verification options including security keys.
+
+
+
+Encryption in transit on by default
+
+All video meetings are encrypted in transit. Meet adheres to IETF security standards for Datagram Transport Layer Security (DTLS).
+
+
+
+Simply secure deployment
+
+We donât require plugins to use Meet on the web. It works entirely in Chrome and other browsers, so itâs less vulnerable to security threats. On mobile, you can install the Google Meet app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A helpful home is a private home.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Nest
+      
+
+
+
+
+
+Privacy controls
+
+Our displays and speakers have physical microphone mute switches, and you can manage your data â including accessing, reviewing, and deleting audio and video stored with your Google Account â at any time.
+
+
+
+Sensor transparency
+
+We let you know what sensors are in our products and how they work. We list all audio, video, environmental and activity sensors â whether enabled or not â in our device technical specifications. Our Sensors Guide explains what types of data these sensors send to Google and has examples of how that data is used.
+
+
+
+Responsible data use
+
+Google Nest devices are designed to create a more helpful home. The video, audio, and environmental sensor data from our devices is used to enable helpful features and services. We explain here how weâll keep this data separate from ad personalization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+          Learn more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More peace of mind with Google One.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Google One
+      
+
+
+
+
+
+Extra security with VPN by Google One
+
+With a VPN built into the Google One app for Android and iOS, you can encrypt your online activity for an extra layer of protection. Learn more about our VPN.
+
+
+
+Back up your device with the Google One app
+
+If itâs on your phone, itâs important to you. Get the peace of mind of having the stuff you care about on your phoneâphotos, videos, contacts, and moreâbacked up with the Google One app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A safer way to connect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        Google Fi
+      
+
+
+
+
+
+A phone plan thatâs private by design, secure by default
+
+Google Fi protects your personal information, treats it responsibly, and puts you in control of who can reach you. All Fi plans include easy-to-use privacy and security features to give you peace of mind.
+
+
+
+Built-in VPN protects your online activity
+
+All plans include a VPN that helps you stream, browse and download on an encrypted, private connection. It shields you from hackers, and prevents websites from using your IP address to track your location.
+
+
+
+End-to-end encryption keeps your calls secure
+
+Calls between Android phones on Fi are automatically secured with end-to-end encryption, so conversations stay between you and the person youâre talking to.
+
+
+
+Spam blocking stops unwanted calls
+
+Stay in control of who can reach you with suspected spam detection and blocking. Keep robocallers and scammers from calling, and block specific numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+          Learn more
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore more ways we keep you safe online.
+
+
+Security and privacy
+Learn how Google protects your private information and puts you in control.
+
+
+
+
+
+Family safety
+Learn how Google helps you manage what's right for your family online.
+
+
+
+
+
+Leadership
+Explore how Google innovates new safety technologies and collaborates with the industry.
+
+
+
+
+
+
+
+
+
+
+
+Security and privacy
+Learn how Google protects your private information and puts you in control.
+
+
+
+
+
+
+
+Family safety
+Learn how Google helps you manage what's right for your family online.
+
+
+
+
+
+
+
+Leadership
+Explore how Google innovates new safety technologies and collaborates with the industry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                0
+              
+
+
+
+                1
+              
+
+
+
+                2
+              
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            About Google
+          
+
+
+
+            Google products
+          
+
+
+
+            Privacy Policy
+          
+
+
+
+            Terms
+          
+
+
+
+            Partners
+          
+
+
+
+            Security news
+          
+
+
+
+            Families
+          
+
+
+
+            Principles
+          
+
+
+
+
+
+
+
+
+          Help
+        
+
+
+
+
+
+
+EspaÃ±ol
+ 
+
+
+ 
+
+
+
+
+
+
+
