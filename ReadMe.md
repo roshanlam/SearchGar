@@ -20,7 +20,7 @@
   </p>
   
 <h2> About The Project </h2>
-It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
+This is a search engine I am working on during my freetime, the challenge/goal is to make an open source search engine that can beat google's search engine. I know it's most likely not possible but in my opinion this is a fun challenge/goal to have and is a good project to learn and practice OOP, Security (current version doesn't really require it), machine learning (working on it) and more. I am working on a open source community called [SocioCoders](https://sociocoders.com) where this project will be worked on more. 
 
 ### ToDo
 - [ ] Start adding and commiting more frequently (yes I know I am a horrible person for not adding and commiting everytime I change something lol)
