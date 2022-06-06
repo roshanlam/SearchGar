@@ -18,9 +18,6 @@
     ·
     <a href="https://github.com/roshanlam/SearchGar/pulls">Send a Pull Request</a>
   </p>
-  <div align="center">
-    <img src="https://travis-ci.org/roshanlam/SearchGar.svg?branch=flask"/>
-  </div>
   
 <h2> About The Project </h2>
 It's a search engine that gives you control for your privacy, no ads, no bias results. Just results.
