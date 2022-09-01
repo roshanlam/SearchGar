@@ -214,7 +214,7 @@ Close the navigation drawer
 15 years of exploring
 
 
-Since 2007, you've explored the world with Street View on Google Maps. From world wonders to outer space to your favorite neighborhood coffee place, we've mapped more than 10 million miles together. And with so much left to discover, we canât wait for what comes next.
+Since 2007, you've explored the world with Street View on Google Maps. From world wonders to outer space to your favorite neighborhood coffee place, we've mapped more than 10 million miles together. And with so much left to discover, we can't wait for what comes next.
 
 
 
@@ -488,7 +488,6 @@ Download overview
 
 
 4
-
 
 
 

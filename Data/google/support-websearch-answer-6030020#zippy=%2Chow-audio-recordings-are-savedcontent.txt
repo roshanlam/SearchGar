@@ -1,129 +1,111 @@
-Manage audio recordings in your Web & App Activity - Computer - Google Search Help   Skip to main content   Google Search HelpSign inGoogle HelpHelp CenterCommunityGoogle SearchPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityAnnouncementsGoogle Search Use the Google App on AndroidSettingsManage audio recordings in your Web & App Activity       Manage audio recordings in your Web & App ActivityYou can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. Your audio can help Google develop and improve its audio recognition technologies and the Google services that use them.
-The audio recordings setting is off unless you choose to turn it on.
+Manage audio recordings in your Web & App Activity - Computer - Google Search Help   Skip to main content   Google Search HelpSign inGoogle HelpHelp CenterCommunityGoogle SearchPrivacy PolicyTerms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityAnnouncementsGoogle Search Use the Google App on AndroidSettingsManage audio recordings in your Web & App Activity       Manage audio recordings in your Web & App ActivityYou can choose whether you want Google to save voice and audio activity to your Google Account when you interact with Google Search, Assistant, and Maps. Your voice and audio can help Google develop and improve its audio recognition technologies and the Google services that use them.
+This voice and audio activity setting is off unless you choose to turn it on.
 Important: Based on other settings, audio recordings may be saved in other places.
 How Google Protects Your Privacy if You Choose to Save Audio Data
-Turn audio recordings on or off
+Turn voice and audio activity on or off
 
 Go to your Google Account.
-At the left, click Data & privacy.
+At the top left, click Data & privacy.
 Under "History settings," click Web & App Activity.
-Next to "Include audio recordings," check or uncheck the box.
+Next to "Include voice and audio activity," check or uncheck the box.
 
-When the audio recordings setting is off, voice inputs from interactions with Google Search, Assistant, and Maps won't be saved to your Google Account, even if you're signed in. If you turn the audio recordings setting off, previously saved audio is not deleted. You can delete your audio recordings at any time.
-Find or delete your audio recordings
-
-
-Find your audio recordings
-
+When this voice and audio activity setting is off, audio recordings from voice interactions with Google Search, Assistant, and Maps won't be saved to your Google Account, even if you're signed in. If you turn this voice and audio activity setting off, previously saved audio is not deleted. You can delete your audio recordings at any time.
+Find or delete your audio recordings
+Find your audio recordings
 
 Important: Based on other settings, audio recordings may be saved in other places.
 
 Go to your Google Account.
-At the left, click Data & privacy.
+At the top left, click Data & privacy.
 Under "History settings," click Web & App Activity  Manage activity. On this page, you can:
-            
-View a list of your past activity. Items with the audio icon  include a recording.
-Play the recording. Click Details next to the audio icon   View recording  Play .
+      
+View a list of your past activity: Items with the audio icon  include a recording.
+Play a recording: Next to Audio , click Details  View recording  Play .
 
 
 
-
-If you get the "Transcript not available" message, there may have been too much background noise during that activity.
+If you get the "Transcript not available" message, there may have been too much background noise during that activity.
+You can download your audio with Google Takeout. Learn how to download your audio and other Google data.
 Tip: To add more security, you can require an extra verification step to view your full history on My Activity.
 
-
-
-Delete recordings from your Web & App Activity
+Delete audio recordings from your Web & App Activity
 
 Important: Based on other settings, audio recordings may be saved in other places.
-Delete one item at a time
-
+Delete one item at a time
 
 Go to your Google Account.
-At the left, click Data & privacy.
-Under "History settings," click Web & App Activity  Manage activity. On this page, you find a list of your past activity. Items with the audio icon  include a recording.
+At the top left, click Data & privacy.
+Under "History settings," click Web & App Activity  Manage activity. On this page, you find a list of your past activity. Items with the audio icon  include a recording.
 Next to the item you want to delete, select More   Delete.
 
 Delete all items at once
 Important: These steps will delete all of your Web & App Activity items, not just items that include a recording.
 
 Go to your Google Account.
-At the left, click Data & privacy.
-Under "History settings," click Web & App Activity  Manage activity. On this page, you find a list of your past activity. Items with the audio icon  include a recording.
-Above your activity, select Delete .
-Select All time.
-Follow the instructions to delete your activity.
+At the top left, click Data & privacy.
+Under "History settings," click Web & App Activity  Manage activity. On this page, you find a list of your past activity. Items with the audio icon  include a recording.
+Above your activity, click Delete   All time.
+Follow the on-screen instructions.
 
 Delete your audio recordings automatically
 Important: These steps turn on the auto-delete option for all of your Web & App Activity items, not just items that include an audio recording.
 
 On your computer, go to your Google Account.
-At the left, click Data & privacy.
-Under "History settings," click Web & App Activity  Manage activity.
-Above your activity, in the search bar, select More   Keep activity for.
-Click the button for how long you want to keep your activity  Next  Confirm.
+At the top left, click Data & privacy.
+Under "History settings," click Web & App Activity  Manage activity.
+Above your activity, in the search bar, select More   Keep activity for.
+Click the button for how long you want to keep your activity  Next  Confirm.
 
 Google may delete audio sooner than the timeframe you choose, once it's no longer needed for developing and improving Google’s audio recognition technologies and the services that use them. For example, less audio may be needed for some languages over time.
 
+About this voice & audio activity setting
+When you speak to Google services, Google uses its audio recognition technologies to process your audio and respond to you. For example, if you touch the mic icon to search by voice, Google’s audio recognition technologies translate what you say into words and phrases that Search looks up in an index to give you the most relevant results.
+Web & App Activity saves things you do on Google sites, apps, and services in your Google Account on Google servers. It can include associated info like location. Certain interactions may not be saved.
+With this optional voice and audio activity setting, you can also save audio recordings with Web & App Activity when you interact with Google Search, Assistant, and Maps. This voice and audio activity setting is off unless you choose to turn it on.
+This setting affects anywhere you’re signed in to Search, Assistant, and Maps, for example, the Assistant on both the Google Assistant app and a Google Home smart speaker.
+How audio recordings are used
+Google uses audio saved when this setting is on to develop and improve its audio recognition technologies and the Google services that use them, like Google Assistant.
+Audio review process
 
+For some audio technology improvements, samples of audio saved when this setting is on are analyzed by trained reviewers, who listen to, transcribe, and annotate it, so Google services can better interpret the audio, for example, what someone is saying in a noisy environment or in a particular language. We take steps to protect your privacy as part of this process, like disassociating your audio from your account when reviewers analyze it.
+This process helps services better understand what people say to them. For example, Google improved automatic speech recognition for data-scarce languages by training a single model on transcribed audio from data-rich languages, which allowed for real-time multilingual speech recognition.
 
+Voice technologies
 
+Important: This info applies if you turn on voice and audio activity after June 6, 2022.
+Some of Google’s audio technologies, like Voice Match, can match similar voices, tell voices apart, or be enhanced by a unique voice. If you use Google Assistant with Voice Match and you’ve turned on this voice and audio activity setting, Google may also temporarily process a model of your voice from your saved audio to develop and improve Google’s voice technologies and the Google services that use them. Learn how your voice works with other settings.
+We take steps to protect your privacy as part of this process. For example, if a model of your voice is computed from saved audio, it is disassociated from your account, temporarily processed to improve our audio recognition technologies, and then deleted. Each instance of this voice processing may take up to 7 days. Voice models may be considered biometric data in some jurisdictions.
 
-Other places audio recordings may be saved 
-The audio recordings setting does not affect other Google services (like Google Voice or YouTube) that you may use to save audio information.
-Depending on other device settings, audio recordings may still be saved on your device. For example, if you turn on Voice Match, audio recordings may be saved on your device to help recognize your voice. 
-On-device audio can be used to improve audio recognition technologies on the device. Those improvements can be sent to Google, without audio recordings, to help develop and improve audio recognition technologies and the Google services that use them, for example, when the Improve Gboard setting is on, Gboard can improve recognition for everyone without sending what you say to the server. Learn how Gboard gets better.
+When this voice & audio activity setting is on
 
-How audio recordings work
+When this voice and audio activity setting is on for your Web & App Activity, Google will save audio recordings when you interact with Google Search, Assistant, and Maps, in your Google Account, on Google servers with your Web & App Activity.
+Audio is saved when your device detects an activation. Devices may support different types of activations, like “Hey Google,” a quick phrase you turn on, continued conversations, or mic presses. Some devices include a few seconds before the activation to catch the complete request.
+Audio may be saved if your device incorrectly detects an activation, like a noise that sounds like “Hey Google.” We’re constantly working to make our systems better at reducing unintended activations.
+If you use your device without an internet connection, audio may be saved in your Google Account once you return online.
 
-How audio recordings are saved
+When this voice & audio activity setting is off
 
+If you turn off this voice and audio activity setting, Google will no longer save audio recordings in your Google Account on Google servers with your Web & App Activity when you interact with Google Search, Assistant, and Maps. Google will continue to process your audio to respond to you when you speak to Google services.
+When this setting is off, Google won't use audio previously saved when this setting was on to improve its voice technologies like Voice Match. Previously saved audio may continue to be used to improve other audio technologies unless you delete it.
+You can delete previously saved audio with your Web & App Activity at activity.google.com.
 
-Google records your voice and audio, plus a few seconds before, when you use audio activations like:
+Other places audio recordings may be saved
+This voice and audio activity setting does not affect:
 
-Tapping the microphone icon.
-Pressing the talk button on a headset.
-Saying activation commands like "Hey Google."
+Audio saved and managed by other Google services, like Google Voice and YouTube.
+Audio saved on your device for purposes like setting up and refining your personal Voice Match or otherwise personalizing audio technologies on your device.
 
-Important: Audio might be saved if your device incorrectly detects an activation. For example, this can happen if there's a noise that sounds like “Hey Google” or an unintended manual activation. We’re constantly working to make our systems better at reducing unintended activations.
-When the audio recordings setting is turned on 
-Your audio is saved to your Google Account only when:
+Other machine learning processes, not controlled by this setting, may be used to improve audio recognition technologies with federated learning or ephemeral learning. For example:
 
-"Include audio recordings" is checked, and,
-You're signed in to your Google Account and, 
-Web & App Activity is turned on and, 
-You interact with Google Search, Assistant, and Maps
+When the Improve Gboard setting is on, Gboard may save and process audio on your device using a technology called federated learning to help improve speech recognition for everyone without needing to send what you say to Google servers. Learn how Gboard gets better with the Improve Gboard setting.
+Google may process and analyze your audio in real time to improve its audio recognition technologies, using a technology called ephemeral learning, which doesn’t require saving audio with your Web & App Activity.
 
-If you use your device without an internet connection, audio may be saved in your account once you return online. 
-
-
-
-How audio recordings improve your experience
-
-
-Audio recordings are used to: 
-
-Develop and improve our audio recognition technologies and the Google services that use them, like Google Assistant. 
-Better recognize your voice over time. For example, your devices that have Voice Match enabled may better recognize when you say “Hey Google.”
-
-
-
-
-
-How audio review improves our technologies
-
-
-To help Google services better understand what people say to them, trained reviewers analyze a small percentage of machine-selected audio samples. 
-To analyze and better interpret a sample of audio, trained reviewers listen to, transcribe, and annotate the sample. For example, a sample might include audio of what someone is saying in a noisy environment or in a particular language. 
-We take steps to protect your privacy during the analysis. For example, your audio is disassociated from your account when reviewers access it.
-
-
-
-
-Related articles
+Learn more about how Google improves speech models.
+Related resources
 
 Delete your activity
 Find & control your Web & App Activity
 Use "Hey Google" voice searches & actions
+Learn how Google improves speech models
 
-   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    SettingsChange your Google app settingsUse Google Search, Google app & Discover with a work or school accountManage audio recordings in your Web & App ActivityManage & delete your Search historyManage webpages in the Google appManage your Google app permissionsChange your Google notifications           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience                SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 100334                                                false 
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    SettingsChange your Google app settingsUse Google Search, Google app & Discover with a work or school accountManage audio recordings in your Web & App ActivityManage & delete your Search historyManage webpages in the Google appManage your Google app permissionsChange your Google notifications           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience                SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 100334                false                                   false 

@@ -85,7 +85,6 @@
 
 
 
-
 Google serves cookies to analyze traffic to this site. Information about your use of our site is shared with Google for that purpose. See details.
 
 
@@ -236,10 +235,9 @@ TÃ¼rkÃ§e
 
 
 
-Google I/O 2022
-Navigate a connected world.
-New features that let you do more on your phone while keeping you safe and secure. Exciting updates to Wear OS and Android tablets. And seamless cross-device experiences to amplify your entertainment and communication across surfaces.
-Learn how your devices work better together
+Experience even more on Android.
+Discover the latest features and updates that push boundaries of messaging, entertainment and accessibility, making your world even more connected.
+Learn about new features
 
 
 
@@ -267,10 +265,44 @@ Learn how your devices work better together
 
 
 
-Your data is Protected by Android.
-Android protects your privacy and security with encryption, app permissions, safe browsing and more to help keep you safe from malware attacks and mobile threats.
 
-Learn how to protect your data
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Non-stop data protection.
+
+Android helps keep you protected, even when you arenât using your phone. Our powerful tech helps defeat bad apps, malware, phishing and spam. We always try to keep one step ahead of threats, delivering timely recommendations to help you make the best decisions for your privacy.
+More about protected by android
+
+
+
+
+
+
+
+
+
+
+
+
+How to switch to Android.
+It's now easier than ever to make the switch from iPhone to Android. Transfer your contacts, messages, photos and favorite apps. Just connect, select and go.
+
+Switch from iPhone to Android
 
 
 
@@ -313,26 +345,10 @@ Find your next phone or tablet
 
 
 
-New updates to messaging and entertainment.
-Discover whatâs new on Android with better cross-device messaging, upgrades to Portrait blur in Google Photos, Highlights on Google TV mobile and more.
+Drive with Android Auto.
+Hands-free navigation and messaging. Just connect your phone and go.
 
-Check out Androidâs newest features
-
-
-
-
-
-
-
-
-How to switch to Android.
-It's now easier than ever to make the switch from iPhone to Android. Transfer your contacts, messages, photos and favorite apps. Just connect, select and go.
-
-Switch from iPhone to Android
-
-
-
-
+Learn more
 
 
 
@@ -345,18 +361,6 @@ A more accessible world.
 Screen readers, voice access, speech-to-text, talk back and lookout are some of the newest ways to experience the world with Androidâs new accessibility features.
 
 Explore accessibility features
-
-
-
-
-
-
-
-
-Drive with Android Auto.
-Hands-free navigation and messaging. Just connect your phone and go.
-
-Learn more
 
 
 
@@ -956,15 +960,6 @@ Some features and availability vary by OEM and/or device manufacturer.
 
 
 
-
-
-
-
-
-
-
- 
-Close
 
 
 

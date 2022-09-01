@@ -777,7 +777,7 @@ Watch the video
  
 
 
-    Google for Education
+    Grow with Google
  
 
 
@@ -793,7 +793,7 @@ Watch the video
  
 
 
-    Explore products built for education that help transform learning and teaching.
+    Discover and learn from training, tools, and resources created by Google to help you grow your skills, career, or business.
  
 
 
@@ -810,7 +810,7 @@ Watch the video
 
 
 
-    Learn more
+    Visit Grow with Google
   
  
 
@@ -828,45 +828,14 @@ Watch the video
 
 
 
- 
-
-
-    Jumpstart learning in the classroom
 
 
 
+Google Career Certificates
+Discover  flexible online training programs designed to fast track you to jobs in high-growth fields. 
 
-
-
-
-    See how Google tools and resources help teachers and students create, collaborate, and build digital skills for the future.
-
-
-
-
-
-
-
-
-          Read more
-        
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
-
-
-
+            Learn more
+          
 
 
  
@@ -878,9 +847,34 @@ Watch the video
 
 
 
+Interview Warmup
+Practice answering interview questions to get more confident and comfortable with interviewing. 
+
+            Learn more
+          
 
 
  
+
+
+
+
+
+
+
+
+Applied Digital Skills
+Explore our video-based curriculums that prepare students of all ages for jobs requiring basic digital skills. 
+
+            Learn more
+          
+
+
+ 
+
+
+
+
 
 
 
@@ -895,6 +889,7 @@ Watch the video
  
 
 
+    Get more comfortable interviewing
 
 
 
@@ -902,15 +897,12 @@ Watch the video
 
 
 
+    See how Interview Warmup uses machine learning to make it easier to practice for interviews and discover ways to improve
 
 
 
 
 
-Google Workspace for Education
-
-
-Discover easy-to-use tools that offer a flexible and secure foundation for learning and collaborating.
 
 
 
@@ -918,25 +910,9 @@ Discover easy-to-use tools that offer a flexible and secure foundation for learn
         
 
 
- 
 
 
 
-
-
-
-
-
-
-Google Classroom
-
-
-Get help managing, measuring, and enriching learning experiences--all in one place--with Google Classroom.
-
-
-
-          Learn more
-        
 
 
  
@@ -945,19 +921,15 @@ Get help managing, measuring, and enriching learning experiences--all in one pla
 
 
 
+ 
 
 
 
 
-Chromebooks
+
+ 
 
 
-Explore devices that provide built-in accessibility, productivity, and security features for students and teachers.
-
-
-
-          Learn more
-        
 
 
  
@@ -966,126 +938,7 @@ Explore devices that provide built-in accessibility, productivity, and security 
 
 
 
-
-
-
-
-Google Meet
-
-
-Strengthens school communities, allowing teachers to host classes, assemblies, and more.
-
-
-
-          Learn more
-        
-
-
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Google Workspace for Education
-
-
-Discover easy-to-use tools that offer a flexible and secure foundation for learning and collaborating.
-
-
-
-          Learn more
-        
-
-
- 
-
-
-
-
-
-
-
-
-
-Google Classroom
-
-
-Get help managing, measuring, and enriching learning experiences--all in one place--with Google Classroom.
-
-
-
-          Learn more
-        
-
-
- 
-
-
-
-
-
-
-
-
-
-Chromebooks
-
-
-Explore devices that provide built-in accessibility, productivity, and security features for students and teachers.
-
-
-
-          Learn more
-        
-
-
- 
-
-
-
-
-
-
-
-
-
-Google Meet
-
-
-Strengthens school communities, allowing teachers to host classes, assemblies, and more.
-
-
-
-          Learn more
-        
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -77,8 +77,18 @@ Initiative
 
 
 
-                Resources
-              
+                Support
+                
+
+
+
+
+
+                Tutorials
+                
+
+
+
 
 
 
@@ -117,7 +127,12 @@ Initiative
 
 
 
-                          Resources 
+                          Support 
+                          
+
+
+
+                          Tutorials 
                           
 
 
@@ -133,11 +148,12 @@ Initiative
 
 
 
-Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
+Create engaging videos, images, and HTML5-based designs for your business that can run on any device
+Intended for business use only
 
 
 
-Mac 10.10.x or later, Win 7 or later, Linux 64-bit
+System requirements
 
 
 
@@ -152,8 +168,8 @@ Mac 10.10.x or later, Win 7 or later, Linux 64-bit
 
 
 
-Features that help bring ideas to life
-Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, Display & Video 360, and Google Ads.
+Features that help businesses bring ideas to life
+Google Web Designer gives you the power to create beautiful and compelling videos, images, and HTML5 ads. Use animation and interactive elements to build out your creative vision, then scale your content for different sizes or audiences with responsive and dynamic workflows.
 
 
 
@@ -164,138 +180,6 @@ Google Web Designer gives you the power to create beautiful, engaging HTML5 cont
 
 
 
-
-
-
-
-
-
-
-
-Interactive
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Events
-Set up events to make your creative react to the user's actions, even physical gestures like touch, rotation, or shaking on mobile devices. Use preset events, or build your own from scratch with JavaScript.
-
-
-Components
-Drag and drop components into your project to instantly add functionality such as image galleries, video players, maps, and more. Plus, each component automatically reports metrics no coding required.
-
-
-Pages
-Create multiple pages to include multiple scenes within a project. Let your audience switch to a different experience while still viewing the same creative.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-  
-          
-
-
-
-
-
-
-
-
-Flexible
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Dynamic Workflow
-Tailor your ad to your audience with the dynamic ad workflow. Connect elements to data signals and preview how your creative looks with sample feed data.
-
-
-Responsive Ads
-Build media rules into your ad unit to set the style and layout of your creative, so a single ad unit can adapt to any screen size it shows up on.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-  
-          
 
 
 
@@ -431,8 +315,8 @@ Create your own designs using the Shape or Pen tools, then easily add text and i
 
 
 
-Formats
-Google Web Designer supports a wide range of display and video ad formats across its advertising platforms. Explore the different formats!
+
+Templates
 
 
 
@@ -447,29 +331,179 @@ Google Web Designer supports a wide range of display and video ad formats across
 
 
 
-Static Panorama
+Template Gallery
+Browse through a range of pre-made layouts for inspiration or an easy starting point. You can adjust any aspect of the template to fit your needs, and save your own custom templates for future use.
+
+
+Easy Mode
+Build full-featured ads without needing to master advanced design tools. Use Easy Mode's streamlined interface to quickly customize templates with your assets, text, and colors.
 
 
 
 
-Video Lightbox
 
 
 
 
-Static Cue Cards
 
 
 
 
-Static Cue Cards
 
 
 
 
-Youtube Map Lightbox
 
 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+           
+
+
+
+
+
+
+
+
+Flexible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dynamic Workflow
+Tailor your ad to your audience with the dynamic ad workflow. Connect elements to data signals and preview how your creative looks with sample feed data.
+
+
+Responsive Ads
+Build media rules into your ad unit to set the style and layout of your creative, so a single ad unit can adapt to any screen size it shows up on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+          
+
+
+
+
+
+
+
+
+Interactive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Events
+Set up events to make your creative react to the user's actions, even physical gestures like touch, rotation, or shaking on mobile devices. Use preset events, or build your own from scratch with JavaScript.
+
+
+Components
+Drag and drop components into your project to instantly add functionality such as image galleries, video players, maps, and more. Plus, each component automatically reports metrics no coding required.
+
+
+Pages
+Create multiple pages to include multiple scenes within a project. Let your audience switch to a different experience while still viewing the same creative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+          
 
 
 
@@ -603,6 +637,7 @@ Download Web Designer
 
 
 Google Web Designer
+Google Web Designer is intended for business use. By accepting the terms below, you acknowledge that your use of the product is for professional, business purposes only.
 
 Please select your download package
 
@@ -625,8 +660,11 @@ Note: Installing Google Web Designer will add the Google Repository so your syst
 
 
 
-            Agree and Download
+           Agree and Download
         
+
+
+
 
 
 
@@ -685,9 +723,6 @@ Follow Us
 
 
 
-Google Web Designer Blog
-
-
 Help Center
 
 
@@ -697,22 +732,16 @@ Community Forum
 Youtube Channel
 
 
-Business Solutions
 
 
 
 
-
-
-            Business Essentials
+            Integrations
             
 
 
 
 
-
-
-Google My Business
 
 
 Display & Video 360
@@ -721,13 +750,10 @@ Display & Video 360
 Google Ads
 
 
-G Suite
+Campaign Manager 360
 
 
-Google Analytics
-
-
-More Business Products
+Google Drive
 
 
 
@@ -785,6 +811,9 @@ PÑÑÑÐºÐ¸Ð¹
 æ¥æ¬èª
 íêµ­ì´
 English
+
+
+
 
 
 

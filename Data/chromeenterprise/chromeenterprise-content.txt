@@ -100,6 +100,10 @@ Smart investment
 
 Supporting hybrid work
 
+ 
+
+Recommended
+
 
  
 
@@ -136,7 +140,7 @@ Enterprise support plan
 
  
 
-Chrome OS
+ChromeOS
 
  
 
@@ -148,7 +152,7 @@ Security
 
  
 
-Chrome OS Flex
+ChromeOS Flex
 
  
 
@@ -162,6 +166,9 @@ Sustainability
 
 Solutions
  
+Kiosk and Digital Signage
+
+
 Contact Center
 
 
@@ -177,17 +184,11 @@ Healthcare
 Frontline workforce
 
 
-Recommended
-
-
-Readiness Tool
-
-
 
 
  
 
-Chrome OS devices
+ChromeOS devices
 
  
 
@@ -271,10 +272,6 @@ Get Chrome browser
 
 
  
- Chrome Enterprise Demo Day: A virtual event for a closer look at what's new, for what's next. Register today.
-
-
-
 
 
 
@@ -315,10 +312,10 @@ Learn more
 
 
 
-Chrome OS Flex
-Try the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs in 3 simple steps.
+ChromeOS Flex
+Try the cloud-first, fast, easy-to-manage, and secure ChromeOS for PCs and Macs in 3 simple steps.
 
-Get early access  
+Get ChromeOS Flex  
 
 
 
@@ -330,7 +327,7 @@ Get early access
 
 
 Try Chrome Enterprise Upgrade
-Manage your organization's Chrome OS devices simply and securely with a free 30-day trial.
+Manage your organization's ChromeOS devices simply and securely with a free 30-day trial.
 
 Sign up  
 
@@ -360,7 +357,7 @@ Learn more
 
 
 
- Chrome OS
+ ChromeOS
 The OS made for the cloud
 
 Learn more  
@@ -377,7 +374,7 @@ Learn more
 
 
 
- Chrome OS devices
+ ChromeOS devices
 Versatile devices for all the ways you work
 
 Learn more  
@@ -453,7 +450,7 @@ Lower costs, simplify operations, and increase productivity. Chrome Enterprise i
 $
 2.2
 M
- IT management and services savings1 with Chrome devices*
+ IT management and services savings1 with ChromeOS devices*
 
 
 
@@ -463,7 +460,7 @@ M
 
 
 
-1. "The Total Economic ImpactTM of Chrome devices for knowledge workers", a commissioned study conducted by Forrester Consulting on behalf of Google, September 2018, 2. "The Total Economic ImpactTM of Chrome browser", a commissioned study conducted by Forrester Consulting on behalf of Google, July 2018, * Total benefits over a three-year period.
+1. "The Total Economic ImpactTM of ChromeOS devices for knowledge workers", a commissioned study conducted by Forrester Consulting on behalf of Google, September 2018, 2. "The Total Economic ImpactTM of Chrome browser", a commissioned study conducted by Forrester Consulting on behalf of Google, July 2018, * Total benefits over a three-year period.
 
 
 
@@ -546,6 +543,9 @@ Contact sales
 Supporting hybrid work
 
 
+Recommended
+
+
 
 
 Chrome browser
@@ -574,7 +574,7 @@ Enterprise support plan
 
 
 
-Chrome OS
+ChromeOS
 
 
 
@@ -586,7 +586,7 @@ Overview
 Security
 
 
-Chrome OS Flex
+ChromeOS Flex
 
 
 Contact Center
@@ -610,15 +610,9 @@ Healthcare
 Frontline workforce
 
 
-Recommended
 
 
-Readiness Tool
-
-
-
-
-Chrome OS devices
+ChromeOS devices
 
 
 

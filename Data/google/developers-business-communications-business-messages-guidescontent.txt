@@ -294,8 +294,6 @@ Requirements and guidelines
 
 Quickstarts
 
-All quickstarts
-Prerequisite setup
 Create your first agent
 
 How-to guides
@@ -305,15 +303,15 @@ Register as a partner
 
 
 Create and configure agents
-Create an agentSet your webhookSet non-local informationSet messaging availabilityBegin the conversationLocalization and locales
+Create an agentExplore features with the Helper BotSet your webhookSet non-local informationSet messaging availabilityBegin the conversationLocalization and locales
 Add locations
 
 
-Design agent functionality
+Design the conversation
 Conversation design for Business MessagesHow to approach the designDesign prerequisitesSet the stage with a welcome messageGuide the interactionBe conversationalUse both automation and live agentsRe-engagementTest, learn, optimize
 
 Conversation design samples
-Sales journey
+Sales journeySupport journey
 
 
 Develop messaging flows
@@ -573,6 +571,36 @@ Webhook
 
 
 
+      design_services
+    
+
+
+
+
+
+    
+        Design
+      
+  
+
+
+            Design the conversational experience.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       construction
     
 
@@ -589,12 +617,6 @@ Webhook
             Learn how to send and receive messages, events, and surveys.
 
           
-
-
-
-
-
-
 
 
 
@@ -627,6 +649,12 @@ Webhook
 
 
 
+
+
+
+
+
+
       airplanemode_active
     
 
@@ -643,12 +671,6 @@ Webhook
             Launch your brand's agent and locations.
 
           
-
-
-
-
-
-
 
 
 
@@ -681,6 +703,12 @@ Webhook
 
 
 
+
+
+
+
+
+
       extension
     
 
@@ -697,12 +725,6 @@ Webhook
             Get a jump start on development by using one of our samples.
 
           
-
-
-
-
-
-
 
 
 
@@ -735,6 +757,12 @@ Webhook
 
 
 
+
+
+
+
+
+
       assignment_turned_in
     
 
@@ -751,12 +779,6 @@ Webhook
             Consult the API reference pages.
 
           
-
-
-
-
-
-
 
 
 
@@ -790,10 +812,8 @@ Webhook
 
 
 
-
-
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
-Last updated 2022-03-25 UTC.
+Last updated 2022-07-13 UTC.
 
 
 

@@ -1,5 +1,4 @@
 from index import BuildIndex
-
 import re, glob
 
 class Query:

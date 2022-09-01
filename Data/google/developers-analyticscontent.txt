@@ -306,50 +306,19 @@ Discover Google Analytics
 
 
     
-        Web
+        Websites
       
   
 
 
-            Measure user interaction with websites or web applications.
+            Measure user interactions on websites.
           
 
-Google Analytics 4 properties
-gtag.js
+Google Analytics 4 (gtag.js)
+Universal Analytics (gtag.js)
 analytics.js
+AMP HTML
 
-
-
-
-
-
-
-
-
-    
-        Android
-      
-  
-
-
-            Measure user interaction with Android applications.
-          
-
-
-
-
-
-
-
-
-    
-        iOS
-      
-  
-
-
-            Measure user interaction with iOS applications.
-          
 
 
 
@@ -361,13 +330,19 @@ analytics.js
 
 
     
-        Measurement Protocol
+        Mobile apps
       
   
 
 
-            Measure user interaction in any environment with this low-level protocol.
+            Measure user interactions on mobile apps using the Google Analytics for Firebase SDK.
           
+
+Android
+iOS
+
+
+
 
 
 
@@ -377,13 +352,17 @@ analytics.js
 
 
     
-        AMP HTML
+        Internet connected devices
       
   
 
 
-            Measure user interactions in AMP pages.
+            Measure user interactions in any environment.
           
+
+Measurement Protocol
+Measurement Protocol Google Analytics 4
+
 
 
 

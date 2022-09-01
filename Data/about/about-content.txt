@@ -4,6 +4,8 @@
 
 
 
+
+
 Google - About Google, Our Culture & Company News
 
 
@@ -211,12 +213,12 @@ More about our core commitments
 
 
 
-        Supporting LGBTQ+ communities during Pride - and every day of the year
+        Understanding how Google protects your privacy
       
 
 
 
-        Learn more about our commitments
+        Learn more
       
 
 
@@ -335,6 +337,11 @@ More about our core commitments
 
 
 
+
+
+
+
+
             Committed to significantly improving the lives of as many people as possible
           
 
@@ -391,12 +398,17 @@ Read the article
 
 
 
-        In a world where everyone belongs, anything is possible
+
+
+
+
+
+        Helping marketers and creatives improve representation and belonging
       
 
 
 
-        Learn more about belonging
+        Explore the toolkit
       
 
 
@@ -470,7 +482,7 @@ Read the article
 
 
 
-        Recognizing places of strength and resilience in LGBTQ+ communities
+        Honoring Stacey Park Milbern and her dream for a more inclusive world
       
 
 
@@ -991,6 +1003,7 @@ Privacy
 
 Terms
           
+
 
 
 

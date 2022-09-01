@@ -196,6 +196,13 @@ Firebase
 
 
 
+                      Stories
+                    
+
+
+
+
+
 
 
 
@@ -471,6 +478,13 @@ Sign in
 
 
 
+      Stories
+   
+
+
+
+
+
 
 
 
@@ -532,21 +546,6 @@ Sign in
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-        Check out what’s new from Firebase at Google I/O 2022.
-        
-         Learn more
-        
 
 
 
@@ -1398,11 +1397,11 @@ Sign in
 
 
 
-          See what’s new from Firebase at Google I/O 2022
+          Firebase Stories: celebrating our developer community
          
 
 
-           Learn how we’re helping you accelerate app development, run your app with confidence, and succeed at scale with strengthened integrations across Google’s developer products, so you have a more seamless development experience.
+           Discover the developers building apps and businesses on Firebase. Hear their stories, dive into their app development journeys, and learn how to best take advantage of Firebase tools and services.
           
 
 

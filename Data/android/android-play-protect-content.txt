@@ -285,6 +285,18 @@ Android helps keep you protected, even when you arenât using your phone. Ou
 
 
 
+Watch how Android keeps your devices safe.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -596,6 +608,7 @@ Keeping you safe is at the heart of Android. Device encryption helps keep your d
 
 
 
+
 Security that empowers everyone.
 
 
@@ -684,6 +697,7 @@ Secure your business
 
 
 
+
 Emergency help
 Help during moments of crisis.
 
@@ -696,7 +710,7 @@ Go to the Help Center
 
 
 
-
+ 
 
 
 
@@ -1198,6 +1212,10 @@ Some features and availability vary by OEM and/or device manufacturer.
 
 
  Find Android on LinkedIn 
+
+
+
+
 
 
 

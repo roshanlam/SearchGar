@@ -51,6 +51,7 @@ TensorFlow
 
 
 
+
   Install
 
 
@@ -768,13 +769,6 @@ Sign in
 
 
 
-
-
-
-
-
-
-          Google I/O is a wrap! Catch up on TensorFlow sessions  View sessions
 
 
 
@@ -1625,6 +1619,28 @@ Sign in
 
 
 
+         Google Cloud Applied ML Summit
+        
+
+
+          Watch sessions from the Google Cloud Applied ML Summit to learn about the latest cutting-edge MLOps tools for developing, deploying, and managing ML models at scale. Join the APAC event starting June 20!
+         
+
+
+
+          See event page
+          
+
+
+
+
+
+
+
+
+
+
+
          What's new in TensorFlow 2.9
         
 
@@ -1679,28 +1695,6 @@ Sign in
 
 
           See ML Community Day
-          
-
-
-
-
-
-
-
-
-
-
-
-         Explore Google Dev Library
-        
-
-
-          Dev Library is a showcase of what developers have created with Google technologies. See what’s being built with ML, and submit your own!
-         
-
-
-
-          Explore Dev Library
           
 
 

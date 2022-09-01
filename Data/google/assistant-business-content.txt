@@ -378,6 +378,11 @@ Console
 
 
 
+  Conversational Actions sunset
+
+
+
+
 
 
 
@@ -523,6 +528,15 @@ Assistant
 
       Support
    
+
+
+
+
+
+      Conversational Actions sunset
+   
+
+
 
 
 
@@ -823,8 +837,7 @@ Assistant
 
 
 
- Want your Android app to work seamlessly with Google Assistant? Sign up to be guided through
-the different stages of development for App Actions.
+ Conversational Actions will be deprecated on June 13, 2023. For more information, see Conversational Actions sunset.
 
         
 
@@ -1455,26 +1468,7 @@ Learn more
 
 
     
-        Reach the Next Billion Users with Your Actions for the Google Assistant (Google I/O'19)
-      
-  
-
-
-Watch video
-
-
-
-
-
-
-
-
-
-
-
-
-    
-        Data and Insights to Build for the Digital Assistant Era (Google I/O'19)
+        Google Assistant functionality across Android devices
       
   
 
@@ -1497,12 +1491,35 @@ Watch video
 
 
     
-        Building a Smart Home Cloud Service with Google
+        General availability of App Actions using the Android Shortcuts framework
       
   
 
 
 Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        4 Google smart home updates that Matter
+      
+  
+
+
+Read more
 
 
 

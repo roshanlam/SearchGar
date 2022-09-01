@@ -275,17 +275,18 @@ Introducing Google Wallet: Fast, secure access to your everyday essentials. Lear
 
 
 
- 
-
- 
 
 
 
 
 
 
-          Say hello to a better relationship with money
-        
+
+
+
+
+
+ Say hello to a better relationship with money 
 
 Google Pay is a safe, simple, and helpful way to pay and manage your money.
 
@@ -296,19 +297,11 @@ Google Pay is a safe, simple, and helpful way to pay and manage your money.
 
 
 
+ Safe, simple, and helpful 
+ Download Google Pay on your Android and iOS devices. 
 
-      Safe, simple, and helpful
-    
-
-          Download Google Pay on your Android and iOS devices.
-      
-
-
-            Download for Android
-          
-
-              Download for iOS
-            
+ Download for Android 
+ Download for iOS 
 
 
 
@@ -322,7 +315,8 @@ Google Pay is a safe, simple, and helpful way to pay and manage your money.
 
 
 Pay a friend or a group in a snap
- 
+
+
 
 
 
@@ -346,12 +340,14 @@ Send money to a friend or start a group to split expenses for dinner, bills, ren
 
 
 
- 
 
 
 
 
- 
+
+
+
+
 
 
 
@@ -361,7 +357,6 @@ Connected
 Plan, split, and make group payments right from yourÂ phone.
 Convenient
 Easily find your friends and make a fastÂ payment.
- 
 
 
 
@@ -375,9 +370,13 @@ Easily find your friends and make a fastÂ payment.
 
 
 
- 
 
- 
+
+
+
+
+
+
 
 
 
@@ -388,7 +387,8 @@ Easily find your friends and make a fastÂ payment.
 
 
 Stay connected with your favorite businesses
- 
+
+
 
 
 
@@ -396,7 +396,6 @@ Stay connected with your favorite businesses
 
 Stay connected with your favorite businesses
 See where youâve made the most recent transactions, right on your home screen. Find past purchases, loyalty cards, offers - even online ordering - all in oneÂ place.
- 
 
 
 
@@ -410,7 +409,10 @@ See where youâve made the most recent transactions, right on your home scre
 
 
 
- 
+
+
+
+
 
 
 
@@ -426,7 +428,8 @@ See where youâve made the most recent transactions, right on your home scre
 
 
 Keep your cards and accounts within tapping distance
- 
+
+
 
 
 
@@ -434,15 +437,7 @@ Keep your cards and accounts within tapping distance
 
 Keep your cards and accounts within tapping distance
 Keep credit cards, debit cards, transit passes, and more on your phone for quick, easyÂ access.
-
-      Learn more about transit with Clipper
-        
-
-  
-
-
-
- 
+ Learn more about Google Wallet 
 
 
 
@@ -453,7 +448,16 @@ Keep credit cards, debit cards, transit passes, and more on your phone for quick
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -469,7 +473,8 @@ Keep credit cards, debit cards, transit passes, and more on your phone for quick
 
 
 Get a fuller picture of your finances
- 
+
+
 
 
 
@@ -477,7 +482,6 @@ Get a fuller picture of your finances
 
 Get a fuller picture of your finances
 Bring your accounts together for a clearer view of what you have, what youâve spent, and recentÂ activity.
- 
 
 
 
@@ -488,7 +492,10 @@ Bring your accounts together for a clearer view of what you have, what youâ
 
 
 
- 
+
+
+
+
 
 
 
@@ -498,7 +505,6 @@ Sync accounts
 Easily check your balance and spending across all of your linkedÂ accounts.
 Stay in theÂ know
 As money goes in and out, see it reflected in one simpleÂ view.
- 
 
 
 
@@ -518,9 +524,13 @@ As money goes in and out, see it reflected in one simpleÂ view.
 
 
 
- 
 
- 
+
+
+
+
+
+
 
 
 
@@ -531,7 +541,8 @@ As money goes in and out, see it reflected in one simpleÂ view.
 
 
 Search your spending the easy way with Google Pay
- 
+
+
 
 
 
@@ -539,7 +550,6 @@ Search your spending the easy way with Google Pay
 
 Search your spending the easy way with Google Pay
 Easily find past purchases from weekend getaways, past payments, and tickets you saved in your wallet. And if you choose, you can link your bank account, Gmail, and Google Photos to search even moreÂ transactions.
- 
 
 
 
@@ -550,7 +560,6 @@ Easily find past purchases from weekend getaways, past payments, and tickets you
 
 
 
- 
 
 
 
@@ -598,7 +607,6 @@ Easily find past purchases from weekend getaways, past payments, and tickets you
 
 
 
- 
 
 
 
@@ -618,9 +626,17 @@ Easily find past purchases from weekend getaways, past payments, and tickets you
 
 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -631,7 +647,8 @@ Easily find past purchases from weekend getaways, past payments, and tickets you
 
 
 Make purchases more rewarding
- 
+
+
 
 
 
@@ -639,7 +656,6 @@ Make purchases more rewarding
 
 Make purchases more rewarding
 Earn cashback rewards when you activate offers from your favorite businesses and make everydayÂ purchases.
- 
 
 
 
@@ -650,11 +666,9 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
- 
 
 
 
- 
 
 
 
@@ -674,9 +688,7 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
- 
 
- 
 
 
 
@@ -720,12 +732,7 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
-      Your rewards are real money
-  
 
-      Get cashback rewards you can use to pay anyone or any business that accepts Google Pay.
-  
- 
 
 
 
@@ -734,6 +741,8 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
+ Your rewards are real money 
+ Get cashback rewards you can use to pay anyone or any business that accepts Google Pay. 
 
 
 
@@ -762,12 +771,7 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
-      Double down on rewards
-  
 
-      Earn additional cashback on top of your existing credit card rewards or loyalty programs.
-  
- 
 
 
 
@@ -776,6 +780,8 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
+ Double down on rewards 
+ Earn additional cashback on top of your existing credit card rewards or loyalty programs. 
 
 
 
@@ -804,12 +810,19 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 
-      Save where you shop
-  
 
-      Get valuable offers from your favorite brands.
-  
- 
+
+
+
+
+
+
+
+
+ Save where you shop 
+ Get valuable offers from your favorite brands. 
+
+
 
 
 
@@ -825,7 +838,8 @@ Earn cashback rewards when you activate offers from your favorite businesses and
 
 
 A safer way to pay, every day
- 
+
+
 
 
 
@@ -839,7 +853,6 @@ Learn more about privacy 
 
 
 
- 
 
 
 
@@ -854,7 +867,10 @@ Learn more about privacy 
 
 
 
- 
+
+
+
+
 
 
 
@@ -864,7 +880,6 @@ Control
 Google Pay has easy-to-use tools that put you in control so you can choose the privacy settings that are right forÂ you.
 Security
 Google Pay keeps your money and private information safe with built-in authentication, transaction encryption, and fraudÂ protection.
- 
 
 
 
@@ -888,9 +903,6 @@ Google Pay keeps your money and private information safe with built-in authentic
 
 
 
- 
-
- 
 
 
 
@@ -903,16 +915,17 @@ Google Pay keeps your money and private information safe with built-in authentic
 
 
 
-        Scan to get the app
-      
 
 
 
-      ◀
-    
 
-      ▶
-    
+
+
+ Scan to get the app 
+
+
+ ◀ 
+ ▶ 
 
 
 
@@ -967,19 +980,13 @@ Download Google Pay
 
 
 
-
-                  For iOS
-                
+ For iOS 
 
 
-
-                  For Android
-                
+ For Android 
 
 
-
-                  Sign in on your computer
-                
+ Sign in on your computer 
 
 
 
@@ -992,39 +999,25 @@ For business
 
 
 
-
-                  Order a sticker kit
-                
+ Order a sticker kit 
 
 
-
-                  Google Pay for business
-                
+ Google Pay for business 
 
 
-
-                  Checkout
-                
+ Checkout 
 
 
-
-                  Passes & rewards
-                
+ Passes & rewards 
 
 
-
-                  Partners
-                
+ Partners 
 
 
-
-                  Implementation
-                
+ Implementation 
 
 
-
-                  Resources
-                
+ Resources 
 
 
 
@@ -1037,9 +1030,7 @@ For developers
 
 
 
-
-                  Google Pay for developers
-                
+ Google Pay for developers 
 
 
 
@@ -1052,24 +1043,20 @@ Learn more
 
 
 
+ Guidebooks 
 
-                  Guidebooks
-                
 
+ Blog 
 
 
-                  Blog
-                
+ Privacy & Security 
 
 
+ Support 
 
-                  Privacy & Security
-                
 
 
 
-                  Support
-                
 
 
 
@@ -1081,156 +1068,69 @@ Learn more
 
 
 
+ About Google 
 
 
+ Google products 
 
 
+ Privacy 
 
-            About Google
-          
 
+ Terms 
 
 
-            Google products
-          
 
 
 
-            Privacy
-          
 
 
+ Help 
 
-            Terms
-          
 
 
-
-
-
-
-
-
-          Help
-        
-
-
-
-
-                à¦¬à¦¾à¦à¦²à¦¾ (à¦­à¦¾à¦°à¦¤)
-              
-
-                ÄeÅ¡tina (Äesko)
-              
-
-                Deutsch (Deutschland)
-              
-
-                English (Australia)
-              
-
-                English (Canada)
-              
-
-                English (Denmark)
-              
-
-                English (Finland)
-              
-
-                English (Hong Kong)
-              
-
-                English (Ireland)
-              
-
-                English (India)
-              
-
-                English (Norway)
-              
-
-                English (New Zealand)
-              
-
-                English (Sweden)
-              
-
-                English (Singapore)
-              
-
-                English (United Kingdom)
-              
-
-                English (United States)
-              
-
-                espaÃ±ol (EspaÃ±a)
-              
-
-                franÃ§ais (Belgique)
-              
-
-                franÃ§ais (Canada)
-              
-
-                franÃ§ais (France)
-              
-
-                àªà«àªàª°àª¾àª¤à« (àª­àª¾àª°àª¤)
-              
-
-                à¤¹à¤¿à¤¨à¥à¤¦à¥ (à¤­à¤¾à¤°à¤¤)
-              
-
-                italiano (Italia)
-              
-
-                æ¥æ¬èª (æ¥æ¬)
-              
-
-                à²à²¨à³à²¨à²¡ (à²­à²¾à²°à²¤)
-              
-
-                à¤®à¤°à¤¾à¤ à¥ (à¤­à¤¾à¤°à¤¤)
-              
-
-                Nederlands (BelgiÃ«)
-              
-
-                polski (Polska)
-              
-
-                portuguÃªs (Brasil)
-              
-
-                ÑÑÑÑÐºÐ¸Ð¹ (Ð Ð¾ÑÑÐ¸Ñ)
-              
-
-                slovenÄina (Slovensko)
-              
-
-                à®¤à®®à®¿à®´à¯ (à®à®¨à¯à®¤à®¿à®¯à®¾)
-              
-
-                à°¤à±à°²à±à°à± (à°­à°¾à°°à°¤à°¦à±à°¶à°)
-              
-
-                ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ° (Ð£ÐºÑÐ°ÑÐ½Ð°)
-              
-
-                ä¸­æ (é¦æ¸¯)
-              
-
-                ä¸­æ (å°ç£)
-              
+ à¦¬à¦¾à¦à¦²à¦¾ (à¦­à¦¾à¦°à¦¤) 
+ ÄeÅ¡tina (Äesko) 
+ Deutsch (Deutschland) 
+ English (Australia) 
+ English (Canada) 
+ English (Denmark) 
+ English (Finland) 
+ English (Hong Kong) 
+ English (Ireland) 
+ English (India) 
+ English (Norway) 
+ English (New Zealand) 
+ English (Sweden) 
+ English (Singapore) 
+ English (United Kingdom) 
+ English (United States) 
+ espaÃ±ol (EspaÃ±a) 
+ franÃ§ais (Belgique) 
+ franÃ§ais (Canada) 
+ franÃ§ais (France) 
+ àªà«àªàª°àª¾àª¤à« (àª­àª¾àª°àª¤) 
+ à¤¹à¤¿à¤¨à¥à¤¦à¥ (à¤­à¤¾à¤°à¤¤) 
+ italiano (Italia) 
+ æ¥æ¬èª (æ¥æ¬) 
+ à²à²¨à³à²¨à²¡ (à²­à²¾à²°à²¤) 
+ à¤®à¤°à¤¾à¤ à¥ (à¤­à¤¾à¤°à¤¤) 
+ Nederlands (BelgiÃ«) 
+ polski (Polska) 
+ portuguÃªs (Brasil) 
+ ÑÑÑÑÐºÐ¸Ð¹ (Ð Ð¾ÑÑÐ¸Ñ) 
+ slovenÄina (Slovensko) 
+ à®¤à®®à®¿à®´à¯ (à®à®¨à¯à®¤à®¿à®¯à®¾) 
+ à°¤à±à°²à±à°à± (à°­à°¾à°°à°¤à°¦à±à°¶à°) 
+ ÑÐºÑÐ°ÑÐ½ÑÑÐºÐ° (Ð£ÐºÑÐ°ÑÐ½Ð°) 
+ ä¸­æ (é¦æ¸¯) 
+ ä¸­æ (å°ç£) 
 
 
 
 
 
 Some features and devices may not be available in all areasAll money transmission is provided by Google Payment Corp. (GPC) pursuant to its licenses (NMLS ID: 911607). GPC is licensed as a Money Transmitter by the Banking Department of the State of New York. GPC is licensed by the Georgia Department of Banking and Finance.
-
 
 
 

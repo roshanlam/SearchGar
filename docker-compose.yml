@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "8080:8080"
+    links:
+      - redis:redis
+    depends_on:
+      - redis
+    
+  redis:
+    image: "redis:alpine"
+    expose:
+      - 6379

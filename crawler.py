@@ -4,50 +4,42 @@ from domain import *
 from utils import *
 from bs4 import BeautifulSoup
 from mydb import MyDB
+import re
+
+from crawlerlib import CrawlerLib
+from domain import get_domain_name, get_domain_name_without_extension
+from crawleradvanced import Crawler as SmartCrawler
 
 class Crawler:
-    def __init__(self, url, depth):
-        self.crawl(url, depth)
-        
-    def crawl(self, url, depth):
-        if depth == 0:
-            return
-        self.download_url(url)
-        try:
-            response = requests.get(url)
-            html = response.text
-            soup = BeautifulSoup(html, 'html.parser')
-            links = []
-            for link in soup.find_all('a'):
-                if link.get('href') is not None:
-                    links.append(link.get('href'))
-            for link in links:
-                if re.match('http(?:s)?://', link) is None:
-                    link = 'http://' + link
-                self.crawl(link, depth - 1)
-        except:
-            pass
+    def __init__(self, url):
+        self.url = url
+        self.domain = get_domain_name(url)
+        self.domain_without_extension = get_domain_name_without_extension(url)
+        self.db = MyDB()
+        self.crawlerlib = CrawlerLib()
 
-    def get_website_name(self, url):
-        return get_domain_name(url).split('.')[0]
+    def classify_website(self):
+        smartcrawler = SmartCrawler(self.url)
+        result = smartcrawler.classify()
+        smartcrawler.save()
+        return result
 
-    def download_url(self, url):
-        try:
-            response = requests.get(url)
-            html = response.text
-            soup = BeautifulSoup(html, 'html.parser')
-            text = soup.get_text()
-            text = re.sub('\S*@\S*\s?', '', text)
-            if not os.path.exists('Data'):
-                os.makedirs('Data')
-            website_name = self.get_website_name(url)
-            if not os.path.exists('Data/' + website_name):
-                os.makedirs('Data/' + website_name)
-            with open('./Data/{}/{}content.txt'.format(self.get_website_name(url), get_domain_name_without_extension(url)), 'w') as f:
-                f.write(text + '\n')
-            db = MyDB()
-            db.set(('./Data/{}/{}content.txt'.format(self.get_website_name(url), get_domain_name_without_extension(url))), url)
-        except:
-            pass
-        
-Crawler('http://www.google.com', 5)
+    def crawl(self):
+        """
+        Crawl the website and store the data in the database
+        """
+        website_data = self.crawlerlib.get_website_data(self.url)
+        website_data["category"] = self.classify_website()
+        self.db.store_website_data(self.url, website_data)
+        links = self.crawlerlib.gather_links(self.url)
+        for link in links:
+            if link.startswith("http"):
+                crawler = Crawler(link)
+                crawler.crawl()
+            else:
+                link = "http://" + self.domain + link
+                crawler = Crawler(link)
+                crawler.crawl()
+        return website_data
+
+Crawler('https://www.google.com').crawl()

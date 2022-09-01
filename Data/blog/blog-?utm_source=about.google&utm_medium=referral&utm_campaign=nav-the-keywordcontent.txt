@@ -531,6 +531,53 @@ The Keyword | Google
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Skip to main content
 
 
@@ -2120,42 +2167,46 @@ Copy link
 
 
 
+        
+          Pixel
+        
+          
+
+
+
+    
+    
+      Pre-order your Pixel Buds Pro and Pixel 6a today
+    
+    
+      
+
+      Pixel 6a starts at $449 and Pixel Buds Pro are available for $199.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           Android
         
 
 
 
-      
-        Explore, communicate and customize with Android
-      
-    
-
-      We’re introducing a set of updates to help your Android phone stand out as much as you do.
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          Developers
-        
-
-
-
-          Why .app and .dev are perfect homes for developer tools
+          How we're helping you switch audio between devices
         
 
 
@@ -2167,12 +2218,12 @@ Copy link
 
 
 
-          Grow with Google
+          Chrome
         
 
 
 
-          Helping job seekers prepare for interviews
+          How we redesigned the Chrome icon
         
 
 
@@ -2181,16 +2232,16 @@ Copy link
 
 
 
-          Diversity and Inclusion
+          Search
         
 
 
 
-          Finding belonging in LGBTQ+ spaces
+          Suicide prevention resources on Google Search
         
 
           
-            Google is building on our commitment to the LGBTQ+ community. Googlers are participating in local Pride marches and donating to nonprofits.
+            Here’s how Google is helping people find information about suicide prevention and mental health support at the top of search results.
           
         
 
@@ -2208,42 +2259,6 @@ Copy link
 
 
 
-More news
-
-
-
-
-
-Chrome
-
-
-Personalize Chrome with themes from LGBTQ+ artists
-
-
-
-
-
-
-
-
-
-Google TV
-
-
-7 ways to make the most of the Google TV app
-
-
-
-
-
-
-
-
-
-Google Cloud
-
-
-Helping farmers with cloud technology, up close and global
 
 
 
@@ -2259,10 +2274,187 @@ Helping farmers with cloud technology, up close and global
 
 
 
-Google I/O 2022: Advancing knowledge and computing
+
 
         
-          We're showcasing how we're building products to help.
+          Travel
+        
+          
+
+
+
+    
+    
+      I’m excellent at planning vacations — steal my tips
+    
+    
+      
+
+      A self-proclaimed “travel nerd’s” guide to using Google tools for vacation planning.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 days with Google at the 2022 ESSENCE Festival
+
+
+
+
+
+
+
+Eid.day: Celebrating and honoring the Muslim community
+
+
+
+
+
+
+
+Reuniting the historic Stonewall Inn
+
+
+
+
+
+
+
+Taking pride in our businesses
+
+
+
+
+
+
+
+Open call: introducing Google’s Image Equity Fellowship
+
+
+
+
+
+
+
+Finding belonging in LGBTQ+ spaces
+
+Google is building on our commitment to the LGBTQ+ community. Googlers are participating in local Pride marches and donating to nonprofits.
+
+
+
+
+
+
+
+
+
+
+
+
+Maps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inside Scoop: National Ice Cream Day with Google Maps
+
+
+
+
+
+
+
+Get some fresh air outdoors with Google
+
+
+
+
+
+
+
+Street View turns 15 with a new camera and fresh features
+
+
+
+
+
+
+
+HBD to us! Let’s celebrate with Street View adventures
+
+
+
+
+
+
+
+Immersive view coming soon to Maps — plus more updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transparency in the shadowy world of cyberattacks
+
+        
+          Adapted remarks delivered by Kent Walker at the International Conference on Cyber Security 2022.
         
       
 
@@ -2279,66 +2471,239 @@ Google I/O 2022: Advancing knowledge and computing
 
 
 
-      Sundar Pichai,
+      Kent Walker
     
 
-      CEO of Google and Alphabet
-    
-
-
-
-
-
-
-
-
-
-
-
-
-Building the future of marketing together
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          From Google Ads & Commerce
-      
-
-
-
-      
-        Building the future of marketing together
-      
-    
-
-      At Google Marketing Live, we’ll share new Google Ads innovations that will help you drive results today and build resilience for tomorrow.
+      President of Global Affairs, Google & Alphabet
     
 
 
-      
-        Read article
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
+
+
+Arts & Culture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bringing art to the streets with pop legends BTS
+
+
+
+
+
+
+
+A Queer Eye on Art History with Google Arts & Culture
+
+
+
+
+
+
+
+Preserving languages and the stories behind them
+
+
+
+
+
+
+
+Gilberto Gil: Our largest retrospective of a living artist
+
+
+
+
+
+
+
+¡Que aproveche! Spain’s culinary heritage
+
+
+
+
+
+
+
+Milan Cathedral, up close and beautiful
+
+
+
+
+
+
+
+Augmented reality brings fine art to life for International Museum Day
+
+
+
+
+
+
+
+Step into the Meroë pyramids with Google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mentoring the next generation of women techmakers
+
+
+
+
+
+
+
+Road to GDE: Supporting future Google Developer Experts
+
+
+
+
+
+
+
+Join Kick Start, a coding competition for all levels
+
+
+
+
+
+
+
+Why you shouldn’t let failures define you
+
+
+
+
+
+
+
+How this engineer got the career boost she needed
+
+
+
+
+
+
+
+Why .app and .dev are perfect homes for developer tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Google Workspace features to help solo business owners
+
+
+
+
+
+
+
+7 ways AI is making Google Workspace better
+
+
+
+
+
+
+
+A productivity expert’s tips for returning to the office
+
+
+
+
+
+
+
+We heart this: Behind in-meeting emoji in Meet
+
+
+
+
+
+
+
+Don't...actually do me: 5 new Google Workspace features
+
+
 
 
 
@@ -2368,36 +2733,36 @@ Stories from Googlers, interns, and alumni on how they got to Google, their role
 
 
 
-        Jun 02
+        Jul 21
     
 
  / My Path to Google
 
-This Googler turned her passion for branding into a career
+How this intern’s passion for Africa led her to Google
 
 
 
 
 
 
-        May 26
+        Jun 30
     
 
  / My Path to Google
 
-How Unni's passion for social impact led him to Google
+How this Google intern is spending her summer
 
 
 
 
 
 
-        May 19
+        Jun 23
     
 
  / My Path to Google
 
-Why this Pixel engineer chose Google Taiwan
+Meet Nathalia Silva, a Cloud Googler and DEI leader
 
 
 
@@ -2421,8 +2786,10 @@ All stories
 
 
 
-
 Load more stories
+
+
+
 
 
 
@@ -2441,68 +2808,6 @@ Let’s stay in touch. Get the latest news from Google in your inbox.
 Subscribe
 No thanks
 
-
-
-
-
-
-
-Please check your network connection and
-        try again.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The latest news from Google, in your inbox.
-
-
-
-
-
-    First name
-  
-
-
-
-
-
-    Email address
-  
-
-
-
-          Sign up to receive news and other stories from Google.
-          Your information will be used in accordance with
-          Google's privacy policy. You may opt out at any time.
-
-
-          Subscribe
-        
-
-
-
-
-
-
-
-Done! Check your inbox toconfirm your subscription.
-
- OK, got it 
 
 
 

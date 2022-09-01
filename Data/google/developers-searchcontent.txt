@@ -63,11 +63,11 @@ Search Central
 
 
 
-Not much time?
+SEO fundamentals
 
 
 
-                      Quickstart
+                      Introduction
                     
 
 
@@ -81,33 +81,7 @@ Not much time?
 
 
 
-                      Optimize your site for search engines
-                    
-
-
-
-
-
-                      Measuring your performance on Google
-                    
-
-
-
-
-
-                      Do you need an SEO?
-                    
-
-
-
-
-
-
-Beginner SEO
-
-
-
-                      Get started
+                      How Google Search Works
                     
 
 
@@ -121,14 +95,28 @@ Beginner SEO
 
 
 
-                      Establish your business details with Google
+                      Guidelines for site owners
                     
 
 
 
 
 
-                      Beginner's guide to Search Console
+                      Do you need an SEO?
+                    
+
+
+
+
+
+                      Maintaining your site's SEO
+                    
+
+
+
+
+
+                      Developer's guide to SEO
                     
 
 
@@ -136,46 +124,189 @@ Beginner SEO
 
 
 
-Advanced SEO
+Crawling and indexing
 
 
 
-                      Get started
+                      Sitemaps
                     
 
 
 
 
 
-                      Guidelines
+                      robots.txt
                     
 
 
 
 
 
-                      How Search Works
+                      Meta tags
                     
 
 
 
 
 
-                      Control crawling and indexing
+                      Crawler management
                     
 
 
 
 
 
-                      Change your Search appearance
+                      Removals
                     
 
 
 
 
 
-                      Optimize page experience
+                      Canonical URLs
+                    
+
+
+
+
+
+                      Site moves
+                    
+
+
+
+
+
+                      Redirects
+                    
+
+
+
+
+
+                      JavaScript SEO
+                    
+
+
+
+
+
+                      International and multilingual sites
+                    
+
+
+
+
+
+
+Search appearance
+
+
+
+                      Title links
+                    
+
+
+
+
+
+                      Snippets
+                    
+
+
+
+
+
+                      Images
+                    
+
+
+
+
+
+                      Videos
+                    
+
+
+
+
+
+                      Structured data
+                    
+
+
+
+
+
+                      Business details
+                    
+
+
+
+
+
+                      Favicons
+                    
+
+
+
+
+
+                      Publication dates
+                    
+
+
+
+
+
+                      All Search appearance topics
+                    
+
+
+
+
+
+
+User experience
+
+
+
+                      Page experience
+                    
+
+
+
+
+
+                      Navigation structures
+                    
+
+
+
+
+
+                      Pagination and incremental page loading
+                    
+
+
+
+
+
+                      HTTPS
+                    
+
+
+
+
+
+                      Mobile-friendliness
+                    
+
+
+
+
+
+                      Interstitials and dialogs
                     
 
 
@@ -214,6 +345,13 @@ Advanced SEO
 
 
                       Documentation updates
+                    
+
+
+
+
+
+                      Ranking updates
                     
 
 
@@ -380,6 +518,8 @@ Search Central
 
 
 
+
+
       More
    
 
@@ -451,14 +591,14 @@ Search Central
 
 
 
-      Not much time?
+      SEO fundamentals
    
 
 
 
 
 
-      Quickstart
+      Introduction
    
 
 
@@ -472,35 +612,7 @@ Search Central
 
 
 
-      Optimize your site for search engines
-   
-
-
-
-
-
-      Measuring your performance on Google
-   
-
-
-
-
-
-      Do you need an SEO?
-   
-
-
-
-
-
-      Beginner SEO
-   
-
-
-
-
-
-      Get started
+      How Google Search Works
    
 
 
@@ -514,63 +626,224 @@ Search Central
 
 
 
-      Establish your business details with Google
+      Guidelines for site owners
    
 
 
 
 
 
-      Beginner's guide to Search Console
+      Do you need an SEO?
    
 
 
 
 
 
-      Advanced SEO
+      Maintaining your site's SEO
    
 
 
 
 
 
-      Get started
+      Developer's guide to SEO
    
 
 
 
 
 
-      Guidelines
+      Crawling and indexing
    
 
 
 
 
 
-      How Search Works
+      Sitemaps
    
 
 
 
 
 
-      Control crawling and indexing
+      robots.txt
    
 
 
 
 
 
-      Change your Search appearance
+      Meta tags
    
 
 
 
 
 
-      Optimize page experience
+      Crawler management
+   
+
+
+
+
+
+      Removals
+   
+
+
+
+
+
+      Canonical URLs
+   
+
+
+
+
+
+      Site moves
+   
+
+
+
+
+
+      Redirects
+   
+
+
+
+
+
+      JavaScript SEO
+   
+
+
+
+
+
+      International and multilingual sites
+   
+
+
+
+
+
+      Search appearance
+   
+
+
+
+
+
+      Title links
+   
+
+
+
+
+
+      Snippets
+   
+
+
+
+
+
+      Images
+   
+
+
+
+
+
+      Videos
+   
+
+
+
+
+
+      Structured data
+   
+
+
+
+
+
+      Business details
+   
+
+
+
+
+
+      Favicons
+   
+
+
+
+
+
+      Publication dates
+   
+
+
+
+
+
+      All Search appearance topics
+   
+
+
+
+
+
+      User experience
+   
+
+
+
+
+
+      Page experience
+   
+
+
+
+
+
+      Navigation structures
+   
+
+
+
+
+
+      Pagination and incremental page loading
+   
+
+
+
+
+
+      HTTPS
+   
+
+
+
+
+
+      Mobile-friendliness
+   
+
+
+
+
+
+      Interstitials and dialogs
    
 
 
@@ -587,6 +860,13 @@ Search Central
 
 
       Documentation updates
+   
+
+
+
+
+
+      Ranking updates
    
 
 
@@ -900,6 +1180,15 @@ Get support
         Podcast
       
 Listen to our Search Off the Record podcast
+
+
+
+
+          
+        
+        Blog
+      
+Subscribe to our RSS feed
 
 
 

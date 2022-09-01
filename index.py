@@ -218,3 +218,23 @@ class BuildIndex:
 
     def getUniques(self):
         return self.totalIndex.keys()
+    
+    def docLens(self):
+        # return as a number
+        return len(self.filenames)
+
+    def getDocs(self):
+        return self.filenames
+    
+    # bm25 score for a given term and document
+    def bm25(self, term, document):
+        k1 = 1.5
+        b = 0.75
+        N = self.collection_size()
+        n = self.document_frequency(term)
+        d = self.docLens()
+        f = self.tf[document][term]
+        R = d / N
+        K = k1 * ((1-b) + b * (d / N))
+        score = (f * (k1 + 1)) / (K + f)
+        return score

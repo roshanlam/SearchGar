@@ -17,23 +17,30 @@ Select Save.
 
 Save contact info when you interact with people
 
-When you interact with people on Google products, you can automatically save their contact info, including names, email addresses, and phone numbers. When this setting is turned on, you'll keep the contact info for:
+When you interact with people on Google products, you can automatically save their contact info which includes:
 
-People you've shared something with, like a document in Drive
-People who share content with you, like shared albums in Google Photos
-People included in events or groups you're in
+Names
+Email addresses
+Phone numbers
+
+When this setting is turned on, you'll keep the contact info for:
+
+People you've shared something with, like a document in Drive.
+People who share content with you, like shared albums in Google Photos.
+People included in events or groups you're in.
+People you mark as known.
 
 Start or stop saving automatically
 
 Go to your Google Account.
 On the left navigation panel, click People & sharing.
-On the Contacts panel, click Contact info saved from interactions.
-Turn Save contact info when you interact with people on or off.
+On the "Contacts" panel, click Contact info saved from interactions.
+Turn Save contact info when you interact with people on or off.
 If you use Gmail, choose if Gmail saves contact info from people you email:
     
 On a computer, go to your Gmail settings.
 Under "Create contacts for auto-complete," choose an option.
-At the bottom of the page, click Save changes.
+At the bottom of the page, click Save changes.
 
 
 
@@ -72,4 +79,4 @@ Remove a contact: On the top right, select More   Delete. To stop them from gett
 
 
  
-   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    Manage your informationVerify your Google AccountCheck for an account that existsChange your Google Account picture, name & other infoSet up a recovery phone number or email addressChange the phone number on your account & how it's usedChange the email address for your accountGet a summary of data in your Google AccountHow to download your Google dataCopy your photos to a service outside of GoogleManage contact info from your devicesChange who's saved & suggested as contactsSave, manage & protect your passwordsManage your online reputationUse passwords across your devicesBlock or unblock people's accountsCreate or change your Google Account PINFind your purchases, reservations & subscriptionsControl the ads you seeBlock certain adsWhy you're seeing an adManage your Brand AccountManage business personalization for your Google AccountRemove productsDelete your Gmail serviceChange who manages your Brand AccountManage your Google payment infoManage app info from your devices           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                                              false 
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    Manage your informationVerify your Google AccountCheck for an account that existsChange your Google Account picture, name & other infoSet up a recovery phone number or email addressChange the phone number on your account & how it's usedChange the email address for your accountGet a summary of data in your Google AccountHow to download your Google dataCopy your photos to a service outside of GoogleManage contact info from your devicesChange who's saved & suggested as contactsSave, manage & protect your passwordsManage your online reputationUse passwords across your devicesBlock or unblock people's accountsCreate or change your Google Account PINFind your purchases, reservations & subscriptionsControl the ads you seeBlock certain adsWhy you're seeing an adManage your Brand AccountManage business personalization for your Google AccountRemove productsDelete your Gmail serviceChange who manages your Brand AccountManage your Google payment infoManage app info from your devices           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎español‎español (Latinoamérica)‎Filipino‎français‎Gaeilge‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةनेपाली‎हिन्दी‎සිංහල‎ไทย‎ລາວ‎ქართული‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center         true 70975                false                              false 

@@ -881,14 +881,10 @@ See
 
 
 
-            Stay in the loop
+            Sign up for the Google Workspace newsletter
           
 
 
-
-            Sign up for Google Workspace newsletters with news, future of work trends, product
-            updates, event information, and more.
-          
 
 
        
@@ -900,116 +896,38 @@ See
 
 
 
- Email
 
 
 
-                        Please enter a valid email address.
+                      Please enter a valid email address.
+                    
+
+
+
+
+
+
+                        Country
+                      
+
+                        {[country.countryName]}
                       
 
 
 
 
+                      This is required
+                    
 
 
 
 
-                          Select one
-                        
 
-                          {[option.value]}
-                        
- Industry
 
-
-                          This is required
-                        
-
-
-
-
-
-
-
-
-
-                          Subindustry
-                        
-
-                          {[sub.value]}
-                        
- Subindustry
-
-
-                          This is required
-                        
-
-
-
-
-
-
-
-
-
-                          Subindustry
-                        
-
-                          {[sub.value]}
-                        
- Subindustry
-
-
-                          This is required
-                        
-
-
-
-
-
-
-
-
-
-                          Select one
-                        
-
-
- Number of Employees
-
-
-                          This is required
-                        
-
-
-
-
-
-
-
-Country
-
-
-                          Country
-                        
-
-                          {[country.countryName]}
-                        
-
-
-
-
-                        This is required
-                      
-
-
-
-
-
-
- Yes, sign me up for Google
-                      Workspace emails with news, future of work trends, product updates, event
-                      information, and more. (You can unsubscribe at a later time).
+Also sign me up
+                      for Google Cloud emails with news, product updates, event information,
+                      special offers, and more. (Optional and you can unsubscribe at a later
+                      time).
 
 
 This is
@@ -1017,8 +935,19 @@ This is
 
 
 
-Sign me
-              up
+
+
+                I understand my personal data will be processed in accordance with Googleâs
+                Privacy Policy.
+              
+
+
+                  *News and insights are in English
+                
+
+Sign up
+
+
 
 
 

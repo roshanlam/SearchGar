@@ -1,4 +1,4 @@
-Learn about refunds on Google Play - Google Play Help   Skip to main content   Google Play HelpSign inGoogle HelpHelp CenterCommunityGoogle PlayPrivacy PolicyGoogle Play Terms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle PlayMovies & TVLearn about refunds on Google Play   As a precautionary health measure for our support specialists in light of COVID-19, we're operating with a limited team. Thanks for your patience, as it may take longer than usual to connect with us. For additional support, consult the Help Center.          Learn about refunds on Google PlayGoogle may give refunds for some Google Play purchases, depending on the refund policies described below. You can also contact the developer directly.
+Learn about refunds on Google Play - Google Play Help   Skip to main content   Google Play HelpSign inGoogle HelpHelp CenterCommunityGoogle PlayPrivacy PolicyGoogle Play Terms of ServiceSubmit feedback Send feedback on...This help content & informationGeneral Help Center experienceNextHelp CenterCommunityGoogle PlayMovies & TVLearn about refunds on Google Play       Learn about refunds on Google PlayGoogle may give refunds for some Google Play purchases, depending on the refund policies described below. You can also contact the developer directly.
 
 If a purchase was accidentally made by a friend or family member using your account, request a refund on the Google Play website.
 If you find a Google Play purchase on your card or other payment method that you didn't make and that wasn't made by anyone you know, report unauthorized charges within 120 days of the transaction.
@@ -29,16 +29,7 @@ Explore refund request options
 If it’s been less than 48 hours since you bought an app or made an in-app purchase: You can request a refund through Google Play.
 If you bought music, movies, books, or other content: You may be able to request a refund more than 48 hours after your purchase (check policy below).
 
-You’ll usually get a decision within 1 business day but it can take up to 4 business days.
 
-On your computer, go to play.google.com/store/account.
-Select Order History.
-Find the order you want to return.
-Select Request a refund or Report a problem and choose the option that describes your situation.
-Complete the form and note that you'd like a refund.
-You'll get a message that says "Thank you for sharing your concerns." You'll then get an email with your refund decision. You’ll usually get this within 15 minutes but it can take up to 4 business days.
-
-For hardware devices: To return or get a refund for devices you bought on the Google Store, go to the Google Store refunds page for more information. 
 Go to play.google.com.
 At the top right, click your profile icon.
 Select Payments & subscriptions  Budget & order history.
@@ -46,12 +37,14 @@ Find the order you want to return.
 Select Request a refund or Report a problem.
 Choose the option that describes your situation.
 Complete the form and note that you'd like a refund.
-You'll get a message that says "Thank you for sharing your concerns." Then you'll get an email with your refund decision. You usually get this email within 15 minutes, but it can take up to 4 business days.
+You'll get a message that says "Thank you for sharing your concerns." You'll also receive an email with a refund decision.
 
 Tip: 
 
 If you have multiple refund requests, repeat these steps for each item you bought.
 If you don't find the order, you may have bought it on a different Google Account. Find out how to switch accounts.
+Most emails with refund decisions arrive within 15 minutes, but they can take up to 4 business days.
+For hardware devices: To return or get a refund for devices you bought on the Google Store, go to the Google Store refunds page.
 
 
 Option 2: Ask for a refund on the Google Assistant
@@ -414,4 +407,4 @@ ZaloPay (Vietnam only)
 
 
 
-   Was this helpful?How can we improve it?YesNoSubmit      Need more help? Sign in for additional support options to quickly solve your issue      Sign in      true    Movies & TVMy movie or show won't play or shows an errorLearn about refunds on Google PlayClear cache & cookiesReinstall & re-enable appsDelete or disable apps on AndroidSend feedback about Google Play Movies & TV or Google TVChange your Google Play email settings           ©2022 Google   Privacy Policy   Google Play Terms of Service     Afrikaans‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                        Search Help Center         true 84680                                        false 
+   Was this helpful?How can we improve it?YesNoSubmit      Need more help? Sign in for additional support options to quickly solve your issue      Sign in      true    Movies & TVMy movie or show won't play or shows an errorLearn about refunds on Google PlaySend feedback about Google Play Movies & TV or Google TV           ©2022 Google   Privacy Policy   Google Play Terms of Service     Afrikaans‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎français (Canada)‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                        Search Help Center         true 84680                false                           false 

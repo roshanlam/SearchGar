@@ -312,6 +312,12 @@ Autocomplete
 
 API
 
+JS
+
+Android
+
+iOS
+
 
 
 
@@ -412,6 +418,14 @@ close
 
                 Find the right combination of products for what youâre looking to achieve.
               
+
+                  Wondering where to start?
+                
+
+
+  Find your solution
+      
+
 
 
 
@@ -670,13 +684,7 @@ Documentation
 
 
 
-Customer stories
-
-
-
-
-
-Blog
+Solution Finder
 
 
 
@@ -688,19 +696,31 @@ Demo Gallery
 
 
 
-Webinars
-
-
-
-
-
 Quick Builder
 
 
 
 
 
+Blog
+
+
+
+
+
+Customer stories
+
+
+
+
+
 Partner Directory
+
+
+
+
+
+Webinars
 
 
 
@@ -888,6 +908,12 @@ Autocomplete
 
 API
 
+JS
+
+Android
+
+iOS
+
 
 
 
@@ -988,6 +1014,14 @@ close
 
                 Find the right combination of products for what youâre looking to achieve.
               
+
+                  Wondering where to start?
+                
+
+
+  Find your solution
+      
+
 
 
 
@@ -1246,13 +1280,7 @@ Documentation
 
 
 
-Customer stories
-
-
-
-
-
-Blog
+Solution Finder
 
 
 
@@ -1264,19 +1292,31 @@ Demo Gallery
 
 
 
-Webinars
-
-
-
-
-
 Quick Builder
 
 
 
 
 
+Blog
+
+
+
+
+
+Customer stories
+
+
+
+
+
 Partner Directory
+
+
+
+
+
+Webinars
 
 
 
@@ -1303,7 +1343,7 @@ close
           Te damos la bienvenida al nuevo sitio web de Google Maps Platform. Muy pronto estarÃ¡ disponible en tu idioma.
         
 
-          Welcome to the new Google Maps Platform website,Â your local language site will be available soon.
+          Te damos la bienvenida al nuevo sitio web de Google Maps Platform. Muy pronto estarÃ¡ disponible en tu idioma.
         
 
           Bienvenue sur le nouveau site Google MapsÂ Platform (bientÃ´t disponible dans votre langue).
@@ -1318,7 +1358,7 @@ close
           Ã bom ver vocÃª aqui no novo site da Plataforma Google Maps. A pÃ¡gina no seu idioma local estarÃ¡ disponÃ­vel em breve.
         
 
-          ÐÐ¾Ð±ÑÐ¾ Ð¿Ð¾Ð¶Ð°Ð»Ð¾Ð²Ð°ÑÑ Ð½Ð° Ð½Ð¾Ð²ÑÐ¹ ÑÐ°Ð¹Ñ Ð¿Ð»Ð°ÑÑÐ¾ÑÐ¼Ñ Google ÐÐ°ÑÑ! ÐÐµÑÑÐ¸Ñ ÑÐ°Ð¹ÑÐ° Ð½Ð° Ð²Ð°ÑÐµÐ¼ ÑÐ·ÑÐºÐµ Ð¿Ð¾ÑÐ²Ð¸ÑÑÑ Ð² Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑÐµÐµ Ð²ÑÐµÐ¼Ñ.
+          Welcome to the new Google Maps Platform website,Â your local language site will be available soon.
         
 
 
@@ -1362,8 +1402,7 @@ See where real-world insights and location solutions can take your business.
 
 
 Why Google
-200M+
-businesses and places
+200M+businesses and places
 
 
 
@@ -1375,13 +1414,13 @@ businesses and places
 
 
 
-      Sorry, your browser doesn't support embedded videos.
+    Sorry, your browser doesn't support embedded videos.
   
 
 
 
 
-      Sorry, your browser doesn't support embedded videos.
+    Sorry, your browser doesn't support embedded videos.
   
 
 
@@ -1389,8 +1428,9 @@ businesses and places
 
 
 
-Industries
+Retail
 Explore solutions for Retail
+
 
 
 
@@ -1447,6 +1487,7 @@ Provide local information
 
 
 
+
 Products
 Find the right combination
 
@@ -1475,8 +1516,9 @@ Find the right combination
 
 
 
-Resources
-Explore the demo gallery
+
+Solution Finder
+Find your solution
 
 
 
@@ -1488,6 +1530,14 @@ Explore the demo gallery
 
 
 
+    Sorry, your browser doesn't support embedded videos.
+  
+
+
+
+
+    Sorry, your browser doesn't support embedded videos.
+  
 
 
 
@@ -1497,15 +1547,11 @@ Explore the demo gallery
 
 
 
+  
+  
+  
 
-
-
-
-
-
-
-
-
+  x
 
 
 
@@ -1513,8 +1559,9 @@ View the latest updates
 
 
 
-Webinar
-Advanced maps customization
+Blog
+Create boundaries with Data-driven styling
+
 
 
 
@@ -1530,7 +1577,8 @@ Advanced maps customization
 
 
 Blog
-Get to know Last Mile Fleet
+WebGL-powered maps now available to all
+
 
 
 
@@ -1547,6 +1595,7 @@ Get to know Last Mile Fleet
 
 New solution
 Last Mile Fleet
+
 
 
 
@@ -1627,7 +1676,7 @@ Last Mile Fleet
 
 
 
-      Sorry, your browser doesn't support embedded videos.
+    Sorry, your browser doesn't support embedded videos.
   
 
 
@@ -1666,7 +1715,7 @@ Last Mile Fleet
 
 
 
-      Sorry, your browser doesn't support embedded videos.
+    Sorry, your browser doesn't support embedded videos.
   
 
 
@@ -1705,7 +1754,7 @@ Last Mile Fleet
 
 
 
-      Sorry, your browser doesn't support embedded videos.
+    Sorry, your browser doesn't support embedded videos.
   
 
 
@@ -1744,7 +1793,7 @@ Last Mile Fleet
 
 
 
-      Sorry, your browser doesn't support embedded videos.
+    Sorry, your browser doesn't support embedded videos.
   
 
 
@@ -1808,6 +1857,7 @@ See what your business can do with Google on its side.
 
 
 
+
 Find the best location
 Help customers find and visit the nearest store, ATM, restaurant, auto shop, medical office, and more.
 
@@ -1824,11 +1874,13 @@ Help customers find and visit the nearest store, ATM, restaurant, auto shop, med
 
 
 
+
 Visualize data
 Display or analyze geospatial data on a map to help customers make decisions.
 
   Learn more
       
+
 
 
 
@@ -1867,11 +1919,13 @@ Understand what's nearby to simplify decisions like where to shop, visit, or li
 
 
 
+
 Enable asset tracking
 Dynamically track and visualize moving assets.
 
   Learn more
       
+
 
 
 
@@ -1899,11 +1953,13 @@ Quickly and efficiently route people or goods from A to B.
 
 
 
+
 Build interactive experiences
 Increase engagement, communicate dynamic information, and delight users.
 
   Learn more
       
+
 
 
 
@@ -1931,11 +1987,144 @@ Help users quickly enter the right address when searching, signing up, or checki
 
 
 
+
 Enrich transactions
 Help customers easily recognize and understand their transactions.
 
   Learn more
       
+
+
+
+
+
+
+
+
+
+
+
+
+Find your solution
+
+Tell us your goals and weâll help you achieve them.
+
+
+
+
+
+
+
+
+
+
+
+I'd like to 
+
+
+      display the ideal location
+    
+
+
+
+
+
+
+display the ideal location
+
+
+visualize data
+
+
+provide local information
+
+
+track assets
+
+
+offer efficient routes
+
+
+build interactive experiences
+
+
+simplify address entry
+
+
+enrich transactions
+
+
+build a product locator
+
+
+create a store locator
+
+
+improve checkout
+
+
+support rides & deliveries
+
+
+optimize last mile fleet deliveries
+
+
+add a branch & atm locator
+
+
+build contextual experiences
+
+
+improve sign-up
+
+
+improve fraud detection
+
+
+add property search
+
+
+highlight neighborhoods
+
+
+
+
+
+
+ and I work in 
+
+
+      retail
+    
+
+
+
+
+
+
+retail
+
+
+transportation & logistics
+
+
+financial services
+
+
+real estate
+
+
+something else
+
+
+
+
+
+
+  See solutions
+      
+
+
 
 
 
@@ -2017,6 +2206,92 @@ Help customers easily recognize and understand their transactions.
 
 
       
+        The Google Maps Platform APIs empower us with much more than the ability to maintain Domino's 30-minute delivery pledge. They play an instrumental role inâ¦ providing vital insights in our hunt for new shop locations.
+      
+    
+
+      
+        Mayank Singh
+      
+    
+
+      
+        Chief Digital Officer / VP Marketing / IT, Dominoâs Indonesia
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        The Costa Coffee footprint now spreads physically and digitally around the globe, and with the help of Google Maps Platform we can still offer the same tailored personal serviceâ¦ of the Costa Brothers 50 years ago.
+      
+    
+
+      
+        Gordon Lucas
+      
+    
+
+      
+        Global Head of Digital Engineering, Costa Coffee
+      
+    
+
+
+
+Read more
+
+
+
+
+See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
         We need to create reliable and efficient tools that help streamline the buying and selling process. Google Maps has helped us do that. Our map-based search is much more efficient and less costly than the way the traditional real estate industry works.
       
     
@@ -2039,6 +2314,7 @@ Read more
 
 
 See all customer stories
+
 
 
 
@@ -2109,6 +2385,8 @@ See all customer stories
 
 
 
+
+
       
         We have to match the right driver with the right request â whether that is transporting a person or food or other item from location A to location B â as quickly as possibleâ¦Google Maps Platform now resides at the core of our engine to help us figure out optimized routes and estimated times of arrival for our drivers.
       
@@ -2132,6 +2410,7 @@ Read more
 
 
 See all customer stories
+
 
 
 
@@ -2193,6 +2472,7 @@ See all customer stories
 
 
 
+
       
         As a new fintech, trust is a huge factor in how we gain and keep customers. Every millimeter of our app where we can build trust and show them something familiar is really valuable. I don't think there's another map platform thatâs more familiar to consumers than Google Maps Platform.
       
@@ -2216,6 +2496,37 @@ Read more
 
 
 See all customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

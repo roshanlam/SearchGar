@@ -56,124 +56,149 @@ YouTube Copyright & Fair Use Policies - How YouTube Works
 
 
 
-                          Managing harmful content
-                        
+                            Managing harmful content
 
-                            How does YouTube manage harmful content?
                           
 
+                              How does YouTube manage harmful content?
+                            
 
 
 
 
-                          Standing up to hate
-                        
 
-                            How does YouTube protect the community from hate and harassment?
+                            Standing up to hate
+
                           
 
+                              How does YouTube protect the community from hate and harassment?
+                            
 
 
 
 
-                          Fighting misinformation
-                        
 
-                            How does YouTube combat misinformation?
+                            Fighting misinformation
+
                           
 
+                              How does YouTube combat misinformation?
+                            
 
 
 
 
-                          Curbing extremist content
-                        
 
-                            How does YouTube prevent radicalization?
+                            Curbing extremist content
+
                           
 
+                              How does YouTube prevent radicalization?
+                            
 
 
 
 
-                          Supporting political integrity
-                        
 
-                            How does YouTube support civic engagement and election integrity?
+                            Supporting political integrity
+
                           
 
+                              How does YouTube support civic engagement and election integrity?
+                            
 
 
 
 
-                          Preventing bias
-                        
 
-                            What does YouTube do to prevent bias?
+                            Partnering with Researchers
+
+                              
+
+
+
+
+                              How does YouTube partner with researchers?
+                            
+
+
+
+
+
+                            Preventing bias
+
                           
 
+                              What does YouTube do to prevent bias?
+                            
 
 
 
 
-                          Fostering child safety
-                        
 
-                            How does YouTube help keep kids protected on the platform?
+                            Fostering child safety
+
                           
 
+                              How does YouTube help keep kids protected on the platform?
+                            
 
 
 
 
-                          Protecting user data
-                        
 
-                            How does YouTube maintain user privacy?
+                            Protecting user data
+
                           
 
+                              How does YouTube maintain user privacy?
+                            
 
 
 
 
-                          Safeguarding copyright
-                        
 
-                            How does YouTube protect copyrighted content?
+                            Safeguarding copyright
+
                           
 
+                              How does YouTube protect copyrighted content?
+                            
 
 
 
 
-                          Sharing revenue
-                        
 
-                            How does YouTube make money?
+                            Sharing revenue
+
                           
 
+                              How does YouTube make money?
+                            
 
 
 
 
-                          Promoting digital wellbeing
-                        
 
-                            How does YouTube support usersâ digital wellbeing?
+                            Promoting digital wellbeing
+
                           
 
+                              How does YouTube support usersâ digital wellbeing?
+                            
 
 
 
 
-                          Responding to COVID-19
-                        
 
-                            How is YouTube supporting users during COVID-19?
+                            Responding to COVID-19
+
                           
 
-  
+                              How is YouTube supporting users during COVID-19?
+                            
 
+   
 
                     Product features
                     
@@ -182,64 +207,69 @@ YouTube Copyright & Fair Use Policies - How YouTube Works
 
 
 
-                          YouTube Search
-                        
+                            YouTube Search
 
-                            How our search tool can help you find content you'll love
                           
 
+                              How our search tool can help you find content you'll love
+                            
 
 
 
 
-                          Recommended videos
-                        
 
-                            How we recommend content we think you'll want to watch
+                            Recommended videos
+
                           
 
+                              How we recommend content we think you'll want to watch
+                            
 
 
 
 
-                          News and information
-                        
 
-                            How we provide context for your search results and videos
+                            News and information
+
                           
 
+                              How we provide context for your search results and videos
+                            
 
 
 
 
-                          Health information
-                        
 
-                            How we provide context for health queries
+                            Health information
+
                           
 
+                              How we provide context for health queries
+                            
 
 
 
 
-                          Monetization for Creators
-                        
 
-                            How Creators earn money on YouTube
+                            Monetization for Creators
+
                           
 
+                              How Creators earn money on YouTube
+                            
 
 
 
 
-                          YouTube Live
-                        
 
-                            How you can reach your community in real time with Live and Premieres
+                            YouTube Live
+
                           
 
-  
+                              How you can reach your community in real time with Live and Premieres
+                            
 
+   
 
                     User settings
                     
@@ -248,44 +278,47 @@ YouTube Copyright & Fair Use Policies - How YouTube Works
 
 
 
-                          Privacy controls
-                        
+                            Privacy controls
 
-                            How we protect your information and what you can do to control your privacy
                           
 
+                              How we protect your information and what you can do to control your privacy
+                            
 
 
 
 
-                          Ad Settings
-                        
 
-                            How our advertising works and how to customize your ad experience
+                            Ad Settings
+
                           
 
+                              How our advertising works and how to customize your ad experience
+                            
 
 
 
 
-                          Parental controls
-                        
 
-                            How you can create a family friendly experience
+                            Parental controls
+
                           
 
+                              How you can create a family friendly experience
+                            
 
 
 
 
-                          Autoplay
-                        
 
-                            How Autoplay works and how to turn it off
+                            Autoplay
+
                           
 
-  
+                              How Autoplay works and how to turn it off
+                            
 
+   
 
                     Rules and policies
                     
@@ -294,54 +327,58 @@ YouTube Copyright & Fair Use Policies - How YouTube Works
 
 
 
-                          Policies overview
-                        
+                            Policies overview
 
-                            How our rules and policies help keep our platform safe
                           
 
+                              How our rules and policies help keep our platform safe
+                            
 
 
 
 
-                          Community Guidelines
-                        
 
-                            How we define what we do and donât allow on YouTube
+                            Community Guidelines
+
                           
 
+                              How we define what we do and donât allow on YouTube
+                            
 
 
 
 
-                          Copyright
-                        
 
-                            How we help Creators responsibly manage their content
+                            Copyright
+
                           
 
+                              How we help Creators responsibly manage their content
+                            
 
 
 
 
-                          Monetization policies
-                        
 
-                            How Creators can monetize their content as part of the YouTube Partner Program
+                            Monetization policies
+
                           
 
+                              How Creators can monetize their content as part of the YouTube Partner Program
+                            
 
 
 
 
-                          Legal removals
-                        
 
-                            How we approach content that violates local law
+                            Legal removals
+
                           
 
-  
+                              How we approach content that violates local law
+                            
 
+   
 
                     Progress and impact
                     
@@ -350,54 +387,58 @@ YouTube Copyright & Fair Use Policies - How YouTube Works
 
 
 
-                          Responsibility through the years
-                        
+                            Responsibility through the years
 
-                            How we've been building a more responsible platform over the years
                           
 
+                              How we've been building a more responsible platform over the years
+                            
 
 
 
 
-                          Progress on managing harmful content
-                        
 
-                            How we're enforcing our policies on harmful content by the numbers
+                            Progress on managing harmful content
+
                           
 
+                              How we're enforcing our policies on harmful content by the numbers
+                            
 
 
 
 
-                          Our impact
-                        
 
-                            How creative entrepreneurs are transforming their lives and communities
+                            Our impact
+
                           
 
+                              How creative entrepreneurs are transforming their lives and communities
+                            
 
 
 
 
-                          Culture and trends
-                        
 
-                            How to better understand the next generation of Creators and artists
+                            Culture and trends
+
                           
 
+                              How to better understand the next generation of Creators and artists
+                            
 
 
 
 
-                          Advancing sustainability
-                        
 
-                            How we're investing in a carbon-free future
+                            Advancing sustainability
+
                           
 
-  
+                              How we're investing in a carbon-free future
+                            
 
+   
 
                     Resources
                     
@@ -406,31 +447,34 @@ YouTube Copyright & Fair Use Policies - How YouTube Works
 
 
 
-                          Downloadable summaries
-                        
+                            Downloadable summaries
 
-                            Download shareable summaries of essential content on this website about  our responsibility efforts
                           
 
+                              Download shareable summaries of essential content on this website about  our responsibility efforts
+                            
 
 
 
 
-                          Advertiser resources
-                        
 
-                            Find resources and quick guides on Brand Safety for advertisers
+                            Advertiser resources
+
                           
 
+                              Find resources and quick guides on Brand Safety for advertisers
+                            
 
 
 
 
-                          Brand resources
-                        
 
-                            Access brand resources such as our YouTube logo, color palettes, and permissions form
+                            Brand resources
+
                           
+
+                              Access brand resources such as our YouTube logo, color palettes, and permissions form
+                            
 
    
   
@@ -1042,6 +1086,9 @@ Content ID works differently. If a match between a reference file and a new uplo
   English (United Kingdom)
 
 
+  Tiáº¿ng Viá»t (Viá»t Nam)
+
+
   Ø§ÙØ¹Ø±Ø¨ÙØ©
 
 
@@ -1079,6 +1126,9 @@ Content ID works differently. If a match between a reference file and a new uplo
 
 
   TÃ¼rkÃ§e (KÄ±brÄ±s)
+
+
+  ä¸­æ (ç¹é«)
 
 
 

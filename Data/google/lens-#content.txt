@@ -104,14 +104,18 @@ Identify
 what you see
 
 
-          Not sure how to describe it in words?
-        
-
-          Use your camera or an image to search.
-        
-
-        Go to Google Lens
+        Not sure how to describe it in words?
       
+
+        Use your camera or an image to search.
+      
+
+      Go to Google Lens
+    
+
+      Get the app
+    
+
 
 
 
@@ -146,8 +150,10 @@ what you see
 
 Find a look you like
 
-        See an outfit thatâs caught your eye? Or a chair that's perfect for your living room? Get inspired by similar clothes, furniture, and home decorâwithout having to type what you're looking for.
-      
+          See an outfit thatâs caught your eye? Or a chair that's perfect for your living room? Get inspired by similar clothes, furniture, and home decorâwithout having to type what you're looking for.
+        
+
+
 
 
 
@@ -159,8 +165,10 @@ Find a look you like
 
 Copy and translate text
 
-        Translate text in real-time from over 100 languages. Or copy paragraphs, serial numbers, and more from an image, then paste it on your phone or your computer with Chrome.
-      
+          Translate text in real-time from over 100 languages. Or copy paragraphs, serial numbers, and more from an image, then paste it on your phone or your computer with Chrome.
+        
+
+
 
 
 
@@ -171,8 +179,10 @@ Copy and translate text
 
 Step by step homework help
 
-        Stuck on a problem? Quickly find explainers, videos, and results from the web for math, history, chemistry, biology, physics, and more.
-      
+          Stuck on a problem? Quickly find explainers, videos, and results from the web for math, history, chemistry, biology, physics, and more.
+        
+
+
 
 
 
@@ -183,8 +193,10 @@ Step by step homework help
 
 Identify plants and animals
 
-        Find out what plant is in your friend's apartment, or what kind of dog you saw in the park.
-      
+          Find out what plant is in your friend's apartment, or what kind of dog you saw in the park.
+        
+
+
 
 
 
@@ -200,8 +212,8 @@ Identify plants and animals
 
 Get answers where you need them
 
-        Lens is available on all your devices and in your favorite apps.
-      
+          Lens is available on all your devices and in your favorite apps.
+        
 
 
 
@@ -214,6 +226,7 @@ Google Camera
 
 
 Google Photos
+
 
 
 
@@ -323,9 +336,150 @@ Footer links
 
 
 
+              English
+            
+
+              Ø§ÙØ¹Ø±Ø¨ÙØ©
+            
+
+              ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+            
+
+              à¦¬à¦¾à¦à¦²à¦¾
+            
+
+              CatalÃ 
+            
+
+              ÄeÅ¡tina
+            
+
+              Dansk
+            
+
+              Deutsch
+            
+
+              ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+            
+
+              English (United Kingdom)
+            
+
+              EspaÃ±ol (LatinoamÃ©rica)
+            
+
+              EspaÃ±ol
+            
+
+              ÙØ§Ø±Ø³Û
+            
+
+              Suomi
+            
+
+              Filipino
+            
+
+              FranÃ§ais
+            
+
+              à¤¹à¤¿à¤¨à¥à¤¦à¥
+            
+
+              Hrvatski
+            
+
+              Magyar
+            
+
+              Indonesia
+            
+
+              Italiano
+            
+
+              ×¢××¨××ª (××©×¨××)
+            
+
+              æ¥æ¬èª
+            
+
+              íêµ­ì´
+            
+
+              LietuviÅ³
+            
+
+              LatvieÅ¡u
+            
+
+              à¤®à¤°à¤¾à¤ à¥
+            
+
+              Nederlands
+            
+
+              Norsk BokmÃ¥l (Norge)
+            
+
+              Polski
+            
+
+              PortuguÃªs (Brasil)
+            
+
+              PortuguÃªs (Portugal)
+            
+
+              RomÃ¢nÄ
+            
+
+              Ð ÑÑÑÐºÐ¸Ð¹
+            
+
+              SlovenÄina
+            
+
+              SlovenÅ¡Äina
+            
+
+              Ð¡ÑÐ¿ÑÐºÐ¸
+            
+
+              Svenska
+            
+
+              à®¤à®®à®¿à®´à¯
+            
+
+              à°¤à±à°²à±à°à±
+            
+
+              à¹à¸à¸¢
+            
+
+              TÃ¼rkÃ§e
+            
+
+              Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+            
+
+              Tiáº¿ng Viá»t
+            
+
+              ä¸­æ (ç®ä½)
+            
+
+              ä¸­æ (ç¹é«)
+            
+
+
+
+
+
 Lens is also available in the Camera app of select Android devices.
 Google Lens currently supports English, Spanish, French, German, Italian, Portuguese, Korean, Chinese, Danish, Dutch, Hindi, Indonesian, Japanese, Polish, Russian, Swedish, Thai, Turkish, and Vietnamese.
-
 
 
 

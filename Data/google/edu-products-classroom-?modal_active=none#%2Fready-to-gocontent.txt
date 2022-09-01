@@ -53,7 +53,7 @@ Why GoogleOur commitmentPrivacy & SecurityAccessibilityCustomer storiesFor your 
 
 For K12For Higher EdDistance LearningGoogle Workspace for EducationOverviewEditions
 
-Education FundamentalsEducation StandardTeaching and Learning UpgradeEducation PlusCompare editionsClassroomGoogle MeetAssignmentsChromebooksOverviewFind a deviceRepairabilityChrome OS FlexGet startedFind a partnerSet up productsProduct supportFor educatorsOverviewProduct guidesTraining coursesCertification programs
+Education FundamentalsEducation StandardTeaching and Learning UpgradeEducation PlusCompare editionsClassroomGoogle MeetAssignmentsChromebooksOverviewFind a deviceRepairabilityChrome OS FlexGet startedFind a partnerSet up productsGet product helpProduct supportFor educatorsOverviewProduct guidesTraining coursesCertification programs
 
 Product expertiseProfessional expertiseCommunitiesResource library
 
@@ -155,6 +155,7 @@ Get started
 
 Find a partner
 Set up products
+Get product help
 Product support
 For educators
 
@@ -203,19 +204,6 @@ Contact sales
 
 
 
-Grab a front row seat for our online product launch event, The Anywhere School 2022. Join us on June 7
-Join us on our June 7 event.
-
-
-
-
-
-
-Close
-
-
-
-
 
 Home
 
@@ -223,23 +211,29 @@ Home
 
 Classroom
 
- 
+
+
 Where teaching and learning come togetherGoogle Classroom is your all-in-one place for teaching and learning. Our easy-to-use and secure tool helps educators manage, measure, and enrich learning experiences.
 Get started
 
 Sign in to Classroom
 
 
- 
+
+
 All-in-one placeBring all your learning tools together and manage multiple classes in one central destination.
- 
+
+
 Easy to useAnyone in your school community can get up and running with Classroom in minutes.
- 
+
+
 Built for collaborationWork simultaneously in the same document with the whole class or connect face-to-face with Google Meet.
- 
+
+
 Access from anywhereEmpower teaching and learning from anywhere, on any device, and give your class more flexibility and mobility. 
 
- 
+
+
 
 
 
@@ -270,12 +264,14 @@ Paid editionsComing soon Integrate your favorite edtech tools with Classroom add
 
 Explore all features
 
- 
+
+
 
 
  
 
- 
+
+
 
 EnrichEnhance student learning experiences
 All editionsGive students the ability to adjust accessibility settings so they can learn in the way that works best for them â even in multiple languagesKeep everyone on track with student to-do and teacher to-review pages, and due dates that automatically appear on student calendars when classwork is createdUpload coursework documents automatically as templates to give each student their own copy of an assignment when it is createdEnable students to check their own work for recommended citations by  scanning it against hundreds of billions of web pages and over 40 million books with originality reportsAllow students to snap and submit a picture of their paper homework quickly and easily with improved image capturing
@@ -290,16 +286,18 @@ Explore all features
 
 ManageOperate with ease using tools for visibility, insights, and control
 All editionsAccess Classroom audit logs right from the Admin console to investigate events in depth and pinpoint performance or security issues Use reports to investigate issues â like who deleted a student or class â and bring learning back online quickly and easilyServe educational communities of any size
-Paid editionsCreate and manage classes at scale by syncing Classroom rosters from your student information system (SIS) (available with Education Plus)Coming soon Install  third-party edtech tools to multiple teachers at once with Classroom add-ons (available with the Teaching and Learning Upgrade and Education Plus)Export Classroom logs to BigQuery to analyze adoption, engagement, and more (available with Google Workspace for Education Standard and Education Plus)Choose from a range of Classroom upgrades to layer on additional capabilities for your unique institution
+Paid editionsCreate and manage classes at scale by syncing Classroom rosters from your student information system (SIS) with Clever or [Coming soon] Elevate Data Sync, available with Education PlusInstall third-party edtech tools to multiple teachers at once with Classroom add-ons (available with the Teaching and Learning Upgrade and Education Plus)Export Classroom logs to BigQuery to analyze adoption, engagement, and more (available with Google Workspace for Education Standard and Education Plus)Choose from a range of Classroom upgrades to layer on additional capabilities for your unique institution
 
 Explore all features
 
- 
+
+
 
 
  
 
- 
+
+
 
 SecureStay secure and compliant
 Rely on our global network built with multilayered, full-stack security that can handle extreme shifts in demand, and a guaranteed 99.9% uptimeUpholds the most rigorous global education standards for security and privacy â and is regularly audited by third-party organizations Use Classroom 100% ad-free, plus studentsâ personal information will not be used to create ad profiles for targetingEnsure only account holders with a unique sign-in can access a Google for Education domain, plus restrict all class activity to class members only
@@ -318,7 +316,8 @@ For studentsProvide individual guidance with prompts, encouragement, and automat
 Express interest in the beta
 
 
- 
+
+
 
 
 
@@ -336,12 +335,14 @@ Explore Google Workspace for Education
 
 
 
- 
+
+
 
 Use your favorite apps with ClassroomThousands of educator-approved apps integrate with Classroom to spark creativity and enable unlimited opportunities for learning.
 Explore apps
 
- 
+
+
 
 Use originality reports with ClassroomWith originality reports, accessible through Classroom, teachers can quickly assess authenticity, help students turn in their best work, and compare student work without compromising privacy.
 Explore originality reports
@@ -354,12 +355,38 @@ Visit Classroom Help Center
 
 
 
- 
+
+
+
+
+Overview
+Get a quick overview of the benefits of Classroom including how to simplify work so educators can focus on teaching.
+
+
+Download overview
+
+
+
+
+
+
+
+
+Classroom user guide
+Learn how to deploy at scale, set up classes, give rich feedback and more.
+
+
+Download guide
+
+
+
+
+
+
 
 
 Teacher Center Classroom resources
 Explore Classroom resources from fellow educators and learn how to solve key education challenges with this video series
-
 
 
 
@@ -369,12 +396,12 @@ None
 
 
 
- 
+
+
 
 
 Guardians Guide to Classroom
 Explore how teachers use Google Classroom for school as well as how to keep a childâs data safe with this educational resource for guardians.
-
 
 
 Download guide
@@ -399,14 +426,24 @@ Download guide
             
              2
             
+             3
+            
+             4
+            
 
-Get Started
 
 
 
-Get Classroom as part of Google Workspace for EducationIf youâre using Classroom in school, we recommend signing up for Google Workspace for Education. Classroom is already included in Google Workspace for Education and works seamlessly with Google Workspace collaboration tools.
+
+
+
+
+
+
+
+
+Explore resources to empower your education needsIf youâre using Classroom in school, we recommend signing up for Google Workspace for Education. Classroom is already included in Google Workspace for Education and works seamlessly with Google Workspace collaboration tools.
 Get Google Workspace for Education
-
 
 
 Start using ClassroomAlready have Google Workspace for Education? Sign in to Classroom to get started managing your classes today.
@@ -417,7 +454,8 @@ Sign in to Classroom
 
 
 
- 
+
+
 
 
 
@@ -510,6 +548,8 @@ Build partners
 
 Get support
 Set up products
+
+Get product help
 
 Product support
 
@@ -668,6 +708,8 @@ Get support
 
 
 Set up products
+
+Get product help
 
 Product support
 
@@ -920,9 +962,5 @@ Go
 
 
 
-
-
-
-
-
+ 
 

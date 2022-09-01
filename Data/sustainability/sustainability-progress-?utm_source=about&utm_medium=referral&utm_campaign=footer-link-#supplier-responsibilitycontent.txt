@@ -49,7 +49,9 @@ Skip to content
 
 
 
-Sustainability
+
+                  Sustainability
+                
 
 
 
@@ -59,91 +61,91 @@ Sustainability
 
 
 
-                Mission
-              
-
-
-
-                Commitments
-              
-
-
-
-                    Overview
+                    Mission
                   
 
 
 
-                    Carbon
+                    Commitments
                   
 
 
 
-                    Circular Economy
+                        Overview
+                      
+
+
+
+                        Carbon
+                      
+
+
+
+                        Circular Economy
+                      
+
+
+
+                        Water
+                      
+
+
+
+
+
+                    Progress
                   
 
 
 
-                    Water
+                        Overview
+                      
+
+
+
+                        Projects
+                      
+
+
+
+
+
+                    Technology
                   
 
 
 
-
-
-                Progress
-              
+                        Overview
+                      
 
 
 
-                    Overview
+                        Tools
+                      
+
+
+
+
+
+                    For partners
                   
 
 
 
-                    Projects
+                        Guidance
+                      
+
+
+
+                        Partner stories
+                      
+
+
+
+
+
+                    Reports
                   
-
-
-
-
-
-                Technology
-              
-
-
-
-                    Overview
-                  
-
-
-
-                    Tools
-                  
-
-
-
-
-
-                For partners
-              
-
-
-
-                    Guidance
-                  
-
-
-
-                    Partner stories
-                  
-
-
-
-
-
-                Reports
-              
 
 
 
@@ -185,7 +187,9 @@ Search Google Sustainability
 
 
 
-Sustainability
+
+                  Sustainability
+                
 
 
 
@@ -326,13 +330,13 @@ In 2007, we became carbon neutral and in 2017, we became the first company of ou
 
 
 
-          Unlocking access to corporate renewable energy purchasing in Taiwan
-        
+            Unlocking access to corporate renewable energy purchasing in Taiwan
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -354,19 +358,14 @@ Spurring over $7 billion of investment worldwide
 
 
 
-          Our data centers now work harder when the sun shines and wind blows
-            (opens in a new window)
+            Our data centers now work harder when the sun shines and wind blows
+              (opens in a new window)
 
 
 
 
-          Read story
-        
-
-
-
-
-
+            Read story
+          
 
 
 
@@ -380,13 +379,18 @@ Spurring over $7 billion of investment worldwide
 
 
 
-          The Internet is 24x7 â carbon-free energy should be too
-        
 
 
 
-          Read story
-        
+
+
+            The Internet is 24x7 â carbon-free energy should be too
+          
+
+
+
+            Read story
+          
 
 
 
@@ -412,14 +416,14 @@ Spurring over $7 billion of investment worldwide
 
 
 
-          Our biggest renewable energy purchase ever
-            (opens in a new window)
+            Our biggest renewable energy purchase ever
+              (opens in a new window)
 
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -497,13 +501,13 @@ For more than a decade, weâve worked to make Google data centers some of th
 
 
 
-          Positive energy: Belgian site becomes first Google data center to add on-site solar
-        
+            Positive energy: Belgian site becomes first Google data center to add on-site solar
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -533,13 +537,13 @@ For more than a decade, weâve worked to make Google data centers some of th
 
 
 
-          Machine learning finds new ways for our data centers to save energy
-        
+            Machine learning finds new ways for our data centers to save energy
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -565,13 +569,13 @@ For more than a decade, weâve worked to make Google data centers some of th
 
 
 
-          Once is never enough: A circular economy model is restorative and regenerative by design
-        
+            Once is never enough: A circular economy model is restorative and regenerative by design
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -649,14 +653,14 @@ We focus on the user when weâre designing products, and we focus on our emp
 
 
 
-          How to grow a âlivingâ building
-            (opens in a new window)
+            How to grow a âlivingâ building
+              (opens in a new window)
 
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -686,13 +690,13 @@ We focus on the user when weâre designing products, and we focus on our emp
 
 
 
-          Recipe for sustainability: Why Google cafes love ugly produce
-        
+            Recipe for sustainability: Why Google cafes love ugly produce
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -718,13 +722,13 @@ We focus on the user when weâre designing products, and we focus on our emp
 
 
 
-          The journey toward healthier materials
-        
+            The journey toward healthier materials
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -802,14 +806,14 @@ Integrating sustainability into our products, operations and communities is an o
 
 
 
-          Real-time bikeshare information in Google Maps rolls out to 24 cities
-            (opens in a new window)
+            Real-time bikeshare information in Google Maps rolls out to 24 cities
+              (opens in a new window)
 
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -835,13 +839,13 @@ To date, weâve shipped millions of devices made with post-consumer recycled
 
 
 
-          Nest uses energy-saving technology to relieve the low-income energy burden
-        
+            Nest uses energy-saving technology to relieve the low-income energy burden
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -899,13 +903,13 @@ We meet the challenges posed by climate change by working to empower everyoneâ�
 
 
 
-          Reaching our solar potential, one rooftop at a time
-        
+            Reaching our solar potential, one rooftop at a time
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -935,13 +939,13 @@ We meet the challenges posed by climate change by working to empower everyoneâ�
 
 
 
-          Environmental Insights Explorer: Turning environmental insights into action
-        
+            Environmental Insights Explorer: Turning environmental insights into action
+          
 
 
 
-          Learn more
-        
+            Learn more
+          
 
 
 
@@ -965,14 +969,14 @@ With Cities
 
 
 
-          Mapping air quality on a street-level to help city planners limit residentsâ exposure to air pollution.
-            (opens in a new window)
+            Mapping air quality on a street-level to help city planners limit residentsâ exposure to air pollution.
+              (opens in a new window)
 
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -1028,13 +1032,13 @@ We're committed to minimizing our environmental impact and improving the lives o
 
 
 
-          The alchemy of aluminum: Pioneering a new recycled alloy for our products
-        
+            The alchemy of aluminum: Pioneering a new recycled alloy for our products
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -1080,13 +1084,13 @@ We're committed to minimizing our environmental impact and improving the lives o
 
 
 
-          Journey through our supply chain
-        
+            Journey through our supply chain
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -1179,13 +1183,13 @@ Statement Against Modern Slavery
 
 
 
-          Rise to power: Congolese artists speak their truth in Ukweli documentary
-        
+            Rise to power: Congolese artists speak their truth in Ukweli documentary
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -1280,7 +1284,7 @@ Reports
 
 
 
-                2021 Environmental Report
+                2022 Environmental Report
 (opens in a new window) 
 
 

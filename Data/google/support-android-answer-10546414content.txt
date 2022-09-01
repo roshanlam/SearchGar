@@ -3,9 +3,10 @@ Security and reliability
 Google Play services helps to ensure the security and reliability of an Android device, and keep devices updated with the latest security features. This includes:
 
 Google Play Protect, which can warn users if an app contains known malware. 
-Identification and validation of secure connections, such as allowing a device to safely and automatically recognize and connect to other devices.  
+Identification and validation of secure connections, such as allowing a device to safely and automatically recognize and connect to other devices, or share files or apps with Android devices nearby.
 Protection of apps from fraud and security threats through SafetyNet.
-End to end encryptionof Android backups when users have a lock screen passcode. 
+End to end encrypted backup of your data when users have a lock screen passcode. 
+Management and protection of your passwords.
 
 Developer APIs
 Google Play services provides developers thousands of continually updated APIs that enable them to deliver high-quality experiences in their apps, such as: 
@@ -22,7 +23,8 @@ Google Play services enables core services on Android devices. For example:
 When users make an emergency call to a supported emergency number, Google helps local emergency services directly receive the device’s location.
 Google’s autofill services help users save time and reduce typing errors. 
 Nearby Share allows users to send and receive files with their contacts or anonymously. 
-Find My Device makes it easy to locate, ring, or wipe a lost device.
+Find My Device makes it easy to locate, lock, or wipe a lost device.
+Fast Pair makes it easy to connect Bluetooth accessories using your Google account. 
 
 Additionally, when a user signs into their Google account on their device, they are able to update their Google settings, manage the security of their account, and sync important data, such as their Google Contacts, across devices.
 Why Google Play services collects data 
@@ -33,7 +35,7 @@ Security and fraud prevention
 Google collects data through Google Play services to help protect users, Google services, and third party developers' apps and services from fraud, spam, and abuse. This includes: 
 
 Information to validate that a request is coming from a real user and information about installed apps, including the results of malware scans.
-Google account and login information if a user is signed in on a device. 
+Google Account and login information if a user is signed in on a device or moves their data to a new device.
 Google may collect a device's phone number to provide account recovery services and to log users into phone number based services (like Google Duo).
 
 
@@ -52,6 +54,10 @@ If a user uses Google apps and services on Android, Google collects data through
 Depending on a user’s settings, Google collects data like contacts and bookmarks to sync them across devices and the cloud. 
 Google Play services syncs a user’s Google account settings across devices, and collects information to help protect their account. 
 Google Play services may collect data to enable embedded app functionality like Google Maps. 
+Google Play services are used to enable the COVID-19 Exposure Notifications system.
+Google Play services help users interact and send messages directly to businesses. 
+When using Google Pay, Google Play services helps users manage their payment info, make contactless payments, or use a digital car key securely. 
+Google collects data when you use a Play Games profile or services. 
 For users with the “Saves your activity from apps on this device” setting enabled under Web & App Activity on their device, Google may save activity data from apps on the device to their Google Account so that it can be used to personalize Google apps and services.
 
-   Was this helpful?How can we improve it?YesNoSubmit       true    Android basicsTransfer files between your computer & Android deviceAccessibility on Android devicesLearn about Google Play services           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎বাংলা‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center                                        false 
+   Was this helpful?How can we improve it?YesNoSubmit       true    Android basicsTransfer files between your computer & Android deviceAccessibility on Android devicesLearn about Google Play services           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎বাংলা‎தமிழ்‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center                    false                       false 

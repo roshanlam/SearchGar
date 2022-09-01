@@ -10,7 +10,7 @@
 
 
 
-Google for Education - Online Resources for Teachers & Students | Google for Education
+Solutions built for teachers and students | Google for Education
 
 
 
@@ -53,7 +53,7 @@ Why GoogleOur commitmentPrivacy & SecurityAccessibilityCustomer storiesFor your 
 
 For K12For Higher EdDistance LearningGoogle Workspace for EducationOverviewEditions
 
-Education FundamentalsEducation StandardTeaching and Learning UpgradeEducation PlusCompare editionsClassroomGoogle MeetAssignmentsChromebooksOverviewFind a deviceRepairabilityChrome OS FlexGet startedFind a partnerSet up productsProduct supportFor educatorsOverviewProduct guidesTraining coursesCertification programs
+Education FundamentalsEducation StandardTeaching and Learning UpgradeEducation PlusCompare editionsClassroomGoogle MeetAssignmentsChromebooksOverviewFind a deviceRepairabilityChrome OS FlexGet startedFind a partnerSet up productsGet product helpProduct supportFor educatorsOverviewProduct guidesTraining coursesCertification programs
 
 Product expertiseProfessional expertiseCommunitiesResource library
 
@@ -155,6 +155,7 @@ Get started
 
 Find a partner
 Set up products
+Get product help
 Product support
 For educators
 
@@ -203,26 +204,20 @@ Contact sales
 
 
 
-Grab a front row seat for our online product launch event, The Anywhere School 2022. Join us on June 7
-Join us on our June 7 event.
 
 
 
 
 
 
-Close
 
 
 
 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
 
 Products that power educationGoogle for Education tools work together to transform teaching and learning so every student and educator can pursue their personal potential.
 Get started with Google Workspace for Education
@@ -248,15 +243,18 @@ Pause
 
 Google Workspace for EducationUnlock the full potential of Google Workspace by using tools together.
 
- 
+
+
 
 Google Docs, Sheets & SlidesCreate, collaborate, and edit with others in Docs, Sheets, Forms, Slides, and more.
 
- 
+
+
 
 Google MeetEnable teachers, students, and admins to work together from anywhere.
 
- 
+
+
 
 Admin ConsoleSet policies, control access, monitor data, and quickly respond to threats.
 
@@ -270,15 +268,18 @@ Pause
 
 
 
- 
+
+
 
 Create new assignmentsCreate assignments, quizzes, and lesson content for your students.
 
- 
+
+
 
 Track student gradesMonitor progress and gain visibility with a holistic view of student achievement.
 
- 
+
+
 
 Simplify classroom managementEasily switch between Stream, Classwork, People, and Gradesâeven when you are offline.
 
@@ -328,15 +329,18 @@ Pause
 
 Google Workspace for EducationUnlock the full potential of Google Workspace by using tools together.
 
- 
+
+
 
 Google Docs, Sheets & SlidesCreate, collaborate, and edit with others in Docs, Sheets, Forms, Slides, and more.
 
- 
+
+
 
 Google MeetEnable teachers, students, and admins to work together from anywhere.
 
- 
+
+
 
 Admin ConsoleSet policies, control access, monitor data, and quickly respond to threats.
 
@@ -352,15 +356,18 @@ Pause
 
 
 
- 
+
+
 
 Create new assignmentsCreate assignments, quizzes, and lesson content for your students.
 
- 
+
+
 
 Track student gradesMonitor progress and gain visibility with a holistic view of student achievement.
 
- 
+
+
 
 Simplify classroom managementEasily switch between Stream, Classwork, People, and Gradesâeven when you are offline.
 
@@ -482,7 +489,8 @@ Connect with other teachers
 Getting started is simpleChoose a product to learn more
 
 
- 
+
+
 
 Try out Workspace at no cost
 
@@ -493,7 +501,8 @@ Learn about all editions
 
 
 
- 
+
+
 
 Try out Google Classroom at no cost
 
@@ -504,7 +513,8 @@ Learn about Classroom upgrades
 
 
 
- 
+
+
 
 Learn about Chromebooks
 
@@ -522,29 +532,22 @@ Find a partner
 
  
 
-
-
 Whatâs happening in education
 
 
+2022-07-07
+54 Doodle for Google winners showcase self-care
 
+2022-06-21
+Join Kick Start, a coding competition for all levels
 
+2022-06-07
+The Anywhere School 2022
 
-
-
-
-
-{[ event.fullDate | date:'MMMM dd, yyyy' ]}
-{[ event.name ]}
-{[ event.name ]}
-
-
-Add to calendar
 
 
 
 View all
-
 More ways to connect:
 
 
@@ -552,26 +555,27 @@ Twitter
 
 
 
-Google
-
-
-
- 
-
-Grab a front row seat for our online product launch event
-
-June 7, 2022
+Facebook
 
 
 
 
 
 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Weâre here to help
@@ -662,6 +666,8 @@ Build partners
 
 Get support
 Set up products
+
+Get product help
 
 Product support
 
@@ -820,6 +826,8 @@ Get support
 
 
 Set up products
+
+Get product help
 
 Product support
 
@@ -1068,13 +1076,5 @@ Go
 
 
 
-
-
-
-
-
-
-
-
-
+ 
 

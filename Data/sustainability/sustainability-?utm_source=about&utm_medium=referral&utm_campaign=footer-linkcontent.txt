@@ -52,7 +52,9 @@ Skip to content
 
 
 
-Sustainability
+
+                  Sustainability
+                
 
 
 
@@ -62,91 +64,91 @@ Sustainability
 
 
 
-                Mission
-              
-
-
-
-                Commitments
-              
-
-
-
-                    Overview
+                    Mission
                   
 
 
 
-                    Carbon
+                    Commitments
                   
 
 
 
-                    Circular Economy
+                        Overview
+                      
+
+
+
+                        Carbon
+                      
+
+
+
+                        Circular Economy
+                      
+
+
+
+                        Water
+                      
+
+
+
+
+
+                    Progress
                   
 
 
 
-                    Water
+                        Overview
+                      
+
+
+
+                        Projects
+                      
+
+
+
+
+
+                    Technology
                   
 
 
 
-
-
-                Progress
-              
+                        Overview
+                      
 
 
 
-                    Overview
+                        Tools
+                      
+
+
+
+
+
+                    For partners
                   
 
 
 
-                    Projects
+                        Guidance
+                      
+
+
+
+                        Partner stories
+                      
+
+
+
+
+
+                    Reports
                   
-
-
-
-
-
-                Technology
-              
-
-
-
-                    Overview
-                  
-
-
-
-                    Tools
-                  
-
-
-
-
-
-                For partners
-              
-
-
-
-                    Guidance
-                  
-
-
-
-                    Partner stories
-                  
-
-
-
-
-
-                Reports
-              
 
 
 
@@ -188,7 +190,9 @@ Search Google Sustainability
 
 
 
-Sustainability
+
+                  Sustainability
+                
 
 
 
@@ -282,13 +286,13 @@ We do everything with the Earth in mind. Building on our leadership position as 
 
 
 
-          Weâre pioneering a new recycled alloy for our products.
-        
+            Weâre pioneering a new recycled alloy for our products.
+          
 
 
 
-          Learn more
-        
+            Learn more
+          
 
 
 
@@ -318,17 +322,13 @@ We do everything with the Earth in mind. Building on our leadership position as 
 
 
 
-          Read about the circular economy in Google data centers.
-        
+            Read about the circular economy in Google data centers.
+          
 
 
 
-          Read story
-        
-
-
-
-
+            Read story
+          
 
 
 
@@ -338,13 +338,17 @@ We do everything with the Earth in mind. Building on our leadership position as 
 
 
 
-          A responsible supply chain isn't just the right thing to do for people and the planet â it's also good for business.
-        
 
 
 
-          Learn more
-        
+
+            A responsible supply chain isn't just the right thing to do for people and the planet â it's also good for business.
+          
+
+
+
+            Learn more
+          
 
 
 
@@ -373,13 +377,13 @@ When it comes to sustainability, we get more done when we move together. Thatâ�
 
 
 
-          How Global Fishing Watch is transforming fishery management.
-        
+            How Global Fishing Watch is transforming fishery management.
+          
 
 
 
-          Read story
-        
+            Read story
+          
 
 
 
@@ -404,17 +408,13 @@ We're helping more than 500 cities measure, track, and reduce an aggregate of 1 
 
 
 
-          Wildlife Insights helps conservationists protect species from extinction with AI.
-        
+            Wildlife Insights helps conservationists protect species from extinction with AI.
+          
 
 
 
-          Learn more
-        
-
-
-
-
+            Learn more
+          
 
 
 
@@ -424,13 +424,17 @@ We're helping more than 500 cities measure, track, and reduce an aggregate of 1 
 
 
 
-          The Environmental Insights Explorer is empowering cities with data for a carbon-free future.
-        
 
 
 
-          Learn about the tool
-        
+
+            The Environmental Insights Explorer is empowering cities with data for a carbon-free future.
+          
+
+
+
+            Learn about the tool
+          
 
 
 
@@ -458,19 +462,14 @@ We want to make it easy to be more sustainable. Thatâs why we build product
 
 
 
-          Helping people find more eco-friendly options for getting from place to place.
-            (opens in a new window)
+            Helping people find more eco-friendly options for getting from place to place.
+              (opens in a new window)
 
 
 
 
-          Read story
-        
-
-
-
-
-
+            Read story
+          
 
 
 
@@ -484,14 +483,19 @@ We want to make it easy to be more sustainable. Thatâs why we build product
 
 
 
-          Learn how small changes can make a big impact on our planet.
-            (opens in a new window)
 
 
 
 
-          Learn more
-        
+
+            Learn how small changes can make a big impact on our planet.
+              (opens in a new window)
+
+
+
+
+            Learn more
+          
 
 
 
@@ -591,7 +595,7 @@ Reports
 
 
 
-                2021 Environmental Report
+                2022 Environmental Report
 (opens in a new window) 
 
 

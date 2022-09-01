@@ -22,7 +22,7 @@ If you want to sync your info across all your devices, click Turn on sync Turn o
 
 
 If you want to sync more than one account or you share your computer with others, learn  how to add a profile in Chrome.
-Turn off sync
+Sign out and turn off sync
 If you turn off sync, you can still see your bookmarks, history, passwords, and other settings on your computer. If you make any changes, they won't be saved to your Google Account and synced to your other devices.
 When you turn off sync, you’ll also be signed out of other Google services, like Gmail.
 
@@ -32,7 +32,12 @@ At the top right, click Profile Sync is on.
 Click Turn off.
 
 
-Learn how to delete your synced info from your Google Account.
+To delete synced info from your Google Account:
+
+On your computer, open Chrome.
+Go to chrome.google.com/sync.
+Scroll to Clear Data and click it.
+
 To sign out and turn off your Chromebook, learn how to sign out and turn it off.
 When you sign in to your Google Account through a Google service, like Gmail, you’ll be automatically signed in to Chrome. If you don’t want to ever sign in to Chrome, you can turn off Chrome sign-in.
 Related articles
@@ -45,4 +50,4 @@ Browse Chrome as a guest
 Choose which Google features you use in Chrome
 
 
-   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    HelpTurn sync on and off in ChromeShare Chrome with othersSet your homepage and startup pageCreate, view & edit bookmarksGet your bookmarks, passwords & more on all your devicesUse passwords across your devicesBrowse Chrome as a guest           Google Chrome tips From productivity to customization, learn how to get things done more quickly with your browser.           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 237                                             false 
+   Was this helpful?How can we improve it?YesNoSubmit      Computer AndroidiPhone & iPad   More                 true    HelpTurn sync on and off in ChromeShare Chrome with othersSet your homepage and startup pageCreate, view & edit bookmarksGet your bookmarks, passwords & more on all your devicesUse passwords across your devicesBrowse Chrome as a guest           Google Chrome tips From productivity to customization, learn how to get things done more quickly with your browser.           ©2022 Google   Privacy Policy   Terms of Service     català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Melayu‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربية‏فارسیमराठी‎हिन्दी‎తెలుగు‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎         Enable Dark Mode   Send feedback on... This help content & information General Help Center experience       SearchClear searchClose searchGoogle appsMain menu                      Search Help Center       true 237                false                                false 

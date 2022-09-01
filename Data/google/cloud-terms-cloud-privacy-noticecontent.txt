@@ -575,18 +575,6 @@ Not seeing what you're looking for?
 
 
 
-                      Build and use AI
-                    
-
-                      Products to build and use artificial intelligence.
-                    
-
-
-
-
-
-
-
                       Contact Center AI
                     
 
@@ -599,58 +587,10 @@ Not seeing what you're looking for?
 
 
 
-                      Agent Assist
-                    
-
-                      AI-powered conversations with human agents.
-                    
-
-
-
-
-
-
-
-                      Cloud Talent Solution
-                    
-
-                      AI with job search and talent acquisition capabilities.
-                    
-
-
-
-
-
-
-
                       Document AI
                     
 
-                      Machine learning and AI to unlock insights from your documents.
-                    
-
-
-
-
-
-
-
-                      Lending DocAI
-                    
-
-                      Mortgage document data capture at scale with machine learning.
-                    
-
-
-
-
-
-
-
-                      Procurement DocAI
-                    
-
-                      Procurement document data capture at scale with machine learning.
+                      Document processing and data capture automated at scale.
                     
 
 
@@ -662,7 +602,7 @@ Not seeing what you're looking for?
                       Intelligent products
                     
 
-                      Create engaging product ownership experiences with AI.
+                      End-to-end solution for creating products with personalized ownership experiences.
                     
 
 
@@ -671,34 +611,10 @@ Not seeing what you're looking for?
 
 
 
-                      Data Science
+                      Product Discovery
                     
 
-                      Put your data to work with Data Science on Google Cloud.
-                    
-
-
-
-
-
-
-
-                      Contract DocAI
-                    
-
-                      Specialized AI for bettering contract understanding.
-                    
-
-
-
-
-
-
-
-                      Contact Center AI Insights
-                    
-
-                      AI-powered understanding to better customer experience.
+                      Google-quality search and product recommendations for retailers.
                     
 
 
@@ -1247,6 +1163,18 @@ Accelerate business recovery and ensure a better future with solutions that enab
 
 
 
+                      Software Supply Chain Security
+                    
+
+                      Solution for improving end-to-end software supply chain security.
+                    
+
+
+
+
+
+
+
 
 
 
@@ -1651,7 +1579,67 @@ Not seeing what you're looking for?
                       Vertex AI
                     
 
-                      Unified ML Platform for training, hosting, and managing ML models.
+                      Unified platform for training, running, and managing ML models.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Vertex AI Workbench
+                    
+
+                      Single interface for the entire Data Science workflow.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AI Infrastructure
+                    
+
+                      Options for training deep learning and ML models cost-effectively.
+                    
+
+
+
+
+
+
+
+
+
+
+                      AutoML
+                    
+
+                      Custom machine learning model development, with minimal effort.
+                    
+
+
+
+
+
+
+
+
+
+
+                      Natural Language AI
+                    
+
+                      Sentiment analysis and classification of unstructured text.
                     
 
 
@@ -1666,22 +1654,7 @@ Not seeing what you're looking for?
                       Speech-to-Text
                     
 
-                      Speech recognition and transcription supporting 125 languages.
-                    
-
-
-
-
-
-
-
-
-
-
-                      Vision AI
-                    
-
-                      Custom and pre-trained models to detect emotion, text, more.
+                      Speech recognition and transcription across 125 languages.
                     
 
 
@@ -1708,40 +1681,10 @@ Not seeing what you're looking for?
 
 
 
-                      Cloud Translation
+                      Translation AI
                     
 
                       Language detection, translation, and glossary support.
-                    
-
-
-
-
-
-
-
-
-
-
-                      Cloud Natural Language
-                    
-
-                      Sentiment analysis and classification of unstructured text.
-                    
-
-
-
-
-
-
-
-
-
-
-                      AutoML
-                    
-
-                      Custom machine learning model training and development.
                     
 
 
@@ -1768,10 +1711,10 @@ Not seeing what you're looking for?
 
 
 
-                      AI Infrastructure
+                      Vision AI
                     
 
-                      Options for every business to train deep learning and machine learning models cost-effectively.
+                      Custom and pre-trained models to detect emotion, text, and more.
                     
 
 
@@ -1786,22 +1729,7 @@ Not seeing what you're looking for?
                       Dialogflow
                     
 
-                      Conversation applications and systems development suite for virtual agents.
-                    
-
-
-
-
-
-
-
-
-
-
-                      AutoML Tables
-                    
-
-                      Service for training ML models with structured data.
+                      Lifelike conversational AI with state-of-the-art virtual agents.
                     
 
 
@@ -4956,28 +4884,7 @@ Get started for free
 
 
 
-      Build and use AI
-   
-
-
-
-
-
       Contact Center AI
-   
-
-
-
-
-
-      Agent Assist
-   
-
-
-
-
-
-      Cloud Talent Solution
    
 
 
@@ -4991,20 +4898,6 @@ Get started for free
 
 
 
-      Lending DocAI
-   
-
-
-
-
-
-      Procurement DocAI
-   
-
-
-
-
-
       Intelligent products
    
 
@@ -5012,21 +4905,7 @@ Get started for free
 
 
 
-      Data Science
-   
-
-
-
-
-
-      Contract DocAI
-   
-
-
-
-
-
-      Contact Center AI Insights
+      Product Discovery
    
 
 
@@ -5334,6 +5213,13 @@ Get started for free
 
 
 
+      Software Supply Chain Security
+   
+
+
+
+
+
       Smart Analytics
    
 
@@ -5546,49 +5432,7 @@ Get started for free
 
 
 
-      Speech-to-Text
-   
-
-
-
-
-
-      Vision AI
-   
-
-
-
-
-
-      Text-to-Speech
-   
-
-
-
-
-
-      Cloud Translation
-   
-
-
-
-
-
-      Cloud Natural Language
-   
-
-
-
-
-
-      AutoML
-   
-
-
-
-
-
-      Video AI
+      Vertex AI Workbench
    
 
 
@@ -5602,14 +5446,56 @@ Get started for free
 
 
 
-      Dialogflow
+      AutoML
    
 
 
 
 
 
-      AutoML Tables
+      Natural Language AI
+   
+
+
+
+
+
+      Speech-to-Text
+   
+
+
+
+
+
+      Text-to-Speech
+   
+
+
+
+
+
+      Translation AI
+   
+
+
+
+
+
+      Video AI
+   
+
+
+
+
+
+      Vision AI
+   
+
+
+
+
+
+      Dialogflow
    
 
 

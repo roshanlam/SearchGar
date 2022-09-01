@@ -74,6 +74,7 @@ Google Chromebooks - Laptops, Detachables and Tablets
 
 
 
+Jump to content
 
 
  What are Chromebooks
@@ -136,7 +137,7 @@ The Adulthood
 
 
 
-Shop
+Discover products
 
 
 
@@ -151,7 +152,13 @@ Works With Chromebook
 
 
 
-For Business
+
+              For Business
+            
+
+
+              For Education
+            
 
 
 
@@ -163,7 +170,7 @@ For Business
 
 
 
-    Shop
+    Discover
  
 
 
@@ -178,16 +185,7 @@ Switch to Chromebook
 
 
 
-    Shop Chromebooks
- 
-
-
-
-    Working from home
-
-
-
-    Studying at home
+    Discover products
  
 
  
@@ -196,47 +194,6 @@ Switch to Chromebook
 
 
 
-
-
-
-
-Acer Chromebook Spin 514
-
-
-
-
-
-
-
-
-
-
-
-
-Samsung Galaxy Chromebook 2
-
-
-
-
-
-
-
-
-
-
-
-
-ASUS Chromebook Flip CX5
-
-
-
-
-
-
-
-
-
- 
 
 
 
@@ -303,21 +260,6 @@ Meet Chrome OS
 
 
 
-Lenovo Chromebook Duet
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 How do I make the switch?
 
         Switching from Mac or Windows is as easy as logging in. In just three simple steps, youâll find your files and photos ready to go on your new Chromebook.
@@ -346,7 +288,7 @@ Chromebooks come in all shapes and sizes
 
 
 
-    Shop now
+    Discover products
  
 
  
@@ -355,47 +297,6 @@ Chromebooks come in all shapes and sizes
 
 
 
-
-
-
-
-HP Chromebook x360 14
-
-
-
-
-
-
-
-
-
-
-
-
-ASUS Chromebook Flip C434
-
-
-
-
-
-
-
-
-
-
-
-
-HP Chromebook x360 14c
-
-
-
-
-
-
-
-
-
- 
 
 
 
@@ -464,17 +365,7 @@ Do more with your Chromebook
 
 
 
-                  Shop laptops
-                
-
-
-
-                  Shop convertibles
-                
-
-
-
-                  Shop tablets
+                  Discover products
                 
 
 

@@ -1,6 +1,6 @@
 import os
 import json
-        
+
 def write_file(path, data):
     with open(path, 'w') as f:
         f.write(data)
@@ -77,3 +77,9 @@ class CRUDJson:
     def delete_json_file(self):
         if os.path.exists(self.path):
             os.remove(self.path)
+            
+
+def dict_vals_to_string(a, b):
+    # convert a dictionary key and value to a string
+    return str(a), str(b)
+   

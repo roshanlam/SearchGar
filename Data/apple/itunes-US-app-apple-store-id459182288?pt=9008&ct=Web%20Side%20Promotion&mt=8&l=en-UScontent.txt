@@ -288,7 +288,7 @@ App Store Preview
 
 
 
-                      #16 in News
+                      #24 in News
                     
 
 
@@ -392,14 +392,6 @@ Screenshots
 
 
 
-
-
-
-
-
-
-
-
  
 
 
@@ -424,8 +416,8 @@ What’s New
 
 
 
-May 25, 2022
-Version 5.54
+Jul 20, 2022
+Version 5.57
 
 
 
@@ -703,7 +695,7 @@ Seller
 
 
 Size
-207 MB
+203.9 MB
 
 
 Category
@@ -750,13 +742,13 @@ Age Rating
 
             12+
 
-              Infrequent/Mild Realistic Violence
+              Infrequent/Mild Mature/Suggestive Themes
+Infrequent/Mild Cartoon or Fantasy Violence
 Infrequent/Mild Sexual Content and Nudity
 Infrequent/Mild Horror/Fear Themes
-Infrequent/Mild Cartoon or Fantasy Violence
 Infrequent/Mild Alcohol, Tobacco, or Drug Use or References
-Infrequent/Mild Mature/Suggestive Themes
 Infrequent/Mild Profanity or Crude Humor
+Infrequent/Mild Realistic Violence
 
 
  

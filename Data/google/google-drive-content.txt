@@ -980,9 +980,6 @@ Terms
                 Ø§ÙØ¹Ø±Ø¨ÙØ© (Ø¹ÙÙØ§Ù)
               
 
-                Ø§ÙØ¹Ø±Ø¨ÙØ© (Ø§ÙØ£Ø±Ø§Ø¶Ù Ø§ÙÙÙØ³Ø·ÙÙÙØ©)
-              
-
                 Ø§ÙØ¹Ø±Ø¨ÙØ© (ÙØ·Ø±)
               
 
@@ -992,7 +989,7 @@ Terms
                 Ø§ÙØ¹Ø±Ø¨ÙØ© (ØªÙÙØ³)
               
 
-                azÉrbaycan dili
+                azÉrbaycan
               
 
                 Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸
@@ -1008,9 +1005,6 @@ Terms
               
 
                 dansk
-              
-
-                dansk (GrÃ¸nland)
               
 
                 Deutsch
@@ -1031,16 +1025,7 @@ Terms
                 English (United Kingdom)
               
 
-                English (Antigua & Barbuda)
-              
-
-                English (American Samoa)
-              
-
                 English (Australia)
-              
-
-                English (Bahamas)
               
 
                 English (Botswana)
@@ -1052,16 +1037,13 @@ Terms
                 English (Cyprus)
               
 
-                English (Fiji)
+                English
               
 
                 English (Ghana)
               
 
                 English (India)
-              
-
-                English (Jamaica)
               
 
                 English (Mauritius)
@@ -1088,16 +1070,7 @@ Terms
                 English (Sierra Leone)
               
 
-                English (Tonga)
-              
-
-                English (Trinidad & Tobago)
-              
-
                 English (Uganda)
-              
-
-                English (U.S. Virgin Islands)
               
 
                 English (Zambia)
@@ -1112,55 +1085,19 @@ Terms
                 espaÃ±ol (Argentina)
               
 
-                espaÃ±ol (Bolivia)
-              
-
                 espaÃ±ol (Chile)
               
 
                 espaÃ±ol (Colombia)
               
 
-                espaÃ±ol (Costa Rica)
-              
-
-                espaÃ±ol (RepÃºblica Dominicana)
-              
-
-                espaÃ±ol (Ecuador)
-              
-
-                espaÃ±ol (Guatemala)
-              
-
-                espaÃ±ol (Honduras)
-              
-
                 espaÃ±ol (MÃ©xico)
-              
-
-                espaÃ±ol (Nicaragua)
-              
-
-                espaÃ±ol (PanamÃ¡)
               
 
                 espaÃ±ol (PerÃº)
               
 
                 espaÃ±ol (Puerto Rico)
-              
-
-                espaÃ±ol (Paraguay)
-              
-
-                espaÃ±ol (El Salvador)
-              
-
-                espaÃ±ol (Uruguay)
-              
-
-                espaÃ±ol (Venezuela)
               
 
                 espaÃ±ol
@@ -1211,22 +1148,10 @@ Terms
                 franÃ§ais (Guadeloupe)
               
 
-                franÃ§ais (HaÃ¯ti)
-              
-
                 franÃ§ais (Luxembourg)
               
 
-                franÃ§ais (Mali)
-              
-
-                franÃ§ais (Niger)
-              
-
                 franÃ§ais (SÃ©nÃ©gal)
-              
-
-                franÃ§ais (Togo)
               
 
                 galego
@@ -1254,9 +1179,6 @@ Terms
               
 
                 italiano
-              
-
-                italiano (San Marino)
               
 
                 ×¢××¨××ª (××©×¨××)
@@ -1295,7 +1217,7 @@ Terms
                 à¤®à¤°à¤¾à¤ à¥
               
 
-                Bahasa Melayu
+                Melayu
               
 
                 à¤¨à¥à¤ªà¤¾à¤²à¥
@@ -1325,9 +1247,6 @@ Terms
                 portuguÃªs (Angola)
               
 
-                portuguÃªs (Cabo Verde)
-              
-
                 portuguÃªs (MoÃ§ambique)
               
 
@@ -1353,9 +1272,6 @@ Terms
               
 
                 ÑÑÐ¿ÑÐºÐ¸
-              
-
-                srpski (latinica, Crna Gora)
               
 
                 svenska

@@ -479,9 +479,9 @@ Ask a question under the youtube-api tag
 
           
         
-        Videos
+        YouTube Researcher Program
       
-Check out the YouTube Developer Relations team's YouTube channel
+For researchers interested in using data from YouTube’s global API
 
 
 

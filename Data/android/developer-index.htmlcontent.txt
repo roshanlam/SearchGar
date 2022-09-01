@@ -16,7 +16,7 @@
 
 
 
-Android Developers
+Android Mobile App Developer Tools – Android Developers
 
 
 
@@ -129,6 +129,27 @@ Language
 
 
 Sign in
+
+
+
+
+
+
+
+
+Android for Developers
+Modern tools and resources to help you build experiences that people love, faster and
+  easier, across every Android device.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -250,61 +271,6 @@ Sign in
 
 
 
-
-
-
-The Latest in Android Form Factors
-
-
-Discover all the Google I/O announcements for Wear OS, tablets, foldables and more.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Recap blog post
-
-
-
-
-
-
-
-
-Recap video
-
-
-
-
-
-
-
-
-YouTube playlist
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Download Android Studio
 get_app
 
@@ -344,17 +310,17 @@ Featured
 
       
     
-        Android 13 Beta 2 now available
+        Notes from Google Play
 
       
   
     
 
-            Beta 2 is now available with the latest features and changes to try with your apps! The Beta is now available to users as well as developers, so try the new features and share feedback!
+            Discover the top Google Play priorities for this year, including how we’re making Google Play work for everyone, everywhere.
 
           
 
-Get started
+Read now
 
 
 
@@ -373,17 +339,17 @@ Featured
 
       
     
-        Learn Android Basics with Compose
+        Android 13 Beta 4 now available
 
       
   
     
 
-            Check out the brand new course, Android Basics with Compose! You’ll learn how to build Android apps with Jetpack Compose, programming concepts in Kotlin, and Android fundamentals!
+            Beta 4 is now available with the latest features and changes to try with your apps! The Beta is now available to users as well as developers, so try the new features and share feedback!
 
           
 
-Start course
+Get started
 
 
 

@@ -223,8 +223,8 @@ More about our core commitments
   solutions for mobile services that help people all over the globe to do any number of
   tasks on their phone, from checking email and calendar events to watching videos, not
   to mention the several different ways to access Google search on a phone. In
-  addition, weâre hoping to fuel greater innovation for mobile users everywhere with
-  Android, a free, open source mobile platform. Android brings the openness that shaped
+  addition, weâre hoping to fuel greater innovation for mobile users everywhere with Android, 
+  an open source mobile platform free of charge. Android brings the openness that shaped
   the Internet to the mobile world. Not only does Android benefit consumers, who have
   more choice and innovative new mobile experiences, but it opens up revenue
   opportunities for carriers, manufacturers and developers.

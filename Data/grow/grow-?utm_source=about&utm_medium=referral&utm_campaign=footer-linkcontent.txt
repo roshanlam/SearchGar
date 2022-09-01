@@ -520,40 +520,6 @@ Training, tools, and resources to help you grow your skills, career, or business
 
 
 
-LATEST
-Prepare for your next interview with Interview Warmup
-Interview Warmup is a tool that lets anyone practice answering questions to get more confident and comfortable with interviewing. Your answers get transcribed in real time so you can review what you said and discover ways to improve your responses.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Negotiate Like a Pro
-In this workshop, you’ll learn why negotiation is important, when it is useful, and how to negotiate effectively in any situation. Plus, you’ll choose a few situations that are relevant to your life or work and practice applying the negotiation skills you learned.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Announcing a new Google Career Certificate in digital marketing and e-commerce
 Prepare for a new career in the high-growth fields of digital marketing and e-commerce with a professional certificate from Google. Learn to manage digital marketing campaigns, attract and engage customers, and sell products online. No relevant experience required.
@@ -572,8 +538,42 @@ Prepare for a new career in the high-growth fields of digital marketing and e-co
 
 
 
-Explore Digital Marketing and E-commerce Skills and Careers
-Interested in pursuing a career in Digital Marketing and E-commerce?  In this introductory workshop, you'll learn about different channels like email, search engine and content marketing, and you’ll get to practice developing a marketing plan. Plus, you'll get info about jobs in these fields to help you kick off your own digital marketing or e-commerce career.
+Prepare for your next interview with Interview Warmup
+Interview Warmup is a tool that lets anyone practice answering questions to get more confident and comfortable with interviewing. Your answers get transcribed in real time so you can review what you said and discover ways to improve your responses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigate a Career Change with Confidence
+This beginner-level workshop will help you gain clarity on how your past work experience and skills can transfer to a new role, and will show you how to highlight what you have to offer a new employer.  By making clear, informed decisions about your next steps, you will be able to move forward with starting a career transition plan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Launch Your Business with Customer-Focused Marketing
+Successful entrepreneurs have strong customer-focused marketing strategies to reach their audience and turn them into loyal customers. In this workshop, you will learn about the marketing funnel and how to guide consumers through the stages of awareness, consideration, conversion, and loyalty. This workshop is most beneficial for small businesses and entrepreneurs establishing a brand identity that builds and connects with an audience. 
 
 
 
@@ -1268,7 +1268,7 @@ Thank you for signing up!
 
 
 
-                        IT Certificates
+                        IT Certificate
 
 
 
@@ -1284,7 +1284,7 @@ Thank you for signing up!
 
 
 
-                        Digital Marketing & E-commerce
+                        Digital Marketing & E-commerce Certificate
 
 
 

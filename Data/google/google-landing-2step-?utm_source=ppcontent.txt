@@ -3,7 +3,7 @@
 
 
 
-Authentication - Google Safety Center
+Authentication Tools for Secure Sign In - Google Safety Center
 
 
 
